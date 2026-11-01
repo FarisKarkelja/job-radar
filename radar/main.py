@@ -19,7 +19,13 @@ from bs4 import BeautifulSoup
 from . import notify
 from .extract import extract, page_text
 from .fetch import Browser, FetchError, get, pdf_text
-from .keywords import find_it_match, is_entry_level, snippet_around
+from .keywords import find_it_match, is_entry_level, normalize, snippet_around
+
+JOBISH = re.compile(
+    r"(oglas|konkurs|natjecaj|pozicij|radno mjesto|radna mjesta|izvrsil|prijem|zaposljava|"
+    r"zaposlenj|praks|pripravni|stipendij|position|opening|\bjobs?\b|vacanc|hiring|career|"
+    r"intern|apply|prijav|rok za|deadline)"
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "state"
@@ -315,14 +321,19 @@ def main():
                 if added:
                     res["new"] = 1
                     body = "\n".join(f"+ {l[:140]}" for l in added)
-                    match = find_it_match(" ".join(added))
-                    pr = 4 if match else 3
+                    joined = " ".join(added)
+                    match = find_it_match(joined)
+                    # glasno samo ako nova linija liči na oglas; ostale promjene (banneri,
+                    # datumi, tekst) idu tiho da ne smetaju
+                    jobish = JOBISH.search(normalize(joined))
+                    pr = 4 if match and jobish else (3 if jobish else 2)
                     outgoing.append({"title": f"🔄 Promjena: {src['name']}",
                                      "message": f"Novo na stranici:\n{body}", "priority": pr,
                                      "tags": ["arrows_counterclockwise"], "click": src["url"]})
-                    history.append({"ts": ts, "source": sid, "source_name": src["name"],
-                                    "title": f"Promjena na stranici: {added[0][:100]}",
-                                    "url": src["url"], "it": bool(match), "priority": pr})
+                    if pr >= 3:
+                        history.append({"ts": ts, "source": sid, "source_name": src["name"],
+                                        "title": f"Promjena na stranici: {added[0][:100]}",
+                                        "url": src["url"], "it": bool(match), "priority": pr})
             continue
 
         # --- obični izvori: novi = ključ koji još nismo vidjeli
