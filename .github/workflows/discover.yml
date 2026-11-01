@@ -1,0 +1,53 @@
+name: Detektiv (pronalazak stranica karijera)
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Samo ovi kandidati (imena odvojena zarezom, prazno = svi)"
+        required: false
+        default: ""
+  push:
+    paths:
+      - candidates.yaml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instaliraj pakete
+        run: pip install -r requirements.txt
+
+      - name: Pokreni detektiva
+        env:
+          ONLY: ${{ inputs.only }}
+        run: |
+          if [ -n "$ONLY" ]; then python -m radar.discover --only "$ONLY"; else python -m radar.discover; fi
+
+      - name: Sačuvaj izvještaj
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "detektiv: izvještaj $(date -u '+%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          exit 1

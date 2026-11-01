@@ -1,0 +1,73 @@
+name: Job Radar
+
+on:
+  schedule:
+    # GitHub cron je u UTC. Zimi (CET) ovo je 07:17, 10:17, 13:17, 16:17, 19:17, 22:17,
+    # ljeti (CEST) sat kasnije. Minuta 17 izbjegava gužvu na punom satu.
+    - cron: "17 6,9,12,15,18,21 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Samo ovi izvori (id-evi odvojeni zarezom, prazno = svi)"
+        required: false
+        default: ""
+      heartbeat:
+        description: "Pošalji dnevni izvještaj odmah"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instaliraj pakete
+        run: pip install -r requirements.txt
+
+      - name: Keš za Chromium
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Instaliraj Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Provjeri oglase
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ONLY: ${{ inputs.only }}
+          HEARTBEAT: ${{ inputs.heartbeat }}
+        run: |
+          ARGS=""
+          if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; fi
+          if [ "$HEARTBEAT" = "true" ]; then ARGS="$ARGS --heartbeat"; fi
+          python -m radar.main $ARGS
+
+      - name: Sačuvaj stanje u repo
+        if: always()
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state reports OGLASI.md 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Nema promjena"; exit 0; fi
+          git commit -m "radar: provjera $(date -u '+%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          exit 1

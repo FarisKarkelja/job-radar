@@ -1,0 +1,256 @@
+# Izvori koje Job Radar prati.
+#
+# Polja:
+#   id        jedinstven naziv (bez razmaka)
+#   name      naziv koji se vidi u notifikaciji
+#   category  portal | javni | telekom | banka | it | ostalo
+#   type      links (default) | rss | jsonld | workable | linkedin | page_hash
+#             - links: linkovi na stranici koji liče na oglase
+#             - page_hash: stranica bez liste, javlja kad se tekst promijeni
+#   url       stranica sa oglasima
+#   link      (opcionalno) šta otvara klik na grupnu notifikaciju
+#   pattern   (opcionalno) regex koji URL oglasa mora sadržavati
+#   exclude   (opcionalno) regex za linkove koje treba preskočiti
+#   selector  (opcionalno) CSS selektor dijela stranice sa oglasima
+#   js        true ako se stranica učitava JavaScriptom (koristi Chromium)
+#   scope     it      = svi oglasi su IT (IT kategorija portala) -> glasno
+#             company = javi svaki oglas, IT oglase glasnije (default)
+#             broad   = puno ne-IT oglasa: IT pojedinačno i glasno, ostalo
+#                       jedna tiha grupna poruka po provjeri
+#   deep      true = otvori svaki novi oglas (i PDF) i traži IT pozicije u tekstu
+#   min_items koliko oglasa mora biti nađeno da izvor važi kao ispravan (default 1)
+#   fallback  druga konfiguracija ako prva ne uspije
+#   enabled   false da privremeno isključiš izvor
+
+sources:
+
+  # ------------------------------------------------------------ portali
+  - id: mojposao_it
+    name: MojPosao IT
+    category: portal
+    url: https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype
+    js: true
+    scope: it
+
+  - id: mojposao_ks
+    name: MojPosao Kanton Sarajevo
+    category: portal
+    url: https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype
+    js: true
+    scope: broad
+
+  - id: klix_it
+    name: Klix Posao IT
+    category: portal
+    type: jsonld
+    url: https://posao.klix.ba/kat/it-telekomunikacije
+    pattern: 'posao\.klix\.ba/oglasi/'
+    scope: it
+
+  - id: itbase
+    name: ITBase
+    category: portal
+    url: https://itbase.ba/poslovi
+    pattern: 'itbase\.ba/.*\d{3,}'
+    scope: it
+
+  - id: workable_bih
+    name: Workable BiH
+    category: portal
+    url: https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs
+    js: true
+    any_domain: true
+    scope: it
+    min_items: 0
+
+  - id: linkedin_bih
+    name: LinkedIn BiH
+    category: portal
+    type: linkedin
+    url: https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina
+    queries: [software, developer, IT, intern, junior, data, QA, engineer]
+    scope: it
+
+  - id: mojkonkurs
+    name: MojKonkurs
+    category: portal
+    url: https://mojkonkurs.ba/
+    scope: broad
+    deep: false
+
+  - id: poslovnioglasi
+    name: Poslovni oglasi
+    category: portal
+    url: https://poslovnioglasi.ba/
+    scope: broad
+
+  - id: glassrpske_konkursi
+    name: Glas Srpske konkursi
+    category: portal
+    url: https://www.glassrpske.com/lat/ekonomija/konkursi
+    scope: broad
+    deep: true
+
+  # ------------------------------------------------------------ javni sektor i zavodi
+  - id: ads_bih
+    name: ADS BiH
+    category: javni
+    url: https://www.ads.gov.ba/bs-latn-ba/open-vacancies
+    pattern: '/vacancies/\d+'
+    scope: broad
+    deep: true
+    fallback:
+      url: https://adsbih.gov.ba/open-vacancies
+
+  - id: ads_fbih
+    name: ADS FBiH eKonkurs
+    category: javni
+    url: https://ekonkurs.adsfbih.gov.ba
+    pattern: '/Konkurs/\d+'
+    scope: broad
+    deep: true
+    insecure: true
+
+  - id: adu_rs
+    name: ADU RS konkursi
+    category: javni
+    url: http://adu.vladars.net/latn/
+    scope: broad
+    deep: true
+    insecure: true
+
+  - id: szks
+    name: SZKS (Služba za zapošljavanje KS)
+    category: javni
+    type: rss
+    url: https://szks.ba/oglasi/
+    feed: https://szks.ba/?feed=job_feed
+    scope: broad
+    deep: true
+    fallback:
+      type: links
+      pattern: 'szks\.ba/posao/'
+
+  - id: zzzrs
+    name: Zavod za zapošljavanje RS
+    category: javni
+    url: https://zzzrs.net/lat/oglasi
+    js: true
+    any_domain: true
+    scope: broad
+    deep: true
+
+  - id: zdk_szz
+    name: Služba za zapošljavanje ZDK
+    category: javni
+    url: https://zdk-szz.ba/
+    scope: broad
+    deep: true
+
+  - id: judzks
+    name: Dom zdravlja KS
+    category: javni
+    url: https://judzks.ba/zaposljavanje/
+    scope: broad
+    deep: true
+
+  - id: bhtelecom
+    name: BH Telecom
+    category: telekom
+    type: rss
+    url: https://www.bhtelecom.ba/category/javni-oglasi-za-posao/
+    feed: https://www.bhtelecom.ba/category/javni-oglasi-za-posao/feed/
+    scope: company
+    deep: true
+    fallback:
+      type: links
+      pattern: '/javni-oglasi-za-posao/20\d\d/'
+
+  - id: epbih
+    name: Elektroprivreda BiH
+    category: javni
+    url: https://www.epbih.ba/stranica/ljudski-resursi
+    pattern: '\.pdf'
+    scope: company
+    deep: true
+
+  # ------------------------------------------------------------ banke
+  - id: sparkasse
+    name: Sparkasse Bank BiH
+    category: banka
+    url: https://sparkasse.mojposao.ba/
+    js: true
+    any_domain: true
+    min_items: 0
+
+  - id: unicredit_ba
+    name: UniCredit Bank (karijere)
+    category: banka
+    type: page_hash
+    url: https://www.unicredit.ba/en/banka/karijere/karijere.html
+
+  - id: unicredit_bl
+    name: UniCredit Bank Banja Luka (karijera)
+    category: banka
+    type: page_hash
+    url: https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html
+
+  - id: raiffeisen
+    name: Raiffeisen Bank BiH (otvorene pozicije)
+    category: banka
+    type: page_hash
+    url: https://app.raiffeisenbank.ba/en/o-nama/otvorene-pozicije/jobs-about-us
+    js: true
+
+  # ------------------------------------------------------------ IT kompanije
+  - id: atlantbh
+    name: Atlantbh
+    category: it
+    url: https://atlantbh.com/jobs/
+    pattern: 'atlantbh\.com/(jobs|careers|job)/[^/]+'
+    min_items: 0
+
+  - id: atlantbh_internship
+    name: Atlantbh praksa
+    category: it
+    type: page_hash
+    url: https://atlantbh.com/internship/
+
+  - id: infobip_internship
+    name: Infobip praksa
+    category: it
+    type: page_hash
+    url: https://www.infobip.com/internship
+    js: true
+
+  - id: ministry_of_programming
+    name: Ministry of Programming
+    category: it
+    url: https://ministryofprogramming.com/careers
+    js: true
+    any_domain: true
+    min_items: 0
+
+  - id: htec_bih
+    name: HTEC BiH
+    category: it
+    url: https://htec.com/careers/locations/bosnia-herzegovina/
+    js: true
+    any_domain: true
+    min_items: 0
+
+  - id: symphony
+    name: Symphony
+    category: it
+    url: https://care.symphony.is/
+    js: true
+    any_domain: true
+    min_items: 0
+
+  - id: dploy
+    name: D-ploy
+    category: it
+    type: workable
+    account: d-ploy
+    url: https://apply.workable.com/d-ploy/
+    min_items: 0

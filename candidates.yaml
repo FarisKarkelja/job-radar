@@ -1,0 +1,248 @@
+# Kandidati za detektiv skriptu (radar/discover.py).
+# Detektiv za svakog pronađe stranicu karijera; potvrđeni idu u sources.yaml.
+# Slobodno dodaj nove firme: samo ime, naslovna stranica i kategorija.
+
+candidates:
+  # ---------------------------------------------------------------- banke
+  - {name: Raiffeisen Bank BiH, url: https://www.raiffeisenbank.ba, category: banka}
+  - {name: UniCredit Bank, url: https://www.unicredit.ba, category: banka}
+  - {name: UniCredit Bank Banja Luka, url: https://www.unicreditbank-bl.ba, category: banka}
+  - {name: Intesa Sanpaolo Banka BiH, url: https://www.intesasanpaolobanka.ba, category: banka}
+  - {name: Sparkasse Bank BiH, url: https://www.sparkasse.ba, category: banka}
+  - {name: NLB Banka Sarajevo, url: https://www.nlb.ba, category: banka}
+  - {name: NLB Banka Banja Luka, url: https://www.nlb-rs.ba, category: banka}
+  - {name: ProCredit Bank, url: https://www.procreditbank.ba, category: banka}
+  - {name: Addiko Bank Sarajevo, url: https://www.addiko.ba, category: banka}
+  - {name: Addiko Bank Banja Luka, url: https://www.addiko-rs.ba, category: banka}
+  - {name: ASA Banka, url: https://www.asabanka.ba, category: banka}
+  - {name: BBI Banka, url: https://www.bbi.ba, category: banka}
+  - {name: Union banka, url: https://unionbank.ba, category: banka}
+  - {name: ZiraatBank BH, url: https://www.ziraatbank.ba, category: banka}
+  - {name: Privredna banka Sarajevo, url: https://www.pbs.ba, category: banka}
+  - {name: Nova banka, url: https://www.novabanka.com, category: banka}
+  - {name: MF banka, url: https://www.mfbanka.com, category: banka}
+  - {name: ATOS banka, url: https://www.atosbank.ba, category: banka}
+  - {name: Naša banka, url: https://www.nasabanka.ba, category: banka}
+  - {name: KIB banka, url: https://www.kib-banka.com.ba, category: banka}
+  - {name: Razvojna banka FBiH, url: https://www.rbfbih.ba, category: banka}
+  - {name: Investiciono-razvojna banka RS, url: https://www.irbrs.org, category: banka}
+  - {name: Centralna banka BiH, url: https://www.cbbh.ba, category: banka}
+  - {name: Agencija za bankarstvo FBiH, url: https://www.fba.ba, category: banka}
+  - {name: Agencija za bankarstvo RS, url: https://www.abrs.ba, category: banka}
+  - {name: Monri, url: https://monri.com, category: banka}
+  - {name: Mikra, url: https://www.mikra.ba, category: banka}
+  - {name: Partner mikrokreditna, url: https://www.partner.ba, category: banka}
+  - {name: LOK mikrokreditna, url: https://www.lok.ba, category: banka}
+  - {name: EKI, url: https://www.eki.ba, category: banka}
+  - {name: Sunrise mikrokreditna, url: https://www.microsunrise.ba, category: banka}
+  - {name: Mi-Bospo, url: https://www.mi-bospo.org, category: banka}
+  - {name: Sarajevo osiguranje, url: https://www.sarajevoosiguranje.ba, category: banka}
+  - {name: Triglav osiguranje, url: https://www.triglav.ba, category: banka}
+  - {name: Uniqa osiguranje, url: https://www.uniqa.ba, category: banka}
+  - {name: Wiener osiguranje, url: https://www.wiener.ba, category: banka}
+  - {name: Allianz BiH, url: https://www.allianz.ba, category: banka}
+  - {name: Croatia osiguranje, url: https://www.crosig.ba, category: banka}
+  - {name: Grawe osiguranje, url: https://www.grawe.ba, category: banka}
+  - {name: Euroherc osiguranje, url: https://www.euroherc.ba, category: banka}
+  - {name: ASA osiguranje, url: https://www.asa-osiguranje.ba, category: banka}
+  - {name: Bosna-Sunce osiguranje, url: https://www.bosnasunce.ba, category: banka}
+  - {name: Raiffeisen Leasing, url: https://www.rlbh.ba, category: banka}
+
+  # ---------------------------------------------------------------- telekomi i ISP
+  - {name: Telemach BH, url: https://www.telemach.ba, category: telekom}
+  - {name: m:tel, url: https://mtel.ba, category: telekom}
+  - {name: HT Eronet, url: https://www.hteronet.ba, category: telekom}
+  - {name: Logosoft, url: https://www.logosoft.ba, category: telekom}
+  - {name: Elta Kabel, url: https://www.elta-kabel.com, category: telekom}
+  - {name: Globalnet, url: https://www.globalnet.ba, category: telekom}
+  - {name: Telrad Net, url: https://www.telrad.ba, category: telekom}
+  - {name: Supernova, url: https://www.supernovabih.ba, category: telekom}
+  - {name: Moja TV, url: https://www.mojatv.ba, category: telekom}
+  - {name: RAK (Regulatorna agencija za komunikacije), url: https://www.rak.ba, category: telekom}
+
+  # ---------------------------------------------------------------- javna preduzeća
+  - {name: Elektroprivreda HZHB, url: https://www.ephzhb.ba, category: javni}
+  - {name: Elektroprivreda RS, url: https://ers.ba, category: javni}
+  - {name: Elektroprenos BiH, url: https://www.elprenos.ba, category: javni}
+  - {name: NOS BiH, url: https://www.nosbih.ba, category: javni}
+  - {name: BH Pošta, url: https://www.posta.ba, category: javni}
+  - {name: Hrvatska pošta Mostar, url: https://www.post.ba, category: javni}
+  - {name: Pošte Srpske, url: https://www.postesrpske.com, category: javni}
+  - {name: Autoceste FBiH, url: https://www.autoceste.ba, category: javni}
+  - {name: Autoputevi RS, url: https://www.autoputevirs.com, category: javni}
+  - {name: JP Ceste FBiH, url: https://www.jpcfbih.ba, category: javni}
+  - {name: Željeznice FBiH, url: https://www.zfbh.ba, category: javni}
+  - {name: Željeznice RS, url: https://www.zeljeznicers.com, category: javni}
+  - {name: BH Gas, url: https://www.bh-gas.ba, category: javni}
+  - {name: Sarajevogas, url: https://www.sarajevogas.ba, category: javni}
+  - {name: Energoinvest, url: https://www.energoinvest.ba, category: javni}
+  - {name: Aerodrom Sarajevo, url: https://www.sia.ba, category: javni}
+  - {name: Aerodrom Tuzla, url: https://www.tuzla-airport.ba, category: javni}
+  - {name: Aerodrom Banja Luka, url: https://www.banjaluka-airport.com, category: javni}
+  - {name: BHRT, url: https://www.bhrt.ba, category: javni}
+  - {name: RTV FBiH, url: https://www.rtvfbih.ba, category: javni}
+  - {name: RTRS, url: https://www.rtrs.tv, category: javni}
+  - {name: Lutrija BiH, url: https://www.lutrijabih.ba, category: javni}
+  - {name: Lutrija RS, url: https://www.lutrijars.com, category: javni}
+  - {name: IDDEEA, url: https://www.iddeea.gov.ba, category: javni}
+  - {name: UIO (Uprava za indirektno oporezivanje), url: https://www.uino.gov.ba, category: javni}
+  - {name: Agencija za statistiku BiH, url: https://bhas.gov.ba, category: javni}
+  - {name: Federalni zavod za statistiku, url: https://fzs.ba, category: javni}
+  - {name: Fond PIO/MIO FBiH, url: https://www.mio.ba, category: javni}
+  - {name: Fond PIO RS, url: https://www.fondpiors.org, category: javni}
+  - {name: ZZO Kantona Sarajevo, url: https://www.zzoks.ba, category: javni}
+  - {name: Fond zdravstvenog osiguranja RS, url: https://www.zdravstvo-srpske.org, category: javni}
+  - {name: FIA (Finansijsko-informatička agencija), url: https://www.fia.ba, category: javni}
+  - {name: APIF, url: https://www.apif.ba, category: javni}
+  - {name: Porezna uprava FBiH, url: https://www.pufbih.ba, category: javni}
+  - {name: KCUS, url: https://www.kcus.ba, category: javni}
+  - {name: UKC Tuzla, url: https://www.ukctuzla.ba, category: javni}
+  - {name: UKC RS, url: https://www.kc-bl.com, category: javni}
+  - {name: SKB Mostar, url: https://www.skb-mostar.ba, category: javni}
+  - {name: Opća bolnica Sarajevo, url: https://www.obs.ba, category: javni}
+  - {name: KJKP Vodovod i kanalizacija, url: https://www.viksa.ba, category: javni}
+  - {name: KJKP Rad, url: https://www.rad.com.ba, category: javni}
+  - {name: KJKP GRAS, url: https://www.gras.co.ba, category: javni}
+  - {name: KJKP Toplane Sarajevo, url: https://www.toplanesarajevo.ba, category: javni}
+  - {name: KJKP Park, url: https://www.park.ba, category: javni}
+  - {name: KJKP Pokop, url: https://www.pokop.ba, category: javni}
+  - {name: Vodovod Banja Luka, url: https://www.vodovod-bl.com, category: javni}
+  - {name: Vodovod Mostar, url: https://www.vodovod-mostar.ba, category: javni}
+  - {name: Vodovod i kanalizacija Tuzla, url: https://www.viktuzla.ba, category: javni}
+  - {name: Grad Sarajevo, url: https://www.sarajevo.ba, category: javni}
+  - {name: Kanton Sarajevo, url: https://vlada.ks.gov.ba, category: javni}
+  - {name: Federalni zavod za zapošljavanje, url: https://www.fzzz.ba, category: javni}
+  - {name: SZZ HNK, url: https://www.szzhnz-k.ba, category: javni}
+  - {name: SZZ ZHK, url: https://www.szz-zzh.ba, category: javni}
+  - {name: SZZ Kanton 10, url: https://www.zzzu-livno.ba, category: javni}
+  - {name: SZZ Tuzlanski kanton, url: https://www.szztk.ba, category: javni}
+  - {name: SZZ Unsko-sanski kanton, url: https://www.szzusk.ba, category: javni}
+  - {name: SZZ Srednjobosanski kanton, url: https://www.szzsbk.ba, category: javni}
+  - {name: SZZ Bosansko-podrinjski kanton, url: https://www.szzbpk.ba, category: javni}
+  - {name: SZZ Posavski kanton, url: https://www.szzpk.ba, category: javni}
+  - {name: Zavod za zapošljavanje Brčko, url: https://www.zzzbrcko.org, category: javni}
+  - {name: Vlada Brčko distrikta, url: https://www.bdcentral.net, category: javni}
+  - {name: Agencija za rad i zapošljavanje BiH, url: https://www.arz.gov.ba, category: javni}
+  - {name: Univerzitet u Sarajevu, url: https://www.unsa.ba, category: javni}
+  - {name: Univerzitet u Banjoj Luci, url: https://www.unibl.org, category: javni}
+  - {name: Univerzitet u Tuzli, url: https://www.untz.ba, category: javni}
+  - {name: Univerzitet u Mostaru, url: https://www.sum.ba, category: javni}
+  - {name: IBU, url: https://www.ibu.edu.ba, category: javni}
+  - {name: SSST, url: https://www.ssst.edu.ba, category: javni}
+  - {name: ETF Sarajevo, url: https://www.etf.unsa.ba, category: javni}
+
+  # ---------------------------------------------------------------- međunarodne organizacije
+  - {name: UNDP BiH, url: https://www.undp.org/bosnia-herzegovina, category: medjunarodne}
+  - {name: OSCE Misija u BiH, url: https://www.osce.org/mission-to-bosnia-and-herzegovina, category: medjunarodne}
+  - {name: EU Delegacija u BiH, url: https://www.eeas.europa.eu/delegations/bosnia-and-herzegovina_en, category: medjunarodne}
+  - {name: US Ambasada Sarajevo, url: https://ba.usembassy.gov, category: medjunarodne}
+  - {name: GIZ BiH, url: https://www.giz.de/en/worldwide/298.html, category: medjunarodne}
+  - {name: OHR, url: https://www.ohr.int, category: medjunarodne}
+
+  # ---------------------------------------------------------------- IT kompanije
+  - {name: Infobip, url: https://www.infobip.com, category: it}
+  - {name: Authority Partners, url: https://authoritypartners.com, category: it}
+  - {name: Klika, url: https://klika.ba, category: it}
+  - {name: Lanaco, url: https://www.lanaco.com, category: it}
+  - {name: Mistral, url: https://www.mistral.ba, category: it}
+  - {name: Zira, url: https://www.zira.ba, category: it}
+  - {name: Comtrade, url: https://www.comtrade.com, category: it}
+  - {name: Endava, url: https://www.endava.com, category: it}
+  - {name: BIT Alliance, url: https://www.bitalliance.ba, category: it}
+  - {name: 2am.tech, url: https://www.2am.tech, category: it}
+  - {name: Evona Soft, url: https://evonasoft.com, category: it}
+  - {name: Crossvallia, url: https://crossvallia.com, category: it}
+  - {name: Ergomed, url: https://ergomedplc.com, category: it}
+  - {name: Planet Soft, url: https://planetsoft.ba, category: it}
+  - {name: Saga, url: https://www.saga.ba, category: it}
+  - {name: Asseco SEE BiH, url: https://see.asseco.com, category: it}
+  - {name: NSoft, url: https://www.nsoft.com, category: it}
+  - {name: Maestral Solutions, url: https://maestralsolutions.com, category: it}
+  - {name: Bloomteq, url: https://bloomteq.com, category: it}
+  - {name: Tech387, url: https://tech387.com, category: it}
+  - {name: Walter Code, url: https://www.waltercode.com, category: it}
+  - {name: Quantox, url: https://quantox.com, category: it}
+  - {name: RT-RK Banja Luka, url: https://www.rt-rk.com, category: it}
+  - {name: Systech, url: https://systech.ba, category: it}
+  - {name: Helpjuice, url: https://helpjuice.com, category: it}
+  - {name: oMedia, url: https://omedia.ba, category: it}
+  - {name: Illuminos Solutions, url: https://illuminos.ba, category: it}
+  - {name: PING, url: https://ping.ba, category: it}
+  - {name: Wunder Mobility, url: https://www.wundermobility.com, category: it}
+  - {name: SEEBA, url: https://www.seeba.ba, category: it}
+  - {name: Forsta, url: https://www.forsta.com, category: it}
+  - {name: Own, url: https://www.owncompany.com, category: it}
+  - {name: OSB, url: https://www.osb.ba, category: it}
+  - {name: Config, url: https://config.ba, category: it}
+  - {name: ALEM Sistem, url: https://alem.ba, category: it}
+  - {name: InMotion, url: https://inmotion.ba, category: it}
+  - {name: Serengeti, url: https://www.serengeti.hr, category: it}
+  - {name: Visium, url: https://visiumcode.com, category: it}
+  - {name: Tacta, url: https://www.tacta.io, category: it}
+  - {name: Skyline Communications, url: https://skyline.be, category: it}
+  - {name: Personify Health, url: https://personifyhealth.com, category: it}
+  - {name: Genomenon, url: https://www.genomenon.com, category: it}
+  - {name: INVENTRY, url: https://inventry.ba, category: it}
+  - {name: Avtera, url: https://www.avtera.com, category: it}
+  - {name: Dash, url: https://dash.ba, category: it}
+  - {name: Cylo, url: https://cylo.ba, category: it}
+  - {name: Devoteam, url: https://www.devoteam.com, category: it}
+  - {name: Datapolis, url: https://datapolis.ba, category: it}
+  - {name: ProSoft, url: https://prosoft.ba, category: it}
+  - {name: Itineris, url: https://itineris.ba, category: it}
+  - {name: Siemens Energy, url: https://www.siemens-energy.com, category: it}
+  - {name: Bosnia Software, url: https://bosniasoftware.com, category: it}
+  - {name: Ant Colony, url: https://antcolony.io, category: it}
+  - {name: Mibo, url: https://mibo.ba, category: it}
+  - {name: Codecta, url: https://www.codecta.com, category: it}
+  - {name: Softmax, url: https://softmax.ba, category: it}
+  - {name: IntelliGenesis, url: https://intelligenesis.ba, category: it}
+  - {name: Medit, url: https://medit.ba, category: it}
+  - {name: Penta, url: https://penta.ba, category: it}
+  - {name: Hexis, url: https://hexis.ba, category: it}
+  - {name: ATIA, url: https://atia.ba, category: it}
+  - {name: ICT Business Cluster BL, url: https://www.ictcluster.rs.ba, category: it}
+
+  # ---------------------------------------------------------------- veliki ne-IT poslodavci
+  - {name: Bingo, url: https://www.bingotuzla.ba, category: ostalo}
+  - {name: Konzum BiH, url: https://www.konzum.ba, category: ostalo}
+  - {name: Robot, url: https://www.robot.ba, category: ostalo}
+  - {name: Amko komerc, url: https://www.amko.ba, category: ostalo}
+  - {name: dm BiH, url: https://www.dm-drogeriemarkt.ba, category: ostalo}
+  - {name: Bosnalijek, url: https://www.bosnalijek.ba, category: ostalo}
+  - {name: Hemofarm BiH, url: https://www.hemofarm.ba, category: ostalo}
+  - {name: ASA Grupa, url: https://www.asa.ba, category: ostalo}
+  - {name: Prevent, url: https://www.prevent.ba, category: ostalo}
+  - {name: Hifa, url: https://www.hifa-oil.com, category: ostalo}
+  - {name: Energopetrol, url: https://www.energopetrol.ba, category: ostalo}
+  - {name: ArcelorMittal Zenica, url: https://zenica.arcelormittal.com, category: ostalo}
+  - {name: Aluminij Mostar, url: https://www.aluminij.ba, category: ostalo}
+  - {name: Admiral BiH, url: https://www.admiralbet.ba, category: ostalo}
+  - {name: Sportlife, url: https://www.sportlife.ba, category: ostalo}
+  - {name: WWin, url: https://www.wwin.com, category: ostalo}
+  - {name: Premier kladionica, url: https://www.premier-kladionica.com, category: ostalo}
+  - {name: Meridian BiH, url: https://meridianbet.ba, category: ostalo}
+  - {name: Mozzart BiH, url: https://www.mozzartbet.ba, category: ostalo}
+  - {name: Deloitte BiH, url: https://www2.deloitte.com/ba, category: ostalo}
+  - {name: PwC BiH, url: https://www.pwc.com/ba, category: ostalo}
+  - {name: KPMG BiH, url: https://kpmg.com/ba, category: ostalo}
+  - {name: EY BiH, url: https://www.ey.com/en_ba, category: ostalo}
+  - {name: Teleperformance BiH, url: https://ba.teleperformance.com, category: ostalo}
+  - {name: Concentrix, url: https://www.concentrix.com, category: ostalo}
+  - {name: Tema Retail (LC Waikiki), url: https://www.lcwaikiki.ba, category: ostalo}
+  - {name: Klix.ba, url: https://www.klix.ba, category: ostalo}
+  - {name: Avaz, url: https://avaz.ba, category: ostalo}
+  - {name: Oslobođenje, url: https://www.oslobodjenje.ba, category: ostalo}
+  - {name: Nezavisne novine, url: https://www.nezavisne.com, category: ostalo}
+  - {name: Dnevni list, url: https://www.dnevni-list.ba, category: ostalo}
+  - {name: Večernji list BiH, url: https://www.vecernji.ba, category: ostalo}
+  - {name: OLX.ba, url: https://olx.ba, category: ostalo}
+  - {name: posao.ba, url: https://www.posao.ba, category: ostalo}
+  - {name: zaposlenje.ba, url: https://www.zaposlenje.ba, category: ostalo}
+  - {name: karijere.ba, url: https://karijere.ba, category: ostalo}
+  - {name: praksa.ba, url: https://praksa.ba, category: ostalo}
+  - {name: Hello Job, url: https://hellojob.ba, category: ostalo}
+  - {name: itkarijera.ba, url: https://itkarijera.ba, category: ostalo}
+  - {name: dzobs, url: https://www.dzobs.com, category: ostalo}
+  - {name: jobfair.ba, url: https://www.jobfair.ba, category: ostalo}
+  - {name: javi.ba, url: https://javi.ba, category: ostalo}
