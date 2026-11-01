@@ -57,13 +57,18 @@ _IT_UPPER = re.compile(r"(?<![A-Za-z])IT(?![A-Za-z])")
 _IT_WORD = re.compile(r"\bit\b")
 
 _TRANSLIT = str.maketrans({"đ": "dj", "Đ": "Dj", "ß": "ss"})
+# Srpska ćirilica -> latinica (oglasi iz RS: ZZZ RS, ADU RS, Nezavisne, Glas Srpske)
+_CYR = dict(zip("абвгдђежзијклљмнњопрстћуфхцчџшАБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ",
+                ["a", "b", "v", "g", "d", "dj", "e", "z", "z", "i", "j", "k", "l", "lj", "m", "n",
+                 "nj", "o", "p", "r", "s", "t", "c", "u", "f", "h", "c", "c", "dz", "s"] * 2))
+_CYR_TABLE = str.maketrans(_CYR)
 
 
 def normalize(text: str) -> str:
     """Mala slova, bez dijakritike, jedan razmak."""
     if not text:
         return ""
-    text = text.translate(_TRANSLIT)
+    text = text.translate(_TRANSLIT).translate(_CYR_TABLE)
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
     text = text.lower()
