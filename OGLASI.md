@@ -4,6 +4,23 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 02.11. 00:31 | 💻 [AKADEMIJA387 - ACADEMY387 Sarajevo](https://itbase.ba/kompanije/akademija387-academy387) | ITBase |
+| 02.11. 00:31 | 🚨 [Student praktikant u reviziji / Audit Intern](https://www.linkedin.com/jobs/view/4465591135) · Deloitte | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Selfies Data Collection Project - Bosnia & Herzegovina](https://www.linkedin.com/jobs/view/4484487111) · TELUS Digital | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Marketing & Brand Assistant / DTC E-commerce / 100% Remote EU](https://www.linkedin.com/jobs/view/4484434802) · Foxelli Group | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Freelance](https://www.linkedin.com/jobs/view/4483209059) · Firstsource | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4483641472) · RWS | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4483653130) · RWS | LinkedIn BiH |
+| 02.11. 00:31 | 🚨 [Advokatski pripravnik / Advokatski stručni suradnik](https://www.linkedin.com/jobs/view/4481865779) · Advokatsko društvo “Ademović, Nožica i partneri" | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4483652149) · RWS | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Senior AI Driven Automation QA Engineer](https://www.linkedin.com/jobs/view/4458750958) · Avenga | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Quality Engineer](https://www.linkedin.com/jobs/view/4462216700) · Mubea | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [QA Automation Engineer (Sarajevo)](https://www.linkedin.com/jobs/view/4481888837) · Wunder Mobility | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [QA Automation Engineer (Banja Luka)](https://www.linkedin.com/jobs/view/4482518424) · Wunder Mobility | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Associate Case Processing Manager (Line Management position)](https://www.linkedin.com/jobs/view/4477143725) · PrimeVigilance | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [Clinical Project Specialist - Hybrid](https://www.linkedin.com/jobs/view/4483706593) · ProPharma | LinkedIn BiH |
+| 02.11. 00:31 | 💻 [CFD Engineer - AI Trainer](https://www.linkedin.com/jobs/view/4484062857) · Mindrift | LinkedIn BiH |
+| 02.11. 00:31 | • [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o) | Poslovni oglasi |
 | 02.11. 00:25 | • [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o) | Poslovni oglasi |
 | 02.11. 00:25 | • [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o) | Poslovni oglasi |
 | 02.11. 00:25 | • [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d) | Poslovni oglasi |
@@ -1487,20 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Magistar farmacije – oglas za posao](https://szz-zzh.ba/2025/05/26/magistar-farmacije-oglas-za-posao) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [Strabag – Armirač, asfalter, tesar](https://szz-zzh.ba/2025/05/23/strabag-armirac-asfalter-tesar) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [Okel – Invest trazi više djelatnika](https://szz-zzh.ba/2025/05/16/okel-invest-trazi-djelatnika) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Audio Team trazi radnika](https://szz-zzh.ba/2025/05/15/audio-team-trazi-radnika) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Djelatnik na održavanju – EuroCompany](https://szz-zzh.ba/2025/05/15/djelatnik-na-odrzavanju-eurocompany) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Servis Jelic trazi vise djelatnika](https://szz-zzh.ba/2025/05/15/coicopco) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [PRISTUP INFORMACIJAMA](https://szztk.ba/pristup-informacijama) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Salon za njegu lica i tijela Be You Tuzla nudi besplatnu edukaciju za nezaposlene osobe kroz program Obuka za tržište rada 2026](https://szztk.ba/salon-za-njegu-lica-i-tijela-be-you-tuzla-nudi-besplatnu-edukaciju-za-nezaposlene-osobe-kroz-program-obuka-za-trziste-rada-2026) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Program sufinansiranja obavljanja stručnog osposobljavanja bez zasnivanja radnog odnos boraca i članova njihovih porodica 2026.: Prijedlog liste po javnom pozivu od 13.4.2026. godine](https://szztk.ba/program-sufinansiranja-obavljanja-strucnog-osposobljavanja-bez-zasnivanja-radnog-odnos-boraca-i-clanova-njihovih-porodica-2026-prijedlog-liste-po-javnom-pozivu-od-13-4-2026-godine-9) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [OR Beauty Studio Žad Tuzla za nezaposlene osobe organizuje besplatnu edukaciju iz kozmetičkih tretmana](https://szztk.ba/or-beauty-studio-zad-tuzla-za-nezaposlene-osobe-organizuje-besplatnu-edukaciju-iz-kozmetickih-tretmana-2) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Medical Vision Tuzla: Odgovorna osoba za praćenje neželjenih dejstava medicinskih sredstava – materiovigilansa](https://szztk.ba/posao/36892/medical-vision-tuzla-odgovorna-osoba-za-pracenje-nezeljenih-dejstava-medicinskih-sredstava-materiovigilansa) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [@ SZZTK](https://szztk.ba/employer/reedy-elsevier) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Realni sektor](https://szztk.ba/realni-sektor-jobs) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Baupartner Lukavac: Oglas za prijem građevinskih radnika](https://szztk.ba/posao/36887/baupartner-lukavac-oglas-za-prijem-gradjevinskih-radnika) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Baupartner Lukavac: Građevinski tehničar](https://szztk.ba/posao/36886/baupartner-lukavac-gradjevinski-tehnicar) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Mališić export – import Čitluk: Terenski komercijalista (Regija: Tuzla)](https://szztk.ba/posao/36883/malisic-export-import-citluk-terenski-komercijalista-regija-tuzla) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [JZU Dom zdravlja Doboj Istok: Javni oglas za prijem u radni odnos](https://szztk.ba/posao/36881/jzu-dom-zdravlja-doboj-istok-javni-oglas-za-prijem-u-radni-odnos) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Boxmark Leather Lukavac: Mašinski tehničar održvanja proizvodne opreme](https://szztk.ba/posao/36877/boxmark-leather-lukavac-masinski-tehnicar-odrzvanja-proizvodne-opreme) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Širbegović Inženjering Gračanica: Oglas za prijem u radni odnos](https://szztk.ba/posao/36875/sirbegovic-inzenjering-gracanica-oglas-za-prijem-u-radni-odnos) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [JZU Opća bolnica Dr. Mustafa Beganović Gračanica: Javni oglas za prijem u radni odnos na neodređeno vrijeme](https://szztk.ba/posao/36872/jzu-opca-bolnica-dr-mustafa-beganovic-gracanica-javni-oglas-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme) | SZZ Tuzlanski kanton (oglasi) |

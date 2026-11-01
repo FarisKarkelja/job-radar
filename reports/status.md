@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **02.11.2026 00:25** (Sarajevo)  
+Zadnje pokretanje: **02.11.2026 00:31** (Sarajevo)  
 Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -9,16 +9,16 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
 | [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 0 |  |
 | [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
-| [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 20 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 20 | 0 |  |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
 | [Aluminij Mostar (careers)](https://aluminij.com/careers) | ✅ | 20 | 0 |  |
-| [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 0 |  |
-| [Agencija za rad i zapošljavanje BiH (oglasi)](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 1 |  |
+| [Agencija za rad i zapošljavanje BiH (oglasi)](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) | ✅ | 1 | 0 |  |
 | [ASA Grupa (karijera)](https://www.asa.ba/karijera) | ✅ | 1 | 0 |  |
 | [ASA osiguranje (karijera)](https://asacentral.ba/karijera) | ✅ | 1 | 0 |  |
 | [ASA Banka (karijera)](https://www.asabanka.ba/karijera) | ✅ | 1 | 0 |  |
 | [ATIA (open positions)](https://atia.ba/open-positions) | ✅ | 1 | 0 |  |
-| [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 1 |  |
 | [Atlantbh praksa](https://atlantbh.com/internship/) | ✅ | 1 | 1 |  |
 | [ATOS banka (karijera)](https://www.atosbank.ba/content/read/karijera) | ✅ | 1 | 1 |  |
 | [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 0 |  |
@@ -43,7 +43,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
-| [ITBase](https://itbase.ba/poslovi) | ✅ | 28 | 0 |  |
+| [ITBase](https://itbase.ba/poslovi) | ✅ | 29 | 1 |  |
 | [JP Ceste FBiH (oglasi)](https://jpcfbih.ba/bs/oglasi) | ✅ | 1 | 0 |  |
 | [Dom zdravlja KS](https://judzks.ba/zaposljavanje/) | ✅ | 10 | 0 |  |
 | [KCUS (konkursi i oglasi)](https://kcus.ba/konkursi-i-oglasi) | ✅ | 1 | 0 |  |
@@ -55,7 +55,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 16 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 38 | 15 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -63,7 +63,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 32 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 199 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 99 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 2 | 0 |  |
@@ -71,7 +71,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 3 |  |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 1 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
 | [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
@@ -82,7 +82,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [RTV FBiH (obavijesti i konkursi)](https://rtvfbih.ba/obavijesti) | ✅ | 1 | 0 |  |
 | [Saga (karijera)](https://saga.ba/karijera) | ✅ | 1 | 0 |  |
 | [Saga (praksa)](https://saga.ba/praksa) | ✅ | 1 | 0 |  |
-| [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
+| [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 1 |  |
 | [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
@@ -114,7 +114,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
 | [Zira Talent Academy](https://ziragroup.com/careers/zira-talent-academy) | ✅ | 1 | 0 |  |
 | [ZiraatBank BH (karijera)](https://ziraatbank.ba/karijera) | ✅ | 1 | 0 |  |
-| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 0 |  |
 
 ## Uzorak izvučenih oglasa po izvoru
 
@@ -415,7 +415,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 </details>
 
-<details><summary>itbase (28)</summary>
+<details><summary>itbase (29)</summary>
 
 - [Remote BDR Admin](https://itbase.ba/poslovi/r/remote-bdr-admin/2156)
 - [Frontend (React) Developer](https://itbase.ba/poslovi/r/frontend-react-developer/2153)
@@ -518,16 +518,16 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (16)</summary>
+<details><summary>linkedin_bih (38)</summary>
 
-- [Associate Software Engineer - European Hours](https://www.linkedin.com/jobs/view/4476789164)
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467985355)
-- [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467997097)
 - [Senior MS Dynamics 365 Developer](https://www.linkedin.com/jobs/view/4477461629)
+- [Associate Software Engineer - European Hours](https://www.linkedin.com/jobs/view/4476789164)
+- [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467985355)
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467997097)
+- [Senior Front-End (Shopify) Engineer](https://www.linkedin.com/jobs/view/4485623920)
 - [Senior Network Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4483993040)
 - [Senior AI/ML Engineer (GenAI, AWS)](https://www.linkedin.com/jobs/view/4485361510)
-- [Senior Front-End (Shopify) Engineer](https://www.linkedin.com/jobs/view/4485623920)
 
 </details>
 
@@ -587,7 +587,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 </details>
 
-<details><summary>mojposao_ks (199)</summary>
+<details><summary>mojposao_ks (99)</summary>
 
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [TP B&H | Werde Teil unseres Teams in Sarajevo und Tuzla!](https://www.mojposao.ba/posao/721f2f02-cc76-11f1-a8c0-42010a9c001a/tp-bh--werde-teil-unseres-teams-in-sarajevo-und-tuzla)
@@ -654,11 +654,11 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
 - [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Šanker / Konobar (m/ž) Nidarro d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/926)
 - [Recepcioner / Recepcionerka Nidarro d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/925)
 - [Skladištar (m) Inter Cars Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/924)
