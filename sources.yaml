@@ -30,13 +30,17 @@ sources:
     category: portal
     url: https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype
     js: true
-    scope: it
+    pattern: 'mojposao\.ba/posao/'
+    strip_query: true
+    scope: company
 
   - id: mojposao_ks
     name: MojPosao Kanton Sarajevo
     category: portal
     url: https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype
     js: true
+    pattern: 'mojposao\.ba/posao/'
+    strip_query: true
     scope: broad
 
   - id: klix_it
@@ -45,7 +49,7 @@ sources:
     type: jsonld
     url: https://posao.klix.ba/kat/it-telekomunikacije
     pattern: 'posao\.klix\.ba/oglasi/'
-    scope: it
+    scope: broad
 
   - id: itbase
     name: ITBase
@@ -60,6 +64,7 @@ sources:
     url: https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs
     js: true
     any_domain: true
+    pattern: 'jobs\.workable\.com/view/'
     scope: it
     min_items: 0
 
@@ -75,19 +80,21 @@ sources:
     name: MojKonkurs
     category: portal
     url: https://mojkonkurs.ba/
+    js: true
     scope: broad
-    deep: false
 
   - id: poslovnioglasi
     name: Poslovni oglasi
     category: portal
     url: https://poslovnioglasi.ba/
+    js: true
     scope: broad
 
   - id: glassrpske_konkursi
     name: Glas Srpske konkursi
     category: portal
     url: https://www.glassrpske.com/lat/ekonomija/konkursi
+    pattern: 'glassrpske\.com/lat/ekonomija/konkursi/.+/\d+'
     scope: broad
     deep: true
 
@@ -96,6 +103,7 @@ sources:
     name: ADS BiH
     category: javni
     url: https://www.ads.gov.ba/bs-latn-ba/open-vacancies
+    js: true
     pattern: '/vacancies/\d+'
     scope: broad
     deep: true
@@ -106,6 +114,7 @@ sources:
     name: ADS FBiH eKonkurs
     category: javni
     url: https://ekonkurs.adsfbih.gov.ba
+    js: true
     pattern: '/Konkurs/\d+'
     scope: broad
     deep: true
@@ -114,10 +123,12 @@ sources:
   - id: adu_rs
     name: ADU RS konkursi
     category: javni
-    url: http://adu.vladars.net/latn/
+    url: https://adu.vladars.rs/latn/
     scope: broad
     deep: true
     insecure: true
+    fallback:
+      url: http://adu.vladars.net/
 
   - id: szks
     name: SZKS (Služba za zapošljavanje KS)
@@ -151,6 +162,7 @@ sources:
     name: Dom zdravlja KS
     category: javni
     url: https://judzks.ba/zaposljavanje/
+    pattern: 'judzks\.ba/konkurs/'
     scope: broad
     deep: true
 
@@ -171,17 +183,17 @@ sources:
     category: javni
     url: https://www.epbih.ba/stranica/ljudski-resursi
     pattern: '\.pdf'
+    exclude: '(politik|kolacic|kolačić)'
     scope: company
     deep: true
 
   # ------------------------------------------------------------ banke
   - id: sparkasse
-    name: Sparkasse Bank BiH
+    name: Sparkasse Bank BiH (otvoreni konkursi)
     category: banka
+    type: page_hash
     url: https://sparkasse.mojposao.ba/
     js: true
-    any_domain: true
-    min_items: 0
 
   - id: unicredit_ba
     name: UniCredit Bank (karijere)
@@ -301,6 +313,7 @@ sources:
     category: banka
     type: page_hash
     url: https://www.cbbh.ba/career
+    js: true
 
   - id: monri
     name: Monri (careers)
@@ -512,7 +525,7 @@ sources:
     category: javni
     url: https://www.szzhnz-k.ba/careers_.php
     pattern: 'szzhnz-k\.ba/pdf/zaposlenje/'
-    exclude: 'obrazac'
+    exclude: '(obrazac|popis_clanova|popis članova)'
     scope: broad
     deep: true
 
@@ -528,7 +541,7 @@ sources:
     name: SZZ Tuzlanski kanton (oglasi)
     category: javni
     url: https://szztk.ba/oglasi
-    exclude: '(ostvarivanje-prava|profesionalna-orijentacija|prva-prijava|javni-poziv-za-ucesce)'
+    pattern: 'szztk\.ba/posao/\d+'
     scope: broad
     deep: true
 
@@ -544,6 +557,7 @@ sources:
     name: Agencija za rad i zapošljavanje BiH (oglasi)
     category: javni
     url: https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba
+    js: true
     pattern: 'arz\.gov\.ba/bs/portal/objava/'
     scope: broad
     deep: true
@@ -560,8 +574,9 @@ sources:
     name: Univerzitet u Tuzli (konkursi)
     category: javni
     url: https://untz.ba/konkursi
-    pattern: 'untz\.ba/blog/'
+    pattern: 'untz\.ba/blog/.*(konkurs|oglas)'
     scope: broad
+    min_items: 0
 
   - id: nezavisne_posao
     name: Nezavisne novine (oglasi za posao)
@@ -670,9 +685,8 @@ sources:
   - id: atlantbh
     name: Atlantbh
     category: it
+    type: page_hash
     url: https://atlantbh.com/jobs/
-    pattern: 'atlantbh\.com/(jobs|careers|job)/[^/]+'
-    min_items: 0
 
   - id: atlantbh_internship
     name: Atlantbh praksa
@@ -701,15 +715,16 @@ sources:
     url: https://htec.com/careers/locations/bosnia-herzegovina/
     js: true
     any_domain: true
+    pattern: 'careers\.htecgroup\.com/jobs/'
+    include: '(bosnia|sarajevo|banja ?luka|tuzla|mostar|zenica)'
     min_items: 0
 
   - id: symphony
-    name: Symphony
+    name: Symphony (careers)
     category: it
+    type: page_hash
     url: https://care.symphony.is/
     js: true
-    any_domain: true
-    min_items: 0
 
   - id: dploy
     name: D-ploy
@@ -717,6 +732,7 @@ sources:
     type: workable
     account: d-ploy
     url: https://apply.workable.com/d-ploy/
+    include: '(bosnia|sarajevo|banja ?luka|tuzla|mostar|zenica|bih)'
     min_items: 0
 
   - id: authority_partners

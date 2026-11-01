@@ -17,6 +17,7 @@ from .fetch import get, FetchError
 log = logging.getLogger("radar.extract")
 
 MAX_ITEMS = 400
+LAST_HTML = {}  # id izvora -> zadnji dohvaćeni HTML (za reports/debug)
 
 _TRACKING = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
              "fbclid", "gclid", "ref", "refid", "trackingid", "trk", "position", "pagenum"}
@@ -125,6 +126,7 @@ def links_from_html(html: str, base_url: str, src: dict) -> list:
     listing = clean_url(base_url)
     base_dom = _base_domain(_domain(base_url))
     min_len = src.get("min_title", 6)
+    strip_query = src.get("strip_query", False)
 
     found = {}
     for a in scope.find_all("a", href=True):
@@ -132,6 +134,8 @@ def links_from_html(html: str, base_url: str, src: dict) -> list:
         if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
             continue
         url = clean_url(urljoin(base_url, href))
+        if strip_query:
+            url = url.split("?", 1)[0]
         if not url.startswith("http"):
             continue
         if url == listing or url.lower().endswith(_SKIP_EXT):
@@ -196,6 +200,7 @@ def handle_links(src, browser):
         html = browser.html(url, wait_selector=src.get("wait_for"))
     else:
         html = get(url, insecure=src.get("insecure", False)).text
+    LAST_HTML[src["id"]] = html
     return links_from_html(html, url, src)
 
 
@@ -266,6 +271,7 @@ def handle_jsonld(src, browser):
         html = browser.html(url)
     else:
         html = get(url, insecure=src.get("insecure", False)).text
+    LAST_HTML[src["id"]] = html
     items = jsonld_items(html, url)
     if not items:
         items = links_from_html(html, url, src)
@@ -337,6 +343,7 @@ def handle_page_hash(src, browser):
         html = browser.html(url)
     else:
         html = get(url, insecure=src.get("insecure", False)).text
+    LAST_HTML[src["id"]] = html
     lines = page_text(html, src.get("selector"))
     if not lines:
         raise FetchError("stranica je prazna")
@@ -356,6 +363,16 @@ HANDLERS = {
 
 
 def extract(src: dict, browser) -> list:
+    """Pokreni handler i primijeni `include` filter (regex nad naslovom, firmom i lokacijom)."""
+    items = _extract(src, browser)
+    if src.get("include") and src.get("type") != "page_hash":
+        rx = re.compile(src["include"], re.I)
+        items = [i for i in items if rx.search(" ".join(
+            [i.get("title", ""), i.get("company", ""), i.get("location", "")]))]
+    return items
+
+
+def _extract(src: dict, browser) -> list:
     """Pokreni handler; ako ne uspije ili vrati 0, probaj `fallback` konfiguraciju."""
     handler = HANDLERS[src.get("type", "links")]
     try:

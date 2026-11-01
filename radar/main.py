@@ -210,6 +210,19 @@ def write_status(results, sources, run_started):
     (REPORTS / "status.md").write_text("\n".join(out), encoding="utf-8")
 
 
+def write_debug(results):
+    """Za izvore s greškom sačuvaj HTML koji je radar vidio, da se lakše popravi."""
+    from .extract import LAST_HTML
+    dbg = REPORTS / "debug"
+    dbg.mkdir(parents=True, exist_ok=True)
+    for sid, r in results.items():
+        path = dbg / f"{sid}.html"
+        if not r["ok"] and sid in LAST_HTML:
+            path.write_text(LAST_HTML[sid][:400_000], encoding="utf-8")
+        elif r["ok"] and path.exists():
+            path.unlink()
+
+
 def write_oglasi(history):
     rows = sorted(history, key=lambda h: h["ts"], reverse=True)
     out = ["# Oglasi (zadnjih 30 dana)\n",
@@ -309,7 +322,8 @@ def main():
         # --- stranice koje pratimo po promjeni teksta
         if src.get("type") == "page_hash":
             page = items[0]
-            if entry is None:
+            if entry is None or "lines" not in entry:
+                # novi izvor (ili je ranije bio drugog tipa): samo zapamti stranicu
                 seen[sid] = {"keys": [page["key"]], "lines": page["_lines"]}
                 res["seeded"] = True
                 seeded_sources += 1
@@ -349,6 +363,9 @@ def main():
                                 "it": i["it"], "priority": i["priority"], "initial": True})
             continue
 
+        if src.get("strip_query") and any("?" in k for k in entry["keys"]):
+            # stari ključevi su imali promjenjive parametre; svedi ih na isti oblik
+            entry["keys"] = list(dict.fromkeys(k.split("?", 1)[0] for k in entry["keys"]))
         known = set(entry["keys"])
         new_items = [i for i in items if i["key"] not in known]
         res["new"] = len(new_items)
@@ -426,6 +443,7 @@ def main():
     save_json("meta.json", meta)
     write_status(results, sources, run_started)
     write_oglasi(history)
+    write_debug(results)
 
     new_total = sum(r["new"] for r in results.values())
     log.info("Gotovo: %d izvora, %d novih, %d poruka poslano, %d izvora zapamćeno prvi put",
