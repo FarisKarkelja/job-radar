@@ -4,6 +4,29 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 02.11. 00:25 | • [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o) | Poslovni oglasi |
+| 02.11. 00:25 | • [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o) | Poslovni oglasi |
+| 02.11. 00:25 | • [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d) | Poslovni oglasi |
+| 02.11. 00:25 | •⏺ [Интерни оглас: Министарство управе и локалне самоуправе Објављено: 30.10.2026 Датум затварања: 16.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34860) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Министарство просвјете и културе Објављено: 29.10.2026 Датум затварања: 13.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34859) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Исправка јавног конкурса: Републичка управа за инспекцијске послове Објављено: 16.10.2026 Датум затварања: 02.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34852) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Резултати конкурса: Републичка дирекција за обнову и изградњу Објављено: 04.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/30826) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Републичка управа за инспекцијске послове Објављено: 20.08.2026 Датум затварања: 04.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29805) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Пореска управа; Министарство пољопривреде, шумарства и водопривреде; Министарство за научнотехнолошки развој и високо образовање Објављено: 18.08.2026 Датум затварања: 02.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29803) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Термини полагања стручних испита](https://adu.vladars.rs/Podkategorija/10) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Резултати конкурса](https://adu.vladars.rs/Podkategorija/5) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Пријава на јавни конкурс](https://adu.vladars.rs/SadrzajDokument/GetDocument/2128) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Републички завод за стандардизацију и метрологију; Републичка управа цивилне заштите; Министарство саобраћаја и веза Објављено: 07.08.2026 Датум затварања: 24.08.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29801) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Генерални секретаријат Владе Републике Српске; Републичка управа за игре на срећу Објављено: 05.08.2026 Датум затварања: 20.08.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29800) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс за упражњена радна мјеста Објављено: 24.07.2026 Датум затварања: 10.08.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/27815) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Републичка управа за геодетске и имовинско-правне послове Објављено: 07.07.2026 Датум затварања: 22.07.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/27801) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Министарство саобраћаја и веза; Агенција за аграрна плаћања; Министарство просвјете и културе; Републички педагошки завод Објављено: 14.07.2026 Датум затварања: 29.07.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/27808) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Интерни оглас: Пореска управа Објављено: 23.10.2026 Датум затварања: 09.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34856) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Републичка управа за геодетске и имовинско-правне послове Објављено: 21.10.2026 Датум затварања: 05.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34854) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Министарство унутрашњих послова Објављено: 16.10.2026 Датум затварања: 02.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34851) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Републичка управа за инспекцијске послове; Министарство правде; Министарство за европске интеграције и међународну сарадњу Објављено: 07.10.2026 Датум затварања: 22.10.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/33856) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [Јавни конкурс: Агенција за државну управу Републике Српске Објављено: 02.10.2026 Датум затварања: 19.10.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/33854) | ADU RS konkursi (preko javi.ba) |
+| 02.11. 00:25 | •⏺ [adu.vladars.rs](https://adu.vladars.rs/Podkategorija/3) | ADU RS konkursi (preko javi.ba) |
 | 02.11. 00:19 | • [7c93fa62 c3e4 11f1 a8c0 42010a9c001a](https://www.mojposao.ba/posao/7c93fa62-c3e4-11f1-a8c0-42010a9c001a/kuhar) | MojPosao Kanton Sarajevo |
 | 02.11. 00:19 | 💻 [Linux System Administrator](https://www.linkedin.com/jobs/view/4484203246) · MGT-COMMERCE GmbH | LinkedIn BiH |
 | 02.11. 00:19 | 💻 [IT Project Manager](https://www.linkedin.com/jobs/view/4485206558) · ERGOMED | LinkedIn BiH |
@@ -1481,26 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Boxmark Leather Lukavac: Mašinski tehničar održvanja proizvodne opreme](https://szztk.ba/posao/36877/boxmark-leather-lukavac-masinski-tehnicar-odrzvanja-proizvodne-opreme) | SZZ Tuzlanski kanton (oglasi) |
 | 02.11. 00:13 | •⏺ [Širbegović Inženjering Gračanica: Oglas za prijem u radni odnos](https://szztk.ba/posao/36875/sirbegovic-inzenjering-gracanica-oglas-za-prijem-u-radni-odnos) | SZZ Tuzlanski kanton (oglasi) |
 | 02.11. 00:13 | •⏺ [JZU Opća bolnica Dr. Mustafa Beganović Gračanica: Javni oglas za prijem u radni odnos na neodređeno vrijeme](https://szztk.ba/posao/36872/jzu-opca-bolnica-dr-mustafa-beganovic-gracanica-javni-oglas-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [SGH Tuzla: Oglas za prijem radnika](https://szztk.ba/posao/36868/sgh-tuzla-oglas-za-prijem-radnika) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [SENFIN Kalesija: Oglas za prijem radnika](https://szztk.ba/posao/36864/senfin-kalesija-administrativni-radnik) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Ibis-inženering Banja Luka: Stručni saradnik za mineralne sirovine](https://szztk.ba/posao/36854/ibis-inzenering-banja-luka-strucni-saradnik-za-mineralne-sirovine) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [MiP Ljubače: Magacioner](https://szztk.ba/posao/36853/mip-ljubace-magacioner) | SZZ Tuzlanski kanton (oglasi) |
-| 02.11. 00:13 | •⏺ [Ibis-inžinjering d.o.o. Banja Luka](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae1e343e5a887.59725650.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Dino market d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae1b3f1c1f079.50627385.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [MUP BPK GORAŽDE - UPRAVA POLICIJE](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae0a324429962.95287930.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [EMKA BOSNIA d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6adefeb6a01997.61998495.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Deichmann obuća d.o.o. Sarajevo](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6adb0736a14647.75032249.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Omega d.o.o. Živinice PJ. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ada11747e1727.27215087.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Ministarstvo odbrane BIH](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae074fbcb4312.58545293.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [HUBJER d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ad71f99e3bc78.36476997.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [JP Elektroprivreda BIH d.d. Sarajevo](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ad1e98610dad6.77773831.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Mikrokreditna fondacija MIKRO ALDI Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ad1c769964d72.68645278.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Emka Bosnia d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ad1bd470c25c0.79996957.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Emka Bosnia d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ad099b45b4ec2.24129300.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [TR. ČOJO vl. Rahman R., Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ad06995a064e9.99431126.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Pobjeda Rudet d.d. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6acf87ab945f25.35691891.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Dino market d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6acf82591142e1.25557997.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [MPI "Mlin" d.d. Ustikolina](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6acf5302d8dff2.69793533.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Foto Pršeš](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ace3060139876.17437626.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [Prevent Sewing d.o.o Visoko Podružnica Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6acdf6a6e35696.26441466.pdf) | SZZ BPK Goražde (oglasi) |
-| 02.11. 00:13 | •⏺ [SKLOP d.o.o. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ac492d206bbf4.67541136.pdf) | SZZ BPK Goražde (oglasi) |

@@ -1,28 +1,25 @@
 # Status izvora
 
-Zadnje pokretanje: **02.11.2026 00:19** (Sarajevo)  
-Izvora: **111**, ispravnih: **103**, s greškom: **8**
+Zadnje pokretanje: **02.11.2026 00:25** (Sarajevo)  
+Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
-| [ADU RS konkursi](https://adu.vladars.rs/latn/) | ❌ | 0 | 0 | HTTP 404 |
-| [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ❌ | 0 | 0 | stranica je prazna |
-| [Agencija za rad i zapošljavanje BiH (oglasi)](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) | ❌ | 0 | 0 | 0 oglasa: stranica je možda promijenila dizajn ili je prazna |
-| [Atlantbh](https://atlantbh.com/jobs/) | ❌ | 0 | 0 | stranica je prazna |
-| [Atlantbh praksa](https://atlantbh.com/internship/) | ❌ | 0 | 0 | stranica je prazna |
-| [MojKonkurs](https://mojkonkurs.ba/) | ❌ | 0 | 0 | 0 oglasa: stranica je možda promijenila dizajn ili je prazna |
-| [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ❌ | 0 | 0 | stranica je prazna |
-| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi) | ❌ | 0 | 0 | 0 oglasa: stranica je možda promijenila dizajn ili je prazna |
 | [Addiko Bank Banja Luka](https://addiko-bank-bl.talentlyft.com/) | ✅ | 1 | 0 |  |
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
-| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 0 |  |
+| [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
+| [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 20 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
 | [Aluminij Mostar (careers)](https://aluminij.com/careers) | ✅ | 20 | 0 |  |
+| [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 0 |  |
+| [Agencija za rad i zapošljavanje BiH (oglasi)](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
 | [ASA Grupa (karijera)](https://www.asa.ba/karijera) | ✅ | 1 | 0 |  |
 | [ASA osiguranje (karijera)](https://asacentral.ba/karijera) | ✅ | 1 | 0 |  |
 | [ASA Banka (karijera)](https://www.asabanka.ba/karijera) | ✅ | 1 | 0 |  |
 | [ATIA (open positions)](https://atia.ba/open-positions) | ✅ | 1 | 0 |  |
+| [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Atlantbh praksa](https://atlantbh.com/internship/) | ✅ | 1 | 1 |  |
 | [ATOS banka (karijera)](https://www.atosbank.ba/content/read/karijera) | ✅ | 1 | 1 |  |
 | [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 0 |  |
 | [BBI Banka (karijera)](https://bbi.ba/karijera) | ✅ | 1 | 0 |  |
@@ -31,7 +28,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [BH Telecom](https://www.bhtelecom.ba/category/javni-oglasi-za-posao/) | ✅ | 10 | 0 |  |
 | [Bingo (oglasi)](https://www.bingotuzla.ba/bingooglasi) | ✅ | 5 | 0 |  |
 | [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 0 |  |
-| [Centralna banka BiH (karijera)](https://www.cbbh.ba/career) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Centralna banka BiH (karijera)](https://www.cbbh.ba/career) | ✅ | 1 | 0 |  |
 | [D-ploy](https://apply.workable.com/d-ploy/) | ✅ | 1 | 0 |  |
 | [dzobs (IT poslovi)](https://dzobs.com/poslovi/1) | ✅ | 12 | 0 |  |
 | [dzobs (prakse)](https://dzobs.com/angazman/internship/1) | ✅ | 0 | 0 |  |
@@ -48,7 +45,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 28 | 0 |  |
 | [JP Ceste FBiH (oglasi)](https://jpcfbih.ba/bs/oglasi) | ✅ | 1 | 0 |  |
-| [Dom zdravlja KS](https://judzks.ba/zaposljavanje/) | ✅ | 10 | 1 |  |
+| [Dom zdravlja KS](https://judzks.ba/zaposljavanje/) | ✅ | 10 | 0 |  |
 | [KCUS (konkursi i oglasi)](https://kcus.ba/konkursi-i-oglasi) | ✅ | 1 | 0 |  |
 | [KJKP Park](https://www.park.ba/?page_id=9652) | ✅ | 266 | 0 |  |
 | [KJKP Pokop](https://pokop.ba/novosti) | ✅ | 1 | 0 |  |
@@ -58,7 +55,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 30 | 4 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 16 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -66,7 +63,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 32 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 200 | 1 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 199 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 2 | 0 |  |
@@ -74,7 +71,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 3 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
 | [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
@@ -85,10 +82,11 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [RTV FBiH (obavijesti i konkursi)](https://rtvfbih.ba/obavijesti) | ✅ | 1 | 0 |  |
 | [Saga (karijera)](https://saga.ba/karijera) | ✅ | 1 | 0 |  |
 | [Saga (praksa)](https://saga.ba/praksa) | ✅ | 1 | 0 |  |
-| [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
+| [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
-| [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
 | [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 0 |  |
 | [SZZ BPK Goražde (oglasi)](https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php) | ✅ | 21 | 0 |  |
 | [SZZ HNK (javni oglasi)](https://www.szzhnz-k.ba/careers_.php) | ✅ | 38 | 0 |  |
@@ -116,6 +114,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
 | [Zira Talent Academy](https://ziragroup.com/careers/zira-talent-academy) | ✅ | 1 | 0 |  |
 | [ZiraatBank BH (karijera)](https://ziraatbank.ba/karijera) | ✅ | 1 | 0 |  |
+| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
 
 ## Uzorak izvučenih oglasa po izvoru
 
@@ -157,8 +156,16 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>adu_rs (0)</summary>
+<details><summary>adu_rs (20)</summary>
 
+- [Интерни оглас: Министарство управе и локалне самоуправе Објављено: 30.10.2026 Датум затварања: 16.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34860)
+- [Јавни конкурс: Министарство просвјете и културе Објављено: 29.10.2026 Датум затварања: 13.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34859)
+- [Исправка јавног конкурса: Републичка управа за инспекцијске послове Објављено: 16.10.2026 Датум затварања: 02.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34852)
+- [Резултати конкурса: Републичка дирекција за обнову и изградњу Објављено: 04.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/30826)
+- [Јавни конкурс: Републичка управа за инспекцијске послове Објављено: 20.08.2026 Датум затварања: 04.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29805)
+- [Јавни конкурс: Пореска управа; Министарство пољопривреде, шумарства и водопривреде; Министарство за научнотехнолошки развој и високо образовање Објављено: 18.08.2026 Датум затварања: 02.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29803)
+- [Термини полагања стручних испита](https://adu.vladars.rs/Podkategorija/10)
+- [Резултати конкурса](https://adu.vladars.rs/Podkategorija/5)
 
 </details>
 
@@ -184,13 +191,15 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>amko (0)</summary>
+<details><summary>amko (1)</summary>
 
+- [Stranica je promijenjena](https://amko.ba/zaposlenje)
 
 </details>
 
-<details><summary>arz_bih (0)</summary>
+<details><summary>arz_bih (1)</summary>
 
+- [Stranica je promijenjena](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba)
 
 </details>
 
@@ -218,13 +227,15 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>atlantbh (0)</summary>
+<details><summary>atlantbh (1)</summary>
 
+- [Stranica je promijenjena](https://atlantbh.com/jobs/)
 
 </details>
 
-<details><summary>atlantbh_internship (0)</summary>
+<details><summary>atlantbh_internship (1)</summary>
 
+- [Stranica je promijenjena](https://atlantbh.com/internship/)
 
 </details>
 
@@ -507,16 +518,16 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>linkedin_bih (30)</summary>
+<details><summary>linkedin_bih (16)</summary>
 
-- [Senior MS Dynamics 365 Developer](https://www.linkedin.com/jobs/view/4477461629)
 - [Associate Software Engineer - European Hours](https://www.linkedin.com/jobs/view/4476789164)
-- [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467985355)
+- [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467997097)
-- [Senior Front-End (Shopify) Engineer](https://www.linkedin.com/jobs/view/4485623920)
+- [Senior MS Dynamics 365 Developer](https://www.linkedin.com/jobs/view/4477461629)
 - [Senior Network Engineer (f/m/x)](https://www.linkedin.com/jobs/view/4483993040)
 - [Senior AI/ML Engineer (GenAI, AWS)](https://www.linkedin.com/jobs/view/4485361510)
+- [Senior Front-End (Shopify) Engineer](https://www.linkedin.com/jobs/view/4485623920)
 
 </details>
 
@@ -563,11 +574,6 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>mojkonkurs (0)</summary>
-
-
-</details>
-
 <details><summary>mojposao_it (32)</summary>
 
 - [Softverski developer za AI i poslovne aplikacije](https://www.mojposao.ba/posao/a4e4e32f-d3af-11f1-a8c0-42010a9c001a/softverski-developer-za-ai-i-poslovne-aplikacije)
@@ -581,7 +587,7 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>mojposao_ks (200)</summary>
+<details><summary>mojposao_ks (199)</summary>
 
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [TP B&H | Werde Teil unseres Teams in Sarajevo und Tuzla!](https://www.mojposao.ba/posao/721f2f02-cc76-11f1-a8c0-42010a9c001a/tp-bh--werde-teil-unseres-teams-in-sarajevo-und-tuzla)
@@ -649,9 +655,9 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 <details><summary>poslovnioglasi (13)</summary>
 
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [Šanker / Konobar (m/ž) Nidarro d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/926)
 - [Recepcioner / Recepcionerka Nidarro d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/925)
@@ -726,8 +732,9 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>sarajevogas (0)</summary>
+<details><summary>sarajevogas (1)</summary>
 
+- [Stranica je promijenjena](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos)
 
 </details>
 
@@ -988,7 +995,8 @@ Izvora: **111**, ispravnih: **103**, s greškom: **8**
 
 </details>
 
-<details><summary>zzzrs (0)</summary>
+<details><summary>zzzrs (1)</summary>
 
+- [Stranica je promijenjena](https://zzzrs.net/lat/oglasi/search)
 
 </details>
