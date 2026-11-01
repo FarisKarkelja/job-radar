@@ -5,6 +5,12 @@ on:
     # GitHub cron je u UTC. Zimi (CET) ovo je 07:17, 10:17, 13:17, 16:17, 19:17, 22:17,
     # ljeti (CEST) sat kasnije. Minuta 17 izbjegava gužvu na punom satu.
     - cron: "17 6,9,12,15,18,21 * * *"
+  # Pokreni i odmah kad se promijene izvori ili kod (novi izvori se samo zapamte, bez spama)
+  push:
+    branches: [main]
+    paths:
+      - sources.yaml
+      - "radar/**"
   workflow_dispatch:
     inputs:
       only:
