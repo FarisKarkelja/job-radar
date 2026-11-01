@@ -127,6 +127,7 @@ def links_from_html(html: str, base_url: str, src: dict) -> list:
     base_dom = _base_domain(_domain(base_url))
     min_len = src.get("min_title", 6)
     strip_query = src.get("strip_query", False)
+    key_rx = re.compile(src["key_pattern"], re.I) if src.get("key_pattern") else None
 
     found = {}
     for a in scope.find_all("a", href=True):
@@ -157,18 +158,35 @@ def links_from_html(html: str, base_url: str, src: dict) -> list:
             continue
         if url.lower().endswith(".pdf") and len(text) < min_len:
             text = urlparse(url).path.rsplit("/", 1)[-1]
-        prev = found.get(url)
-        if not prev or len(text) > len(prev["title"]):
-            found[url] = {"key": url, "title": text[:240], "url": url}
+        key = url
+        if key_rx:
+            m = key_rx.search(url)
+            key = m.group(1) if m else url
+        prev = found.get(key)
+        # isti oglas zna imati više linkova (slika, naslov, dugme): zadrži najbolji naslov
+        if not prev or _title_score(text) > _title_score(prev["title"]):
+            found[key] = {"key": key, "title": text[:240], "url": url}
         if len(found) >= MAX_ITEMS:
             break
     return list(found.values())
+
+
+_HEXISH = re.compile(r"^[0-9a-f]{6,}([- ][0-9a-f]{3,})*$", re.I)
+
+
+def _title_score(text: str) -> int:
+    """Pravi naslov je bolji od slug-a ili UUID-a, duži je bolji od kraćeg."""
+    if not text or _HEXISH.match(text.strip()):
+        return 0
+    return len(text) + (100 if " " in text else 0)
 
 
 def _slug_title(url: str) -> str:
     """'/posao/strucni-saradnik-ikt-99/' -> 'Strucni saradnik ikt'."""
     segs = [s for s in urlparse(url).path.split("/") if s]
     for seg in reversed(segs):
+        if _HEXISH.match(seg):
+            continue
         words = re.sub(r"\.(html?|php|aspx?)$", "", seg)
         words = re.sub(r"[-_+]+", " ", words)
         words = re.sub(r"\b\d+\b", "", words).strip()

@@ -32,6 +32,7 @@ sources:
     js: true
     pattern: 'mojposao\.ba/posao/'
     strip_query: true
+    key_pattern: 'posao/([0-9a-f-]{36})'
     scope: company
 
   - id: mojposao_ks
@@ -41,6 +42,7 @@ sources:
     js: true
     pattern: 'mojposao\.ba/posao/'
     strip_query: true
+    key_pattern: 'posao/([0-9a-f-]{36})'
     scope: broad
 
   - id: klix_it
@@ -77,6 +79,7 @@ sources:
     scope: it
 
   - id: mojkonkurs
+    enabled: false   # agregator nije ažuriran od januara 2026
     name: MojKonkurs
     category: portal
     url: https://mojkonkurs.ba/
@@ -121,14 +124,13 @@ sources:
     insecure: true
 
   - id: adu_rs
-    name: ADU RS konkursi
+    name: ADU RS konkursi (preko javi.ba)
     category: javni
-    url: https://adu.vladars.rs/latn/
+    url: https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi
+    any_domain: true
+    exclude: 'javi\.ba/(katalog|izvor|kategorij|o-nama|prijava|registr)'
     scope: broad
     deep: true
-    insecure: true
-    fallback:
-      url: http://adu.vladars.net/
 
   - id: szks
     name: SZKS (Služba za zapošljavanje KS)
@@ -145,11 +147,9 @@ sources:
   - id: zzzrs
     name: Zavod za zapošljavanje RS
     category: javni
-    url: https://zzzrs.net/lat/oglasi
+    type: page_hash
+    url: https://zzzrs.net/lat/oglasi/search
     js: true
-    any_domain: true
-    scope: broad
-    deep: true
 
   - id: zdk_szz
     name: Služba za zapošljavanje ZDK
@@ -430,6 +430,7 @@ sources:
     category: javni
     type: page_hash
     url: https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos
+    js: true   # SiteGround zaštita od botova
 
   - id: energoinvest
     name: Energoinvest
@@ -556,11 +557,9 @@ sources:
   - id: arz_bih
     name: Agencija za rad i zapošljavanje BiH (oglasi)
     category: javni
+    type: page_hash
     url: https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba
     js: true
-    pattern: 'arz\.gov\.ba/bs/portal/objava/'
-    scope: broad
-    deep: true
 
   - id: unsa_konkursi
     name: Univerzitet u Sarajevu (konkursi)
@@ -641,6 +640,7 @@ sources:
     category: ostalo
     type: page_hash
     url: https://amko.ba/zaposlenje
+    js: true   # SiteGround zaštita od botova
 
   - id: bosnalijek
     name: Bosnalijek (zapošljavanje)
@@ -687,12 +687,14 @@ sources:
     category: it
     type: page_hash
     url: https://atlantbh.com/jobs/
+    js: true   # SiteGround zaštita od botova
 
   - id: atlantbh_internship
     name: Atlantbh praksa
     category: it
     type: page_hash
     url: https://atlantbh.com/internship/
+    js: true   # SiteGround zaštita od botova
 
   - id: infobip_internship
     name: Infobip praksa

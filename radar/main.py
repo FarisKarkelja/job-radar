@@ -366,6 +366,13 @@ def main():
         if src.get("strip_query") and any("?" in k for k in entry["keys"]):
             # stari ključevi su imali promjenjive parametre; svedi ih na isti oblik
             entry["keys"] = list(dict.fromkeys(k.split("?", 1)[0] for k in entry["keys"]))
+        if src.get("key_pattern"):
+            krx = re.compile(src["key_pattern"], re.I)
+            converted = []
+            for k in entry["keys"]:
+                m = krx.search(k)
+                converted.append(m.group(1) if m else k)
+            entry["keys"] = list(dict.fromkeys(converted))
         known = set(entry["keys"])
         new_items = [i for i in items if i["key"] not in known]
         res["new"] = len(new_items)
