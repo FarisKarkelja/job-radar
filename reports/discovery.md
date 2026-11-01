@@ -1,0 +1,1368 @@
+# Detektiv: stranice sa oglasima
+
+Kandidata: 232, dostupnih: 180, nedostupnih: 52
+
+
+## banka
+
+- ✅ **Raiffeisen Bank BiH** (https://www.raiffeisenbank.ba/bs/stanovnistvo.html)
+  - [Saznaj više](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) [ok] linkova-oglasa: 0, signal: 14
+- ✅ **UniCredit Bank** (https://www.unicredit.ba/ba/stanovnistvo.html)
+  - [(proba)](https://www.unicredit.ba/ba/banka/karijere/karijere.html) [ok] linkova-oglasa: 7, signal: 2
+    - Pronađite nas -> https://www.unicredit.ba/ba/branch-finder-test.html
+    - Radno vrijeme i brojevi telefona UCB poslovnica -> https://www.unicredit.ba/content/dam/cee2020-pws-bh1/Stanovnistvo/mreza_poslovnica/UniCredit%20Bank%20mreza%20poslovnica.pdf
+    - Pitanje -> https://www.unicredit.ba/ba/stanovnistvo/appind.html
+    - Pohvala/Prijedlog/Prigovor -> https://www.unicredit.ba/ba/stanovnistvo/prigovoripohvaleprijedlozi.html
+- ✅ **UniCredit Bank Banja Luka** (https://www.unicreditbank-bl.ba/bhs/stanovnistvo.html)
+  - [Karijera](https://www.unicreditbank-bl.ba/bhs/o-nama.html) [ok] linkova-oglasa: 17, signal: 2
+    - Filijale i bankomati -> https://www.unicreditbank-bl.ba/bhs/lokator.html
+    - Besplatna linija 080 051 051 -> https://www.unicreditbank-bl.ba/bhs/stanovnistvo/ostali-kontakti.html
+    - Kursna lista -> https://www.unicreditbank-bl.ba/bhs/stanovnistvo/kursna-lista.html
+    - RECITE NAM -> https://www.unicreditbank-bl.ba/bhs/stanovnistvo/recite_nam.html
+  - [(proba)](https://www.unicreditbank-bl.ba/bhs/stanovnistvo.html) [ok] linkova-oglasa: 33, signal: 2
+    - Filijale i bankomati -> https://www.unicreditbank-bl.ba/bhs/lokator.html
+    - Besplatna linija 080 051 051 -> https://www.unicreditbank-bl.ba/bhs/stanovnistvo/ostali-kontakti.html
+    - Predložite, primijetite, pohvalite nas. -> https://www.unicreditbank-bl.ba/bhs/stanovnistvo/recite_nam.html
+    - Kursna lista -> https://www.unicreditbank-bl.ba/bhs/stanovnistvo/kursna-lista.html
+- ✅ **Intesa Sanpaolo Banka BiH** (https://www.intesasanpaolobanka.ba/)
+  - [Posao i karijera](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) [ok] linkova-oglasa: 0, signal: 4
+  - [Oglasi](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) [ok] linkova-oglasa: 0, signal: 13
+- ⚪ **Sparkasse Bank BiH** (https://www.sparkasse.ba/bs/stanovnistvo): nema stranice karijera
+- ✅ **NLB Banka Sarajevo** (http://www.nlb.ba/)
+  - [(proba)](http://www.nlb.ba/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](http://www.nlb.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](http://www.nlb.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](http://www.nlb.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **NLB Banka Banja Luka** (https://www.nlb-rs.ba/)
+  - [Karijera](https://www.nlb-rs.ba/o-banci/karijera) [ok] linkova-oglasa: 27, signal: 15
+    - Saopštenja i aktuelnosti -> https://www.nlb-rs.ba/o-banci/saopstenja-i-aktuelnosti
+    - English -> https://www.nlb-rs.ba/en/retail
+    - Sve o banci -> https://www.nlb-rs.ba/o-banci/o-banci
+    - Sponzorstva i donacije -> https://www.nlb-rs.ba/o-banci/odrzivost
+- ✅ **ProCredit Bank** (https://www.procreditbank.ba/)
+  - [Karijera](https://www.procreditbank.ba/karijera) [ok] linkova-oglasa: 5, signal: 2
+    - Prvo radno iskustvo -> https://www.procreditbank.ba/karijera/radno-iskustvo
+    - Profesionalci -> https://www.procreditbank.ba/karijera/proteam
+    - Studentska praksa -> https://www.procreditbank.ba/karijera/propraksa
+    - Naše akademije -> https://www.procreditbank.ba/karijera/akademija
+  - [Prvo radno iskustvo](https://www.procreditbank.ba/karijera/radno-iskustvo) [ok] linkova-oglasa: 1, signal: 2
+    - Kreditni Kalkulator -> https://www.procreditbank.ba/stanovnistvo/krediti?scrollTo=calculator
+  - [Profesionalnci](https://www.procreditbank.ba/karijera/proteam) [ok] linkova-oglasa: 1, signal: 2
+    - Kreditni Kalkulator -> https://www.procreditbank.ba/stanovnistvo/krediti?scrollTo=calculator
+  - [Studentska praksa](https://www.procreditbank.ba/karijera/propraksa) [ok] linkova-oglasa: 1, signal: 2
+    - Kreditni Kalkulator -> https://www.procreditbank.ba/stanovnistvo/krediti?scrollTo=calculator
+- ⚪ **Addiko Bank Sarajevo** (https://www.addiko.ba/): nema stranice karijera
+- ✅ **Addiko Bank Banja Luka** (https://www.addiko-rs.ba/)
+  - [Karijera](https://addiko-bank-bl.talentlyft.com/) [ok] linkova-oglasa: 0, signal: 1
+  - [(proba)](https://www.addiko-rs.ba/o-nama) [ok] linkova-oglasa: 76, signal: 0
+    - Addiko gotovinski krediti -> https://www.addiko-rs.ba/gradjani/krediti/blic-gotovinski-kredit
+    - Kredit za razne prilike -> https://www.addiko-rs.ba/kredit-za-razne-prilike
+    - Kredit za penzionere -> https://www.addiko-rs.ba/addiko-gotovinski-krediti-za-penzionere
+    - Važne informacije -> https://www.addiko-rs.ba/gradjani/krediti/vazne-informacije
+  - [(proba)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) [ok] linkova-oglasa: 77, signal: 1
+    - Addiko gotovinski krediti -> https://www.addiko-rs.ba/gradjani/krediti/blic-gotovinski-kredit
+    - Kredit za razne prilike -> https://www.addiko-rs.ba/kredit-za-razne-prilike
+    - Kredit za penzionere -> https://www.addiko-rs.ba/addiko-gotovinski-krediti-za-penzionere
+    - Važne informacije -> https://www.addiko-rs.ba/gradjani/krediti/vazne-informacije
+- ✅ **ASA Banka** (https://www.asabanka.ba/)
+  - [Karijera](https://www.asabanka.ba/karijera) [ok] linkova-oglasa: 1, signal: 10
+    - Prvo bankarsko iskustvo -> https://www.asabanka.ba/prvo-bankarsko-iskustvo
+  - [Kredit za zaposlene na određeno vrijeme](https://www.asabanka.ba/kredit-za-zaposlene-na-odredeno-vrijeme) [ok] linkova-oglasa: 3, signal: 3
+    - Zahtjev za kredit -> https://www.asabanka.ba/wp-content/uploads/2026/09/ASA_Banka_Zahtjev-za-kreditne-proizvode_09.26.pdf
+    - Informacioni list -> https://www.asabanka.ba/wp-content/uploads/2026/08/Reprezentativni-info.-list-Kredit-za-klijente-zaposlene-na-odredeno-3-1.pdf
+    - Uslovi promjenjivosti kamatne stope -> https://www.asabanka.ba/stanovnistvo/uslovi-promjenjivosti-kamatne-stope
+- ✅ **BBI Banka** (https://bbi.ba/)
+  - [Karijera](https://bbi.ba/karijera) [ok] linkova-oglasa: 3, signal: 8
+    - Otvorene prijave -> https://bbi.ba/karijera/samoinicijativne-prijave
+    - Savjeti za zaposlenje -> https://bbi.ba/karijera/savjeti-za-zaposlenje
+    - ISKUSTVA PRETHODNIH POLAZNIKA -> https://bbi.ba/iskustvo-prethodnih-polaznika
+- ✅ **Union banka** (https://unionbank.ba/pocetna)
+  - [KARIJERA](https://unionbank.ba/karijera) [ok] linkova-oglasa: 1, signal: 7
+    - Karijera u Union banci -> https://unionbank.ba/karijera-u-union-banci
+  - [TENDERI i OGLASI](https://unionbank.ba/tenderi) [ok] linkova-oglasa: 0, signal: 4
+  - [(proba)](https://unionbank.ba/karijere) [ok] linkova-oglasa: 0, signal: 3
+  - [(proba)](https://unionbank.ba/posao) [ok] linkova-oglasa: 0, signal: 3
+- ✅ **ZiraatBank BH** (https://ziraatbank.ba/)
+  - [Dokumentarni Poslovi](https://ziraatbank.ba/bs/pravna-lica) [ok] linkova-oglasa: 34, signal: 0
+    - Akcije -> http://ziraatbank.ba/bs/akcije
+    - Digitalno bankarstvo -> http://ziraatbank.ba/bs/digitalno-bankarstvo
+    - Odnosi sa Investitorima -> http://ziraatbank.ba/bs/odnosi-s-investitorimac
+    - Informacije -> http://ziraatbank.ba/bs/informacije
+  - [Depozitarski poslovi](https://ziraatbank.ba/bs/depozitarski-poslovi) [ok] linkova-oglasa: 15, signal: 0
+    - Akcije -> http://ziraatbank.ba/bs/akcije
+    - Digitalno bankarstvo -> http://ziraatbank.ba/bs/digitalno-bankarstvo
+    - Odnosi sa Investitorima -> http://ziraatbank.ba/bs/odnosi-s-investitorimac
+    - Informacije -> http://ziraatbank.ba/bs/informacije
+  - [Instrukcija za isplatu mjesečnih primanja zaposlenicima](https://ziraatbank.ba/bs/instrukcija-za-isplatu-mjesecnih-primanja-zaposlenicima) [ok] linkova-oglasa: 14, signal: 0
+    - Akcije -> http://ziraatbank.ba/bs/akcije
+    - Digitalno bankarstvo -> http://ziraatbank.ba/bs/digitalno-bankarstvo
+    - Odnosi sa Investitorima -> http://ziraatbank.ba/bs/odnosi-s-investitorimac
+    - Informacije -> http://ziraatbank.ba/bs/informacije
+  - [(proba)](https://ziraatbank.ba/karijera) [ok] linkova-oglasa: 7, signal: 6
+    - Akcije -> http://ziraatbank.ba/bs/akcije
+    - Digitalno bankarstvo -> http://ziraatbank.ba/bs/digitalno-bankarstvo
+    - Odnosi sa Investitorima -> http://ziraatbank.ba/bs/odnosi-s-investitorimac
+    - Informacije -> http://ziraatbank.ba/bs/informacije
+- ✅ **Privredna banka Sarajevo** (https://www.pbs.ba/)
+  - [Dokumentarni poslovi](https://www.pbs.ba/dokumentarni-poslovi) [ok] linkova-oglasa: 25, signal: 0
+    - Mreža bankomata -> https://www.pbs.ba/lokacija-bankomata
+    - Zahtjev za izdavanje garancije -> https://www.pbs.ba/wp-content/uploads/2026/05/PL_ZahtjevZaOtvaranj_garancije_092025.docx
+    - Tarifa naknada u poslovanju sa fizičkim licima -> https://www.pbs.ba/tarifa-naknada-fizicka-lica
+    - Tarifa naknada u poslovanju sa pravnim licima -> https://www.pbs.ba/tarifa-naknada-pravna-lica
+- ✅ **Nova banka** (https://www.novabanka.com/sr)
+  - [Gotovinski krediti za zaposlene](https://www.novabanka.com/sr/stranica/114/stanovnistvo/krediti/gotovinski-krediti/gotovinski-krediti-za-zaposlene) [ok] linkova-oglasa: 12, signal: 1
+    - KURSNA LISTA -> https://www.novabanka.com/sr/kursna-lista
+    - POSLOVNICE I BANKOMATI -> https://www.novabanka.com/sr/poslovnice-i-bankomati
+    - Informacioni list za gotovinske kredite -> https://www.novabanka.com/show-api-document/4420203/Informacioni%20list%20za%20gotovinske%20kredite
+    - Informacioni list za gotovinske kredite -> https://www.novabanka.com/download-api-document/4420203/Informacioni%20list%20za%20gotovinske%20kredite
+  - [Garancije](https://www.novabanka.com/sr/stranica/67/pravna-lica/dokumentarni-poslovi/garancije) [ok] linkova-oglasa: 4, signal: 1
+    - KURSNA LISTA -> https://www.novabanka.com/sr/kursna-lista
+    - POSLOVNICE I BANKOMATI -> https://www.novabanka.com/sr/poslovnice-i-bankomati
+    - Vodič za dokumentarno i garancijsko poslovanje -> https://www.novabanka.com/storage/public/documents/Vodi%C4%8D%20za%20dokumentarno%20i%20garancijsko%20poslovanje.pdf
+    - Vodič za dokumentarno i garancijsko poslovanje -> https://www.novabanka.com/storage/public/documents/Vodič za dokumentarno i garancijsko poslovanje.pdf
+  - [Akreditivi](https://www.novabanka.com/sr/stranica/68/pravna-lica/dokumentarni-poslovi/akreditivi) [ok] linkova-oglasa: 5, signal: 1
+    - KURSNA LISTA -> https://www.novabanka.com/sr/kursna-lista
+    - POSLOVNICE I BANKOMATI -> https://www.novabanka.com/sr/poslovnice-i-bankomati
+    - Nalog za Izmjenu Akreditiva -> https://www.novabanka.com/storage/public/documents/Nalog za Izmjenu Akreditiva.pdf
+    - Nalog za Otvaranje Akreditiva -> https://www.novabanka.com/storage/public/documents/Nalog za Otvaranje Akreditiva.pdf
+  - [Inkaso](https://www.novabanka.com/sr/stranica/70/pravna-lica/dokumentarni-poslovi/inkaso) [ok] linkova-oglasa: 3, signal: 1
+    - KURSNA LISTA -> https://www.novabanka.com/sr/kursna-lista
+    - POSLOVNICE I BANKOMATI -> https://www.novabanka.com/sr/poslovnice-i-bankomati
+    - Vodič za dokumentarno i garancijsko poslovanje -> https://www.novabanka.com/storage/public/documents/Vodič za dokumentarno i garancijsko poslovanje.pdf
+- ✅ **MF banka** (https://mfbanka.com/)
+  - [KARIJERA](https://mfbanka.com/index.php/s-karijera) [ok] linkova-oglasa: 43, signal: 8
+    - Biznis -> https://mfbanka.com/index.php/biznis
+    - STANOVNIŠTVO -> https://mfbanka.com/index.php/stanovnistvo
+    - ONLINE ZAHTJEVI -> https://mfbanka.com/index.php/online-zahtjevi-s
+    - ODRŽIVI PROIZVODi -> https://mfbanka.com/index.php/odrzivi-proizvodi-stanovnistvo
+  - [KARIJERA](https://mfbanka.com/index.php/karijera) [ok] linkova-oglasa: 43, signal: 8
+    - Biznis -> https://mfbanka.com/index.php/biznis
+    - STANOVNIŠTVO -> https://mfbanka.com/index.php/stanovnistvo
+    - ONLINE ZAHTJEVI -> https://mfbanka.com/index.php/online-zahtjevi
+    - KARIJERA -> https://mfbanka.com/index.php/s-karijera
+  - [https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-visoko](https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-visoko) [ok] linkova-oglasa: 49, signal: 4
+    - Biznis -> https://mfbanka.com/index.php/biznis
+    - STANOVNIŠTVO -> https://mfbanka.com/index.php/stanovnistvo
+    - ONLINE ZAHTJEVI -> https://mfbanka.com/index.php/online-zahtjevi
+    - KARIJERA -> https://mfbanka.com/index.php/s-karijera
+  - [Karijera](https://mfbanka.com/index.php/category/karijera) [ok] linkova-oglasa: 52, signal: 6
+    - Blagajnik – 1 izvršilac, Visoko -> https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-visoko
+    - Blagajnik – 1 izvršilac, Novi Grad -> https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-novi-grad
+    - Blagajnik – više izvršilaca – Mostar , Zenica -> https://mfbanka.com/index.php/karijera/blagajnik-vise-izvrsilaca-mostar-zenica
+    - Saradnik za procjenu kreditnog rizika, Banja Luka -> https://mfbanka.com/index.php/karijera/saradnik-za-procjenu-kreditnog-rizika-banja-luka
+- ✅ **ATOS banka** (https://www.atosbank.ba/)
+  - [Karijera](https://www.atosbank.ba/content/read/karijera) [ok] linkova-oglasa: 7, signal: 4
+    - Poslovnice i bankomati -> https://www.atosbank.ba/point/pointlist
+    - Često postavljana pitanja -> https://www.atosbank.ba/content/read/faq
+    - Aplicirajte online -> https://www.atosbank.ba/content/read/online-zahtjev-za-zaposlenje
+    - Oročena štednja Ulažite u budućnost -> https://www.atosbank.ba/content/read/orocena-stednja
+  - [Dokumentarni poslovi](https://www.atosbank.ba/content/category/dokumentarni-poslovi-1?sectionId=2) [ok] linkova-oglasa: 9, signal: 0
+    - Poslovnice i bankomati -> https://www.atosbank.ba/point/pointlist
+    - Često postavljana pitanja -> https://www.atosbank.ba/content/read/faq
+    - Plative garancije Mi garantujemo za Vaše poslovanje Više Posjećeno -> https://www.atosbank.ba/Content/Read/plative-garancije-1
+    - Činidbene garancije Budite sigurni da će ugovoreni posao biti završen  -> https://www.atosbank.ba/Content/Read/cinidbene-garancije-1
+  - [Dokumentarni poslovi](https://www.atosbank.ba/content/category/dokumentarni-poslovi-2?sectionId=3) [ok] linkova-oglasa: 9, signal: 0
+    - Poslovnice i bankomati -> https://www.atosbank.ba/point/pointlist
+    - Često postavljana pitanja -> https://www.atosbank.ba/content/read/faq
+    - Plative garancije Mi garantujemo za Vaše poslovanje Više Posjećeno -> https://www.atosbank.ba/Content/Read/plative-garancije-2
+    - Činidbene garancije Budite sigurni da će ugovoreni posao biti završen  -> https://www.atosbank.ba/Content/Read/cinidbene-garancije-2
+  - [Hipotekarni kredit za državljane BiH zaposlene u inostranstvu](https://www.atosbank.ba/content/read/hipotekarni_kredit_drzavljani_bih_zaposleni_u_inostranstvu) [ok] linkova-oglasa: 11, signal: 0
+    - Poslovnice i bankomati -> https://www.atosbank.ba/point/pointlist
+    - Često postavljana pitanja -> https://www.atosbank.ba/content/read/faq
+    - Zahtjev za kreditni proizvod -> https://www.atosbank.ba/data/dokumenti/pdf/OB-369_Zahtjev za kreditni proizvod za FL_15102026.pdf
+    - Ovdje možete preuzeti PDF dokument -> https://www.atosbank.ba/data/dokumenti/pdf/Opšti uslovi korišćenja u kreditnom poslovanju sa fizičkim licima .pdf
+- ❌ **Naša banka** (https://www.nasabanka.ba): ConnectionError: HTTPConnectionPool(host='www.nasabanka.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.nasabanka.ba', port=80): Failed to resolve 'www.nasabanka.ba' ([Errno -2] Name or service not known)"))
+- ❌ **KIB banka** (https://www.kib-banka.com.ba): ConnectTimeout: HTTPConnectionPool(host='www.kib-banka.com.ba', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.kib-banka.com.ba', port=80) at 0x739988649190>, 'Connection to www.kib-banka.com.ba timed out. (connect timeout=25)'))
+- ✅ **Razvojna banka FBiH** (https://rbfbih.ba/)
+  - [Podsticaj zapošljavanja i samozapošljavanja](https://rbfbih.ba/dugorocni-krediti/podsticaj-zaposljavanja-i-samozaposljavanja) [ok] linkova-oglasa: 32, signal: 2
+    - bosanskom -> https://rbfbih.ba/wp-content/uploads/2020/06/PodsticajZaposljavanja-BS.pdf
+    - hrvatskom -> https://rbfbih.ba/wp-content/uploads/2020/06/PoticanjeUposljavanja-HR.pdf
+    - Potrebna dokumentacija uz kreditni zahtjev za fizička lica (obrtnici,  -> https://rbfbih.ba/wp-content/uploads/2020/06/Potrebna-dokumentacija-uz-kreditni-zahtjev-za-fizička-lica-obrtnici-poljoprivredni-proizvođači-i-dr_.pdf
+    - Potrebna dokumentacija uz kreditni zahtjev za dionička društva, društv -> https://rbfbih.ba/wp-content/uploads/2020/06/Potrebna-dokumentacija-uz-kreditni-zahtjev-za-dionička-društva-društva-sa-ograničenom-odgovornošću-i-ostala-pravna-lica-zadruge-udruženje-agencija-i-slično.pdf
+  - [Kreditna linija za održavanje zaposlenosti](https://rbfbih.ba/dugorocni-krediti/odrzavanje-zaposlenosti) [ok] linkova-oglasa: 31, signal: 2
+    - bosanskom -> https://rbfbih.ba/wp-content/uploads/2020/06/OdrzavanjeZaposlenosti-BS.pdf
+    - hrvatskom -> https://rbfbih.ba/wp-content/uploads/2020/06/OdrzavanjeUposlenosti-HR.pdf
+    - Potrebna dokumentacija uz kreditni zahtjev za fizička lica (obrtnici,  -> https://rbfbih.ba/wp-content/uploads/2020/06/Potrebna-dokumentacija-uz-kreditni-zahtjev-za-fizička-lica-obrtnici-poljoprivredni-proizvođači-i-dr_.pdf
+    - Potrebna dokumentacija uz kreditni zahtjev za dionička društva, društv -> https://rbfbih.ba/wp-content/uploads/2020/06/Potrebna-dokumentacija-uz-kreditni-zahtjev-za-dionička-društva-društva-sa-ograničenom-odgovornošću-i-ostala-pravna-lica-zadruge-udruženje-agencija-i-slično.pdf
+  - [Konkursi](https://rbfbih.ba/category/sluzbene-objave/konkursi) [ok] linkova-oglasa: 22, signal: 35
+    - Javni konkurs za odabir korisnika kreditnih sredstava po Programu „Kre -> https://rbfbih.ba/javni-konkurs-za-odabir-korisnika-kreditnih-sredstava-po-programu-kreditni-poticaj-razvoja-poduzetnistva-i-obrta-za-2026-godinu
+    - Javni konkurs za odabir korisnika kreditnih sredstava po Programu „Kre -> https://rbfbih.ba/wp-content/uploads/2026/10/JAVNI-KONKURS-KREDIT-2026.doc
+    - Smjernice za podnosioce projektnih prijedloga za Javni konkurs -> https://rbfbih.ba/wp-content/uploads/2026/10/SMJERNICE-KREDIT-2026.docx
+    - za odabir korisnika kreditnih sredstava po Programu „Kreditni poticaj  -> https://rbfbih.ba/wp-content/uploads/2026/09/Odluka-o-imenovanju-Odbora-za-reviziju-Razvojne-banke-FBiH.pdf
+  - [Oglasi](https://rbfbih.ba/category/sluzbene-objave/oglasi) [ok] linkova-oglasa: 10, signal: 32
+    - Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federaci -> https://rbfbih.ba/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-federacije-bosne-i-hercegovine-9
+    - Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federaci -> https://rbfbih.ba/wp-content/uploads/2026/10/Siroki-cijeli.pdf
+    - Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federaci -> https://rbfbih.ba/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-federacije-bosne-i-hercegovine-8
+    - Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federaci -> https://rbfbih.ba/wp-content/uploads/2026/10/oglas-za-prijem-radnika-poslovnica-Bihac-puni-1.pdf
+- ✅ **Investiciono-razvojna banka RS** (https://irbrs.org/)
+  - [Зајмови за запошљавање демобилисаних бораца Подршка у процесу запошљавања ове со](https://irbrs.org/zajmovi-za-zaposljavanje-demobilisanih-boraca) [ok] linkova-oglasa: 1, signal: 0
+    - Захтјев за кредит за запошљавање демобилисаних бораца -> https://irbrs.org/wp-content/uploads/2024/02/zahtjev_demobilisani_borci.pdf
+  - [Фонд за развој и запошљавање Републике Српске](https://irbrs.org/fond-za-razvoj-i-zaposljavanje-republike-srpske) [ok] linkova-oglasa: 1, signal: 0
+    - улагања у хартије од вриједности -> https://irbrs.org/podrska-emisijama-hartija-od-vrijednosti
+- ✅ **Centralna banka BiH** (https://www.cbbh.ba/)
+  - [Vacancies - employment in CBBH](https://www.cbbh.ba/career) [ok] linkova-oglasa: 0, signal: 2
+  - [Internship in the CBBH](https://www.cbbh.ba/Content/Read/1116) [ok] linkova-oglasa: 0, signal: 2
+- ✅ **Agencija za bankarstvo FBiH** (https://www.fba.ba/)
+  - [https://www.fba.ba/bs/javni-oglas-za-prijem-u-radni-odnos-u-agenciji-za-bankarstvo-federacije-bosne-i-hercegovine-na-neodredeno-vrijeme-sa-probnim-5](https://www.fba.ba/bs/javni-oglas-za-prijem-u-radni-odnos-u-agenciji-za-bankarstvo-federacije-bosne-i-hercegovine-na-neodredeno-vrijeme-sa-probnim-5) [greška] linkova-oglasa: 0, signal: 0
+  - [https://www.fba.ba/bs/javni-oglas-za-prijem-u-radni-odnos-u-agenciji-za-6](https://www.fba.ba/bs/javni-oglas-za-prijem-u-radni-odnos-u-agenciji-za-6) [greška] linkova-oglasa: 0, signal: 0
+  - [Javni oglas za prijem u radni odnos u Agenciji za bankarstvo Federacije Bosne i ](https://www.fba.ba/bs/javni-oglas-za-prijem-u-radni-odnos-u-agenciji-za-5) [greška] linkova-oglasa: 0, signal: 0
+- ⚪ **Agencija za bankarstvo RS** (https://abrs.ba/): nema stranice karijera
+- ✅ **Monri** (https://monri.com/)
+  - [(proba)](https://monri.com/careers) [ok] linkova-oglasa: 1, signal: 2
+    - Saznajte više -> https://monri.com/careers/junior-ruby-developer
+- ✅ **Mikra** (https://mikra.ba/)
+  - [Prodaja službenih polovnih automobila MKF Mikra](https://mikra.ba/oglasi-auti) [ok] linkova-oglasa: 0, signal: 3
+  - [(proba)](https://mikra.ba/karijera) [ok] linkova-oglasa: 0, signal: 2
+  - [(proba)](https://mikra.ba/karijere) [ok] linkova-oglasa: 2, signal: 2
+    - Aplicirajte odmah -> https://mikra.ba/aplikacija-za-finansiranje
+    - Vidi sva pitanja -> https://mikra.ba/pitanja-i-odgovori
+  - [(proba)](https://mikra.ba/posao) [ok] linkova-oglasa: 2, signal: 2
+    - Aplicirajte odmah -> https://mikra.ba/aplikacija-za-finansiranje
+    - Vidi sva pitanja -> https://mikra.ba/pitanja-i-odgovori
+- ✅ **Partner mikrokreditna** (https://www.partner.ba/)
+  - [Brzi mikrokrediti za zaposlene u inostranstvu](https://www.partner.ba/brzi-mikrokrediti-za-zaposlene-u-inostranstvu) [ok] linkova-oglasa: 3, signal: 2
+    - Klub korisnika -> https://www.partner.ba/sta-je-klub-korisnika-partner-mko
+    - Opšti uslovi poslovanja MKF -> https://www.partner.ba/wp-content/uploads/2026/06/O-A3-1-35-30-Opsti-uslovi-poslovanja.pdf
+    - Reprezentativni primjeri mikrokredita MKF -> https://www.partner.ba/wp-content/uploads/2026/09/Cjenovnik-ver.-107.pdf
+  - [Oglasi](https://www.partner.ba/oglasi) [ok] linkova-oglasa: 15, signal: 43
+    - Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opšt -> https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-prnjavor
+    - Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opšt -> https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-bijeljina
+    - Oglas za prijem u radni odnos – Koordinator za finansijske izvore – 1  -> https://www.partner.ba/oglas-za-prijem-u-radni-odnos-koordinator-za-finansijske-izvore-1-izvrsilac-tuzla
+    - Javni poziv za dostavu ponuda -> https://www.partner.ba/javni-poziv-za-dostavu-ponuda
+- ✅ **LOK mikrokreditna** (https://lok.ba/)
+  - [Karijere](https://lok.ba/karijere) [ok] linkova-oglasa: 0, signal: 2
+- ⚪ **EKI** (https://www.eki.ba/): nema stranice karijera
+- ✅ **Sunrise mikrokreditna** (https://www.microsunrise.ba/)
+  - [KARIJERA](https://www.microsunrise.ba/karijera) [ok] linkova-oglasa: 2, signal: 9
+    - Kreditni kalkulator -> https://www.microsunrise.ba/kreditni-kalkulator
+    - PRIDRUŽI NAM SE -> https://www.microsunrise.ba/karijera/samoinicijativna-prijava-za-posao
+  - [Pročitaj više](https://www.microsunrise.ba/clanak/javni-oglas-o-prodaji-nekretnineposlovnog-objekta-u-vlasnistvu-mkf-sunrise-putem-javnog-nadmetanja-licitacije-1) [ok] linkova-oglasa: 1, signal: 10
+    - Kreditni kalkulator -> https://www.microsunrise.ba/kreditni-kalkulator
+- ✅ **Mi-Bospo** (https://www.mi-bospo.org/)
+  - [Zaposlenje](https://www.mi-bospo.org/zaposlenje) [greška] linkova-oglasa: 0, signal: 0
+  - [Oglasi za posao](https://www.mi-bospo.org/oglasi-za-posao) [ok] linkova-oglasa: 22, signal: 9
+    - Zaštita ličnih podataka -> https://www.mi-bospo.org/zastita-licnih-podataka
+    - Pravila privatnosti MKF -> https://www.mi-bospo.org/files/zastita_podataka/pravila_privatnosti-mkf.pdf
+    - Pravila privatnosti MKD -> https://www.mi-bospo.org/files/zastita_podataka/pravila_privatnosti-mkd.pdf
+    - Službenik za zaštitu ličnih podataka -> https://www.mi-bospo.org/files/zastita_podataka/obavijest_o_sluzbeniku_za_zastitu_licnih podataka.pdf
+  - [Prijava za posao](https://www.mi-bospo.org/prijava-za-posao) [ok] linkova-oglasa: 15, signal: 23
+    - Zaštita ličnih podataka -> https://www.mi-bospo.org/zastita-licnih-podataka
+    - Pravila privatnosti MKF -> https://www.mi-bospo.org/files/zastita_podataka/pravila_privatnosti-mkf.pdf
+    - Pravila privatnosti MKD -> https://www.mi-bospo.org/files/zastita_podataka/pravila_privatnosti-mkd.pdf
+    - Službenik za zaštitu ličnih podataka -> https://www.mi-bospo.org/files/zastita_podataka/obavijest_o_sluzbeniku_za_zastitu_licnih podataka.pdf
+  - [Obrazac prijave za posao](https://www.mi-bospo.org/obrazac-za-prijavu) [ok] linkova-oglasa: 22, signal: 7
+    - Zaštita ličnih podataka -> https://www.mi-bospo.org/zastita-licnih-podataka
+    - Pravila privatnosti MKF -> https://www.mi-bospo.org/files/zastita_podataka/pravila_privatnosti-mkf.pdf
+    - Pravila privatnosti MKD -> https://www.mi-bospo.org/files/zastita_podataka/pravila_privatnosti-mkd.pdf
+    - Službenik za zaštitu ličnih podataka -> https://www.mi-bospo.org/files/zastita_podataka/obavijest_o_sluzbeniku_za_zastitu_licnih podataka.pdf
+- ⚪ **Sarajevo osiguranje** (https://www.sarajevoosiguranje.ba/): nema stranice karijera
+- ✅ **Triglav osiguranje** (https://www.triglav.ba/)
+  - [Stipendijsko osiguranje](https://www.triglav.ba/osiguranja/stanovnistvo/zivot/stipendijsko-osiguranje) [ok] linkova-oglasa: 7, signal: 6
+    - Stipendijsko osiguranje -> https://www.triglav.ba/osiguranja/stanovnistvo/zivot/stipendijsko-osiguranje?1dmy=&pswid=Z7_PACA0KC0O8LE30QH8T19ASN374&urile=wcm%3Apath%3A%2Ftriglav.ba%2Findex%2Fosiguranja%2Fstanovnistvo%2Fzivot%2F
+    - Stipendijsko osiguranje -> https://www.triglav.ba/osiguranja/stanovnistvo/zivot/stipendijsko-osiguranje?1dmy=&pswid=Z7_PACA0KC0O8LE30QH8T19ASN374&urile=wcm%3Apath%3A%2Ftriglav.ba%2Findex%2Fosiguranja%2Fstanovnistvo%2Fzivot%2Fstipendijsko-osiguranje
+    - Naruči zastupnika -> https://www.triglav.ba/osiguranja/stanovnistvo/zivot/stipendijsko-osiguranje?1dmy=&pswid=Z7_PACA0KC0O8LE30QH8T19ASN375&urile=wcm%3Apath%3A%2Ftriglav.ba%2Findex%2Fkorisno%2Fnaruci-zastupnika
+    - Posjeti poslovnicu -> https://www.triglav.ba/osiguranja/stanovnistvo/zivot/stipendijsko-osiguranje?1dmy=&pswid=Z7_PACA0KC0O8LE30QH8T19ASN375&urile=wcm%3Apath%3A%2Ftriglav.ba%2Findex%2Fkorisno%2Fposlovnice-i-kontakti
+  - [Karijera](https://www.triglav.ba/karijera) [ok] linkova-oglasa: 2, signal: 6
+    - Otvorena radna mjesta -> https://www.triglav.ba/karijera/triglav-zaposlenje
+    - Naši ljudi -> https://www.triglav.ba/karijera/nasi-ljudi
+  - [(proba)](https://www.triglav.ba/karijere) [ok] linkova-oglasa: 1, signal: 11
+    - Koliko bi bilo potrebno mojim najbližima? -> https://www.triglav.ba/koliko-bi-bilo-potrebno-mojim-najblizima
+  - [(proba)](https://www.triglav.ba/posao) [ok] linkova-oglasa: 1, signal: 11
+    - Koliko bi bilo potrebno mojim najbližima? -> https://www.triglav.ba/koliko-bi-bilo-potrebno-mojim-najblizima
+- ✅ **Uniqa osiguranje** (https://www.uniqa.ba/)
+  - [Vaš posao](https://www.uniqa.ba/pravna-lica/vas-posao) [ok] linkova-oglasa: 14, signal: 10
+    - Osiguranje imovine -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-imovine
+    - Osiguranje imovine "All Risks" -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-imovine-od-svih-rizika-all-risks
+    - Osiguranje malih i srednjih preduzeća -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-malih-i-srednjih-preduzeca
+    - Osiguranje robe u transportu -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-robe-u-transportu
+  - [Osiguranje imovine](https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-imovine) [ok] linkova-oglasa: 8, signal: 6
+    - Vaš posao -> https://www.uniqa.ba/pravna-lica/vas-posao
+    - Osiguranje malih i srednjih preduzeća -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-malih-i-srednjih-preduzeca
+    - Osiguranje od odgovornosti -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-odgovornosti
+    - Kasko osiguranje vozila -> https://www.uniqa.ba/pravna-lica/vas-posao/kasko-osiguranje-1
+  - [Osiguranje imovine od svih rizika "All Risks"](https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-imovine-od-svih-rizika-all-risks) [ok] linkova-oglasa: 8, signal: 6
+    - Vaš posao -> https://www.uniqa.ba/pravna-lica/vas-posao
+    - Osiguranje imovine -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-imovine
+    - Osiguranje robe u transportu -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-robe-u-transportu
+    - Osiguranje malih i srednjih preduzeća -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-malih-i-srednjih-preduzeca
+  - [Osiguranje malih i srednjih poduzeća](https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-malih-i-srednjih-preduzeca) [ok] linkova-oglasa: 9, signal: 6
+    - Vaš posao -> https://www.uniqa.ba/pravna-lica/vas-posao
+    - Brošura -> https://www.uniqa.ba/pub/media/wysiwyg/BiH_brosure/SME_Paket_osiguranja_-_Osiguranje_imovine_malih_i_srednjih_preduzeca_11-2020_WEB.pdf
+    - Osiguranje imovine od svih rizika "All Risks" -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-imovine-od-svih-rizika-all-risks
+    - Osiguranje robe u transportu -> https://www.uniqa.ba/pravna-lica/vas-posao/osiguranje-robe-u-transportu
+- ✅ **Wiener osiguranje** (https://wiener.ba/)
+  - [Pravna lica](https://wiener.ba/osiguranja/nezgode-zaposlenika) [ok] linkova-oglasa: 3, signal: 4
+    - ONLINE PRIJAVA ŠTETE -> https://wiener.ba/online-prijava-stete
+    - [email protected] -> https://wiener.ba/cdn-cgi/l/email-protection
+    - Secret Link -> https://wiener.ba/d539497eb7a04c80
+  - [KARIJERA](https://wiener.ba/karijera) [ok] linkova-oglasa: 3, signal: 20
+    - OTVORENI KONKURSI -> https://wiener.ba/wp-content/uploads/2026/10/Wiener-osiguranje_Oglas_Rukovodilac-odjeljenja-analitickog-racunovodstva_29.-oktobar-2026.pdf
+    - [email protected] -> https://wiener.ba/cdn-cgi/l/email-protection
+    - Secret Link -> https://wiener.ba/d539497eb7a04c80
+- ❌ **Allianz BiH** (https://www.allianz.ba): ConnectionError: HTTPConnectionPool(host='www.allianz.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.allianz.ba', port=80): Failed to resolve 'www.allianz.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Croatia osiguranje** (https://crosig.ba/)
+  - [https://crosig.ba/natjecaj-za-prijem-u-radni-odnos-za-radno-mjesto-savjetnik-za-osiguranje-7](https://crosig.ba/natjecaj-za-prijem-u-radni-odnos-za-radno-mjesto-savjetnik-za-osiguranje-7) [ok] linkova-oglasa: 19, signal: 14
+    - Imovinsko osiguranje -> https://crosig.ba/imovinsko-osiguranje
+    - Moj majstor – pomoć u kući -> https://crosig.ba/index.php/imovinsko-osiguranje
+    - Dodatna financijska zaštita od neočekivanih situacija -> https://crosig.ba/index.php/auto-osiguranje
+    - Osiguranje od nesretnog slučaja -> https://crosig.ba/osiguranje-od-nesretnog-slucaja
+- ✅ **Grawe osiguranje** (https://www.grawe.ba/)
+  - [GRAWE posao](https://www.grawe.ba/grawe-posao) [ok] linkova-oglasa: 0, signal: 14
+  - [Online aplikacija za posao Zastupnik](https://www.grawe.ba/online-aplikacija-za-posao-zastupnik) [ok] linkova-oglasa: 0, signal: 24
+- ❌ **Euroherc osiguranje** (https://www.euroherc.ba): HTTP 523
+- ✅ **ASA osiguranje** (https://asacentral.ba)
+  - [Karijera](https://asacentral.ba/karijera) [ok] linkova-oglasa: 21, signal: 10
+    - Procijeni štetu -> https://asacentral.ba/sam-svoj-procjenitelj
+    - Osiguranje od automobilske odgovornosti -> https://asacentral.ba/osiguranje-od-automobilske-odgovornosti
+    - Pomoć na putu -> https://asacentral.ba/asistencija-na-putu
+    - Kalkulator registracije -> https://asacentral.ba/kalkulator-registracije-1
+  - [https://asacentral.ba/clanak/zaposljavamo-na-poziciji-direktor-sektora-opcih-poslova-nabavki-i-investicija-1](https://asacentral.ba/clanak/zaposljavamo-na-poziciji-direktor-sektora-opcih-poslova-nabavki-i-investicija-1) [ok] linkova-oglasa: 22, signal: 10
+    - Procijeni štetu -> https://asacentral.ba/sam-svoj-procjenitelj
+    - Osiguranje od automobilske odgovornosti -> https://asacentral.ba/osiguranje-od-automobilske-odgovornosti
+    - Pomoć na putu -> https://asacentral.ba/asistencija-na-putu
+    - Kalkulator registracije -> https://asacentral.ba/kalkulator-registracije-1
+- ❌ **Bosna-Sunce osiguranje** (https://www.bosnasunce.ba): ConnectionError: HTTPConnectionPool(host='www.bosnasunce.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.bosnasunce.ba', port=80): Failed to resolve 'www.bosnasunce.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Raiffeisen Leasing** (https://www.rlbh.ba/bs/home.html)
+  - [Posao u Raiffeisen Leasingu](https://www.rlbh.ba/bs/o-nama/posao-u-raiffeisen-leasingu.html) [ok] linkova-oglasa: 0, signal: 3
+
+## it
+
+- ✅ **Infobip** (https://www.infobip.com/)
+  - [Careers](https://www.infobip.com/careers) [ok] linkova-oglasa: 0, signal: 1
+- ✅ **Authority Partners** (https://authoritypartners.com/)
+  - [Careers](https://authoritypartners.com/careers) [ok] linkova-oglasa: 4, signal: 1
+    - Explore AP Lab -> https://authoritypartners.com/careers/ap-lab
+    - Webinar: Azure AI Search -> https://authoritypartners.com/insights/azure-ai-search
+    - Webinar: Production Guardrails for AI Agents -> https://authoritypartners.com/insights/production-guardrails-for-ai-agents
+    - Zero-Error AI Agents Are Here -> https://authoritypartners.com/insights/zero-error-ai-agents-are-here
+- ✅ **Klika** (https://www.klika.us)
+  - [Careers](https://www.klika.us/careers) [ok] linkova-oglasa: 2, signal: 3
+    - Terms and Conditions -> https://www.klika.us/legal/terms-and-conditions
+    - Quality and Information Security Policy -> https://www.klika.us/legal/quality-and-information-security-policy
+- ✅ **Lanaco** (https://www.lanaco.com/en/home)
+  - [Career](https://www.lanaco.com/en/karijera) [ok] linkova-oglasa: 3, signal: 8
+    - Open positions -> https://www.lanaco.com/en/otvorene-pozicije
+    - Learn more about internships -> https://www.lanaco.com/en/studenti
+    - Privacy Policy -> https://www.lanaco.com/en/zastita-privatnosti
+  - [(proba)](https://www.lanaco.com/en/home) [ok] linkova-oglasa: 9, signal: 0
+    - Custom Software Solutions We combine expertise and experience to build -> https://www.lanaco.com/en/prilagodjena-softverska-rjesenja
+    - Cloud Services Transform the way you operate with scalable infrastruct -> https://www.lanaco.com/en/cloud-i-data-infrastruktura
+    - SaaS Solutions & Services Our expertise covers SaaS development, inclu -> https://www.lanaco.com/en/saas-rjesenja-i-usluge
+    - Communication and Collaboration Build a strong organizational culture  -> https://www.lanaco.com/en/komunikacioni-i-kolaboracioni-sistemi
+- ⚪ **Mistral** (https://www.mistral.ba/): nema stranice karijera
+- ✅ **Zira** (https://ziragroup.com/)
+  - [Careers](https://ziragroup.com/careers/open-positions) [ok] linkova-oglasa: 2, signal: 6
+    - ZIRA Talent Academy -> https://ziragroup.com/careers/zira-talent-academy
+    - Student scholarships program -> https://ziragroup.com/careers/scholarships
+  - [ZIRA Talent Academy](https://ziragroup.com/careers/zira-talent-academy) [ok] linkova-oglasa: 1, signal: 5
+    - Find out more -> https://ziragroup.com/careers/open-positions
+  - [Scholarships](https://ziragroup.com/careers/scholarships) [ok] linkova-oglasa: 0, signal: 6
+- ✅ **Comtrade** (https://www.comtrade.com/)
+  - [Careers](https://www.comtrade.com/jobs) [ok] linkova-oglasa: 3, signal: 0
+    - Serbia Senior Dynamics 365 CE/CRM Consultant -> https://www.comtrade.com/jobs/senior-dynamics-365-ce-crm-consultant
+    - Slovenia Microsoft Senior Solution Engineer -> https://www.comtrade.com/jobs/microsoft-senior-solution-engineer
+    - Multiple Locations General application -> https://www.comtrade.com/jobs/general-application
+- ✅ **Endava** (https://www.endava.com/)
+  - [Join our team](https://www.endava.com/careers) [ok] linkova-oglasa: 5, signal: 0
+    - Endava roles / Discover job opportunities at Endava. Explore careers -> https://www.endava.com/careers/jobs
+    - People and culture blog / Read the stories that reflect who we are. Vi -> https://www.endava.com/careers/people-culture-blog
+    - Life at Endava / Discover how we create a positive impact inside and o -> https://www.endava.com/careers/life-at-endava
+    - endava.com/careers/jobs -> https://endava.com/careers/jobs
+  - [Jobs](https://www.endava.com/careers/jobs) [ok] linkova-oglasa: 4, signal: 0
+    - endava.com/careers/jobs -> https://endava.com/careers/jobs
+    - Talent communities / Build meaningful connections and unlock new oppor -> https://www.endava.com/careers/talent-communities
+    - Life at Endava / Discover how we create a positive impact inside and o -> https://www.endava.com/careers/life-at-endava
+    - People and culture blog / Read the stories that reflect who we are. Vi -> https://www.endava.com/careers/people-culture-blog
+  - [Early Careers](https://www.endava.com/careers/early-careers) [ok] linkova-oglasa: 6, signal: 2
+    - Already have some experience? -> https://www.endava.com/careers/jobs?level=Associate&level=Entry+Level&level=Internship
+    - Learn more -> https://www.endava.com/careers/early-careers/junior-programmes
+    - Endava roles / Discover job opportunities at Endava. Explore careers -> https://www.endava.com/careers/jobs
+    - People and culture blog / Read the stories that reflect who we are. Vi -> https://www.endava.com/careers/people-culture-blog
+  - [Experienced Professionals](https://www.endava.com/careers/experienced-professionals) [ok] linkova-oglasa: 4, signal: 1
+    - Endava roles / Discover job opportunities at Endava. See more informat -> https://www.endava.com/careers/jobs?level=Director&level=Mid-Senior+Level
+    - People and culture blog / Read the stories that reflect who we are. Vi -> https://www.endava.com/careers/people-culture-blog
+    - Talent communities / Build meaningful connections and unlock new oppor -> https://www.endava.com/careers/talent-communities
+    - Life at Endava / Discover how we create a positive impact inside and o -> https://www.endava.com/careers/life-at-endava
+- ✅ **BIT Alliance** (https://www.bit-alliance.ba/)
+  - [ITkarijera.ba](https://itkarijera.ba/) [greška] linkova-oglasa: 0, signal: 0
+- ✅ **2am.tech** (https://www.2am.tech/)
+  - [Core Values](https://www.2am.tech/careers) [ok] linkova-oglasa: 7, signal: 3
+    - Software Development -> https://www.2am.tech/services/enterprise-software-development
+    - IT Consulting -> https://www.2am.tech/services/it-consulting-services
+    - Team Augmentation -> https://www.2am.tech/services/staff-augmentation-services
+    - Cloud Computing & Security -> https://www.2am.tech/services/cloud-computing-services
+- ❌ **Evona Soft** (https://evonasoft.com): ConnectionError: HTTPConnectionPool(host='evonasoft.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='evonasoft.com', port=80): Failed to resolve 'evonasoft.com' ([Errno -2] Name or service not known)"))
+- ❌ **Crossvallia** (https://crossvallia.com): ConnectionError: HTTPConnectionPool(host='crossvallia.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='crossvallia.com', port=80): Failed to resolve 'crossvallia.com' ([Errno -2] Name or service not known)"))
+- ❌ **Ergomed** (https://ergomedplc.com): HTTP 503
+- ✅ **Planet Soft** (https://planetsoft.ba/en)
+  - [CAREER](https://planetsoft.ba/en) [ok] linkova-oglasa: 10, signal: 0
+    - GIS based Asset Management -> https://planetsoft.ba/en/geographic-information-system-gis
+    - SAP Field Service Management -> https://planetsoft.ba/en/field-service-management-fsm
+    - Mobile subscriber detection and authorization -> https://planetsoft.ba/en/smart-planet
+    - SAP Service Support and Maintenance -> https://planetsoft.ba/en/systems-applications-and-products-sap
+- ✅ **Saga** (https://saga.ba/)
+  - [KARIJERA](https://saga.ba/karijera) [ok] linkova-oglasa: 2, signal: 3
+    - Rješenja i servisi -> https://saga.ba/rjesenja-i-servisi
+    - Digitalna transformacija -> https://saga.ba/digitalna-transformacija
+  - [Praksa](https://saga.ba/praksa) [ok] linkova-oglasa: 2, signal: 5
+    - Rješenja i servisi -> https://saga.ba/rjesenja-i-servisi
+    - Digitalna transformacija -> https://saga.ba/digitalna-transformacija
+  - [(proba)](https://saga.ba/oglasi) [ok] linkova-oglasa: 2, signal: 3
+    - Rješenja i servisi -> https://saga.ba/rjesenja-i-servisi
+    - Digitalna transformacija -> https://saga.ba/digitalna-transformacija
+- ✅ **Asseco SEE BiH** (https://asee.io/)
+  - [Career Center](https://asee.io/career-center) [ok] linkova-oglasa: 2, signal: 5
+    - Find out more -> https://asee.io/wp-content/uploads/2026/01/ASEE_Recruitment_Privacy_Notice-1.pdf
+    - Accessibility -> https://asee.io/accessibility-asee-group
+- ✅ **NSoft** (https://sportradar.com/betting-gaming/)
+  - [Careers](https://sportradar.com/careers) [ok] linkova-oglasa: 0, signal: 1
+  - [(proba)](https://sportradar.com/?lang=en-us) [ok] linkova-oglasa: 14, signal: 3
+    - Our Partners & Clients -> https://sportradar.com/about/partners-clients?lang=en-us
+    - PRODUCTS -> https://sportradar.com/betting-gaming/products?lang=en-us
+    - TRADING & RISK MANAGEMENT -> https://sportradar.com/betting-gaming/trading-risk-management?lang=en-us
+    - MARKETING SERVICES -> https://sportradar.com/betting-gaming/marketing-services?lang=en-us
+- ⚪ **Maestral Solutions** (https://maestralsolutions.com/): nema stranice karijera
+- ✅ **Bloomteq** (https://bloomteq.com/)
+  - [Engineering & Technology Bloomteq Internship Program 2026: Applications Now Open](https://bloomteq.com/insights/insight/bloomteq-internship-program-2026) [ok] linkova-oglasa: 3, signal: 6
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+  - [(proba)](https://bloomteq.com/karijera) [ok] linkova-oglasa: 54, signal: 4
+    - AI Agents in Enterprise Environments: Conceptual Clarification and Emp -> https://bloomteq.com/insights/article/ai-agents-in-enterprise-environments:conceptual-clarification-and-empirical-perspective
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+  - [(proba)](https://bloomteq.com/karijere) [ok] linkova-oglasa: 54, signal: 4
+    - AI Agents in Enterprise Environments: Conceptual Clarification and Emp -> https://bloomteq.com/insights/article/ai-agents-in-enterprise-environments:conceptual-clarification-and-empirical-perspective
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+  - [(proba)](https://bloomteq.com/posao) [ok] linkova-oglasa: 54, signal: 4
+    - AI Agents in Enterprise Environments: Conceptual Clarification and Emp -> https://bloomteq.com/insights/article/ai-agents-in-enterprise-environments:conceptual-clarification-and-empirical-perspective
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+- ⚪ **Tech387** (https://www.tech387.com/): nema stranice karijera
+- ✅ **Walter Code** (https://www.galeyo.com)
+  - [We are Hiring!](https://www.galeyo.com/open-positions) [ok] linkova-oglasa: 2, signal: 3
+    - General Application We’re always looking for new talent - Apply here! -> https://www.galeyo.com/open-positions/general-application
+    - Internship Sarajevo / Mostar, Bosnia and Herzegovina (Hybrid) -> https://www.galeyo.com/open-positions/internship
+  - [General Application We’re always looking for new talent - Apply here!](https://www.galeyo.com/open-positions/general-application) [ok] linkova-oglasa: 0, signal: 3
+  - [Internship Sarajevo / Mostar, Bosnia and Herzegovina (Hybrid)](https://www.galeyo.com/open-positions/internship) [ok] linkova-oglasa: 0, signal: 2
+- ✅ **Quantox** (https://www.quantox.com/)
+  - [Career ↗](https://joingrow.quantox.com/join-us) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **RT-RK Banja Luka** (https://www.rt-rk.com/)
+  - [Open Positions](https://www.rt-rk.com/open-positions) [ok] linkova-oglasa: 0, signal: 3
+- ⚪ **Systech** (https://systech.ba/): nema stranice karijera
+- ⚪ **Helpjuice** (https://helpjuice.com/): nema stranice karijera
+- ⚪ **oMedia** (https://omedia.ba/): nema stranice karijera
+- ❌ **Illuminos Solutions** (https://illuminos.ba): ConnectionError: HTTPConnectionPool(host='illuminos.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='illuminos.ba', port=80): Failed to resolve 'illuminos.ba' ([Errno -2] Name or service not known)"))
+- ✅ **PING** (https://www.ping.ba)
+  - [Karijere](https://www.ping.ba/karijere) [greška] linkova-oglasa: 0, signal: 0
+- ✅ **Wunder Mobility** (https://www.wundermobility.com/en)
+  - [Careers](https://www.wundermobility.com/en/company/careers) [ok] linkova-oglasa: 1, signal: 1
+    - Applicant privacy notice -> https://www.wundermobility.com/en/legal/applicant-privacy
+- ❌ **SEEBA** (https://www.seeba.ba): ConnectionError: HTTPConnectionPool(host='www.seeba.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.seeba.ba', port=80): Failed to resolve 'www.seeba.ba' ([Errno -3] Temporary failure in name resolution)"))
+- ✅ **Forsta** (https://www.forsta.com/)
+  - [Careers](https://www.forsta.com/company/careers) [ok] linkova-oglasa: 2, signal: 0
+    - About Forsta -> https://www.forsta.com/company/about
+    - See what we stand for -> https://www.forsta.com/company/culture
+- ❌ **Own** (https://www.owncompany.com): HTTP 404
+- ⚪ **OSB** (https://www.osb.ba/): nema stranice karijera
+- ✅ **Config** (https://config.ba/)
+  - [(proba)](https://config.ba/karijera) [ok] linkova-oglasa: 7, signal: 0
+    - HelpDesk Support -> https://config.ba/services/help-desk-support
+    - Software Development -> https://config.ba/services/software-development
+    - IT Systems and Networks -> https://config.ba/services/it-systems-and-networks
+    - ConfigAPM -> https://config.ba/solutions/config-apm
+  - [(proba)](https://config.ba/karijere) [ok] linkova-oglasa: 7, signal: 0
+    - HelpDesk Support -> https://config.ba/services/help-desk-support
+    - Software Development -> https://config.ba/services/software-development
+    - IT Systems and Networks -> https://config.ba/services/it-systems-and-networks
+    - ConfigAPM -> https://config.ba/solutions/config-apm
+  - [(proba)](https://config.ba/posao) [ok] linkova-oglasa: 7, signal: 0
+    - HelpDesk Support -> https://config.ba/services/help-desk-support
+    - Software Development -> https://config.ba/services/software-development
+    - IT Systems and Networks -> https://config.ba/services/it-systems-and-networks
+    - ConfigAPM -> https://config.ba/solutions/config-apm
+  - [(proba)](https://config.ba/poslovi) [ok] linkova-oglasa: 7, signal: 0
+    - HelpDesk Support -> https://config.ba/services/help-desk-support
+    - Software Development -> https://config.ba/services/software-development
+    - IT Systems and Networks -> https://config.ba/services/it-systems-and-networks
+    - ConfigAPM -> https://config.ba/solutions/config-apm
+- ⚪ **ALEM Sistem** (https://alem.ba/): nema stranice karijera
+- ❌ **InMotion** (https://inmotion.ba): ConnectionError: HTTPConnectionPool(host='inmotion.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='inmotion.ba', port=80): Failed to resolve 'inmotion.ba' ([Errno -2] Name or service not known)"))
+- ❌ **Serengeti** (https://www.serengeti.hr): ConnectionError: HTTPConnectionPool(host='www.serengeti.hr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.serengeti.hr', port=80): Failed to resolve 'www.serengeti.hr' ([Errno -2] Name or service not known)"))
+- ❌ **Visium** (https://visiumcode.com): ConnectionError: HTTPConnectionPool(host='visiumcode.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='visiumcode.com', port=80): Failed to resolve 'visiumcode.com' ([Errno -2] Name or service not known)"))
+- ✅ **Tacta** (https://tacta.io/)
+  - [Careers](https://tacta.io/careers) [ok] linkova-oglasa: 3, signal: 5
+    - Development Pair Programming: It Takes Two to Tango -> https://tacta.io/blog/pair-programming-it-takes-two-to-tango
+    - Development Introduction to AOP in Spring Boot – Understanding the Bas -> https://tacta.io/blog/introduction-to-aop-in-spring-boot-understanding-the-basics
+    - Development Value of Value Objects -> https://tacta.io/blog/value-of-value-objects
+- ✅ **Skyline Communications** (https://skyline.be/)
+  - [Jobs](https://skyline.be/jobs/en) [ok] linkova-oglasa: 7, signal: 0
+    - the. people -> https://skyline.be/skyline/about
+    - the [ product ] -> https://skyline.be/digital-transformation
+    - Business Development Director - Infrastructure & Public Services -> https://skyline.be/jobs/en/all-jobs/business-development-director-infrastructure-public-services
+    - Account Manager - North America -> https://skyline.be/jobs/en/all-jobs/regional-account-manager-americas
+  - [(proba)](https://skyline.be/karijera) [ok] linkova-oglasa: 1, signal: 0
+    - Newsroom -> https://skyline.be/skyline/news
+  - [(proba)](https://skyline.be/posao) [ok] linkova-oglasa: 1, signal: 0
+    - Newsroom -> https://skyline.be/skyline/news
+  - [(proba)](https://skyline.be/zaposljavanje) [ok] linkova-oglasa: 1, signal: 0
+    - Newsroom -> https://skyline.be/skyline/news
+- ✅ **Personify Health** (https://personifyhealth.com/)
+  - [Careers](https://personifyhealth.com/careers) [ok] linkova-oglasa: 0, signal: 4
+- ✅ **Genomenon** (https://www.genomenon.com/)
+  - [Careers](https://www.genomenon.com/careers) [ok] linkova-oglasa: 4, signal: 3
+    - Real World Evidence -> https://www.genomenon.com/real-world-evidence
+    - Genetic Disease Sponsorship -> https://www.genomenon.com/genetic-disease-sponsorship
+    - Clinical Diagnostics Services -> https://www.genomenon.com/clinical-diagnostic-services
+    - schedule a discovery call -> https://www.genomenon.com/schedule-discovery-call
+- ⚪ **INVENTRY** (https://www.inventry.com/): nema stranice karijera
+- ⚪ **Avtera** (https://www.avtera.com/): nema stranice karijera
+- ✅ **Dash** (https://dash.ba/)
+  - [(proba)](https://dash.ba/karijera) [ok] linkova-oglasa: 1, signal: 0
+    - [email protected] -> https://dash.ba/cdn-cgi/l/email-protection
+  - [(proba)](https://dash.ba/karijere) [ok] linkova-oglasa: 1, signal: 0
+    - [email protected] -> https://dash.ba/cdn-cgi/l/email-protection
+  - [(proba)](https://dash.ba/posao) [ok] linkova-oglasa: 1, signal: 0
+    - [email protected] -> https://dash.ba/cdn-cgi/l/email-protection
+  - [(proba)](https://dash.ba/poslovi) [ok] linkova-oglasa: 1, signal: 0
+    - [email protected] -> https://dash.ba/cdn-cgi/l/email-protection
+- ❌ **Cylo** (https://cylo.ba): ConnectionError: HTTPConnectionPool(host='cylo.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='cylo.ba', port=80): Failed to resolve 'cylo.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Devoteam** (https://www.devoteam.com/)
+  - [Training](https://www.devoteam.com/join-us/google-cloud/google-cloud-training) [ok] linkova-oglasa: 1, signal: 1
+    - Google Cloud -> https://www.devoteam.com/join-us/google-cloud
+  - [Join us](https://www.devoteam.com/join-us) [ok] linkova-oglasa: 13, signal: 1
+    - Data specialists -> https://www.devoteam.com/join-us/data
+    - Product designers -> https://www.devoteam.com/join-us/product-design
+    - Business consultants -> https://www.devoteam.com/join-us/business-consulting
+    - Security experts -> https://www.devoteam.com/join-us/cybersecurity
+  - [Values](https://www.devoteam.com/join-us/our-values) [ok] linkova-oglasa: 2, signal: 1
+    - Mikael Fredriksson -> https://www.devoteam.com/people/more-than-a-manager-mikaels-journey-from-intern-to-team-leader-at-devoteam-g-cloud
+    - Laura Martínez -> https://www.devoteam.com/people/laura-martinez-connecting-customers-and-technology
+  - [Perks](https://www.devoteam.com/join-us/perks) [ok] linkova-oglasa: 6, signal: 0
+    - Google Cloud -> https://www.devoteam.com/join-us/google-cloud
+    - Microsoft -> https://www.devoteam.com/join-us/microsoft
+    - ServiceNow -> https://www.devoteam.com/join-us/servicenow
+    - Boris Bojat -> https://www.devoteam.com/people/cloud-mastery-boris-bojats-journey-at-devoteam-serbia
+- ❌ **Datapolis** (https://datapolis.ba): ConnectionError: HTTPConnectionPool(host='datapolis.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='datapolis.ba', port=80): Failed to resolve 'datapolis.ba' ([Errno -2] Name or service not known)"))
+- ❌ **ProSoft** (https://prosoft.ba): ConnectionError: HTTPConnectionPool(host='prosoft.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='prosoft.ba', port=80): Failed to resolve 'prosoft.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Itineris** (https://itineris.ba/)
+  - [(proba)](https://itineris.ba/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://itineris.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://itineris.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://itineris.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **Siemens Energy** (https://www.siemens-energy.com/global/en/home.html)
+  - [Working with us](https://www.siemens-energy.com/global/en/home/careers/working-with-us.html) [ok] linkova-oglasa: 11, signal: 4
+    - View FAQs and key information -> https://www.siemens-energy.com/global/en/home/company/omterra.html
+    - June 18, 2026 Sandra Guerra: Strategic HR Leadership at Siemens Energy -> https://www.siemens-energy.com/global/en/home/stories/sandra-guerra-HR-leadership.html
+    - August 28, 2026 6 min read From curiosity to innovations: Katrin Benke -> https://www.siemens-energy.com/global/en/home/stories/from-lab-to-grid.html
+    - No Experience Needed — Lena’s Journey into the Energy Industry -> https://www.siemens-energy.com/global/en/home/stories/lena-energy-journey.html
+  - [Open jobs](https://jobs.siemens-energy.com/en_US/jobs) [ok] linkova-oglasa: 16, signal: 1
+    - How We Hire FAQ's. -> https://www.siemens-energy.com/us/en/home/careers/how-we-hire.html
+    - View more -> https://jobs.siemens-energy.com/en_US/jobs/HotJobs
+    - Account Manager -> https://jobs.siemens-energy.com/en_US/jobs/FolderDetail?folderId=305430&from=home
+    - Accounting Professional -> https://jobs.siemens-energy.com/en_US/jobs/FolderDetail?folderId=305002&from=home
+  - [Early career](https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html) [ok] linkova-oglasa: 11, signal: 4
+    - Explore opportunities -> https://jobs.siemens-energy.com/en_US/jobs/Jobs?29457=102154&29457_format=11384&listFilterMode=1&folderRecordsPerPage=20
+    - Learn more about our Global Graduate and Development Programs. -> https://www.siemens-energy.com/global/en/home/careers/graduate-program.html
+    - Find out more about our Global Grid Engineering Program. -> https://www.siemens-energy.com/global/en/home/careers/grid-engineering-program.html
+    - Middle East and Africa Search for early career opportunities in the Mi -> https://jobs.siemens-energy.com/en_US/jobs/Jobs?29457=102156&29457_format=11384&listFilterMode=1&folderRecordsPerPage=20
+  - [How we hire](https://www.siemens-energy.com/global/en/home/careers/how-we-hire.html) [ok] linkova-oglasa: 3, signal: 19
+    - Ready to apply? View Jobs. -> https://jobs.siemens-energy.com/en_US/jobs
+    - About page -> https://www.siemens-energy.com/global/en/home/company/about.html
+    - Siemens Energy Graduate Program page -> https://www.siemens-energy.com/global/en/company/jobs/graduate-program.html
+- ❌ **Bosnia Software** (https://bosniasoftware.com): ConnectionError: HTTPConnectionPool(host='bosniasoftware.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='bosniasoftware.com', port=80): Failed to resolve 'bosniasoftware.com' ([Errno -2] Name or service not known)"))
+- ✅ **Ant Colony** (https://bloomteq.com)
+  - [Engineering & Technology Bloomteq Internship Program 2026: Applications Now Open](https://bloomteq.com/insights/insight/bloomteq-internship-program-2026) [ok] linkova-oglasa: 3, signal: 6
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+  - [(proba)](https://bloomteq.com/karijera) [ok] linkova-oglasa: 54, signal: 4
+    - AI Agents in Enterprise Environments: Conceptual Clarification and Emp -> https://bloomteq.com/insights/article/ai-agents-in-enterprise-environments:conceptual-clarification-and-empirical-perspective
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+  - [(proba)](https://bloomteq.com/karijere) [ok] linkova-oglasa: 54, signal: 4
+    - AI Agents in Enterprise Environments: Conceptual Clarification and Emp -> https://bloomteq.com/insights/article/ai-agents-in-enterprise-environments:conceptual-clarification-and-empirical-perspective
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+  - [(proba)](https://bloomteq.com/posao) [ok] linkova-oglasa: 54, signal: 4
+    - AI Agents in Enterprise Environments: Conceptual Clarification and Emp -> https://bloomteq.com/insights/article/ai-agents-in-enterprise-environments:conceptual-clarification-and-empirical-perspective
+    - Bloomteq Named an OpenAI Select Partner 06 August, 2026 -> https://bloomteq.com/insights/insight/bloomteq-named-an-openai-select-partner
+    - Bloomteq at AI Week Italy, Milan 22 May, 2026 -> https://bloomteq.com/insights/insight/bloomteq-at-ai-week-italy-milan
+    - Kiss the Future Meetup #5: A Room Full of People Who Left With Their O -> https://bloomteq.com/insights/insight/kiss-the-future-meetup5-a-room-full-of-people-who-left-with-their-own-ai-agent
+- ✅ **Mibo** (https://mibo.ba/)
+  - [Karijera](https://mibo.ba/karijera) [ok] linkova-oglasa: 0, signal: 4
+- ⚪ **Codecta** (https://www.codecta.com/): nema stranice karijera
+- ❌ **Softmax** (https://softmax.ba): ConnectionError: HTTPConnectionPool(host='softmax.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='softmax.ba', port=80): Failed to resolve 'softmax.ba' ([Errno -2] Name or service not known)"))
+- ❌ **IntelliGenesis** (https://intelligenesis.ba): ConnectionError: HTTPConnectionPool(host='intelligenesis.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='intelligenesis.ba', port=80): Failed to resolve 'intelligenesis.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Medit** (https://medit.ba/)
+  - [Karijera](https://medit.ba/company/career) [greška] linkova-oglasa: 0, signal: 0
+- ❌ **Penta** (https://penta.ba): ConnectionError: HTTPConnectionPool(host='penta.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='penta.ba', port=80): Failed to resolve 'penta.ba' ([Errno -2] Name or service not known)"))
+- ❌ **Hexis** (https://hexis.ba): ConnectionError: HTTPConnectionPool(host='hexis.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='hexis.ba', port=80): Failed to resolve 'hexis.ba' ([Errno -2] Name or service not known)"))
+- ✅ **ATIA** (https://atia.ba/)
+  - [Open Positions](https://atia.ba/open-positions) [ok] linkova-oglasa: 0, signal: 2
+- ❌ **ICT Business Cluster BL** (https://www.ictcluster.rs.ba): ConnectionError: HTTPConnectionPool(host='www.ictcluster.rs.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.ictcluster.rs.ba', port=80): Failed to resolve 'www.ictcluster.rs.ba' ([Errno -5] No address associated with hostname)"))
+
+## javni
+
+- ✅ **Elektroprivreda HZHB** (https://ephzhb.ba/)
+  - [Ekonomski poslovi](https://ephzhb.ba/organizacija-i-upravljanje/ekonomski-poslovi) [ok] linkova-oglasa: 7, signal: 1
+    - Prijava kvara -> https://ephzhb.ba/kupci/prijava-kvara
+    - Direkcija Društva -> https://ephzhb.ba/organizacija-i-upravljanje/direkcija-drustva
+    - Proizvodnja -> https://ephzhb.ba/organizacija-i-upravljanje/proizvodnja
+    - Distribucija -> https://ephzhb.ba/organizacija-i-upravljanje/distribucija
+  - [Pravni poslovi](https://ephzhb.ba/organizacija-i-upravljanje/pravni-poslovi) [ok] linkova-oglasa: 7, signal: 1
+    - Prijava kvara -> https://ephzhb.ba/kupci/prijava-kvara
+    - Direkcija Društva -> https://ephzhb.ba/organizacija-i-upravljanje/direkcija-drustva
+    - Proizvodnja -> https://ephzhb.ba/organizacija-i-upravljanje/proizvodnja
+    - Distribucija -> https://ephzhb.ba/organizacija-i-upravljanje/distribucija
+- ⚪ **Elektroprivreda RS** (https://ers.ba/): nema stranice karijera
+- ⚪ **Elektroprenos BiH** (https://www.elprenos.ba/Naslovna.html): nema stranice karijera
+- ❌ **NOS BiH** (https://www.nosbih.ba): ConnectionError: HTTPSConnectionPool(host='www.nosbih.ba', port=443): Read timed out.
+- ✅ **BH Pošta** (https://www.posta.ba/)
+  - [Mjenjački poslovi i mapa mjenjačnica](https://www.posta.ba/brzo-i-lako-do-svake-valute-uz-najsiru-mrezu-mjenjacnica-u-bosni-i-hercegovini) [ok] linkova-oglasa: 10, signal: 3
+    - Informacija o novim carinskim naknadama na području Evropske unije -> https://www.posta.ba/informacija-o-novim-carinskim-naknadama-na-podrucju-evropske-unije
+    - BH Pošta na 100 EXPO sajmu: Investicije u tehnologiju i digitalizaciju -> https://www.posta.ba/bh-posta-na-100-expo-sajmu-investicije-u-tehnologiju-i-digitalizaciju-temelj-buduceg-razvoja
+    - Sigurnije pošiljke kroz saradnju i zajedničko djelovanje -> https://www.posta.ba/sigurnije-posiljke-kroz-saradnju-i-zajednicko-djelovanje
+    - U Sarajevu održana Manifestacija dodjele nagrada za najljepše dječije  -> https://www.posta.ba/u-sarajevu-odrzana-manifestacija-dodjele-nagrada-za-najljepse-djecije-pismo
+  - [Oglasi i obavještenja](https://www.posta.ba/oglasi-i-obavjestenja) [ok] linkova-oglasa: 3, signal: 8
+    - Konkurs za izbor i imenovanje direktora odjela za internu reviziju -> https://www.posta.ba/wp-content/uploads/2026/10/konkurs-za-izbor-i-imenovanje-direktora-odjela-za-internu-reviziju.pdf
+    - JAVNI POZIV za pružanje usluge pravnog zastupanja u 2026. godini -> https://www.posta.ba/wp-content/uploads/2026/02/javni-poziv-za-pruzanje-usluge-pravnog-zastupanja-u-2026-godini.pdf
+    - POZIV KANDIDATIMA – 2026 -> https://www.posta.ba/wp-content/uploads/2026/01/poziv-kandidatima-20261docx.pdf
+- ⚪ **Hrvatska pošta Mostar** (https://www.post.ba/): nema stranice karijera
+- ❌ **Pošte Srpske** (https://www.postesrpske.com): ConnectTimeout: HTTPConnectionPool(host='www.postesrpske.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.postesrpske.com', port=80) at 0x73998865e660>, 'Connection to www.postesrpske.com timed out. (connect timeout=25)'))
+- ⚪ **Autoceste FBiH** (https://www.autoceste.ba/): nema stranice karijera
+- ✅ **Autoputevi RS** (https://www.autoputevirs.com/)
+  - [(proba)](https://www.autoputevirs.com/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.autoputevirs.com/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.autoputevirs.com/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.autoputevirs.com/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **JP Ceste FBiH** (https://jpcfbih.ba/)
+  - [Oglasi](https://jpcfbih.ba/bs/oglasi) [ok] linkova-oglasa: 0, signal: 4
+- ⚪ **Željeznice FBiH** (https://www.zfbh.ba/): nema stranice karijera
+- ❌ **Željeznice RS** (https://www.zeljeznicers.com): ConnectionError: HTTPConnectionPool(host='www.zeljeznicers.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.zeljeznicers.com', port=80): Failed to resolve 'www.zeljeznicers.com' ([Errno -2] Name or service not known)"))
+- ✅ **BH Gas** (https://www.bh-gas.ba/)
+  - [Javni oglasi](https://www.bh-gas.ba/javni-oglasi) [ok] linkova-oglasa: 5, signal: 15
+    - 04.04.2025. JAVNI OGLAS za popunjavanje upražnjenih radnih mjesta i pr -> https://www.bh-gas.ba/2025/04/04/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme
+    - 22.5.2026. JAVNI OGLAS za popunjavanje upražnjenih radnih mjesta i pri -> https://www.bh-gas.ba/2026/05/22/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme-2
+    - Propisi/Akti/Politike -> https://www.bh-gas.ba/propisi-akti-politike
+    - Zahtjev za pristup informacijama -> https://www.bh-gas.ba/zahtjev-za-pristup-informacijama
+  - [https://www.bh-gas.ba/2026/05/22/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme-2](https://www.bh-gas.ba/2026/05/22/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme-2) [ok] linkova-oglasa: 9, signal: 39
+    - previous 41. međunarodni znanstveno-stručni susret stručnjaka za plin -> https://www.bh-gas.ba/2026/05/10/41-medjunarodni-znanstveno-strucni-susret-strucnjaka-za-plin
+    - next Obuka i certifikacija radnika za korištenje antikorozivnih traka  -> https://www.bh-gas.ba/2026/06/06/12383
+    - Privremeno priključenje distributivnog gasovoda ODS Unis-energetika -> https://www.bh-gas.ba/2026/10/29/privremeno-prikljucenje-distributivnog-gasovoda-ods-unis-energetika
+    - Odluka o poništenju postupka javne nabavke za ugradnju blok ventila i  -> https://www.bh-gas.ba/wp-content/uploads/2026/10/merisa.omanovic_2026-10-12_09-14-45-911.pdf
+- ✅ **Sarajevogas** (https://www.sarajevogas.ba/)
+  - [Javni oglasi](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) [ok] linkova-oglasa: 75, signal: 26
+    - OBRAZAC PRIJAVE NA JAVNI OGLAS -> https://www.sarajevogas.ba/wp-content/uploads/2026/02/PRIJAVA-NA-JAVNI-OGLAS-I-SAGLASNOST.docx
+    - Poslovnik o radu Komisije za provođenje Javnog oglasa za prijem u radn -> https://www.sarajevogas.ba/wp-content/uploads/2026/08/1Poslovnik-o-radu-Komisije-za-provodjenje-Javnog-oglasa-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme.pdf
+    - Poslovnik o radu Komisije za provođenje Javnog oglasa za prijem u radn -> https://www.sarajevogas.ba/wp-content/uploads/2026/08/2Poslovnik-o-radu-Komisije-za-provodjenje-Javnog-oglasa-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme.pdf
+    - Poslovnik o radu Komisije za provođenje postupka prijema radnika u rad -> https://www.sarajevogas.ba/wp-content/uploads/2026/08/3Poslovnik-o-radu-Komisije-za-provodjenje-postupka-prijema-radnika-u-radni-odnos-na-neodredjeno-vrijeme.pdf
+- ✅ **Energoinvest** (https://energoinvest.ba/)
+  - [Karijere](https://energoinvest.ba/karijere) [ok] linkova-oglasa: 13, signal: 10
+    - >>OVDJE<< -> https://energoinvest.ba/wp-content/uploads/2026/09/Energoinvest-obrazac-prijave-na-javni-oglas-.pdf
+    - Javni oglas za prijem u radni odnos 23.09.2026 -> https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-23-09-2026
+    - 23 Septembra, 2026 -> https://energoinvest.ba/2026/09/23
+    - Javni oglas za prijem u radni odnos 27.04.2026 -> https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-27-04-2026
+  - [Saznaj više](https://energoinvest.ba/energoinvest-dobio-novi-posao-vrijedan-842-miliona-km-sa-turskim-partnerom-ugovorena-isporuka-distributivnih-transformatora-za-elektroprivredu-bih) [ok] linkova-oglasa: 3, signal: 0
+    - Energoinvest i Elektrotehnički fakultet Univerziteta u Sarajevu nastav -> https://energoinvest.ba/energoinvest-i-elektrotehnicki-fakultet-univerziteta-u-sarajevu-nastavili-dugu-tradiciju-partnerstva
+    - Energoinvest traži povrat imovine u Hrvatskoj i naknadu izmakle korist -> https://energoinvest.ba/energoinvest-trazi-povrat-imovine-u-hrvatskoj-i-naknadu-izmakle-koristi-uprava-procjenjuje-ukupnu-vrijednost-na-vise-od-100-miliona-eura
+    - Direktor Energoinvesta Mirza Ustamujić gostovao je u emisiji Špica na  -> https://energoinvest.ba/direktor-energoinvesta-mirza-ustamujic-gostovao-je-u-emisiji-spica-na-televiziji-sarajevo
+- ✅ **Aerodrom Sarajevo** (https://sarajevo-airport.ba/)
+  - [Javni konkurs 14.10.2026](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1588/Javni%20konkurs) [ok] linkova-oglasa: 0, signal: 3
+- ⚪ **Aerodrom Tuzla** (https://tuzla-airport.ba/): nema stranice karijera
+- ⚪ **Aerodrom Banja Luka** (https://www.banjaluka-airport.com/): nema stranice karijera
+- ✅ **BHRT** (https://www.bhrt.ba/)
+  - [(proba)](https://www.bhrt.ba/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.bhrt.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.bhrt.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.bhrt.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **RTV FBiH** (https://rtvfbih.ba/)
+  - [Obavijesti i konkursi Javni konkursi i oglasi](https://rtvfbih.ba/obavijesti) [ok] linkova-oglasa: 1, signal: 16
+    - Upravni odbor Sastav, poslovnik o radu i saopštenja. Otvori -> https://rtvfbih.ba/o-nama/upravni-odbor
+- ⚪ **RTRS** (https://www.rtrs.tv/): nema stranice karijera
+- ⚪ **Lutrija BiH** (https://www.lutrijabih.ba/): nema stranice karijera
+- ⚪ **Lutrija RS** (https://lutrijars.com/): nema stranice karijera
+- ⚪ **IDDEEA** (https://www.iddeea.gov.ba/): nema stranice karijera
+- ✅ **UIO (Uprava za indirektno oporezivanje)** (https://www.uino.gov.ba/)
+  - [(proba)](https://www.uino.gov.ba/karijera) [ok] linkova-oglasa: 4, signal: 0
+    - Bosanski -> https://www.uino.gov.ba/portal/bs
+    - Hrvatski -> https://www.uino.gov.ba/portal/hr
+    - Српски -> https://www.uino.gov.ba/portal/sr
+    - English -> https://www.uino.gov.ba/portal/en
+  - [(proba)](https://www.uino.gov.ba/karijere) [ok] linkova-oglasa: 4, signal: 0
+    - Bosanski -> https://www.uino.gov.ba/portal/bs
+    - Hrvatski -> https://www.uino.gov.ba/portal/hr
+    - Српски -> https://www.uino.gov.ba/portal/sr
+    - English -> https://www.uino.gov.ba/portal/en
+  - [(proba)](https://www.uino.gov.ba/posao) [ok] linkova-oglasa: 4, signal: 0
+    - Bosanski -> https://www.uino.gov.ba/portal/bs
+    - Hrvatski -> https://www.uino.gov.ba/portal/hr
+    - Српски -> https://www.uino.gov.ba/portal/sr
+    - English -> https://www.uino.gov.ba/portal/en
+  - [(proba)](https://www.uino.gov.ba/poslovi) [ok] linkova-oglasa: 4, signal: 0
+    - Bosanski -> https://www.uino.gov.ba/portal/bs
+    - Hrvatski -> https://www.uino.gov.ba/portal/hr
+    - Српски -> https://www.uino.gov.ba/portal/sr
+    - English -> https://www.uino.gov.ba/portal/en
+- ✅ **Agencija za statistiku BiH** (https://bhas.gov.ba/)
+  - [Kodeks prakse evropske statistike](https://bhas.gov.ba/Content/Read/97?title=Kodeksprakseevropskestatistike) [ok] linkova-oglasa: 2, signal: 2
+    - KODEKS PRAKSE EVROPSKE STATISTIKE -> https://bhas.gov.ba/data/Dokumenti/pdf/KS-02-18-142-HR-N.pdf
+    - Sve statistike -> https://bhas.gov.ba/Calendar/Category
+  - [EU4ADMIN od projekta do prakse: Potpisani sporazumi za održivu razmjenu administ](https://bhas.gov.ba/News/Read/130) [ok] linkova-oglasa: 8, signal: 3
+    - Agencija za statistiku BiH pokrenula EU SDG portal za Bosnu i Hercegov -> https://bhas.gov.ba/News/Read/132
+    - Agencija za statistiku BiH obilježila Evropski dan statistike 20.10.20 -> https://bhas.gov.ba/News/Read/131
+    - Najava velike revizije podataka bruto domaćeg proizvoda 08.09.2026. -> https://bhas.gov.ba/News/Read/129
+    - Obavještenje – Javni oglas za radno mjesto pomoćnika direktora 03.09.2 -> https://bhas.gov.ba/News/Read/128
+  - [Obavještenje – Javni oglas za radno mjesto pomoćnika direktora 03.09.2026.](https://bhas.gov.ba/News/Read/128) [ok] linkova-oglasa: 8, signal: 5
+    - Agencija za statistiku BiH pokrenula EU SDG portal za Bosnu i Hercegov -> https://bhas.gov.ba/News/Read/132
+    - Agencija za statistiku BiH obilježila Evropski dan statistike 20.10.20 -> https://bhas.gov.ba/News/Read/131
+    - EU4ADMIN od projekta do prakse: Potpisani sporazumi za održivu razmjen -> https://bhas.gov.ba/News/Read/130
+    - Najava velike revizije podataka bruto domaćeg proizvoda 08.09.2026. -> https://bhas.gov.ba/News/Read/129
+- ✅ **Federalni zavod za statistiku** (https://fzs.ba/)
+  - [Tržište rada (zaposlenost, plaće i troškovi rada)](https://fzs.ba/index.php/statisticke-oblasti/stanovnistvo-i-drustvene-statistike/trziste-rada-zaposlenost-nezaposlenost-i-place) [ok] linkova-oglasa: 3, signal: 0
+    - Napredna pretraga -> https://fzs.ba/index.php/statisticke-oblasti/stanovnistvo-i-drustvene-statistike/index.php/napredna-pretraga
+    - Statističke oblasti -> https://fzs.ba/index.php/statisticke-oblasti
+    - Stanovništvo i društvene statistike -> https://fzs.ba/index.php/statisticke-oblasti/stanovnistvo-i-drustvene-statistike
+- ❌ **Fond PIO/MIO FBiH** (https://www.mio.ba): ConnectionError: HTTPConnectionPool(host='www.mio.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.mio.ba', port=80): Failed to resolve 'www.mio.ba' ([Errno -2] Name or service not known)"))
+- ⚪ **Fond PIO RS** (https://www.fondpiors.org/): nema stranice karijera
+- ❌ **ZZO Kantona Sarajevo** (https://www.zzoks.ba): ConnectionError: HTTPConnectionPool(host='www.zzoks.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.zzoks.ba', port=80): Failed to resolve 'www.zzoks.ba' ([Errno -2] Name or service not known)"))
+- ⚪ **Fond zdravstvenog osiguranja RS** (https://zdravstvo-srpske.org/): nema stranice karijera
+- ✅ **FIA (Finansijsko-informatička agencija)** (https://fia.ba/)
+  - [(proba)](https://fia.ba/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://fia.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://fia.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://fia.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ❌ **APIF** (https://www.apif.ba): ConnectionError: HTTPConnectionPool(host='www.apif.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.apif.ba', port=80): Failed to resolve 'www.apif.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Porezna uprava FBiH** (https://www.pufbih.ba/)
+  - [(proba)](https://www.pufbih.ba/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.pufbih.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.pufbih.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.pufbih.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **KCUS** (https://kcus.ba/)
+  - [Konkursi i oglasi](https://kcus.ba/konkursi-i-oglasi) [ok] linkova-oglasa: 0, signal: 42
+- ✅ **UKC Tuzla** (https://www.ukctuzla.ba/ukctuzla/?page_id=5&lang=bs)
+  - [KONKURSI /JAVNE NABAVKE](https://www.ukctuzla.ba/ukctuzla?page_id=7393&lang=bs) [ok] linkova-oglasa: 115, signal: 59
+    - Klikni na link za pregled -> https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-dr.med-specijalista-1.pdf
+    - Popis dokumentacije kojom se dokazuje status branilaca i članova njiho -> https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica-3.pdf
+    - Klikni na link za pregled -> https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-radnikau-radni-odnos-na-neodredjeno-vrijeme.pdf
+    - Popis dokumentacije kojom se dokazuje status branilaca i članova njiho -> https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica-2.pdf
+  - [(proba)](https://www.ukctuzla.ba/ukctuzla?page_id=5&lang=bs) [ok] linkova-oglasa: 0, signal: 3
+  - [(proba)](https://www.ukctuzla.ba/karijera) [ok] linkova-oglasa: 0, signal: 3
+- ⚪ **UKC RS** (https://www.kc-bl.com/): nema stranice karijera
+- ❌ **SKB Mostar** (https://www.skb-mostar.ba): ConnectionError: HTTPConnectionPool(host='www.skb-mostar.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.skb-mostar.ba', port=80): Failed to resolve 'www.skb-mostar.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Opća bolnica Sarajevo** (https://www.obs.ba/)
+  - [Oglasi](https://www.obs.ba/index.php/oglasi.html) [ok] linkova-oglasa: 400, signal: 65
+    - Štampa -> https://www.obs.ba/index.php/oglasi.html?tmpl=component&print=1&page=
+    - E-mail -> https://www.obs.ba/index.php/component/mailto?tmpl=component&template=t3_blank&link=6082f5c526c57bad9828a07382de648e02eeea4e
+    - DOKUMENTACIJA KOJA JE POTREBNA ZA OBAVLJANJE STAŽA/VOLONTIRANJE -> https://www.obs.ba/images/196_DOKUMENTACIJA_KOJA_JE_POTREBNA_ZA_OBAVLJANJE_STAZA_-_VOLONTIRANJE.pdf
+    - Obavještenje kandidatima o terminu održavanja pismenog i usmenog ispit -> https://www.obs.ba/images/stories/OGLASI/OGLASI_2026/163_O_B_A_V_J_E_Š_T_E_N_J_E.pdf
+  - [(proba)](https://www.obs.ba/oglasi) [ok] linkova-oglasa: 400, signal: 65
+    - Štampa -> https://www.obs.ba/index.php/oglasi.html?tmpl=component&print=1&page=
+    - E-mail -> https://www.obs.ba/index.php/component/mailto?tmpl=component&template=t3_blank&link=6082f5c526c57bad9828a07382de648e02eeea4e
+    - DOKUMENTACIJA KOJA JE POTREBNA ZA OBAVLJANJE STAŽA/VOLONTIRANJE -> https://www.obs.ba/images/196_DOKUMENTACIJA_KOJA_JE_POTREBNA_ZA_OBAVLJANJE_STAZA_-_VOLONTIRANJE.pdf
+    - Obavještenje kandidatima o terminu održavanja pismenog i usmenog ispit -> https://www.obs.ba/images/stories/OGLASI/OGLASI_2026/163_O_B_A_V_J_E_Š_T_E_N_J_E.pdf
+- ✅ **KJKP Vodovod i kanalizacija** (https://www.viksa.ba/)
+  - [Javni oglasi i konkursi](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) [ok] linkova-oglasa: 10, signal: 17
+    - Poslovnik o radu Komisije za prijem u radni odnos radnika na neodređen -> https://www.viksa.ba/clanak/11904
+    - Poslovnik o radu Komisije za provođenje postupka javnog oglasa za prij -> https://www.viksa.ba/clanak/11906
+    - 01.10.2026 u 08:32 Javni oglas 14 pozicija Javni oglas 14 pozicija -> https://www.viksa.ba/clanak/11890
+    - 1. LISTA PITANJA, PROPISA I LITERATURE ZA RADNA MJESTA-VOZAČ TERETNOG  -> https://www.viksa.ba/clanak/11883
+- ✅ **KJKP Rad** (https://rad.com.ba/)
+  - [Javni oglasi](https://rad.com.ba/javnost-rada/javni-oglasi) [ok] linkova-oglasa: 154, signal: 94
+    - download Preuzimanje -> https://rad.com.ba/documents/download/977/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-kjkp-rad-d.o.o.-sarajevo-za-radna-mjesta-vozac-motornih-vozila-grupe-ii-automehanicar-iii-podmazivac-automehanicar-servisa-gumar-vulkanizer
+    - download Preuzimanje -> https://rad.com.ba/documents/download/976/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-kjkp-rad-d.o.o.-sarajevo-za-radno-mjesto-komunalni-radnik
+    - download Preuzimanje -> https://rad.com.ba/documents/download/975/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-kjkp-rad-d.o.o.-sarajevo-za-radna-mjesta-konter-i-referent-naplate-potrazivanja
+    - download Preuzimanje -> https://rad.com.ba/documents/download/974/javni-oglas-za-prijem-radnika-u-radni-odnos-u-kjkp-rad-d.o.o.-sarajevo-27.10.2026
+  - [JAVNI OGLAS 28.10.2026. Poslovnici o radu komisije za provođenje javnog oglasa z](https://rad.com.ba/obavjestenja/231/javni-oglas) [ok] linkova-oglasa: 4, signal: 13
+    - Podmazivač - automehaničar servisa, -> https://rad.com.ba/upload/documents/konkursi/2026/Poslovnik_Vozac_Automehanicar_III_Podmazivac_Gumar-vulkanizer-.pdf
+    - Referent naplate potraživanja, -> https://rad.com.ba/upload/documents/konkursi/2026/Poslovnik-konter,_referent_naplate_potrazivanja.pdf
+    - Komunalni radnik -> https://rad.com.ba/upload/documents/konkursi/2026/Poslovnik_-_komunalni_radnik.pdf
+    - JAVNI OGLAS 27.10.2026. Javni oglas za prijem radnika u radni odnos u  -> https://rad.com.ba/obavjestenja/230/javni-oglas
+  - [JAVNI OGLAS 27.10.2026. Javni oglas za prijem radnika u radni odnos u KJKP RAD d](https://rad.com.ba/obavjestenja/230/javni-oglas) [ok] linkova-oglasa: 2, signal: 13
+    - Javni oglas - tekst -> https://rad.com.ba/upload/documents/konkursi/2026/Javni_oglas_27102026.pdf
+    - JAVNI OGLAS 28.10.2026. Poslovnici o radu komisije za provođenje javno -> https://rad.com.ba/obavjestenja/231/javni-oglas
+  - [JAVNI OGLAS 26.10.2026. Odluka, Pitanja za pismeni i usmeni ispit, Lista propisa](https://rad.com.ba/obavjestenja/229/javni-oglas) [ok] linkova-oglasa: 3, signal: 11
+    - 3. Podmazivač - automehaničar servisa, -> https://rad.com.ba/upload/documents/oglasi/2026/Odluka_26102026_2.pdf
+    - JAVNI OGLAS 28.10.2026. Poslovnici o radu komisije za provođenje javno -> https://rad.com.ba/obavjestenja/231/javni-oglas
+    - JAVNI OGLAS 27.10.2026. Javni oglas za prijem radnika u radni odnos u  -> https://rad.com.ba/obavjestenja/230/javni-oglas
+- ❌ **KJKP GRAS** (https://www.gras.co.ba): ConnectionError: HTTPConnectionPool(host='www.gras.co.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.gras.co.ba', port=80): Failed to resolve 'www.gras.co.ba' ([Errno -2] Name or service not known)"))
+- ✅ **KJKP Toplane Sarajevo** (https://www.toplanesarajevo.ba/)
+  - [Konkursi](https://www.toplanesarajevo.ba/stranica/konkursi) [ok] linkova-oglasa: 0, signal: 2
+- ✅ **KJKP Park** (https://www.park.ba/)
+  - [Javni oglasi](https://www.park.ba/?page_id=9652) [ok] linkova-oglasa: 267, signal: 96
+    - Poslovnik o radu komisije za provodenje Javnog oglasa za prijem strucn -> https://www.park.ba/wp-content/uploads/2026/10/Poslovnik-o-radu-komisije-za-provodenje-Javnog-oglasa-za-prijem-strucnog-saradnika-za-pravne-poslove-u-Sluzbi-za-opce-pravne.pdf
+    - Javni oglas za prijem radnika u radni odnos na odredeno vrijeme u KJKP -> https://www.park.ba/wp-content/uploads/2026/10/Javni-oglas-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-KJKP-Park-doo-Sarajevo-na-radno-mjesto-STRUCNI-SARADNIK-ZA-PRAVNE-POSLOVE.pdf
+    - Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit i lista p -> https://www.park.ba/wp-content/uploads/2026/10/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-i-lista-propisa-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-STRUCNI-SARADNIK-ZA-PRAVNE-POSLOVE.pdf
+    - Ispravka Javnog oglasa za prijem radnika u radni odnos na radno mjesto -> https://www.park.ba/wp-content/uploads/2026/07/Ispravka-Javnog-oglasa-za-prijem-radnika-u-radni-odnos-na-radno-mjesto-VODITELJ-ODJELA-RZC-PIONIRSKA-DOLINA-I-ZOO-VRT.pdf
+- ✅ **KJKP Pokop** (https://pokop.ba/)
+  - [Detaljnije](https://pokop.ba/novosti/javni-konkurs-1-2-3-4-5-6-7-8-9-10-11-12) [ok] linkova-oglasa: 6, signal: 9
+    - Javni poziv -> https://pokop.ba/novosti/javni-poziv-1
+    - OBAVJEŠTENJE -> https://pokop.ba/novosti/obavjestenje-1-2-3-4
+    - Bajram Šerif Mubarek Olsun -> https://pokop.ba/novosti/bajram-serif-mubarek-olsun-1-2-3-4
+    - Sretan 1.maj -> https://pokop.ba/novosti/sretan-1maj
+  - [Detaljnije](https://pokop.ba/novosti/javni-oglas-1-2-3-4-5) [ok] linkova-oglasa: 6, signal: 16
+    - Javni poziv -> https://pokop.ba/novosti/javni-poziv-1
+    - OBAVJEŠTENJE -> https://pokop.ba/novosti/obavjestenje-1-2-3-4
+    - Javni konkurs -> https://pokop.ba/novosti/javni-konkurs-1-2-3-4-5-6-7-8-9-10-11-12
+    - Bajram Šerif Mubarek Olsun -> https://pokop.ba/novosti/bajram-serif-mubarek-olsun-1-2-3-4
+  - [Detaljnije](https://pokop.ba/novosti/javni-konkurs-1-2-3-4-5-6-7-8-9-10-11) [ok] linkova-oglasa: 6, signal: 11
+    - Javni poziv -> https://pokop.ba/novosti/javni-poziv-1
+    - OBAVJEŠTENJE -> https://pokop.ba/novosti/obavjestenje-1-2-3-4
+    - Javni konkurs -> https://pokop.ba/novosti/javni-konkurs-1-2-3-4-5-6-7-8-9-10-11-12
+    - Bajram Šerif Mubarek Olsun -> https://pokop.ba/novosti/bajram-serif-mubarek-olsun-1-2-3-4
+  - [Detaljnije](https://pokop.ba/novosti/javni-konkurs-1-2-3-4-5-6-7-8-9-10) [ok] linkova-oglasa: 6, signal: 11
+    - Javni poziv -> https://pokop.ba/novosti/javni-poziv-1
+    - OBAVJEŠTENJE -> https://pokop.ba/novosti/obavjestenje-1-2-3-4
+    - Javni konkurs -> https://pokop.ba/novosti/javni-konkurs-1-2-3-4-5-6-7-8-9-10-11-12
+    - Bajram Šerif Mubarek Olsun -> https://pokop.ba/novosti/bajram-serif-mubarek-olsun-1-2-3-4
+- ✅ **Vodovod Banja Luka** (https://vodovod-bl.com/)
+  - [(proba)](https://vodovod-bl.com/posao-od-pet-miliona-evra-gradi-se-50-kilometara-novih-vodovoda) [ok] linkova-oglasa: 14, signal: 6
+    - 22.09.2020. -> https://vodovod-bl.com/2020/09/22
+    - Najava radova za 30. oktobar 2026. -> https://vodovod-bl.com/najava-radova-za-30-oktobar-2026
+    - Servisne informacije za 29. oktobar 2026. -> https://vodovod-bl.com/servisne-informacije-za-29-oktobar-2026
+    - Radovi na cjevovodu, 28. oktobar 2026. -> https://vodovod-bl.com/radovi-na-cjevovodu-28-oktobar-2026
+- ⚪ **Vodovod Mostar** (https://vodovod-mostar.ba/bs/jezik/): nema stranice karijera
+- ⚪ **Vodovod i kanalizacija Tuzla** (https://viktuzla.ba/): nema stranice karijera
+- ⚪ **Grad Sarajevo** (https://www.sarajevo.ba/): nema stranice karijera
+- ✅ **Kanton Sarajevo** (https://vlada.ks.gov.ba/)
+  - [Konkursi](https://vlada.ks.gov.ba/aktuelno/konkursi) [ok] linkova-oglasa: 18, signal: 79
+    - JAVNI OGLAS za izbor i imenovanje na pozicije predsjednika i članova u -> https://mo.ks.gov.ba/javni-oglasi-pozivi/javni-oglas-za-izbor-i-imenovanje-na-pozicije-predsjednika-i-clanova-u-4
+    - Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Hrasno" -> https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-hrasno-0
+    - Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Avdo Sm -> https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-avdo-smailovic
+    - Javni konkurs za izbor direktora/direktorice JU OŠ "Mehmedalija Mak Di -> https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-os-mehmedalija-mak-dizdar-0
+  - [Stručna služba za zajedničke poslove](https://vlada.ks.gov.ba/vlada/strucna-sluzba-zajednicki-poslovi) [ok] linkova-oglasa: 1, signal: 1
+    - Propisi i rad organa uprave -> https://vlada.ks.gov.ba/vlada/strucna-sluzba-zajednicki-poslovi/akti
+  - [Pojedinačni akti](https://vlada.ks.gov.ba/vlada/strucna-sluzba-zajednicki-poslovi/akti) [ok] linkova-oglasa: 76, signal: 1
+    - Indeks registar informacija -> https://vlada.ks.gov.ba/node/91125
+    - indeks_registar_informacija.pdf (106.53 KB) -> https://vlada.ks.gov.ba/%20indeks_registar_informacija.pdf_%20%20%28106.53%20KB%29_
+    - indeks_registar_informacija.pdf -> https://vlada.ks.gov.ba/sites/default/files/2022-12/indeks_registar_informacija.pdf
+    - Rješenje o potvrđivanju medijatora -> https://vlada.ks.gov.ba/node/91123
+  - [Vlada KS odobrila zapošljavanje 250 nezaposlenih osoba kod 167 poslodavaca](https://vlada.ks.gov.ba/node/128470) [ok] linkova-oglasa: 0, signal: 2
+- ❌ **Federalni zavod za zapošljavanje** (https://www.fzzz.ba): ConnectTimeout: HTTPConnectionPool(host='www.fzzz.ba', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.fzzz.ba', port=80) at 0x73998867e210>, 'Connection to www.fzzz.ba timed out. (connect timeout=25)'))
+- ✅ **SZZ HNK** (https://www.szzhnz-k.ba/)
+  - [Javni oglasi - zapošljavanje](https://www.szzhnz-k.ba/careers_.php) [ok] linkova-oglasa: 76, signal: 46
+    - Služba za zapošljavanje HNŽ-HNK Viši stručni suradnik za zapošljavanje -> https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Visi_strucni_suradnik_za_zaposljavanje_stranaca_2026.pdf
+    - Prijavni obrazac -> https://www.szzhnz-k.ba/pdf/zaposlenje/Obrazac_za_kandidate_koji_se_prijavljuju_na_javni_oglas_objavljen_sukladno_s_uredbom_u_postupku_prijema_u_radni_odnos_u_javnom_sektoru_u_HNZ.docx
+    - Popis članova povjerenstva -> https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_-_Visi_strucni_suradnik_za_zaposljavanje_stranaca_2026.pdf
+    - Služba za zapošljavanje HNŽ-HNK Stručni suradnik za posredovanje pri z -> https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Strucni_suradnik_za_posredovanje_pri_zaposljavanju_u_Podruznici_Capljina_2026.pdf
+  - [Javni oglasi - prodaja vozila](https://www.szzhnz-k.ba/sales.php) [ok] linkova-oglasa: 6, signal: 10
+    - Služba za zapošljavanje HNŽ-HNK PONOVLJENI JAVNI OGLAS za prodaju služ -> https://www.szzhnz-k.ba/pdf/prodaja/ponovljeni_javni_oglas_auto.pdf
+    - Obrazac - Pravne osobe -> https://www.szzhnz-k.ba/pdf/prodaja/Ponovljeni_OBRAZAC-Pravne_osobe.docx
+    - Obrazac - Fizičke osobe -> https://www.szzhnz-k.ba/pdf/prodaja/Ponovljeni_OBRAZAC-Fizicke_osobe.docx
+    - Služba za zapošljavanje HNŽ-HNK JAVNI OGLAS za prodaju službenog vozil -> https://www.szzhnz-k.ba/pdf/prodaja/javni_oglas_podaja_vozila.pdf
+  - [Pravila privatnosti](https://www.szzhnz-k.ba/pdf/obrazci/Pravila_privatnosti_Sluzbe_za_zaposljavanje_HNZ-HNK.pdf) [PDF] linkova-oglasa: 0, signal: 0
+  - [Natječaji](https://www.szzhnz-k.ba/natjecaji.php) [ok] linkova-oglasa: 13, signal: 4
+    - ARHIVA NATJEČAJA - rok trajanja 2026 -> https://www.szzhnz-k.ba/arh-natjecaji_2026.php
+    - ARHIVA NATJEČAJA - rok trajanja 2025 -> https://www.szzhnz-k.ba/arh-natjecaji_2025.php
+    - ARHIVA NATJEČAJA - rok trajanja 2024 -> https://www.szzhnz-k.ba/arh-natjecaji_2024.php
+    - ARHIVA NATJEČAJA - rok trajanja 2023 -> https://www.szzhnz-k.ba/arh-natjecaji_2023.php
+- ✅ **SZZ ZHK** (https://szz-zzh.ba/)
+  - [Natječaji](https://szz-zzh.ba/natjecaji-za-posao) [ok] linkova-oglasa: 119, signal: 16
+    - Bonusi, popusti i mogućnost razvoja: Pepco zapošljava u Širokom Brijeg -> https://szz-zzh.ba/2026/10/29/bonusi-popusti-i-mogucnost-razvoja-pepco-zaposljava-u-sirokom-brijegu
+    - AX-SOLING otvara veću koncept trgovinu u Širokom Brijegu i zapošljava  -> https://szz-zzh.ba/2026/10/28/ax-soling-otvara-vecu-koncept-trgovinu-u-sirokom-brijegu-i-zaposljava-8-radnika-provjerite-detalje
+    - Tražite posao u prvoj smjeni? BERNINA zapošljava u Širokom Brijegu -> https://szz-zzh.ba/2026/10/26/trazite-posao-u-prvoj-smjeni-bernina-zaposljava-u-sirokom-brijegu
+    - Dom Hrast traži nove članove tima: Otvoreno više pozicija, provjerite  -> https://szz-zzh.ba/2026/10/26/dom-hrast-trazi-nove-clanove-tima-otvoreno-vise-pozicija-provjerite-uvjete
+  - [Natječaji u inozemstvu](https://szz-zzh.ba/natjecaji-u-inozemstvu) [ok] linkova-oglasa: 14, signal: 1
+    - Varioc i farbar -> https://szz-zzh.ba/wp-content/uploads/2022/11/Varioc-i-farbar.docx
+    - Monter -> https://szz-zzh.ba/wp-content/uploads/2022/06/11153-6052_2022-8-09.06.2022.pdf
+    - Cjevar -> https://szz-zzh.ba/wp-content/uploads/2022/06/11153-5345_2022-10-14.06.2022.pdf
+    - Pomoćni građevinski radnik -> https://szz-zzh.ba/wp-content/uploads/2022/06/11153-6211_2022-1-08.06.2022.pdf
+  - [Arhiva natječaja](https://szz-zzh.ba/arhiva-natjecaja) [ok] linkova-oglasa: 55, signal: 11
+    - “Portal Grupa” d.o.o. natječaj za posao -> https://szz-zzh.ba/2026/04/27/portal-grupa-d-o-o-natjecaj-za-posao
+    - Kuhar/kuharica – natječaj za posao -> https://szz-zzh.ba/2026/04/23/kuhar-kuharica-natjecaj-za-posao
+    - „Sv. Josip Radnik“ Dom za starije i nemoćne osobe Ljubuški – natječaj -> https://szz-zzh.ba/2026/04/22/sv-josip-radnik-dom-za-starije-i-nemocne-osobe-ljubuski-natjecaj
+    - JAVNI OGLAS za prijem kandidata u profesionalnu vojnu službu -> https://szz-zzh.ba/2026/04/21/javni-oglas-za-prijem-kandidata-u-profesionalnu-vojnu-sluzbu
+  - [https://szz-zzh.ba/2026/07/16/fonda-za-profesionalnu-rehabilitaciju-i-zaposljavanje-osoba-sa-invaliditetom-novi-pravilnik](https://szz-zzh.ba/2026/07/16/fonda-za-profesionalnu-rehabilitaciju-i-zaposljavanje-osoba-sa-invaliditetom-novi-pravilnik) [ok] linkova-oglasa: 0, signal: 1
+- ✅ **SZZ Kanton 10** (https://www.zzzu-livno.ba/)
+  - [Zakon o posredovanju u zapošljavanju i socijalnoj sigurnosti nezaposlenih osoba](https://zzzu-livno.ba/sadrzaj/zakon-o-posredovanju-u-zaposljavanju-i-socijalnoj-sigurnosti-nezaposlenih-osoba/75) [ok] linkova-oglasa: 15, signal: 13
+    - Zakon o posredovanju u upošljavanju i socijalnoj sigurnosti neuposleni -> https://zzzu-livno.ba/files/media/pdf/6a6b3da0c3e890.68007292_Zakon_o_posredovanju_u_uposljavanju_2001_hrvatski.pdf
+    - Zakon o izmjenama i dopunama Zakona o posredovanju u upošljavanju i so -> https://zzzu-livno.ba/files/media/pdf/6a6b3d88703fb8.14401522_Izmjene_i_dopune_Zakona_2005_hrvatski.pdf
+    - Zakon o izmjeni Zakona o posredovanju u upošljavanju i socijalnoj sigu -> https://zzzu-livno.ba/files/media/pdf/6a6b3e69658cb2.16958810_Izmjena_Zakona_2008_hrvatski.pdf
+    - Prijava na evidenciju nezaposlenih -> https://zzzu-livno.ba/sadrzaj/prijava-na-evidenciju-nezaposlenih/71
+  - [Zakon o upošljavanju stranaca](https://zzzu-livno.ba/sadrzaj/zakon-o-zaposljavanju-stranaca/70) [ok] linkova-oglasa: 13, signal: 13
+    - Zakon o upošljavanju stranaca -> https://zzzu-livno.ba/files/media/pdf/6a6c772abf44e3.56754831_Zakon_o_uposljavanju_stranaca_hrvatski.pdf
+    - Prijava na evidenciju nezaposlenih -> https://zzzu-livno.ba/sadrzaj/prijava-na-evidenciju-nezaposlenih/71
+    - Tko je nezaposlena osoba -> https://zzzu-livno.ba/sadrzaj/tko-je-nezaposlena-osoba/72
+    - Novčana naknada -> https://zzzu-livno.ba/sadrzaj/novcana-naknada/73
+  - [Pravilnik o evidencijama u oblasti zapošljavanja](https://zzzu-livno.ba/sadrzaj/sporazum-o-saradnji-federalnog-zavoda-za-zaposljavanje-i-udruzenja-poslodavaca-u-federaciji-bosne-i-hercegovine/69) [ok] linkova-oglasa: 13, signal: 13
+    - Pravilnik o evidencijama u oblasti upošljavanja -> https://zzzu-livno.ba/files/media/pdf/6a6c8da959d6d1.70873492_Pravilnik_o_evidencijama_u_oblasti_uposljavanja_Sluzbene_novine_FBiH_74-18_hrvatski.pdf
+    - Prijava na evidenciju nezaposlenih -> https://zzzu-livno.ba/sadrzaj/prijava-na-evidenciju-nezaposlenih/71
+    - Tko je nezaposlena osoba -> https://zzzu-livno.ba/sadrzaj/tko-je-nezaposlena-osoba/72
+    - Novčana naknada -> https://zzzu-livno.ba/sadrzaj/novcana-naknada/73
+  - [Registriraj se](https://zzzu-livno.ba/registracija/nezaposleni) [ok] linkova-oglasa: 0, signal: 11
+- ✅ **SZZ Tuzlanski kanton** (https://szztk.ba/)
+  - [Prijava na evidenciju nezaposlenih osoba](https://szztk.ba/prva-prijava) [ok] linkova-oglasa: 12, signal: 17
+    - Ostvarivanje prava na zdravstveno osiguranje -> https://szztk.ba/ostvarivanje-prava-na-zdravstveno-osiguranje
+    - Profesionalna orijentacija -> https://szztk.ba/profesionalna-orijentacija
+    - PRISTUP INFORMACIJAMA -> https://szztk.ba/pristup-informacijama
+    - Salon za njegu lica i tijela Be You Tuzla nudi besplatnu edukaciju za  -> https://szztk.ba/salon-za-njegu-lica-i-tijela-be-you-tuzla-nudi-besplatnu-edukaciju-za-nezaposlene-osobe-kroz-program-obuka-za-trziste-rada-2026
+  - [OGLASI](https://szztk.ba/oglasi) [ok] linkova-oglasa: 22, signal: 20
+    - Ostvarivanje prava na zdravstveno osiguranje -> https://szztk.ba/ostvarivanje-prava-na-zdravstveno-osiguranje
+    - Profesionalna orijentacija -> https://szztk.ba/profesionalna-orijentacija
+    - PRISTUP INFORMACIJAMA -> https://szztk.ba/pristup-informacijama
+    - Salon za njegu lica i tijela Be You Tuzla nudi besplatnu edukaciju za  -> https://szztk.ba/salon-za-njegu-lica-i-tijela-be-you-tuzla-nudi-besplatnu-edukaciju-za-nezaposlene-osobe-kroz-program-obuka-za-trziste-rada-2026
+  - [Salon za njegu lica i tijela Be You Tuzla nudi besplatnu edukaciju za nezaposlen](https://szztk.ba/salon-za-njegu-lica-i-tijela-be-you-tuzla-nudi-besplatnu-edukaciju-za-nezaposlene-osobe-kroz-program-obuka-za-trziste-rada-2026) [ok] linkova-oglasa: 7, signal: 8
+    - Ostvarivanje prava na zdravstveno osiguranje -> https://szztk.ba/ostvarivanje-prava-na-zdravstveno-osiguranje
+    - Profesionalna orijentacija -> https://szztk.ba/profesionalna-orijentacija
+    - PRISTUP INFORMACIJAMA -> https://szztk.ba/pristup-informacijama
+    - Javni poziv za učešće nezaposlenih osoba u Programu prekvalifikacije,  -> https://szztk.ba/javni-poziv-za-ucesce-nezaposlenih-osoba-u-programu-prekvalifikacije-dokvalifikacije-i-obuke-nezaposlenih-osoba-2026
+  - [Javni poziv za učešće nezaposlenih osoba u Programu prekvalifikacije, dokvalifik](https://szztk.ba/javni-poziv-za-ucesce-nezaposlenih-osoba-u-programu-prekvalifikacije-dokvalifikacije-i-obuke-nezaposlenih-osoba-2026) [ok] linkova-oglasa: 12, signal: 9
+    - Ostvarivanje prava na zdravstveno osiguranje -> https://szztk.ba/ostvarivanje-prava-na-zdravstveno-osiguranje
+    - Profesionalna orijentacija -> https://szztk.ba/profesionalna-orijentacija
+    - PRISTUP INFORMACIJAMA -> https://szztk.ba/pristup-informacijama
+    - Salon za njegu lica i tijela Be You Tuzla nudi besplatnu edukaciju za  -> https://szztk.ba/salon-za-njegu-lica-i-tijela-be-you-tuzla-nudi-besplatnu-edukaciju-za-nezaposlene-osobe-kroz-program-obuka-za-trziste-rada-2026
+- ❌ **SZZ Unsko-sanski kanton** (https://www.szzusk.ba): ConnectionError: HTTPConnectionPool(host='www.szzusk.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.szzusk.ba', port=80): Failed to resolve 'www.szzusk.ba' ([Errno -2] Name or service not known)"))
+- ❌ **SZZ Srednjobosanski kanton** (https://www.szzsbk.ba): ConnectionError: HTTPConnectionPool(host='www.szzsbk.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.szzsbk.ba', port=80): Failed to resolve 'www.szzsbk.ba' ([Errno -2] Name or service not known)"))
+- ✅ **SZZ Bosansko-podrinjski kanton** (https://www.szzbpk.ba/)
+  - [Za nezaposlene](https://szzbpk.ba/nezaposleni.php) [ok] linkova-oglasa: 2, signal: 8
+    - Pravila privatnosti -> https://www.szzbpk.ba/dokumenti/odlukeidr/pravilaprivatnosti2026.pdf
+    - Profesionalno informisanje -> https://szzbpk.ba/profinformisanje.php
+  - [saznajte više](https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php) [ok] linkova-oglasa: 22, signal: 49
+    - Pravila privatnosti -> https://www.szzbpk.ba/dokumenti/odlukeidr/pravilaprivatnosti2026.pdf
+    - Ibis-inžinjering d.o.o. Banja Luka -> https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae1e343e5a887.59725650.pdf
+    - Dino market d.o.o. Goražde -> https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae1b3f1c1f079.50627385.pdf
+    - MUP BPK GORAŽDE - UPRAVA POLICIJE -> https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae0a324429962.95287930.pdf
+  - [Federalni zavod za zapošljavanje](https://fzzz.ba/) [greška] linkova-oglasa: 0, signal: 0
+  - [Agencija za rad i zapošljavanje BIH](https://www.arz.gov.ba:443/bs) [ok] linkova-oglasa: 17, signal: 4
+    - O Agenciji -> https://www.arz.gov.ba:443/bs/meni/menu_cmncjyagv00ltk03uxpwk6h8s
+    - Dokumenti -> https://www.arz.gov.ba:443/bs/meni/menu_cmnckma2600p3k03uvg8xd543
+    - Statistika -> https://www.arz.gov.ba:443/bs/meni/menu_cmnckvpj400qlk03ul05bkrr2
+    - Publikacije -> https://www.arz.gov.ba:443/bs/meni/menu_cmnclhsu200txk03u654795gd
+- ❌ **SZZ Posavski kanton** (https://www.szzpk.ba): ConnectionError: HTTPConnectionPool(host='www.szzpk.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.szzpk.ba', port=80): Failed to resolve 'www.szzpk.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Zavod za zapošljavanje Brčko** (https://www.zzzbrcko.org/)
+  - [(proba)](https://www.zzzbrcko.org/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.zzzbrcko.org/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.zzzbrcko.org/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.zzzbrcko.org/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ❌ **Vlada Brčko distrikta** (https://www.bdcentral.net): ConnectTimeout: HTTPConnectionPool(host='www.bdcentral.net', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.bdcentral.net', port=80) at 0x739990dce390>, 'Connection to www.bdcentral.net timed out. (connect timeout=25)'))
+- ✅ **Agencija za rad i zapošljavanje BiH** (https://www.arz.gov.ba/bs)
+  - [Agencija za rad i zapošljavanje BiH](https://www.arz.gov.ba/bs) [ok] linkova-oglasa: 17, signal: 4
+    - O Agenciji -> https://www.arz.gov.ba/bs/meni/menu_cmncjyagv00ltk03uxpwk6h8s
+    - Dokumenti -> https://www.arz.gov.ba/bs/meni/menu_cmnckma2600p3k03uvg8xd543
+    - Statistika -> https://www.arz.gov.ba/bs/meni/menu_cmnckvpj400qlk03ul05bkrr2
+    - Publikacije -> https://www.arz.gov.ba/bs/meni/menu_cmnclhsu200txk03u654795gd
+  - [Oglasi](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) [ok] linkova-oglasa: 13, signal: 6
+    - Hrvatski -> https://www.arz.gov.ba/hr/meni/menu_cmnclncj400uxk03uy00mieba
+    - Српски -> https://www.arz.gov.ba/sr/meni/menu_cmnclncj400uxk03uy00mieba
+    - English -> https://www.arz.gov.ba/en/menu/menu_cmnclncj400uxk03uy00mieba
+    - O Agenciji -> https://www.arz.gov.ba/bs/meni/menu_cmncjyagv00ltk03uxpwk6h8s
+  - [Više](https://www.arz.gov.ba/bs/portal/objava/javni-oglas-za-prodaju-sluzbenog-vozila-putem-postupka-licitacije-sistemom-zatvorenih-ponuda-1792659311295) [ok] linkova-oglasa: 20, signal: 6
+    - Hrvatski -> https://www.arz.gov.ba/hr/portal/objava/javni-oglas-za-prodaju-sluzbenog-vozila-putem-postupka-licitacije-sistemom-zatvorenih-ponuda-1792659311295
+    - Српски -> https://www.arz.gov.ba/sr/portal/objava/javni-oglas-za-prodaju-sluzbenog-vozila-putem-postupka-licitacije-sistemom-zatvorenih-ponuda-1792659311295
+    - English -> https://www.arz.gov.ba/en/portal/post/javni-oglas-za-prodaju-sluzbenog-vozila-putem-postupka-licitacije-sistemom-zatvorenih-ponuda-1792659311295
+    - O Agenciji -> https://www.arz.gov.ba/bs/meni/menu_cmncjyagv00ltk03uxpwk6h8s
+  - [Aktuelnosti Održana TAIEX radionica o koordinaciji sistema socijalne sigurnosti ](https://www.arz.gov.ba/bs/portal/objava/odrzana-taiex-radionica-o-koordinaciji-sistema-socijalne-sigurnosti-u-oblasti-naknada-za-nezaposlene-osobe-1788416808307) [ok] linkova-oglasa: 20, signal: 3
+    - Hrvatski -> https://www.arz.gov.ba/hr/portal/objava/odrzana-taiex-radionica-o-koordinaciji-sistema-socijalne-sigurnosti-u-oblasti-naknada-za-nezaposlene-osobe-1788416808307
+    - Српски -> https://www.arz.gov.ba/sr/portal/objava/odrzana-taiex-radionica-o-koordinaciji-sistema-socijalne-sigurnosti-u-oblasti-naknada-za-nezaposlene-osobe-1788416808307
+    - English -> https://www.arz.gov.ba/en/portal/post/odrzana-taiex-radionica-o-koordinaciji-sistema-socijalne-sigurnosti-u-oblasti-naknada-za-nezaposlene-osobe-1788416808307
+    - O Agenciji -> https://www.arz.gov.ba/bs/meni/menu_cmncjyagv00ltk03uxpwk6h8s
+- ✅ **Univerzitet u Sarajevu** (https://www.unsa.ba/)
+  - [Scholarships](https://www.unsa.ba/index.php/studij/studiranje/stipendije) [ok] linkova-oglasa: 102, signal: 6
+    - English -> https://www.unsa.ba/index.php/en/node/668
+    - O Univerzitetu -> https://www.unsa.ba/index.php/o-univerzitetu
+    - Organizacija -> https://www.unsa.ba/index.php/o-univerzitetu/organizacija
+    - Historija -> https://www.unsa.ba/index.php/o-univerzitetu/organizacija/historija
+  - [Zapošljavanje](https://www.unsa.ba/index.php/node/1217) [ok] linkova-oglasa: 105, signal: 7
+    - English -> https://www.unsa.ba/index.php/en/research-and-cooperation/european-charter-code/recruitment-policy
+    - Zakon o radu ("Službene novine Federacije BiH", broj: 26/16 i 89/18) -> https://www.unsa.ba/sites/default/files/dodatak/2021-02/Zakon-o-radu-precisceni-tekst_2018.pdf
+    - Zakon o visokom obrazovanju KS -> https://www.unsa.ba/sites/default/files/dodatak/2021-02/Zakon%20o%20VO%20august%202017.PDF
+    - Zakon o naučnoistraživačkoj djelatnosti KS -> https://www.unsa.ba/sites/default/files/dodatak/2021-02/Zakon%20o%20naucno-istrazivackom%20radu%20KS.pdf
+  - [Konkursi](https://www.unsa.ba/index.php/konkursi) [ok] linkova-oglasa: 100, signal: 16
+    - English -> https://www.unsa.ba/index.php/en/konkursi
+    - Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati p -> https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-12
+    - Konkurs za izbor akademskog osoblja na Univerzitetu u Sarajevu - Fakul -> https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-fakultetu-za-saobracaj-i-2
+    - Pitanja, lista propisa i literature za prijem u radni odnos | Univerzi -> https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-muzicka
+  - [16. Sajam stipendija Univerziteta u Sarajevu](https://www.unsa.ba/index.php/novosti/16-sajam-stipendija-univerziteta-u-sarajevu) [ok] linkova-oglasa: 96, signal: 9
+    - English -> https://www.unsa.ba/index.php/en/novosti/16-scholarship-fair-unsa-study-expo
+    - Vijesti UNSA -> https://www.unsa.ba/index.php/taxonomy/term/42
+    - Četrnaest godina saradnje Univerziteta u Sarajevu - Veterinarskog faku -> https://www.unsa.ba/novosti/cetrnaest-godina-saradnje-univerziteta-u-sarajevu-veterinarskog-fakulteta-i-fondacije-dogs
+    - Na Univerzitetu u Sarajevu obilježeno deseto izdanje Nacionalnog dana  -> https://www.unsa.ba/novosti/na-univerzitetu-u-sarajevu-obiljezeno-deseto-izdanje-nacionalnog-dana-svjesnosti-o
+- ✅ **Univerzitet u Banjoj Luci** (https://www.unibl.org/)
+  - [https://www.unibl.org/sr/zaposleni](https://www.unibl.org/sr/zaposleni) [ok] linkova-oglasa: 400, signal: 0
+    - Maлбашић -> https://www.unibl.org/sr/fis/zaposlen/7178-milutin-malbasic
+    - Сузана -> https://www.unibl.org/sr/fis/zaposlen/7060-suzana-maric
+    - Tодоровић -> https://www.unibl.org/sr/fis/zaposlen/6981-ivana-todorovic
+    - Велимир -> https://www.unibl.org/sr/fis/zaposlen/2362-velimir-ajdaric
+  - [Уручени сертификати полазницима пројекта ''Моја пракса''](https://www.unibl.org/sr/univerzitet/fotogalerija/uruceni-sertifikati-polaznicima-projekta-moja-praksa) [ok] linkova-oglasa: 35, signal: 0
+    - Универзитет -> https://www.unibl.org/sr/univerzitet
+    - О Универзитету -> https://www.unibl.org/sr/univerzitet/o-univerzitetu
+    - Визија и мисија -> https://www.unibl.org/sr/univerzitet/vizija-i-misija
+    - Управа и стручне службе -> https://www.unibl.org/sr/univerzitet/uprava-i-strucne-sluzbe
+  - [Конкурс за упис](https://www.unibl.org/sr/upis/konkurs-za-upis) [ok] linkova-oglasa: 35, signal: 0
+    - Конкурс за успис студента у академској 2026/2027. години -> https://unibl.org/uploads/files/Konkurs_upis%20studenata_26.27_.pdf
+    - Универзитет -> https://www.unibl.org/sr/univerzitet
+    - О Универзитету -> https://www.unibl.org/sr/univerzitet/o-univerzitetu
+    - Визија и мисија -> https://www.unibl.org/sr/univerzitet/vizija-i-misija
+  - [https://unibl.org/sr/vesti/2026/10/konkurs-za-sufinansiranje-medjunarodne-razmjene](https://unibl.org/sr/vesti/2026/10/konkurs-za-sufinansiranje-medjunarodne-razmjene) [ok] linkova-oglasa: 36, signal: 0
+    - Стипендије и програми -> https://unibl.org/sr/vesti?q%5Bza_jednu_od_kategorija%5D=5
+    - Универзитет -> https://unibl.org/sr/univerzitet
+    - О Универзитету -> https://unibl.org/sr/univerzitet/o-univerzitetu
+    - Визија и мисија -> https://unibl.org/sr/univerzitet/vizija-i-misija
+- ✅ **Univerzitet u Tuzli** (https://untz.ba/)
+  - [Konkursi](https://untz.ba/konkursi) [ok] linkova-oglasa: 75, signal: 90
+    - Put Semira Mustafića od žurnalistike u Tuzli do najvećih sportskih tak -> https://untz.ba/blog/put-semira-mustafica-od-zurnalistike-u-tuzli-do-najvecih-sportskih-takmicenja
+    - INTERNI POZIV za podnošenje prijava za dodjelu nagrada i priznanja aka -> https://untz.ba/blog/interni-poziv-za-podnosenje-prijava-za-dodjelu-nagrada-i-priznanja-akademskom-osoblju-univeziteta-u-tuzli
+    - Univerzitet u Tuzli potpisao sporazum o saradnji s Bosnalijekom: Nove  -> https://untz.ba/blog/univerzitet-u-tuzli-potpisao-sporazum-o-saradnji-s-bosnalijekom-nove-mogucnosti-za-prakticnu-nastavu-i-naucnoistrazivacki-rad
+    - Premijerno prikazan dokumentarni film „50 godina Univerziteta u Tuzli“ -> https://untz.ba/blog/premijerno-prikazan-dokumentarni-film-50-godina-univerziteta-u-tuzli
+  - [Stipendije za studente](https://untz.ba/studij-nastava/stipendije-za-studente) [ok] linkova-oglasa: 15, signal: 3
+    - Put Semira Mustafića od žurnalistike u Tuzli do najvećih sportskih tak -> https://untz.ba/blog/put-semira-mustafica-od-zurnalistike-u-tuzli-do-najvecih-sportskih-takmicenja
+    - INTERNI POZIV za podnošenje prijava za dodjelu nagrada i priznanja aka -> https://untz.ba/blog/interni-poziv-za-podnosenje-prijava-za-dodjelu-nagrada-i-priznanja-akademskom-osoblju-univeziteta-u-tuzli
+    - Univerzitet u Tuzli potpisao sporazum o saradnji s Bosnalijekom: Nove  -> https://untz.ba/blog/univerzitet-u-tuzli-potpisao-sporazum-o-saradnji-s-bosnalijekom-nove-mogucnosti-za-prakticnu-nastavu-i-naucnoistrazivacki-rad
+    - Premijerno prikazan dokumentarni film „50 godina Univerziteta u Tuzli“ -> https://untz.ba/blog/premijerno-prikazan-dokumentarni-film-50-godina-univerziteta-u-tuzli
+  - [Stipendije](https://untz.ba/saradnja/ured-za-meduuniverzitetsku-saradnju/stipendije) [ok] linkova-oglasa: 30, signal: 3
+    - Put Semira Mustafića od žurnalistike u Tuzli do najvećih sportskih tak -> https://untz.ba/blog/put-semira-mustafica-od-zurnalistike-u-tuzli-do-najvecih-sportskih-takmicenja
+    - INTERNI POZIV za podnošenje prijava za dodjelu nagrada i priznanja aka -> https://untz.ba/blog/interni-poziv-za-podnosenje-prijava-za-dodjelu-nagrada-i-priznanja-akademskom-osoblju-univeziteta-u-tuzli
+    - Univerzitet u Tuzli potpisao sporazum o saradnji s Bosnalijekom: Nove  -> https://untz.ba/blog/univerzitet-u-tuzli-potpisao-sporazum-o-saradnji-s-bosnalijekom-nove-mogucnosti-za-prakticnu-nastavu-i-naucnoistrazivacki-rad
+    - Premijerno prikazan dokumentarni film „50 godina Univerziteta u Tuzli“ -> https://untz.ba/blog/premijerno-prikazan-dokumentarni-film-50-godina-univerziteta-u-tuzli
+  - [https://untz.ba/blog/javni-oglas-za-dodjelu-godisnje-stipendije-adil-zulfikarpasic-u-akademskoj-2026-2027-godini](https://untz.ba/blog/javni-oglas-za-dodjelu-godisnje-stipendije-adil-zulfikarpasic-u-akademskoj-2026-2027-godini) [ok] linkova-oglasa: 10, signal: 8
+    - Put Semira Mustafića od žurnalistike u Tuzli do najvećih sportskih tak -> https://untz.ba/blog/put-semira-mustafica-od-zurnalistike-u-tuzli-do-najvecih-sportskih-takmicenja
+    - INTERNI POZIV za podnošenje prijava za dodjelu nagrada i priznanja aka -> https://untz.ba/blog/interni-poziv-za-podnosenje-prijava-za-dodjelu-nagrada-i-priznanja-akademskom-osoblju-univeziteta-u-tuzli
+    - Univerzitet u Tuzli potpisao sporazum o saradnji s Bosnalijekom: Nove  -> https://untz.ba/blog/univerzitet-u-tuzli-potpisao-sporazum-o-saradnji-s-bosnalijekom-nove-mogucnosti-za-prakticnu-nastavu-i-naucnoistrazivacki-rad
+    - Premijerno prikazan dokumentarni film „50 godina Univerziteta u Tuzli“ -> https://untz.ba/blog/premijerno-prikazan-dokumentarni-film-50-godina-univerziteta-u-tuzli
+- ❌ **Univerzitet u Mostaru** (https://www.sum.ba): ConnectTimeout: HTTPConnectionPool(host='www.sum.ba', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.sum.ba', port=80) at 0x739988ccb4a0>, 'Connection to www.sum.ba timed out. (connect timeout=25)'))
+- ⚪ **IBU** (https://www.ibu.edu.ba/): nema stranice karijera
+- ✅ **SSST** (https://ssst.edu.ba/en)
+  - [https://ssst.edu.ba/en/page/internship/26](https://ssst.edu.ba/en/page/internship/26) [ok] linkova-oglasa: 12, signal: 6
+    - Academic Calendar -> http://ssst.edu.ba/en/page/academic-calendar/24
+    - Sports -> http://ssst.edu.ba/en/page/sports/30
+    - MUN Club -> http://ssst.edu.ba/en/page/mun-club/31
+    - Medica -> http://ssst.edu.ba/en/page/medica/32
+- ✅ **ETF Sarajevo** (https://www.etf.unsa.ba/)
+  - [Studij Sigurnost informacija vas priprema za karijeru u najbrže rastućoj i najtr](https://si.etf.unsa.ba/) [ok] linkova-oglasa: 0, signal: 2
+  - [tekst konkursa asst aie.pdf](https://www.etf.unsa.ba/uploads/tekst_konkursa_asst_aie_bc5b4769b1.pdf) [PDF] linkova-oglasa: 0, signal: 0
+  - [tekst konkursa asst aie.docx](https://www.etf.unsa.ba/uploads/tekst_konkursa_asst_aie_31e86bc8c8.docx) [ok] linkova-oglasa: 0, signal: 0
+  - [Konkurs za III ciklus 26-27 web stranica.pdf](https://www.etf.unsa.ba/uploads/Konkurs_za_III_ciklus_26_27_web_stranica_d32b54de8d.pdf) [PDF] linkova-oglasa: 0, signal: 0
+
+## medjunarodne
+
+- ❌ **UNDP BiH** (https://www.undp.org/bosnia-herzegovina): HTTP 403
+- ✅ **OSCE Misija u BiH** (https://bih.osce.org/)
+  - [Vacancies](https://vacancies.osce.org/) [ok] linkova-oglasa: 8, signal: 3
+    - Secondment jobs -> https://vacancies.osce.org/moreinfo/sec
+    - International Consultant - Expert in Psychology and Institutional Capa -> https://vacancies.osce.org/jobs/international-consultant-expert-in-psychology-and-institutional-capacity-building-ssa-5133
+    - 🔍 SEC - OSCE Secretariat, Vienna -> https://vacancies.osce.org/jobs/5133/other-jobs-matching/location-only
+    - Associate Programme Officer, Roma and Sinti Issues (S) -> https://vacancies.osce.org/jobs/associate-programme-officer-roma-and-sinti-issues-s-4993
+- ✅ **EU Delegacija u BiH** (https://www.eeas.europa.eu/delegations/bosnia-and-herzegovina_en)
+  - [Vacancies](https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia+and+Herzegovina&s=219) [ok] linkova-oglasa: 280, signal: 13
+    - Contract Agent (647) -> https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AContract+Agent
+    - CSDP Mission post (237) -> https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3ACSDP+Mission+post
+    - EU Project position (271) -> https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AEU+Project+position
+    - International position (56) -> https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AInternational+position
+- ✅ **US Ambasada Sarajevo** (https://ba.usembassy.gov/)
+  - [Information on Job Opportunities](https://ba.usembassy.gov/jobs) [ok] linkova-oglasa: 5, signal: 9
+    - English -> https://common.usembassy.gov/wp-content/uploads/sites/93/2023/06/English-ERA-Step-by-Step-Document.pdf
+    - Find Job Openings -> https://common.usembassy.gov/wp-content/uploads/sites/93/2023/06/0303-ERA-Prijaviti-se-za-posao-u-Misiji-SAD-a-u-Bosni-i-Hercegovini-BiH-je-lako.pdf
+    - Job Applicant User Guide ERA Applicant User Guide Job Applicant User G -> https://common.usembassy.gov/wp-content/uploads/sites/3/2022/06/ERA_Applicant-Job-Aid_4.4.18-final.pdf
+    - ONLINE PROFESSIONAL ENGLISH NETWORK (OPEN) PROGRAM – Winter 2027 -> https://ba.usembassy.gov/open-winter-2027
+- ✅ **GIZ BiH** (https://www.giz.de/en/regions/europe/kosovo)
+  - [Join our team](https://www.giz.de/en/career) [ok] linkova-oglasa: 6, signal: 4
+    - All entry-level positions with us -> https://www.giz.de/en/career/jobs
+    - Procedure and tips -> https://www.giz.de/en/career/application-process
+    - Show all benefits -> https://www.giz.de/en/career/benefits
+    - More Hello from Niamey -> https://www.giz.de/en/newsroom/stories/introducing-natalie-naeser-niger
+  - [Career opportunities](https://www.giz.de/en/career/jobs) [ok] linkova-oglasa: 9, signal: 4
+    - More Working for GIZ worldwide -> https://www.giz.de/en/career/jobs/worldwide
+    - More Working for GIZ in Germany -> https://www.giz.de/en/career/jobs/germany
+    - More Digital experts for GIZ -> https://www.giz.de/en/career/jobs/digital
+    - More Development workers -> https://www.giz.de/en/career/jobs/development-workers
+  - [Application process](https://www.giz.de/en/career/application-process) [ok] linkova-oglasa: 1, signal: 10
+    - More on inclusion at GIZ -> https://www.giz.de/en/sustainability/social/diversity
+  - [Benefits](https://www.giz.de/en/career/benefits) [ok] linkova-oglasa: 0, signal: 1
+- ✅ **OHR** (https://www.ohr.int/en/)
+  - [Vacancies](https://www.ohr.int/vacancies) [ok] linkova-oglasa: 18, signal: 0
+    - Press Releases -> https://www.ohr.int/cat/ohr-press-releases
+    - Interviews -> https://www.ohr.int/cat/ohr-related-interviews
+    - Articles -> https://www.ohr.int/cat/ohr-related-articles
+    - Speeches -> https://www.ohr.int/cat/speeches
+
+## ostalo
+
+- ✅ **Bingo** (https://www.bingotuzla.ba/)
+  - [Oglasi](https://www.bingotuzla.ba/bingooglasi) [ok] linkova-oglasa: 7, signal: 21
+    - Bingo d.o.o. Tuzla raspisuje konkurs za poziciju: -> https://www.bingotuzla.ba/2026/10/27/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-4
+    - Bingo d.o.o. Tuzla raspisuje konkurs za poziciju: -> https://www.bingotuzla.ba/2026/10/19/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-3
+    - Bingo Petrol d.o.o. Tuzla raspisuje konkurs za poziciju: -> https://www.bingotuzla.ba/2026/10/12/bingo-petrol-d-o-o-tuzla-raspisuje-konkurs-za-poziciju
+    - Bingo d.o.o. Tuzla raspisuje konkurs za poziciju: -> https://www.bingotuzla.ba/2026/10/01/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-2
+  - [https://www.bingotuzla.ba/2026/08/07/gastro-putovanje-donosi-nagrade-ucestvujte-u-natjecaju-ti-kuhas-i-osvojite-bingo-vaucer-od-100-km](https://www.bingotuzla.ba/2026/08/07/gastro-putovanje-donosi-nagrade-ucestvujte-u-natjecaju-ti-kuhas-i-osvojite-bingo-vaucer-od-100-km) [ok] linkova-oglasa: 10, signal: 13
+    - 7 Augusta, 2026 -> https://www.bingotuzla.ba/2026/08/07
+    - Pravilnik nagradnog natječaja Ti Kuhaš – Gastro putovanje skandinavijo -> https://www.bingotuzla.ba/wp-content/uploads/2026/08/Pravilnik-nagradnog-natjecaja-Ti-Kuhas-Gastro-putovanje-skandinavijom.pdf
+    - Read more about Iskoristite 25% popusta na nove VIVAX Home Beauty uređ -> https://www.bingotuzla.ba/2026/09/16/iskoristite-25-popusta-na-nove-vivax-home-beauty-uredjaje
+    - Read more about Četvrto ljeto zaredom Trg slobode postaje Naše mjesto  -> https://www.bingotuzla.ba/2026/08/07/cetvrto-ljeto-zaredom-trg-slobode-postaje-nase-mjesto-bingo-ljetno-kino-tuzla
+  - [Oglasi za posao](https://www.bingotuzla.ba/oglasi) [ok] linkova-oglasa: 3, signal: 13
+    - Prijava za posao -> https://www.bingotuzla.ba/pravila-privatnosti
+    - Programi lojalnosti -> https://www.bingotuzla.ba/programi-lojanosti
+    - Nagradne igre -> https://www.bingotuzla.ba/nagradne-igre-bingo
+- ❌ **Konzum BiH** (https://www.konzum.ba): ConnectionError: HTTPConnectionPool(host='www.konzum.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.konzum.ba', port=80): Failed to resolve 'www.konzum.ba' ([Errno -3] Temporary failure in name resolution)"))
+- ✅ **Robot** (https://robot.ba/)
+  - [Zapošljavanje](https://robot.ba/zaposljavanje) [ok] linkova-oglasa: 2, signal: 6
+    - KATALOG Prelistaj najnoviju ponudu ↗ -> https://robot.ba/katalog-odabir-grada
+    - AKCIJA Aktuelne cijene i popusti ↗ -> https://robot.ba/akcija-odabir-grada
+  - [Aktivni Konkursi](https://robot.ba/aktivni-konkursi) [ok] linkova-oglasa: 8, signal: 18
+    - DOMAR – 2 izvršioca – R-Time -> https://robot.ba/domar-2-izvrsioca
+    - GRAĐEVINSKI INŽINJER – 6 izvršioca – Banja Kiseljak, Hotel Dalmacija -> https://robot.ba/gradjevinski-inzinjer-6-izvrsioca
+    - RADNIK U SKLADIŠTU – 10 izvršioca – R-Time -> https://robot.ba/radnik-u-skladistu-10-izvrsioca
+    - PRODAVAČ – 10 izvršioca – Robot General Trading -> https://robot.ba/prodavac-10-izvrsioca
+  - [Prijava za posao](https://robot.ba/prijava-za-posao) [ok] linkova-oglasa: 2, signal: 9
+    - KATALOG Prelistaj najnoviju ponudu ↗ -> https://robot.ba/katalog-odabir-grada
+    - AKCIJA Aktuelne cijene i popusti ↗ -> https://robot.ba/akcija-odabir-grada
+- ✅ **Amko komerc** (https://amko.ba/)
+  - [Ljudski resursi](https://amko.ba/ljudski-resursi) [ok] linkova-oglasa: 0, signal: 0
+  - [Zaposlenje](https://amko.ba/zaposlenje) [ok] linkova-oglasa: 0, signal: 2
+- ✅ **dm BiH** (https://www.dm-drogeriemarkt.ba/)
+  - [(proba)](https://www.dm-drogeriemarkt.ba/preduzece/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.dm-drogeriemarkt.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.dm-drogeriemarkt.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.dm-drogeriemarkt.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ✅ **Bosnalijek** (https://www.bosnalijek.ba/)
+  - [Karijera](https://www.bosnalijek.ba/karijera) [ok] linkova-oglasa: 31, signal: 9
+    - Poslovna strategija -> https://www.bosnalijek.ba/poslovna-strategija
+    - Izvrsnost kao imperativ -> https://www.bosnalijek.ba/izvrsnost-kao-imperativ
+    - Korporativna odgovornost -> https://www.bosnalijek.ba/korporativna-odgovornost-par
+    - Društvena odgovornost -> https://www.bosnalijek.ba/drustvena-odgovornost
+  - [Karijera u Bosnalijeku](https://www.bosnalijek.ba/karijera-u-bosnalijeku) [ok] linkova-oglasa: 29, signal: 8
+    - Poslovna strategija -> https://www.bosnalijek.ba/poslovna-strategija
+    - Izvrsnost kao imperativ -> https://www.bosnalijek.ba/izvrsnost-kao-imperativ
+    - Korporativna odgovornost -> https://www.bosnalijek.ba/korporativna-odgovornost-par
+    - Društvena odgovornost -> https://www.bosnalijek.ba/drustvena-odgovornost
+  - [Zapošljavanje](https://www.bosnalijek.ba/zaposljavanje) [ok] linkova-oglasa: 30, signal: 7
+    - Poslovna strategija -> https://www.bosnalijek.ba/poslovna-strategija
+    - Izvrsnost kao imperativ -> https://www.bosnalijek.ba/izvrsnost-kao-imperativ
+    - Korporativna odgovornost -> https://www.bosnalijek.ba/korporativna-odgovornost-par
+    - Društvena odgovornost -> https://www.bosnalijek.ba/drustvena-odgovornost
+  - [Profil naših zaposlenika](https://www.bosnalijek.ba/profil-nasih-zaposlenika) [ok] linkova-oglasa: 29, signal: 7
+    - Poslovna strategija -> https://www.bosnalijek.ba/poslovna-strategija
+    - Izvrsnost kao imperativ -> https://www.bosnalijek.ba/izvrsnost-kao-imperativ
+    - Korporativna odgovornost -> https://www.bosnalijek.ba/korporativna-odgovornost-par
+    - Društvena odgovornost -> https://www.bosnalijek.ba/drustvena-odgovornost
+- ✅ **Hemofarm BiH** (https://www.hemofarm.ba/)
+  - [Karijera](https://www.hemofarm.ba/srb/karijera) [ok] linkova-oglasa: 8, signal: 0
+    - Poslovanje -> https://www.hemofarm.ba/srb/poslovanje
+    - Proizvodi -> https://www.hemofarm.ba/srb/proizvodi
+    - Odgovornost -> https://www.hemofarm.ba/srb/odgovornost
+    - Misija i vizija -> https://www.hemofarm.ba/srb/misija-i-vizija
+  - [(proba)](https://www.hemofarm.ba/srb) [ok] linkova-oglasa: 13, signal: 1
+    - Poslovanje -> https://www.hemofarm.ba/srb/poslovanje
+    - Proizvodi -> https://www.hemofarm.ba/srb/proizvodi
+    - Odgovornost -> https://www.hemofarm.ba/srb/odgovornost
+    - Karijera -> https://www.hemofarm.ba/srb/karijera
+- ✅ **ASA Grupa** (https://www.asa.ba/)
+  - [Karijera](https://www.asa.ba/karijera) [ok] linkova-oglasa: 0, signal: 1
+- ⚪ **Prevent** (http://www.prevent.ba/): nema stranice karijera
+- ❌ **Hifa** (https://www.hifa-oil.com): ConnectionError: HTTPConnectionPool(host='www.hifa-oil.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.hifa-oil.com', port=80): Failed to resolve 'www.hifa-oil.com' ([Errno -2] Name or service not known)"))
+- ✅ **Energopetrol** (https://ina.ba/)
+  - [Karijera](https://karijera.ina.ba/bs) [ok] linkova-oglasa: 0, signal: 0
+  - [13. Oktobra 2026. Holdina i Energopetrol na Sajmu zapošljavanja Ekonomskog fakul](https://ina.ba/holdina-i-energopetrol-na-sajmu-zaposljavanja-ekonomskog-fakulteta-u-sarajevu) [ok] linkova-oglasa: 2, signal: 0
+    - 29. Oktobra 2026. INA i Energopetrol na 10. Tuzlanskom maratonu -> https://ina.ba/ina-i-energopetrol-na-10-tuzlanskom-maratonu
+    - 26. Oktobra 2026. Uručena donacija Roditeljskoj kući u Tuzli -> https://ina.ba/urucena-donacija-roditeljskoj-kuci-u-tuzli
+  - [INA u zajednici Stremimo biti poželjan partner našim zaposlenicima i zajednici u](https://ina.ba/odrzivi-razvoj/ina-grupa-u-zajednici) [ok] linkova-oglasa: 11, signal: 0
+    - INA Grupa i održivost -> https://ina.ba/odrzivi-razvoj/ina-grupa-i-odrzivost
+    - Upravljanje OR u INA Grupi -> https://ina.ba/odrzivi-razvoj/ina-grupa-i-odrzivost/upravljanje-or-u-ina-grupi
+    - Klima i okoliš -> https://ina.ba/odrzivi-razvoj/klima-i-okolis
+    - Energetska učinkovitost -> https://ina.ba/odrzivi-razvoj/klima-i-okolis/energetska-ucinkovitost
+  - [(proba)](https://ina.ba/karijera/mi-smo-ina) [ok] linkova-oglasa: 4, signal: 1
+    - Zašto je fora raditi u Holdini i Energopetrolu -> https://ina.ba/karijera/zasto-je-fora-raditi-u-holdini-i-energopetrolu
+    - Pogodnosti za radnike -> https://ina.ba/karijera/pogodnosti-za-radnike
+    - Život u Holdini i Energopetrolu -> https://ina.ba/karijera/zivot-u-holdini-i-energopetrolu
+    - Zaposlite se u Holdini i Energopetrolu -> https://ina.ba/karijera/zaposlite-se-u-holdini-i-energopetrolu
+- ❌ **ArcelorMittal Zenica** (https://zenica.arcelormittal.com): ConnectionError: HTTPConnectionPool(host='zenica.arcelormittal.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='zenica.arcelormittal.com', port=80): Failed to resolve 'zenica.arcelormittal.com' ([Errno -2] Name or service not known)"))
+- ✅ **Aluminij Mostar** (https://aluminij.com/)
+  - [CAREERS](https://aluminij.com/careers) [ok] linkova-oglasa: 20, signal: 15
+    - Voditelj odjela elektroenergetike -> https://aluminij.com/voditelj-odjela-elektroenergetike
+    - Poziv bivšim zaposlenicima Aluminija d.d. na prijavu za zaposlenje -> https://aluminij.com/poziv-bivsim-zaposlenicima-aluminija-d-d-na-prijavu-za-zaposlenje
+    - Ljevač II / Viljuškarist -> https://aluminij.com/ljevac-ii-viljuskarist-2
+    - Menadžer kvalitete -> https://aluminij.com/menadzer-kvalitete
+- ✅ **Admiral BiH** (https://www.admiralbet.ba/)
+  - [(proba)](https://www.admiralbet.ba/karijera) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.admiralbet.ba/karijere) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.admiralbet.ba/posao) [ok] linkova-oglasa: 0, signal: 0
+  - [(proba)](https://www.admiralbet.ba/poslovi) [ok] linkova-oglasa: 0, signal: 0
+- ❌ **Sportlife** (https://www.sportlife.ba): ConnectionError: HTTPConnectionPool(host='www.sportlife.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.sportlife.ba', port=80): Failed to resolve 'www.sportlife.ba' ([Errno -2] Name or service not known)"))
+- ⚪ **WWin** (https://wwin.com/): nema stranice karijera
+- ⚪ **Premier kladionica** (https://www.premier-kladionica.com/): nema stranice karijera
+- ✅ **Meridian BiH** (https://meridianbet.ba/)
+  - [(proba)](https://meridianbet.ba/karijera) [ok] linkova-oglasa: 0, signal: 1
+  - [(proba)](https://meridianbet.ba/karijere) [ok] linkova-oglasa: 0, signal: 1
+  - [(proba)](https://meridianbet.ba/posao) [ok] linkova-oglasa: 0, signal: 1
+  - [(proba)](https://meridianbet.ba/poslovi) [ok] linkova-oglasa: 0, signal: 1
+- ⚪ **Mozzart BiH** (https://www.mozzartbet.ba/bs): nema stranice karijera
+- ✅ **Deloitte BiH** (https://www.deloitte.com/ce/en/about/story/our-markets/deloitte-bosnia-and-herzegovina.html)
+  - [Overview](https://www.deloitte.com/ce/en/careers.html?icid=top_careers) [ok] linkova-oglasa: 7, signal: 0
+    - Students & Graduates Read more! -> https://www.deloitte.com/ce/en/careers/students.html
+    - Professionals Read more! -> https://www.deloitte.com/ce/en/careers/experienced.html
+    - Benefits and beyond Around the globe, Deloitte member firms offer comp -> https://www.deloitte.com/ce/en/careers/deloitte-life/benefits.html
+    - A culture of diversity, equity and inclusion We support and empower ou -> https://www.deloitte.com/ce/en/about/people/social-responsibility/global-respect-inclusion.html
+  - [Job search](https://apply.deloittece.com/en_US/careers?icid=top_job-search) [ok] linkova-oglasa: 10, signal: 12
+    - Anaplan Senior Consultant | Deloitte Technology Delivery Center -> https://apply.deloittece.com/en_US/careers/JobDetail/Anaplan-Senior-Consultant-Deloitte-Technology-Delivery-Center/21099
+    - SAP S/4HANA Sourcing and Procurement Senior Consultant | Deloitte Tech -> https://apply.deloittece.com/en_US/careers/JobDetail/SAP-S-4HANA-Sourcing-and-Procurement-Senior-Consultant-Deloitte-Technology-Delivery-Center/21092
+    - Payroll Senior Consultant | Business Process Solutions -> https://apply.deloittece.com/en_US/careers/JobDetail/Payroll-Senior-Consultant-Business-Process-Solutions/21090
+    - Receptionist -> https://apply.deloittece.com/en_US/careers/JobDetail/Receptionist/21089
+  - [A New Opportunity for Professional Advancement for 50 Young Women Across Bosnia ](https://www.deloitte.com/ce/en/related-content/new-opportunity-for-professional-advancement-for-50-young-women-across-bosnia-and-herzegovina.html) [ok] linkova-oglasa: 0, signal: 2
+  - [Explore careers](https://www.deloitte.com/ce/en/careers.html?icid=bn_careers) [ok] linkova-oglasa: 7, signal: 0
+    - Students & Graduates Read more! -> https://www.deloitte.com/ce/en/careers/students.html
+    - Professionals Read more! -> https://www.deloitte.com/ce/en/careers/experienced.html
+    - Benefits and beyond Around the globe, Deloitte member firms offer comp -> https://www.deloitte.com/ce/en/careers/deloitte-life/benefits.html
+    - A culture of diversity, equity and inclusion We support and empower ou -> https://www.deloitte.com/ce/en/about/people/social-responsibility/global-respect-inclusion.html
+- ❌ **PwC BiH** (https://www.pwc.com/ba): HTTP 403
+- ✅ **KPMG BiH** (https://kpmg.com/ba/en.html)
+  - [View more](https://kpmg.com/ba/en/careers.html) [ok] linkova-oglasa: 2, signal: 5
+    - Who we are -> https://kpmg.com/ba/en/careers/who-we-are.html
+    - Work with us -> https://kpmg.com/ba/en/careers/working-at-kpmg.html
+  - [Who we are](https://kpmg.com/ba/en/careers/who-we-are.html) [ok] linkova-oglasa: 0, signal: 2
+  - [Work with us](https://kpmg.com/ba/en/careers/working-at-kpmg.html) [ok] linkova-oglasa: 0, signal: 2
+  - [Open positions](https://kpmg-bh.oneassessment.com/) [ok] linkova-oglasa: 0, signal: 1
+- ✅ **EY BiH** (https://www.ey.com/en_ba)
+  - [Careers](https://www.ey.com/en_gl/careers) [ok] linkova-oglasa: 44, signal: 1
+    - Explore -> https://www.ey.com/en_gl/insights
+    - How the global IPO market proved its resilience in Q3 -> https://www.ey.com/en_gl/insights/ipo/trends
+    - Geostrategic Analysis -> https://www.ey.com/en_gl/insights/geostrategy/geostrategic-analysis
+    - Megatrends 2026 and beyond -> https://www.ey.com/en_gl/megatrends
+  - [What you can do here](https://www.ey.com/en_gl/careers/what-you-can-do-here) [ok] linkova-oglasa: 46, signal: 1
+    - Explore -> https://www.ey.com/en_gl/insights
+    - How the global IPO market proved its resilience in Q3 -> https://www.ey.com/en_gl/insights/ipo/trends
+    - Geostrategic Analysis -> https://www.ey.com/en_gl/insights/geostrategy/geostrategic-analysis
+    - Megatrends 2026 and beyond -> https://www.ey.com/en_gl/megatrends
+  - [Technology careers at EY](https://www.ey.com/en_gl/careers/technology) [ok] linkova-oglasa: 43, signal: 2
+    - Explore -> https://www.ey.com/en_gl/insights
+    - How the global IPO market proved its resilience in Q3 -> https://www.ey.com/en_gl/insights/ipo/trends
+    - Geostrategic Analysis -> https://www.ey.com/en_gl/insights/geostrategy/geostrategic-analysis
+    - Megatrends 2026 and beyond -> https://www.ey.com/en_gl/megatrends
+  - [Careers in Assurance](https://www.ey.com/en_gl/careers/assurance) [ok] linkova-oglasa: 38, signal: 1
+    - Explore -> https://www.ey.com/en_gl/insights
+    - How the global IPO market proved its resilience in Q3 -> https://www.ey.com/en_gl/insights/ipo/trends
+    - Geostrategic Analysis -> https://www.ey.com/en_gl/insights/geostrategy/geostrategic-analysis
+    - Megatrends 2026 and beyond -> https://www.ey.com/en_gl/megatrends
+- ❌ **Teleperformance BiH** (https://ba.teleperformance.com): ConnectionError: HTTPConnectionPool(host='ba.teleperformance.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='ba.teleperformance.com', port=80): Failed to resolve 'ba.teleperformance.com' ([Errno -5] No address associated with hostname)"))
+- ✅ **Concentrix** (https://www.concentrix.com/)
+  - [Careers](https://jobs.concentrix.com/) [ok] linkova-oglasa: 0, signal: 5
+- ⚪ **Tema Retail (LC Waikiki)** (https://www.lcwaikiki.ba/): nema stranice karijera
+- ❌ **Klix.ba** (https://www.klix.ba): HTTP 403
+- ✅ **Avaz** (https://avaz.ba/)
+  - [https://avaz.ba/sport/nogomet/1084744/video-goooooooooooooooool-alajbegovic-jednim-od-najljepsih-udaraca-u-karijeri-donio-vodstvo-juventusu](https://avaz.ba/sport/nogomet/1084744/video-goooooooooooooooool-alajbegovic-jednim-od-najljepsih-udaraca-u-karijeri-donio-vodstvo-juventusu) [ok] linkova-oglasa: 15, signal: 3
+    - Video / Kolo Muani upropastio stopostotnu šansu Alajbegoviću, navijači -> https://avaz.ba/sport/nogomet/1084741/video-kolo-muani-upropastio-stopostotnu-sansu-alajbegovicu-navijaci-juventusa-se-hvatali-za-glavu
+    - Video / Alajbegović izgubio živce i naljutio se na saigrača jer mu nij -> https://avaz.ba/sport/nogomet/1084728/video-alajbegovic-izgubio-zivce-i-naljutio-se-na-saigraca-jer-mu-nije-dodao-loptu
+    - Bosnalijek u Beogradu okupio vodeće stručnjake iz svijeta medicine i f -> https://avaz.ba/vijesti/1084175/bosnalijek-u-beogradu-okupio-vodece-strucnjake-iz-svijeta-medicine-i-farmacije
+    - Sarajevo Marketing Summit okuplja vodeće ljude marketinga: Nije dovolj -> https://avaz.ba/vijesti/1084164/sarajevo-marketing-summit-okuplja-vodece-ljude-marketinga-nije-dovoljno-samo-da-vas-vide
+- ✅ **Oslobođenje** (https://www.oslobodjenje.ba/)
+  - [NJEMAČKI TRGOVAČKI LANAC Lidl sve bliže otvaranju u BiH, poznati detalji o zapoš](https://www.oslobodjenje.ba/biznis/ekonomija/lidl-sve-blize-otvaranju-u-bi-h-poznati-detalji-o-zaposljavanju-1-000-radnika) [ok] linkova-oglasa: 12, signal: 17
+    - NAJČITANIJE NAJČITANIJE -> https://www.oslobodjenje.ba/biznis/najcitanije
+    - NAJNOVIJE NAJNOVIJE -> https://www.oslobodjenje.ba/biznis/najnovije
+    - Emotivan trenutak na San Siru Kaka uvršten u Milanovu Kuću slavnih, pa -> https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/kaka-uvrsten-u-milanovu-kucu-slavnih-pa-zaplakao-pred-navijacima-na-san-siru
+    - Iliana Iotova Izbori u Bugarskoj: U vodstvu kandidatkinja koju podržav -> https://www.oslobodjenje.ba/vijesti/svijet/izbori-u-bugarskoj-u-vodstvu-kandidatkinja-koju-podrzava-proruski-premijer
+  - [Poslovne statistike Samo 172 velika preduzeća u FBiH zapošljavaju više od 117.00](https://www.oslobodjenje.ba/biznis/ekonomija/samo-172-velika-preduzeca-u-f-bi-h-zaposljavaju-vise-od-117-000-ljudi) [ok] linkova-oglasa: 12, signal: 11
+    - NAJČITANIJE NAJČITANIJE -> https://www.oslobodjenje.ba/biznis/najcitanije
+    - NAJNOVIJE NAJNOVIJE -> https://www.oslobodjenje.ba/biznis/najnovije
+    - Emotivan trenutak na San Siru Kaka uvršten u Milanovu Kuću slavnih, pa -> https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/kaka-uvrsten-u-milanovu-kucu-slavnih-pa-zaplakao-pred-navijacima-na-san-siru
+    - Iliana Iotova Izbori u Bugarskoj: U vodstvu kandidatkinja koju podržav -> https://www.oslobodjenje.ba/vijesti/svijet/izbori-u-bugarskoj-u-vodstvu-kandidatkinja-koju-podrzava-proruski-premijer
+- ✅ **Nezavisne novine** (https://www.nezavisne.com/)
+  - [Oglasi za posao](https://www.nezavisne.com/oglasi/posao) [ok] linkova-oglasa: 2, signal: 3
+    - Јавни конкурс за упражњенa раднa мјеста -> https://www.nezavisne.com/oglasi/posao/-a-a-/1590
+    - Јавни конкурс за упражњена радна мјеста -> https://www.nezavisne.com/oglasi/posao/-/1589
+  - [Јавни конкурс за упражњенa раднa мјеста](https://www.nezavisne.com/oglasi/posao/-a-a-/1590) [ok] linkova-oglasa: 2, signal: 5
+    - Јавни конкурс за упражњена радна мјеста -> https://www.nezavisne.com/oglasi/posao/-/1589
+    - Ostali oglasi -> https://www.nezavisne.com/oglasi/posao
+  - [Јавни конкурс за упражњена радна мјеста](https://www.nezavisne.com/oglasi/posao/-/1589) [ok] linkova-oglasa: 2, signal: 5
+    - Јавни конкурс за упражњенa раднa мјеста -> https://www.nezavisne.com/oglasi/posao/-a-a-/1590
+    - Ostali oglasi -> https://www.nezavisne.com/oglasi/posao
+  - [(proba)](https://www.nezavisne.com/ekonomija) [ok] linkova-oglasa: 31, signal: 2
+    - Evro traži oslonac: Skupa energija i francuski dug remete planove -> https://www.nezavisne.com/ekonomija/analize/Evro-trazi-oslonac-Skupa-energija-i-francuski-dug-remete-planove/990179
+    - Rajaner ukida sedam linija u regionu: Na listi i Sarajevo -> https://www.nezavisne.com/ekonomija/trziste/Rajaner-ukida-sedam-linija-u-regionu-Na-listi-i-Sarajevo/990153
+    - Odluka stupila na snagu: Osigurani depozit u bankama do 100.000 KM -> https://www.nezavisne.com/ekonomija/trziste/Odluka-stupila-na-snagu-Osigurani-depozit-u-bankama-do-100000-KM/990136
+    - Građani BiH od danas plaćaju skuplju putarinu -> https://www.nezavisne.com/ekonomija/privreda/Gradjani-BiH-od-danas-placaju-skuplju-putarinu/990134
+- ❌ **Dnevni list** (https://www.dnevni-list.ba): HTTP 522
+- ✅ **Večernji list BiH** (https://www.vecernji.ba/)
+  - [Izvješće UN-u DONOSIMO Kako je Politički odjel OHR-a opet izbrisao 'grijehe' boš](https://www.vecernji.ba/vijesti/donosimo-kako-je-politicki-odjel-ohr-a-opet-izbrisao-grijehe-bosnjackih-duznosnika-od-tvrdnji-da-je-hrvatska-agresor-do-fetve-i-serijata-2009250) [ok] linkova-oglasa: 20, signal: 10
+    - Komentari -> https://www.vecernji.ba/vijesti/donosimo-kako-je-politicki-odjel-ohr-a-opet-izbrisao-grijehe-bosnjackih-duznosnika-od-tvrdnji-da-je-hrvatska-agresor-do-fetve-i-serijata-2009250/komentari
+    - Autor Zoran Krešić -> https://www.vecernji.ba/autori/zoran-kresic-253/profil
+    - izvješće Vijeću sigurnosti OHR upozorava: Opstrukcije iz RS-a učvršćuj -> https://www.vecernji.ba/vijesti/ohr-upozorava-opstrukcije-iz-rs-a-ucvrscuju-scenarij-odvajanja-od-bih-pogledajte-sto-jos-pisu-2008291
+    - 1 32. obljetnica Dan kada je oslobođen Kupres, a vojska bosanskih Srba -> https://www.vecernji.ba/vijesti/dan-kada-je-osloboden-kupres-a-vojska-bosanskih-srba-odbacena-dalje-od-planine-cincar-2009569
+  - [ŠOK U POPULARNOM SHOWU VIDEO Drama u Supertalentu: Natjecatelj se srušio, gledat](https://www.vecernji.ba/showbiz/video-drama-u-supertalentu-natjecatelj-se-srusio-gledatelji-ostali-sokirani-koja-sramota-2008671) [ok] linkova-oglasa: 28, signal: 9
+    - Komentari -> https://www.vecernji.ba/showbiz/video-drama-u-supertalentu-natjecatelj-se-srusio-gledatelji-ostali-sokirani-koja-sramota-2008671/komentari
+    - VL Autor Vecernji.ba -> https://www.vecernji.ba/autori/vecernji-ba-36635/profil
+    - NEOBIČNA PROSLAVA Enis Bešlagić ispričao nevjerojatnu anegdotu: 'Svoj  -> https://www.vecernji.ba/showbiz/enis-beslagic-ispricao-nevjerojatnu-anegdotu-svoj-18-rodendan-proslavio-sam-na-groblju-to-me-je-odredilo-2007150
+    - emotivno reagirala Slavna glumica otvorila srce i rasplakala se u talk -> https://www.vecernji.ba/showbiz/slavna-glumica-otvorila-srce-i-rasplakala-se-u-talk-showu-2006497
+- ✅ **OLX.ba** (https://olx.ba/)
+  - [Pridruži se PIK timu](https://olx.ba/o-olxu/pridruzi-se-pik-timu) [ok] linkova-oglasa: 6, signal: 22
+    - PIK kredit -> https://olx.ba/o-olxu/olxkredit
+    - Uslovi korištenja -> https://olx.ba/o-olxu/uslovi-koristenja
+    - Online sigurnost -> https://olx.ba/o-olxu/online-sigurnost
+    - Privatnost podataka -> https://olx.ba/o-olxu/privatnost-podataka
+  - [(proba)](https://olx.ba/pretraga?category_id=2286&from_homepage=1) [ok] linkova-oglasa: 0, signal: 13
+- ✅ **posao.ba** (https://serda.ba)
+  - [https://serda.ba/bs/projekti/obrazovanje-za-zaposljavanje-e4eo/79](https://serda.ba/bs/projekti/obrazovanje-za-zaposljavanje-e4eo/79) [ok] linkova-oglasa: 1, signal: 0
+    - Svi projekti -> https://serda.ba/bs/projekti
+  - [https://serda.ba/bs/projekti/network4work-suocavanje-s-izazovima-zaposljavanja-i-trzista-rada-kroz-javno-privatna-partnerstva/71](https://serda.ba/bs/projekti/network4work-suocavanje-s-izazovima-zaposljavanja-i-trzista-rada-kroz-javno-privatna-partnerstva/71) [ok] linkova-oglasa: 1, signal: 0
+    - Svi projekti -> https://serda.ba/bs/projekti
+- ❌ **zaposlenje.ba** (https://www.zaposlenje.ba): ConnectionError: HTTPConnectionPool(host='www.zaposlenje.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.zaposlenje.ba', port=80): Failed to resolve 'www.zaposlenje.ba' ([Errno -2] Name or service not known)"))
+- ❌ **karijere.ba** (https://karijere.ba): ConnectionError: HTTPConnectionPool(host='karijere.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='karijere.ba', port=80): Failed to resolve 'karijere.ba' ([Errno -2] Name or service not known)"))
+- ❌ **praksa.ba** (https://praksa.ba): ConnectionError: HTTPConnectionPool(host='praksa.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='praksa.ba', port=80): Failed to resolve 'praksa.ba' ([Errno -3] Temporary failure in name resolution)"))
+- ❌ **Hello Job** (https://hellojob.ba): ConnectionError: HTTPConnectionPool(host='hellojob.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='hellojob.ba', port=80): Failed to resolve 'hellojob.ba' ([Errno -2] Name or service not known)"))
+- ⚪ **itkarijera.ba** (https://itkarijera.ba/): nema stranice karijera
+- ✅ **dzobs** (https://dzobs.com/)
+  - [Poslovi](https://dzobs.com/poslovi/1) [ok] linkova-oglasa: 12, signal: 8
+    - SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior  -> https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239
+    - DataBase Engineer Evona Electronic Mostar Medior, Senior jo š 10 dana -> https://dzobs.com/posao/evona-electronic-422456/database-engineer-235993
+    - Senior Java Engineer – Embedded & Hardware Systems Klika Senior jo š 1 -> https://dzobs.com/posao/klika-699231/senior-java-engineer-embedded-and-hardware-systems-371053
+    - SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 1 -> https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049
+  - [Praksa ,](https://dzobs.com/angazman/internship/1) [ok] linkova-oglasa: 0, signal: 9
+  - [Objavi oglas](https://dzobs.com/objavi-oglas) [ok] linkova-oglasa: 1, signal: 25
+    - [email protected] -> https://dzobs.com/cdn-cgi/l/email-protection
+  - [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 10 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049) [ok] linkova-oglasa: 6, signal: 11
+    - Lanaco -> https://dzobs.com/kompanija/lanaco-111412
+    - SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior  -> https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239
+    - DataBase Engineer -> https://dzobs.com/posao/evona-electronic-422456/database-engineer-235993
+    - AI Performance Engineer HTEC Banja Luka Junior, Medior, Senior jo š 10 -> https://dzobs.com/posao/htec-group-654157/ai-performance-engineer-688030
+- ❌ **jobfair.ba** (https://www.jobfair.ba): HTTP 403
+- ⚪ **javi.ba** (https://javi.ba/): nema stranice karijera
+
+## telekom
+
+- ✅ **Telemach BH** (https://telemach.ba/)
+  - [Zaposlenje](https://telemach.ba/zaposlenje) [ok] linkova-oglasa: 1, signal: 5
+    - [email protected] . -> https://telemach.ba/cdn-cgi/l/email-protection
+  - [(proba)](https://telemach.ba/404.php) [ok] linkova-oglasa: 1, signal: 4
+    - [email protected] -> https://telemach.ba/cdn-cgi/l/email-protection
+- ✅ **m:tel** (https://mtel.ba/)
+  - [(proba)](https://mtel.ba/Karijera) [ok] linkova-oglasa: 13, signal: 4
+    - Prednosti rada u m:tel-u 27. oktobar 2020 -> https://mtel.ba/Karijera/a16827-Prednosti-rada-u-m-tel-u.html
+    - Razvoj zaposlenih 23. mart 2018 -> https://mtel.ba/Karijera/a2795-Razvoj-zaposlenih.html
+    - Stipendije i praksa 23. mart 2018 -> https://mtel.ba/Karijera/a2797-Stipendije-i-praksa.html
+    - IoT – Internet of Things | Stručna praksa 2026. -> https://mtel.ba/Karijera-vijesti/a37681-IoT-Internet-of-Things-Strucna-praksa-2026.html
+- ⚪ **HT Eronet** (https://www.hteronet.ba/privatni-korisnici): nema stranice karijera
+- ✅ **Logosoft** (https://www.logosoft.ba/)
+  - [Karijera](https://www.logosoft.ba/karijera-logosoft) [greška] linkova-oglasa: 0, signal: 0
+- ✅ **Elta Kabel** (https://www.supernovabih.ba/)
+  - [Karijera](https://www.supernovabih.ba/karijera) [ok] linkova-oglasa: 9, signal: 23
+    - Obavještenja za korisnike -> https://www.supernovabih.ba/upravljanje-korisnickim-obavjestenjima
+    - Newsletter -> https://www.supernovabih.ba/supernova-newsletter
+    - Uigran tim: Dragan Bundalo, od podrške korisnicima i kolegama do ključ -> https://www.supernovabih.ba/hr/42601/uigran-tim-dragan-bundalo-od-podrske-korisnicima-i-kolegama-do-kljucnih-it-sistema
+    - Nova generacija praktikanata u Doboju -> https://www.supernovabih.ba/hr/42897/nova-generacija-praktikanata-u-doboju
+  - [(proba)](https://www.supernovabih.ba/oglasi) [ok] linkova-oglasa: 7, signal: 10
+    - Obavještenja za korisnike -> https://www.supernovabih.ba/upravljanje-korisnickim-obavjestenjima
+    - Newsletter -> https://www.supernovabih.ba/supernova-newsletter
+    - Oglas za posao: Tehničar za održavanje pristupnih mreža (Pale i Trebin -> https://www.supernovabih.ba/oglasi/42467/oglas-za-posao-tehnicar-za-odrazavanje-pristupnih-mreza-pale-i-trebinje
+    - Poziv za studente: Uči i zaradi u Supernovoj -> https://www.supernovabih.ba/oglasi/25523/poziv-za-studente-uci-i-zaradi-i-supernovoj
+- ⚪ **Globalnet** (https://automotive.blackboxsys.com/home/): nema stranice karijera
+- ❌ **Telrad Net** (https://www.telrad.ba): ConnectionError: HTTPConnectionPool(host='www.telrad.ba', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='www.telrad.ba', port=80): Failed to resolve 'www.telrad.ba' ([Errno -2] Name or service not known)"))
+- ✅ **Supernova** (https://www.supernovabih.ba/)
+  - [Karijera](https://www.supernovabih.ba/karijera) [ok] linkova-oglasa: 9, signal: 23
+    - Obavještenja za korisnike -> https://www.supernovabih.ba/upravljanje-korisnickim-obavjestenjima
+    - Newsletter -> https://www.supernovabih.ba/supernova-newsletter
+    - Uigran tim: Dragan Bundalo, od podrške korisnicima i kolegama do ključ -> https://www.supernovabih.ba/hr/42601/uigran-tim-dragan-bundalo-od-podrske-korisnicima-i-kolegama-do-kljucnih-it-sistema
+    - Nova generacija praktikanata u Doboju -> https://www.supernovabih.ba/hr/42897/nova-generacija-praktikanata-u-doboju
+  - [(proba)](https://www.supernovabih.ba/oglasi) [ok] linkova-oglasa: 7, signal: 10
+    - Obavještenja za korisnike -> https://www.supernovabih.ba/upravljanje-korisnickim-obavjestenjima
+    - Newsletter -> https://www.supernovabih.ba/supernova-newsletter
+    - Oglas za posao: Tehničar za održavanje pristupnih mreža (Pale i Trebin -> https://www.supernovabih.ba/oglasi/42467/oglas-za-posao-tehnicar-za-odrazavanje-pristupnih-mreza-pale-i-trebinje
+    - Poziv za studente: Uči i zaradi u Supernovoj -> https://www.supernovabih.ba/oglasi/25523/poziv-za-studente-uci-i-zaradi-i-supernovoj
+- ✅ **Moja TV** (https://www.bhtelecom.ba/mojatv/)
+  - [Karijera](https://www.bhtelecom.ba/karijera) [ok] linkova-oglasa: 3, signal: 41
+    - Obrazac za prijavu na javni oglas u Dioničkom društvu BH Telecom Saraj -> https://www.bhtelecom.ba/wp-content/uploads/2024/06/obrazac-za-prijavu-na-javni-oglas-2024.docx
+    - ovdje. -> https://bhtelecom.ba/wp-content/uploads/2020/08/Zahtjev_za_obavljanje_prakticnog_rada1.pdf
+    - Česta pitanja -> https://bhtelecom.ba/podrska-privatnim-korisnicima/pitanja-i-odgovori
+- ⚪ **RAK (Regulatorna agencija za komunikacije)** (https://www.rak.ba/): nema stranice karijera
