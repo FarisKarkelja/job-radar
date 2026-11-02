@@ -19388,5 +19388,17 @@
   "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia+and+Herzegovina",
   "it": true,
   "priority": 4
+ },
+ {
+  "ts": "2026-11-02T12:33:43+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "POMOĆNA RADNICA U PROIZVODNJI",
+  "url": "https://szks.ba/posao/pomocna-radnica-u-proizvodnji",
+  "company": "Ekskluziv doo",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

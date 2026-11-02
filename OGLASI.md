@@ -4,6 +4,7 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 02.11. 13:33 | • [POMOĆNA RADNICA U PROIZVODNJI](https://szks.ba/posao/pomocna-radnica-u-proizvodnji) · Ekskluziv doo | SZKS (Služba za zapošljavanje KS) |
 | 02.11. 13:24 | • [Komercijalista](https://www.mojposao.ba/posao/f09fd01f-d459-11f1-a8c0-42010a9c001a/komercijalista) | MojPosao IT |
 | 02.11. 13:24 | • [Medicinski predstavnik (m/ž)](https://www.mojposao.ba/posao/9c176338-d467-11f1-a8c0-42010a9c001a/medicinski-predstavnik-mz) | MojPosao IT |
 | 02.11. 13:24 | • [Home Office Kundenberater (m/w/d) für Vattenfall](https://www.mojposao.ba/posao/adde6458-d6a7-11f1-a8c0-42010a9c001a/home-office-kundenberater-mwd-f%C3%BCr-vattenfall) | MojPosao Kanton Sarajevo |
@@ -1503,4 +1504,3 @@
 | 02.11. 00:13 | •⏺ [DALMI d.o.o. – AUTOLAKIRER (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-autolakirer-m-z) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [DALMI d.o.o. – POLIRER (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-polirer-m-z) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [DALMI d.o.o. – Key Account Manager (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-key-account-manager-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Prilika za profesionalni angažman – Inženjeri (građevinski / saobraćajni) – rad na daljinu](https://szz-zzh.ba/2026/06/24/prilika-za-profesionalni-angazman-inzenjeri-gradevinski-saobracajni-rad-na-daljinu) | SZZ ZHK (natječaji) |

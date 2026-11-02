@@ -419,7 +419,8 @@
    "https://szks.ba/posao/javni-oglas-strucni-saradnik-za-komercijalne-poslove-i-nabavke",
    "https://szks.ba/posao/poliklinika-kardiocentar-166-medicinska-sestra",
    "https://szks.ba/posao/javni-oglas-br-55-30-12-34610-ljekar-specijalista-za-plucne-bolesti-ljekar-specijalista-internista-subspecijalista-kardiologljekar-specijalista-fizikalne-medicine-i-rehabilitacije",
-   "https://szks.ba/posao/javni-oglas-ophodar-vozac-teretnth-vozila"
+   "https://szks.ba/posao/javni-oglas-ophodar-vozac-teretnth-vozila",
+   "https://szks.ba/posao/pomocna-radnica-u-proizvodnji"
   ]
  },
  "zdk_szz": {
@@ -2013,7 +2014,8 @@
    "hash:b46c56d52ab0a698",
    "hash:21663866b94a96db",
    "hash:3077fc1159e2d62c",
-   "hash:2a555bbc4d9770d0"
+   "hash:2a555bbc4d9770d0",
+   "hash:9e1a471988d9299f"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2063,14 +2065,14 @@
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
-   "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
+   "Detaljnije",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5145,7 +5147,8 @@
  },
  "infobip_internship": {
   "keys": [
-   "hash:c9541707812af811"
+   "hash:c9541707812af811",
+   "hash:11b8fd5c760fb050"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5219,7 +5222,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 2 weeks ago",
+   "Posted 3 weeks ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
