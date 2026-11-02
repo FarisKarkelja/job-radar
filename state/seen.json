@@ -34,7 +34,8 @@
    "388369de-d140-11f1-a8c0-42010a9c001a",
    "7aa88b6d-d46b-11f1-a8c0-42010a9c001a",
    "f09fd01f-d459-11f1-a8c0-42010a9c001a",
-   "9c176338-d467-11f1-a8c0-42010a9c001a"
+   "9c176338-d467-11f1-a8c0-42010a9c001a",
+   "e31327ce-d38d-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -243,7 +244,14 @@
    "a4af6862-d6a7-11f1-a8c0-42010a9c001a",
    "9db14ae4-d6a7-11f1-a8c0-42010a9c001a",
    "956a64c0-d6a7-11f1-a8c0-42010a9c001a",
-   "9f61ce95-c616-11f1-a8c0-42010a9c001a"
+   "9f61ce95-c616-11f1-a8c0-42010a9c001a",
+   "e1f4bd0f-d6bf-11f1-a8c0-42010a9c001a",
+   "fea78db1-d6cc-11f1-a8c0-42010a9c001a",
+   "54d6c446-cd57-11f1-a8c0-42010a9c001a",
+   "136aa4a6-d6cc-11f1-a8c0-42010a9c001a",
+   "83586947-d6c2-11f1-a8c0-42010a9c001a",
+   "8a6a2613-d6bf-11f1-a8c0-42010a9c001a",
+   "188a4715-d6bc-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -299,7 +307,10 @@
    "https://itbase.ba/vijesti/cetvrto-izdanje-digital-labin-konferencije-u-istru-ponovno-dovodi-svjetska-imena-it-industrije/1755",
    "https://itbase.ba/vijesti/openai-objavio-chatgpt-mobilnu-aplikaciju/1754",
    "https://itbase.ba/vijesti/trust-ecomm-certifikacija-dostupna-i-u-bosni-i-hercegovini/1753",
-   "https://itbase.ba/kompanije/akademija387-academy387"
+   "https://itbase.ba/kompanije/akademija387-academy387",
+   "https://itbase.ba/vijesti/top-10-it-kompanija-po-dobiti-u-2023-godini/1763",
+   "https://itbase.ba/vijesti/google-street-view-auta-stigla-u-bosnu-i-hercegovinu-uskoro-zapocinju-snimanje/1762",
+   "https://itbase.ba/vijesti/soft-skills-academy-2024-budite-korak-ispred/1759"
   ]
  },
  "workable_bih": {
@@ -368,7 +379,13 @@
    "https://www.linkedin.com/jobs/view/4482201156",
    "https://www.linkedin.com/jobs/view/4486164375",
    "https://www.linkedin.com/jobs/view/4486164374",
-   "https://www.linkedin.com/jobs/view/4477515932"
+   "https://www.linkedin.com/jobs/view/4477515932",
+   "https://www.linkedin.com/jobs/view/4477904156",
+   "https://www.linkedin.com/jobs/view/4483620606",
+   "https://www.linkedin.com/jobs/view/4486422287",
+   "https://www.linkedin.com/jobs/view/4484393765",
+   "https://www.linkedin.com/jobs/view/4485394481",
+   "https://www.linkedin.com/jobs/view/4486184987"
   ]
  },
  "glassrpske_konkursi": {
@@ -420,7 +437,10 @@
    "https://szks.ba/posao/poliklinika-kardiocentar-166-medicinska-sestra",
    "https://szks.ba/posao/javni-oglas-br-55-30-12-34610-ljekar-specijalista-za-plucne-bolesti-ljekar-specijalista-internista-subspecijalista-kardiologljekar-specijalista-fizikalne-medicine-i-rehabilitacije",
    "https://szks.ba/posao/javni-oglas-ophodar-vozac-teretnth-vozila",
-   "https://szks.ba/posao/pomocna-radnica-u-proizvodnji"
+   "https://szks.ba/posao/pomocna-radnica-u-proizvodnji",
+   "https://szks.ba/posao/farmaceutski-tehnicar-22",
+   "https://szks.ba/posao/higijenicarka-79",
+   "https://szks.ba/posao/privatna-zdravstvena-ustanova-apoteka-iboco-166-farmaceutski-tehnicar"
   ]
  },
  "zdk_szz": {
@@ -2015,7 +2035,8 @@
    "hash:21663866b94a96db",
    "hash:3077fc1159e2d62c",
    "hash:2a555bbc4d9770d0",
-   "hash:9e1a471988d9299f"
+   "hash:9e1a471988d9299f",
+   "hash:497facf58805f2a5"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2062,17 +2083,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
+   "Detaljnije",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
-   "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -3893,7 +3914,9 @@
    "https://szztk.ba/posao/36864/senfin-kalesija-administrativni-radnik",
    "https://szztk.ba/posao/36854/ibis-inzenering-banja-luka-strucni-saradnik-za-mineralne-sirovine",
    "https://szztk.ba/posao/36853/mip-ljubace-magacioner",
-   "https://szztk.ba/posao/36894/univerzitet-u-tuzli-javni-konkurs-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme"
+   "https://szztk.ba/posao/36894/univerzitet-u-tuzli-javni-konkurs-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme",
+   "https://szztk.ba/posao/36904/apoteka-blink-tuzla-magistar-farmacije",
+   "https://szztk.ba/posao/36902/opcinski-sud-u-kalesiji-ponovni-javni-oglas-za-prijem-pripravnika-volontera"
   ]
  },
  "szz_bpk": {
@@ -3938,7 +3961,12 @@
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-fakultetu-za-saobracaj-i-2",
    "https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-muzicka",
    "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-muzicka-akademija-1",
-   "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-farmaceutskom-0"
+   "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-farmaceutskom-0",
+   "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-jezik-11",
+   "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-univerzitetu-u-sarajevu-prirodno-matematickom-14",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-u-akademskoj-20262027",
+   "https://www.unsa.ba/index.php/konkursi/obavijest-za-kandidate-o-terminima-polaganja-pismenog-i-usmenog-dijela-ispita-0"
   ]
  },
  "untz_konkursi": {
@@ -6418,7 +6446,8 @@
  },
  "mibo": {
   "keys": [
-   "hash:f4ae705d565883a3"
+   "hash:f4ae705d565883a3",
+   "hash:b120924c873a8a13"
   ],
   "lines": [
    "Skip to content",
@@ -6446,7 +6475,8 @@
    "Podsticajna radna atmosfera",
    "Njegujemo pozitivnu kulturu, otvorenu komunikaciju i međusobno poštovanje – jer kvalitetan tim stvara kvalitetna rješenja.",
    "Otvorene pozicije",
-   "Trenutno nemamo otvorenih pozicija.",
+   "Otvorena je pozicija za",
+   "Key Account Manager (KAM) – Enterprise ICT & Sistemska integracija",
    "Upravljajte pristankom",
    "Kako bismo pružili najbolja iskustva, koristimo tehnologije poput kolačića za pohranjivanje i/ili pristup informacijama o uređaju. Saglasnost za ove tehnologije omogućit će nam obradu podataka kao što su ponašanje pregledavanja ili jedinstveni ID-ovi na ovoj stranici. Nedavanje saglasnosti ili povlačenje saglasnosti može negativno utjecati na određene funkcije i mogućnosti.",
    "Funkcionalno",
@@ -6510,7 +6540,11 @@
    "https://poslovnioglasi.ba/company-ad-details/930",
    "https://poslovnioglasi.ba/company-ad-details/929",
    "https://poslovnioglasi.ba/company-ad-details/928",
-   "https://poslovnioglasi.ba/company-ad-details/927"
+   "https://poslovnioglasi.ba/company-ad-details/927",
+   "https://poslovnioglasi.ba/company-ad-details/932",
+   "https://poslovnioglasi.ba/company-ad-details/931",
+   "https://poslovnioglasi.ba/company-ad-details/707",
+   "https://poslovnioglasi.ba/company-ad-details/327"
   ]
  },
  "ads_bih": {

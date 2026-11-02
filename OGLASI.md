@@ -4,6 +4,38 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 03.11. 00:04 | • [Komercijalista](https://www.mojposao.ba/posao/e31327ce-d38d-11f1-a8c0-42010a9c001a/komercijalista) | MojPosao IT |
+| 03.11. 00:04 | • [Tehnički sekretar](https://www.mojposao.ba/posao/e1f4bd0f-d6bf-11f1-a8c0-42010a9c001a/tehnicki-sekretar) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | • [Kustos/Kustosica u galeriji slika](https://www.mojposao.ba/posao/fea78db1-d6cc-11f1-a8c0-42010a9c001a/kustoskustosica-u-galeriji-slika) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | • [Vozač – dostavljač (piće)](https://www.mojposao.ba/posao/54d6c446-cd57-11f1-a8c0-42010a9c001a/vozac-%E2%80%93-dostavljac-pice) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | • [Key Account Manager](https://www.mojposao.ba/posao/136aa4a6-d6cc-11f1-a8c0-42010a9c001a/key-account-manager) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | • [Koordinator za pripremu i odgovor na katastrofe i upravljanje hitnim operativnim centrom](https://www.mojposao.ba/posao/83586947-d6c2-11f1-a8c0-42010a9c001a/koordinator-za-pripremu-i-odgovor-na-katastrofe-i-upravljanje-hitnim-operativnim-centrom) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | • [Referent za sklapanje i kontrolu ugovora](https://www.mojposao.ba/posao/8a6a2613-d6bf-11f1-a8c0-42010a9c001a/referent-za-sklapanje-i-kontrolu-ugovora) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | • [Računovođa specijalist (m/ž)](https://www.mojposao.ba/posao/188a4715-d6bc-11f1-a8c0-42010a9c001a/racunovodja-specijalist--mz) | MojPosao Kanton Sarajevo |
+| 03.11. 00:04 | 💻 [Top 10 IT kompanija po dobiti u 2023. godini Biznis](https://itbase.ba/vijesti/top-10-it-kompanija-po-dobiti-u-2023-godini/1763) | ITBase |
+| 03.11. 00:04 | 💻 [Google Street View auta stigla u Bosnu i Hercegovinu! Uskoro započinju snimanje Tehnologija](https://itbase.ba/vijesti/google-street-view-auta-stigla-u-bosnu-i-hercegovinu-uskoro-zapocinju-snimanje/1762) | ITBase |
+| 03.11. 00:04 | 💻 [Soft Skills Academy 2024 - Budite korak ispred! Edukacija](https://itbase.ba/vijesti/soft-skills-academy-2024-budite-korak-ispred/1759) | ITBase |
+| 03.11. 00:04 | 💻 [DevOps Engineer (Hands-On) (m/f/d)](https://www.linkedin.com/jobs/view/4477904156) · Dedalus | LinkedIn BiH |
+| 03.11. 00:04 | • [Remote People Ops Intern – Internship Program](https://www.linkedin.com/jobs/view/4483620606) · Scopic | LinkedIn BiH |
+| 03.11. 00:04 | • [Member Services Representative](https://www.linkedin.com/jobs/view/4486422287) · Personify Health | LinkedIn BiH |
+| 03.11. 00:04 | • [Referent nabave](https://www.linkedin.com/jobs/view/4484393765) · MDG International d.o.o. | LinkedIn BiH |
+| 03.11. 00:04 | • [Director, Engineering](https://www.linkedin.com/jobs/view/4485394481) · Personify Health | LinkedIn BiH |
+| 03.11. 00:04 | 💻 [Salesforce CRM Administrator](https://www.linkedin.com/jobs/view/4486184987) · First Bank & Trust | LinkedIn BiH |
+| 03.11. 00:04 | • [Prodajni savjetnik (m/ž) JEORDIE’S Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/932) | Poslovni oglasi |
+| 03.11. 00:04 | • [Recepcioner m/ž Granoff Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/931) | Poslovni oglasi |
+| 03.11. 00:04 | • [Trgovac u Salonu Ceralmyco ALMY D.O.O. Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/707) | Poslovni oglasi |
+| 03.11. 00:04 | • [Vozač Pumpe (Beton) — Almy d.o.o. ALMY D.O.O. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/327) | Poslovni oglasi |
+| 03.11. 00:04 | • [FARMACEUTSKI TEHNIČAR](https://szks.ba/posao/farmaceutski-tehnicar-22) · Privatna zdravstvena ustanova Apoteka IBO&amp;CO | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 00:04 | • [HIGIJENIČARKA](https://szks.ba/posao/higijenicarka-79) · Adazal d.o.o. | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 00:04 | • [FARMACEUTSKI TEHNIČAR](https://szks.ba/posao/privatna-zdravstvena-ustanova-apoteka-iboco-166-farmaceutski-tehnicar) · Privatna zdravstvena ustanova Apoteka &quot;IBO&amp;CO&quot; | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 00:04 | 💻 [Apoteka Blink Tuzla: Magistar farmacije](https://szztk.ba/posao/36904/apoteka-blink-tuzla-magistar-farmacije) | SZZ Tuzlanski kanton (oglasi) |
+| 03.11. 00:04 | 🚨 [Općinski sud u Kalesiji: Ponovni javni oglas za prijem pripravnika – volontera](https://szztk.ba/posao/36902/opcinski-sud-u-kalesiji-ponovni-javni-oglas-za-prijem-pripravnika-volontera) | SZZ Tuzlanski kanton (oglasi) |
+| 03.11. 00:04 | • [Javni oglas za prijem radnika u radni odnos / Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4) | Univerzitet u Sarajevu (konkursi) |
+| 03.11. 00:04 | • [Konkurs za izbor u zvanje / Univerzitet u Sarajevu - Institut za jezik](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-jezik-11) | Univerzitet u Sarajevu (konkursi) |
+| 03.11. 00:04 | • [JAVNI OGLAS za prijem u radni odnos na Univerzitetu u Sarajevu - Prirodno-matematičkom fakultetu na određeno vrijeme](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-univerzitetu-u-sarajevu-prirodno-matematickom-14) | Univerzitet u Sarajevu (konkursi) |
+| 03.11. 00:04 | • [KONKURS za upis studenata na treći ciklus studija - doktorski studij u akademskoj 2026/2027. godini / Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-u-akademskoj-20262027) | Univerzitet u Sarajevu (konkursi) |
+| 03.11. 00:04 | • [Obavijest za kandidate o terminima polaganja pismenog i usmenog dijela ispita / Univerzitet u Sarajevu](https://www.unsa.ba/index.php/konkursi/obavijest-za-kandidate-o-terminima-polaganja-pismenog-i-usmenog-dijela-ispita-0) | Univerzitet u Sarajevu (konkursi) |
+| 03.11. 00:04 | 💻 [Promjena na stranici: Otvorena je pozicija za](https://mibo.ba/karijera) | Mibo (karijera) |
 | 02.11. 13:33 | • [POMOĆNA RADNICA U PROIZVODNJI](https://szks.ba/posao/pomocna-radnica-u-proizvodnji) · Ekskluziv doo | SZKS (Služba za zapošljavanje KS) |
 | 02.11. 13:24 | • [Komercijalista](https://www.mojposao.ba/posao/f09fd01f-d459-11f1-a8c0-42010a9c001a/komercijalista) | MojPosao IT |
 | 02.11. 13:24 | • [Medicinski predstavnik (m/ž)](https://www.mojposao.ba/posao/9c176338-d467-11f1-a8c0-42010a9c001a/medicinski-predstavnik-mz) | MojPosao IT |
@@ -1472,35 +1504,3 @@
 | 02.11. 00:13 | •⏺ [PLANIKA d.o.o – NATJEČAJ ZA POSAO](https://szz-zzh.ba/2026/08/31/planika-prodavac-i-poslovoda) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [AS DALMI – RADNIK ZA PRANJE VOZILA U AUTO SALONU (m/ž)](https://szz-zzh.ba/2026/08/28/as-dalmi-radnik-za-pranje-vozila-u-auto-salonu-m-z) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [AS DALMI – Autolakirer](https://szz-zzh.ba/2026/08/28/as-dalmi-autolakirer) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [AUTOLAKIRER PROFESIONALNI (m/ž)](https://szz-zzh.ba/2026/08/28/autolakirer-profesionalni-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DIPLOMIRANI GRAĐEVINSKI INŽENJER – Promark d.o.o.](https://szz-zzh.ba/2026/08/27/diplomirani-gradevinski-inzenjer-promark-d-o-o) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DOM ZDRAVLJA ŠIROKI BRIJEG – NATJEČAJ ZA POSAO](https://szz-zzh.ba/2026/08/20/dom-zdravlja-siroki-brijeg-natjecaj-za-posao-2) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DOM ZDRAVLJA LJUBUŠKI – NATJEČAJ ZA POSAO](https://szz-zzh.ba/2026/08/19/dom-zdravlja-ljubuski-natjecaj-za-posao-6) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [BONO-COM d.o.o. – VOZAČ TERETNOG VOZILA – SILO CISTERNA](https://szz-zzh.ba/2026/08/17/bono-com-d-o-o-vozac-teretnog-vozila-silo-cisterna) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [PGP Bošnjak d.o.o. – tesar](https://szz-zzh.ba/2026/07/29/pgp-bosnjak-d-o-o-tesar) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [A-A Company doo – natječaj za posao](https://szz-zzh.ba/2026/07/27/a-a-company-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos na neodređeno vrijeme u Službu za zapošljavanje Županije Zapadnohercegovačke](https://szz-zzh.ba/2026/07/24/4154) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Cico-plast d.o.o. – natječaj za posao](https://szz-zzh.ba/2026/07/23/cico-plast-d-o-o-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Firma Eurosan – natječaj za posao](https://szz-zzh.ba/2026/07/21/firma-eurosan-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [BRAVARIJA M d.o.o. – natječaj za posao](https://szz-zzh.ba/2026/07/20/bravarija-m-d-o-o-natjecaj-za-posao-2) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Modus-M – automehaničar za montažu](https://szz-zzh.ba/2026/07/17/modus-m-automehanicar-za-montazu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [OKEL-INVEST d.o.o. – INŽENJER GRAĐEVINE](https://szz-zzh.ba/2026/07/16/okel-invest-d-o-o-inzenjer-gradevine) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Agencija Kamir d.o.o. zapošljava – prodaja](https://szz-zzh.ba/2026/07/14/agencija-kamir-d-o-o-zaposljava-prodaja) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Benzinska crpka Koncept Station raspisuje natječaj za posao](https://szz-zzh.ba/2026/07/07/benzinska-crpka-koncept-station-raspisuje-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [ASA Central osiguranje zapošljava](https://szz-zzh.ba/2026/07/06/asa-central-osiguranje-zaposljava) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [OKEL-INVEST d.o.o. VOZAČA KAMIONA SA KRANOM](https://szz-zzh.ba/2026/07/03/okel-invest-d-o-o-vozaca-kamiona-sa-kranom) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Emerus d.o.o. otvara novi natječaj za posao](https://szz-zzh.ba/2026/07/01/emerus-d-o-o-otvara-novi-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Ataco zapošljava u Širokom Brijegu!](https://szz-zzh.ba/2026/07/01/ataco-zaposljava-u-sirokom-brijegu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [IN d.o.o. zidar](https://szz-zzh.ba/2026/06/30/4045) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [IN d.o.o. – armirač](https://szz-zzh.ba/2026/06/30/in-d-o-o-armirac) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Dom zdravlja Posušje – natječaj za posao](https://szz-zzh.ba/2026/06/29/dom-zdravlja-posusje-natjecaj-za-posao-3) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI D.O.O. – PROFESIONALNI VOZAČ KAMIONA – FRIGO HLADNJAČA](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-profesionalni-vozac-kamiona-frigo-hladnjaca) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – DISPONENT U MEĐUNARODNOM CESTOVNOM PRIJEVOZU (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-disponent-u-medunarodnom-cestovnom-prijevozu-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – Certificirani računovođa (m/ž) – 1 izvršitelj](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-certificirani-racunovoda-m-z-1-izvrsitelj) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – RADNIK ZA PRANJE VOZILA U AUTO SALONU (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-radnik-za-pranje-vozila-u-auto-salonu-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI D.O.O. – VOZAČ KAMIONA – AUTOTRANSPORTERA U MEĐUNARODNOM CESTOVNOM PRIJEVOZU (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-vozac-kamiona-autotransportera-u-medunarodnom-cestovnom-prijevozu-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – PRODAJNI SAVJETNIK – CALL CENTAR (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-prodajni-savjetnik-call-centar-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – AUTOLAKIRER PROFESIONALNI (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-autolakirer-profesionalni-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – AUTOLAKIRER (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-autolakirer-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – POLIRER (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-polirer-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DALMI d.o.o. – Key Account Manager (m/ž)](https://szz-zzh.ba/2026/06/25/dalmi-d-o-o-key-account-manager-m-z) | SZZ ZHK (natječaji) |
