@@ -114,6 +114,12 @@ class Browser:
             for _ in range(3):
                 page.mouse.wheel(0, 4000)
                 page.wait_for_timeout(700)
+            # stranica se zna preusmjeriti baš dok čitamo sadržaj; sačekaj i probaj opet
+            for attempt in range(4):
+                try:
+                    return page.content()
+                except Exception:
+                    page.wait_for_timeout(2500)
             return page.content()
         except Exception as e:
             raise FetchError(f"Playwright: {e.__class__.__name__}: {e}")

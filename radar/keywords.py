@@ -8,7 +8,7 @@ import re
 import unicodedata
 
 IT_PATTERNS = [
-    r"informati\w*",            # informatičar, informatika, informatizacija
+    r"informati[kcčzs]\w*",    # informatika, informatičar, informatizacija (ne "informativni")
     r"informacion\w*", r"informacijsk\w*",
     r"\bikt\b", r"\bict\b",
     r"programer\w*", r"programiranj\w*", r"\bprogramsk\w*",
@@ -38,6 +38,8 @@ IT_PATTERNS = [
     r"digitaliz\w*", r"digital transformation", r"automatizacij\w*",
     r"\bpython\b", r"\bjava\b", r"\.net\b", r"javascript", r"\bphp\b", r"\breact\b",
     r"\bangular\b", r"\blinux\b", r"\boracle\b",
+    r"information technolog\w*", r"\bsdet\b", r"test engineer", r"\bsalesforce\b",
+    r"dynamics 365", r"\bza it\b", r"\bit[- ](sektor|odjel|odjeljenj|sluzb|sistem|infrastruktur|tehnolog|operation|project|sector|department)\w*",
     r"\bscrum\b", r"product owner", r"\bux\b", r"\bui ?/ ?ux\b", r"\bui designer\b",
 ]
 
@@ -75,10 +77,24 @@ def normalize(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+# Fraze u tekstu oglasa koje NE znače IT poziciju (uslovi i pravne napomene).
+_BODY_NOISE = re.compile(
+    r"(poznavanj\w* (osnovnog |osnova )?(rada|rad) na (racunar|kompjuter|pc)\w*|rad na racunar\w*|"
+    r"poznavanj\w* (rada u )?(ms )?office\w*|informatick\w* pismen\w*|racunarsk\w* pismen\w*|"
+    r"informatick\w* sigurnost\w*|sigurnost\w* (licnih|osobnih) podataka|"
+    r"(professional|personal|career|child|children'?s?) development|razvoj\w* djece|"
+    r"pristup informacij\w*|zastit\w* (licnih )?podataka|"
+    r"web ?(stranic\w*|site|portal\w*)( i| ili)? (sluzbe|fakulteta|ustanove|poslodavca)|"
+    r"putem (e-?maila|interneta|web\w*))"
+)
+
+
 def find_it_match(text: str, is_title: bool = False):
     """Vrati pronađeni IT pojam (kako piše u tekstu) ili None."""
     if not text:
         return None
+    if not is_title:
+        text = _BODY_NOISE.sub(" ", normalize(text))
     if _IT_UPPER.search(text):
         return "IT"
     norm = normalize(text)

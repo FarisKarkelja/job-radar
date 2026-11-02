@@ -33,7 +33,7 @@ sources:
     pattern: 'mojposao\.ba/posao/'
     strip_query: true
     key_pattern: 'posao/([0-9a-f-]{36})'
-    scope: company
+    scope: broad
 
   - id: mojposao_ks
     name: MojPosao Kanton Sarajevo
@@ -76,7 +76,7 @@ sources:
     type: linkedin
     url: https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina
     queries: [software, developer, IT, intern, junior, data, QA, engineer]
-    scope: it
+    scope: broad
 
   - id: mojkonkurs
     enabled: false   # agregator nije ažuriran od januara 2026
@@ -602,6 +602,7 @@ sources:
 
   # ------------------------------------------------------------ međunarodne organizacije
   - id: eeas_bih
+    enabled: false   # filter po BiH ne radi, javljao je oglase za cijeli svijet
     name: EU Delegacija (vacancies BiH)
     category: medjunarodne
     type: page_hash
