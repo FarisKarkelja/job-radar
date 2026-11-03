@@ -262,7 +262,12 @@
    "3a8a2f82-d775-11f1-a8c0-42010a9c001a",
    "c5aa5483-d767-11f1-a8c0-42010a9c001a",
    "3a9c6610-d764-11f1-a8c0-42010a9c001a",
-   "bf219c81-d6c0-11f1-a8c0-42010a9c001a"
+   "bf219c81-d6c0-11f1-a8c0-42010a9c001a",
+   "b16ea71a-d798-11f1-a8c0-42010a9c001a",
+   "0789f027-d795-11f1-a8c0-42010a9c001a",
+   "1346de3d-d795-11f1-a8c0-42010a9c001a",
+   "783c4b92-d799-11f1-a8c0-42010a9c001a",
+   "fe03985a-d796-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -401,7 +406,14 @@
    "https://www.linkedin.com/jobs/view/4486829016",
    "https://www.linkedin.com/jobs/view/4477518815",
    "https://www.linkedin.com/jobs/view/4484349810",
-   "https://www.linkedin.com/jobs/view/4476925604"
+   "https://www.linkedin.com/jobs/view/4476925604",
+   "https://www.linkedin.com/jobs/view/4486886438",
+   "https://www.linkedin.com/jobs/view/4486889243",
+   "https://www.linkedin.com/jobs/view/4487003306",
+   "https://www.linkedin.com/jobs/view/4487024181",
+   "https://www.linkedin.com/jobs/view/4484676567",
+   "https://www.linkedin.com/jobs/view/4382599168",
+   "https://www.linkedin.com/jobs/view/4487013392"
   ]
  },
  "glassrpske_konkursi": {
@@ -461,7 +473,10 @@
    "https://szks.ba/posao/javni-oglas-akusersko-ginekoloska-sestra",
    "https://szks.ba/posao/javni-oglas-automehanicar-radnik-na-sjeci-i-izradi-drvnih-sortimenata-tehnolog-projektant",
    "https://szks.ba/posao/javni-oglas-laboratorijski-tehnicar",
-   "https://szks.ba/posao/javni-oglas-384"
+   "https://szks.ba/posao/javni-oglas-384",
+   "https://szks.ba/posao/bh-centar-za-obrazovanje-110-spemacica-cistacica-u-vrticu",
+   "https://szks.ba/posao/bh-centar-za-obrazovanje-166-njegovatej-u-vrticu",
+   "https://szks.ba/posao/bh-centar-za-obrazovanje-166-odgajatelj-u-vrticu"
   ]
  },
  "zdk_szz": {
@@ -473,7 +488,8 @@
    "https://zdk-szz.ba/wordpress/4966",
    "https://zdk-szz.ba/wordpress/4964",
    "https://zdk-szz.ba/wordpress/4951",
-   "https://zdk-szz.ba/wordpress/4948"
+   "https://zdk-szz.ba/wordpress/4948",
+   "https://zdk-szz.ba/wordpress/4988"
   ]
  },
  "judzks": {
@@ -2058,7 +2074,8 @@
    "hash:2a555bbc4d9770d0",
    "hash:9e1a471988d9299f",
    "hash:497facf58805f2a5",
-   "hash:0823a689ca518ce0"
+   "hash:0823a689ca518ce0",
+   "hash:dcc4eeb4aa317304"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2105,17 +2122,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
-   "Detaljnije",
    "Brzi kredit",
    "Sa nama ste najbrži!",
    "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
+   "Detaljnije",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -3994,7 +4011,8 @@
    "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-univerzitetu-u-sarajevu-prirodno-matematickom-14",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-u-akademskoj-20262027",
    "https://www.unsa.ba/index.php/konkursi/obavijest-za-kandidate-o-terminima-polaganja-pismenog-i-usmenog-dijela-ispita-0",
-   "https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3"
+   "https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3",
+   "https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13"
   ]
  },
  "untz_konkursi": {

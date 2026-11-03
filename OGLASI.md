@@ -4,6 +4,23 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 03.11. 21:52 | • [Poslovođa prodavnice (m/ž)](https://www.mojposao.ba/posao/b16ea71a-d798-11f1-a8c0-42010a9c001a/poslovodja-prodavnice-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 21:52 | • [Robno-materijalni knjigovođa (m/ž)](https://www.mojposao.ba/posao/0789f027-d795-11f1-a8c0-42010a9c001a/robno-materijalni-knjigovodja-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 21:52 | • [Asistent poslovne podrške (m/ž)](https://www.mojposao.ba/posao/1346de3d-d795-11f1-a8c0-42010a9c001a/asistent-poslovne-podrske-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 21:52 | • [Rukovodilac općih i pravnih poslova](https://www.mojposao.ba/posao/783c4b92-d799-11f1-a8c0-42010a9c001a/rukovodilac-opcih-i-pravnih-poslova) | MojPosao Kanton Sarajevo |
+| 03.11. 21:52 | • [Prodavač (m/ž)](https://www.mojposao.ba/posao/fe03985a-d796-11f1-a8c0-42010a9c001a/prodavac-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 21:52 | • [Global AI Solution Engineer](https://www.linkedin.com/jobs/view/4486886438) · ABB | LinkedIn BiH |
+| 03.11. 21:52 | 💻 [Senior Global Data AI Specialist](https://www.linkedin.com/jobs/view/4486889243) · ABB | LinkedIn BiH |
+| 03.11. 21:52 | • [Business and Human Rights Analyst](https://www.linkedin.com/jobs/view/4487003306) · UNDP Careers | LinkedIn BiH |
+| 03.11. 21:52 | • [Business and Human Rights Analyst](https://www.linkedin.com/jobs/view/4487024181) · International Civil Aviation Organization | LinkedIn BiH |
+| 03.11. 21:52 | • [Administrator](https://www.linkedin.com/jobs/view/4484676567) · Marić & Co Law Firm Ltd. | LinkedIn BiH |
+| 03.11. 21:52 | • [Audit Consultant](https://www.linkedin.com/jobs/view/4382599168) · Deloitte | LinkedIn BiH |
+| 03.11. 21:52 | • [Trial Master File Specialist (TMFS) II/Snr TMF - TMF and ALCOA principles experience required](https://www.linkedin.com/jobs/view/4487013392) · ERGOMED | LinkedIn BiH |
+| 03.11. 21:52 | • [SPEMAČICA-ČISTAČICA U VRTIĆU](https://szks.ba/posao/bh-centar-za-obrazovanje-110-spemacica-cistacica-u-vrticu) · BH CENTAR ZA OBRAZOVANJE | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 21:52 | • [NJEGOVATEJ U VRTIĆU](https://szks.ba/posao/bh-centar-za-obrazovanje-166-njegovatej-u-vrticu) · BH CENTAR ZA OBRAZOVANJE | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 21:52 | • [ODGAJATELJ U VRTIĆU](https://szks.ba/posao/bh-centar-za-obrazovanje-166-odgajatelj-u-vrticu) · BH CENTAR ZA OBRAZOVANJE | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 21:52 | • [OdlukaO utvrđivanju liste prijava koje ispunjavaju opšte uslove Javnog poziva za sufinansiranje zapošljavanja pripravnika VSS i SSS u 2026 godini](https://zdk-szz.ba/wordpress/4988) | Služba za zapošljavanje ZDK |
+| 03.11. 21:52 | • [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit / Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13) | Univerzitet u Sarajevu (konkursi) |
 | 03.11. 15:01 | • [Terenski komercijalist](https://www.mojposao.ba/posao/1b7b5cb4-d3af-11f1-a8c0-42010a9c001a/terenski--komercijalist) | MojPosao IT |
 | 03.11. 15:01 | 💻 [Skladišni radnik u skladištu informatičke opreme (m/ž)](https://www.mojposao.ba/posao/8e178d6d-d454-11f1-a8c0-42010a9c001a/skladisni-radnik-u-skladistu-informaticke-opreme-mz) | MojPosao IT |
 | 03.11. 15:01 | • [Prodajni savjetnik (m/ž)](https://www.mojposao.ba/posao/56848a28-d3ad-11f1-a8c0-42010a9c001a/prodajni-savjetnik-mz) | MojPosao IT |
@@ -1487,20 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Strucni_suradnik_za_izradu_projektne_dokumentacije.pdf) | SZZ HNK (javni oglasi) |
 | 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Vozač - domar Objava: 04.11.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Vozac-domar.pdf) | SZZ HNK (javni oglasi) |
 | 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Vozac-domar.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Stručni suradnik za radne odnose radnika i opće poslove Objava: 25.10.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Strucni_suradnik_za_radne_odnose_radnika_i_opce_poslove.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Strucni_suradnik_za_radne_odnose_radnika_i_opce_poslove.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Referent za likvidaturu i isplatu radnicima Službe Objava: 20.09.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_Referent_za_likvidaturu_i_isplatu_radnicima_Sluzbe.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Referent_za_likvidaturu.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Samostalni referent za posredovanje pri upošljavanju u Podružnici Mostar – Odjeljenje 1 Objava: 10.09.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_samostalni_referent_Mostar1.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva_Mostar1.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Voditelj Podružnice Stolac Objava: 02.09.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Voditelj_Podruznice_Stolac.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Samostalni referent za posredovanje u zapošljavanju - (Mostar/Konjic) Objava: 23.07.2019](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_Sluzba_za_zaposljavanje_HNZ-HNK.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Samostalni referent za posredovanje u zapošljavanju - (Mostar/Konjic) - ISPRAVKA Objava: 25.07.2019](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_Sluzba_za_zaposljavanje_HNZ-HNK-ISPRAVKA.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Bonusi, popusti i mogućnost razvoja: Pepco zapošljava u Širokom Brijegu](https://szz-zzh.ba/2026/10/29/bonusi-popusti-i-mogucnost-razvoja-pepco-zaposljava-u-sirokom-brijegu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [AX-SOLING otvara veću koncept trgovinu u Širokom Brijegu i zapošljava 8 radnika, provjerite detalje](https://szz-zzh.ba/2026/10/28/ax-soling-otvara-vecu-koncept-trgovinu-u-sirokom-brijegu-i-zaposljava-8-radnika-provjerite-detalje) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Tražite posao u prvoj smjeni? BERNINA zapošljava u Širokom Brijegu](https://szz-zzh.ba/2026/10/26/trazite-posao-u-prvoj-smjeni-bernina-zaposljava-u-sirokom-brijegu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Dom Hrast traži nove članove tima: Otvoreno više pozicija, provjerite uvjete](https://szz-zzh.ba/2026/10/26/dom-hrast-trazi-nove-clanove-tima-otvoreno-vise-pozicija-provjerite-uvjete) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Mobile Zona traži prodavačicu u Širokom Brijegu](https://szz-zzh.ba/2026/10/26/mobile-zona-trazi-prodavacicu-u-sirokom-brijegu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Dom zdravlja Ljubuški](https://szz-zzh.ba/2026/10/23/4502) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS za prijem radnika u radni odnos u Razvojnoj banci FBiH](https://szz-zzh.ba/2026/10/22/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-fbih) | SZZ ZHK (natječaji) |
