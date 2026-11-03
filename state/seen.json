@@ -35,7 +35,10 @@
    "7aa88b6d-d46b-11f1-a8c0-42010a9c001a",
    "f09fd01f-d459-11f1-a8c0-42010a9c001a",
    "9c176338-d467-11f1-a8c0-42010a9c001a",
-   "e31327ce-d38d-11f1-a8c0-42010a9c001a"
+   "e31327ce-d38d-11f1-a8c0-42010a9c001a",
+   "1b7b5cb4-d3af-11f1-a8c0-42010a9c001a",
+   "8e178d6d-d454-11f1-a8c0-42010a9c001a",
+   "56848a28-d3ad-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -251,7 +254,15 @@
    "136aa4a6-d6cc-11f1-a8c0-42010a9c001a",
    "83586947-d6c2-11f1-a8c0-42010a9c001a",
    "8a6a2613-d6bf-11f1-a8c0-42010a9c001a",
-   "188a4715-d6bc-11f1-a8c0-42010a9c001a"
+   "188a4715-d6bc-11f1-a8c0-42010a9c001a",
+   "639139e3-d78e-11f1-a8c0-42010a9c001a",
+   "8e24d737-d76d-11f1-a8c0-42010a9c001a",
+   "be8e3e30-d784-11f1-a8c0-42010a9c001a",
+   "0dabf43c-d775-11f1-a8c0-42010a9c001a",
+   "3a8a2f82-d775-11f1-a8c0-42010a9c001a",
+   "c5aa5483-d767-11f1-a8c0-42010a9c001a",
+   "3a9c6610-d764-11f1-a8c0-42010a9c001a",
+   "bf219c81-d6c0-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -274,7 +285,8 @@
    "https://posao.klix.ba/oglasi/business-analyst-mz-teneo/10791",
    "https://posao.klix.ba/oglasi/prodavac-mz-at-store/10765",
    "https://posao.klix.ba/oglasi/home-office-kundenberaterin-im-vertrieb-fur-sky-mwd-outbound-telus-digital/10979",
-   "https://posao.klix.ba/oglasi/home-office-sachbearbeiter-mwd-fur-axa-schaden-motorfahrzeuge-telus-digital/10980"
+   "https://posao.klix.ba/oglasi/home-office-sachbearbeiter-mwd-fur-axa-schaden-motorfahrzeuge-telus-digital/10980",
+   "https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-njemackom-jeziku-mz-mplus-bih/10996"
   ]
  },
  "itbase": {
@@ -385,7 +397,11 @@
    "https://www.linkedin.com/jobs/view/4486422287",
    "https://www.linkedin.com/jobs/view/4484393765",
    "https://www.linkedin.com/jobs/view/4485394481",
-   "https://www.linkedin.com/jobs/view/4486184987"
+   "https://www.linkedin.com/jobs/view/4486184987",
+   "https://www.linkedin.com/jobs/view/4486829016",
+   "https://www.linkedin.com/jobs/view/4477518815",
+   "https://www.linkedin.com/jobs/view/4484349810",
+   "https://www.linkedin.com/jobs/view/4476925604"
   ]
  },
  "glassrpske_konkursi": {
@@ -440,7 +456,12 @@
    "https://szks.ba/posao/pomocna-radnica-u-proizvodnji",
    "https://szks.ba/posao/farmaceutski-tehnicar-22",
    "https://szks.ba/posao/higijenicarka-79",
-   "https://szks.ba/posao/privatna-zdravstvena-ustanova-apoteka-iboco-166-farmaceutski-tehnicar"
+   "https://szks.ba/posao/privatna-zdravstvena-ustanova-apoteka-iboco-166-farmaceutski-tehnicar",
+   "https://szks.ba/posao/javni-oglas-ljekar-specijalista-dermatovenerolog-ljekar-specijalista-nefrolog",
+   "https://szks.ba/posao/javni-oglas-akusersko-ginekoloska-sestra",
+   "https://szks.ba/posao/javni-oglas-automehanicar-radnik-na-sjeci-i-izradi-drvnih-sortimenata-tehnolog-projektant",
+   "https://szks.ba/posao/javni-oglas-laboratorijski-tehnicar",
+   "https://szks.ba/posao/javni-oglas-384"
   ]
  },
  "zdk_szz": {
@@ -2036,7 +2057,8 @@
    "hash:3077fc1159e2d62c",
    "hash:2a555bbc4d9770d0",
    "hash:9e1a471988d9299f",
-   "hash:497facf58805f2a5"
+   "hash:497facf58805f2a5",
+   "hash:0823a689ca518ce0"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2083,17 +2105,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -2943,7 +2965,8 @@
  },
  "obs": {
   "keys": [
-   "hash:5a464938f9874823"
+   "hash:5a464938f9874823",
+   "hash:53e16370e49abd6e"
   ],
   "lines": [
    "07 Mart 2017",
@@ -2951,6 +2974,10 @@
    "E-mail",
    "Oglasi J.U. \"Opće bolnice Prim.dr. Abdulah Nakaš\" Sarajevo",
    "DOKUMENTACIJA KOJA JE POTREBNA ZA OBAVLJANJE STAŽA/VOLONTIRANJE",
+   "Pitanja i literatura za Javni oglas za prijem u radni odnos na neodređeno vrijeme za radno mjesto: 1. Službenik za javne nabavke - administrator- 1 (jedan) izvršilac (03.11.2026. godine)",
+   "Javni oglas za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Ljekar specijalista dermatovenerolog- 1 (jedan) izvršilac i 2. Ljekar specijalista nefrolog - 1 (jedan) izvršilac (03.11.2026. godine do 13.11.2026. godine)",
+   "avni oglas za prijem u radni odnos na određeno vrijeme do 12 (dvanaest) mjeseci, a najduže do povratka radnice sa porodiljskog odsustva - Akušersko- ginekološka sestra u Odsjeku za akušerstvo u okviru Odjeljenja za ginekologiju i akušerstvo - 1 (jedan) izvršilac (03.11.2026-13.11.2026.)",
+   "Obavještenje kandidatima o održavanju ispita - Fizioterapeutski tehničar i Diplomirani fizioterapeut",
    "Obavještenje kandidatima o terminu održavanja pismenog i usmenog ispita za radno mjesto Ljekar specijalista urgentne medicine.",
    "Lista pitanja i literature za radno mjesto Ljekar specijalista nefrolog (30.10.2026)",
    "Lista pitanja i literature za radno mjesto Ljekar specijalista dermatovenerolog (30.10.2026)",
@@ -3341,11 +3368,7 @@
    "Javni oglas za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Socijalni radnik– 1 (jedan) izvršilac (22.10.2024. godina do 01.11.2024. godine)",
    "Pitanja i literatura za poziciju Socijalni radnik - 1 (jedan) izvršilac na neodređeno vrijeme (21.10.2024.godine)",
    "Obavještenje kandidatima o održavanju ispita: Psiholog",
-   "Poslovnik o radu Komisije – Šef Elektro odsjeka 1 (jedan) izvršilac – 17.10.2024. godine",
-   "avni oglas za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Šef Elektro odsjeka – 1 (jedan) izvršilac (od 16.10.2024. godine do 26.10.2024. godine)",
-   "Ispitna pitanja i literatura za radno mjesto: Šef Elektro Odsjeka",
-   "Poslovnik o radu Komisije za izbor kandidata za prijem u radni odnos Ljekar specijalista plastične i rekonstruktivne hirurgije.",
-   "Ljekar specijalista Plastične i rekonstruktivne hirurgije - 1 izvršilac, na određeno vrijeme do 1 (jedne) godine."
+   "Poslovnik o radu Komisije – Šef Elektro odsjeka 1 (jedan) izvršilac – 17.10.2024. godine"
   ]
  },
  "viksa": {
@@ -3768,7 +3791,8 @@
    "https://www.szzhnz-k.ba/pdf/zaposlenje/Voditelj_Podruznice_Stolac.pdf",
    "https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva.pdf",
    "https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_Sluzba_za_zaposljavanje_HNZ-HNK.pdf",
-   "https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_Sluzba_za_zaposljavanje_HNZ-HNK-ISPRAVKA.pdf"
+   "https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_Sluzba_za_zaposljavanje_HNZ-HNK-ISPRAVKA.pdf",
+   "https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Voditelj_Podruznice_Mostar_Odjeljenje_1_2026.pdf"
   ]
  },
  "szz_zhk": {
@@ -3916,7 +3940,9 @@
    "https://szztk.ba/posao/36853/mip-ljubace-magacioner",
    "https://szztk.ba/posao/36894/univerzitet-u-tuzli-javni-konkurs-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme",
    "https://szztk.ba/posao/36904/apoteka-blink-tuzla-magistar-farmacije",
-   "https://szztk.ba/posao/36902/opcinski-sud-u-kalesiji-ponovni-javni-oglas-za-prijem-pripravnika-volontera"
+   "https://szztk.ba/posao/36902/opcinski-sud-u-kalesiji-ponovni-javni-oglas-za-prijem-pripravnika-volontera",
+   "https://szztk.ba/posao/36913/ppu-djecija-kuca-tuzla-odgajatelj",
+   "https://szztk.ba/posao/36911/ju-bkc-zivinice-javni-oglas-za-prijem-u-radni-odnos"
   ]
  },
  "szz_bpk": {
@@ -3942,7 +3968,8 @@
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ac492d206bbf4.67541136.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6acdfb74164408.40665125.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6abe6223c37ea8.61243683.pdf",
-   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae83e40e73d85.74274884.pdf"
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae83e40e73d85.74274884.pdf",
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae9e26c7748b6.38965689.pdf"
   ]
  },
  "unsa_konkursi": {
@@ -3966,7 +3993,8 @@
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-jezik-11",
    "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-univerzitetu-u-sarajevu-prirodno-matematickom-14",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-u-akademskoj-20262027",
-   "https://www.unsa.ba/index.php/konkursi/obavijest-za-kandidate-o-terminima-polaganja-pismenog-i-usmenog-dijela-ispita-0"
+   "https://www.unsa.ba/index.php/konkursi/obavijest-za-kandidate-o-terminima-polaganja-pismenog-i-usmenog-dijela-ispita-0",
+   "https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3"
   ]
  },
  "untz_konkursi": {
@@ -4000,7 +4028,13 @@
    "https://dzobs.com/posao/claire-automotive-support-689101/mid-level-backend-developer-955757",
    "https://dzobs.com/posao/ncrtrizma-612505/specijalist-korisnicke-podrske-na-njemackom-jeziku-783007",
    "https://dzobs.com/posao/crossvallia-336512/devops-engineer-789459",
-   "https://dzobs.com/posao/crossvallia-336512/pre-sales-engineer-435670"
+   "https://dzobs.com/posao/crossvallia-336512/pre-sales-engineer-435670",
+   "https://dzobs.com/posao/zendev-395410/freelance-developer-543827",
+   "https://dzobs.com/posao/symphony-164748/product-designer-386905",
+   "https://dzobs.com/posao/symphony-164748/data-architect-862367",
+   "https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130",
+   "https://dzobs.com/posao/klika-699231/firmware-developer-355553",
+   "https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327"
   ]
  },
  "dzobs_praksa": {
@@ -4567,7 +4601,8 @@
    "https://www.bingotuzla.ba/2026/10/19/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-3",
    "https://www.bingotuzla.ba/2026/10/12/bingo-petrol-d-o-o-tuzla-raspisuje-konkurs-za-poziciju",
    "https://www.bingotuzla.ba/2026/10/01/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-2",
-   "https://www.bingotuzla.ba/2026/10/01/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju"
+   "https://www.bingotuzla.ba/2026/10/01/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju",
+   "https://www.bingotuzla.ba/2026/11/03/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-5"
   ]
  },
  "robot": {
@@ -4592,7 +4627,8 @@
  },
  "bosnalijek": {
   "keys": [
-   "hash:b8202419333f59a0"
+   "hash:b8202419333f59a0",
+   "hash:0a538fc3b3c8fd2c"
   ],
   "lines": [
    "O nama",
@@ -4708,7 +4744,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 02. 2026",
+   "novembar 03. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5176,7 +5212,8 @@
  "infobip_internship": {
   "keys": [
    "hash:c9541707812af811",
-   "hash:11b8fd5c760fb050"
+   "hash:11b8fd5c760fb050",
+   "hash:b8d6a82f133c4d55"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5245,18 +5282,12 @@
    "Job type:",
    "Onsite",
    "Posted 2 weeks ago",
-   "Product Marketing/Product Success Intern",
-   "Location:",
-   "Zagreb (Croatia)",
-   "Job type:",
-   "Onsite",
-   "Posted 3 weeks ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
    "Job type:",
    "Hybrid",
-   "Posted 4 weeks ago",
+   "Posted 1 month ago",
    "Administrative Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -6576,7 +6607,9 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7072",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7076",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7077",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7091"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7091",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7085",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7092"
   ]
  },
  "cbbh": {

@@ -4,6 +4,42 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 03.11. 15:01 | • [Terenski komercijalist](https://www.mojposao.ba/posao/1b7b5cb4-d3af-11f1-a8c0-42010a9c001a/terenski--komercijalist) | MojPosao IT |
+| 03.11. 15:01 | 💻 [Skladišni radnik u skladištu informatičke opreme (m/ž)](https://www.mojposao.ba/posao/8e178d6d-d454-11f1-a8c0-42010a9c001a/skladisni-radnik-u-skladistu-informaticke-opreme-mz) | MojPosao IT |
+| 03.11. 15:01 | • [Prodajni savjetnik (m/ž)](https://www.mojposao.ba/posao/56848a28-d3ad-11f1-a8c0-42010a9c001a/prodajni-savjetnik-mz) | MojPosao IT |
+| 03.11. 15:01 | • [Skladištar](https://www.mojposao.ba/posao/639139e3-d78e-11f1-a8c0-42010a9c001a/skladistar) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Referent u računovodstvu (Accounting Associate)](https://www.mojposao.ba/posao/8e24d737-d76d-11f1-a8c0-42010a9c001a/referent-u-racunovodstvu-accounting-associate) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Farmaceutski tehničar u skladištu veledrogerije](https://www.mojposao.ba/posao/be8e3e30-d784-11f1-a8c0-42010a9c001a/farmaceutski-tehnicar-u-skladistu-veledrogerije) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Samostalni stručni saradnik za izvještavanje (m/ž)](https://www.mojposao.ba/posao/0dabf43c-d775-11f1-a8c0-42010a9c001a/samostalni-strucni-saradnik-za-izvjestavanje-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Stručni saradnik u računovodstvu](https://www.mojposao.ba/posao/3a8a2f82-d775-11f1-a8c0-42010a9c001a/strucni-saradnik-u-racunovodstvu) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Voditelj prodajnog područja / supervizor prodaje (m/ž)](https://www.mojposao.ba/posao/c5aa5483-d767-11f1-a8c0-42010a9c001a/voditelj-prodajnog-podrucja--supervizor-prodaje-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Serviser – elektromonter (elektroinstalater)](https://www.mojposao.ba/posao/3a9c6610-d764-11f1-a8c0-42010a9c001a/serviser-%E2%80%93-elektromonter-elektroinstalater) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Farmaceutski tehničar (m/ž)](https://www.mojposao.ba/posao/bf219c81-d6c0-11f1-a8c0-42010a9c001a/farmaceutski-tehnicar-mz) | MojPosao Kanton Sarajevo |
+| 03.11. 15:01 | • [Specijalist korisnicke podrske na njemackom jeziku mz mplus bih](https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-njemackom-jeziku-mz-mplus-bih/10996) | Klix Posao IT |
+| 03.11. 15:01 | 💻 [Quality Manager, Quality Assurance](https://www.linkedin.com/jobs/view/4486829016) · ERGOMED | LinkedIn BiH |
+| 03.11. 15:01 | • [Product Safety Specialist (f/m/d)](https://www.linkedin.com/jobs/view/4477518815) · Siemens Energy | LinkedIn BiH |
+| 03.11. 15:01 | • [Electrical Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4484349810) · Walter AEC | LinkedIn BiH |
+| 03.11. 15:01 | 💻 [Intermediate Azure DevOps Engineer](https://www.linkedin.com/jobs/view/4476925604) · Avenga | LinkedIn BiH |
+| 03.11. 15:01 | 💻 [Javni natječaj za popunu radnog mjesta državnog službenika u Ministarstvu unutarnjih poslova Kantona 10](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7085) | ADS FBiH eKonkurs |
+| 03.11. 15:01 | • [JAVNI KONKURS za prijem pripravnika – volontera u Općinskom sudu u Sanskom Mostu](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7092) | ADS FBiH eKonkurs |
+| 03.11. 15:01 | 💻 [JAVNI OGLAS-Ljekar specijalista dermatovenerolog, Ljekar specijalista nefrolog](https://szks.ba/posao/javni-oglas-ljekar-specijalista-dermatovenerolog-ljekar-specijalista-nefrolog) · Javna ustanova Opća bolnica „Prim.dr. Abdulah Nakaš“ | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 15:01 | 💻 [JAVNI OGLAS-Akušersko- ginekološka sestra](https://szks.ba/posao/javni-oglas-akusersko-ginekoloska-sestra) · Javna ustanova Opća bolnica „Prim.dr. Abdulah Nakaš“ | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 15:01 | 💻 [JAVNI OGLAS-Automehaničar, Radnik na sječi i izradi drvnih sortimenata, Tehnolog projektant](https://szks.ba/posao/javni-oglas-automehanicar-radnik-na-sjeci-i-izradi-drvnih-sortimenata-tehnolog-projektant) · KJP „Sarajevo-šume“ d.o.o. Sarajevo | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 15:01 | • [JAVNI OGLAS-Laboratorijski tehničar](https://szks.ba/posao/javni-oglas-laboratorijski-tehnicar) · JU Zavoda za hitnu medicinsku pomoć Kantona Sarajevo Prim.dr. Silva Rizvanbegović | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 15:01 | 💻 [JAVNI OGLAS-STRUČNI SAVJETNIK ZA EKONOMSKE POSLOVE-](https://szks.ba/posao/javni-oglas-384) · JU “Centar za sport i rekreaciju” Sarajevo | SZKS (Služba za zapošljavanje KS) |
+| 03.11. 15:01 | • [Promjena na stranici: Pitanja i literatura za Javni oglas za prijem u radni odnos na neodređeno vrijeme za radno mjesto: 1](https://www.obs.ba/index.php/oglasi.html) | Opća bolnica Sarajevo (oglasi) |
+| 03.11. 15:01 | 💻 [Služba za zapošljavanje HNŽ-HNK Voditelj Podružnice Mostar - Odjeljenje 1 Objava: 03.11.2026](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Voditelj_Podruznice_Mostar_Odjeljenje_1_2026.pdf) | SZZ HNK (javni oglasi) |
+| 03.11. 15:01 | 💻 [PPU Dječija kuća Tuzla: Odgajatelj](https://szztk.ba/posao/36913/ppu-djecija-kuca-tuzla-odgajatelj) | SZZ Tuzlanski kanton (oglasi) |
+| 03.11. 15:01 | 💻 [JU BKC Živinice: Javni oglas za prijem u radni odnos](https://szztk.ba/posao/36911/ju-bkc-zivinice-javni-oglas-za-prijem-u-radni-odnos) | SZZ Tuzlanski kanton (oglasi) |
+| 03.11. 15:01 | • [Unis Ginex d.d. Goražde](https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae9e26c7748b6.38965689.pdf) | SZZ BPK Goražde (oglasi) |
+| 03.11. 15:01 | • [Poslovnik o radu Komisije za provođenje Javnog oglasa / Univerzitet u Sarajevu - Prirodno-matematički fakultet](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3) | Univerzitet u Sarajevu (konkursi) |
+| 03.11. 15:01 | 💻 [Freelance Developer Zendev Sarajevo jo š 30 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827) | dzobs (IT poslovi) |
+| 03.11. 15:01 | 💻 [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 30 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905) | dzobs (IT poslovi) |
+| 03.11. 15:01 | 💻 [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 30 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367) | dzobs (IT poslovi) |
+| 03.11. 15:01 | 💻 [.Net Full Stack Developer QSS Sarajevo Medior jo š 30 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130) | dzobs (IT poslovi) |
+| 03.11. 15:01 | 💻 [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 30 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553) | dzobs (IT poslovi) |
+| 03.11. 15:01 | 💻 [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 30 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327) | dzobs (IT poslovi) |
+| 03.11. 15:01 | • [Bingo d.o.o. Tuzla raspisuje konkurs za poziciju:](https://www.bingotuzla.ba/2026/11/03/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-5) | Bingo (oglasi) |
 | 03.11. 00:04 | • [Komercijalista](https://www.mojposao.ba/posao/e31327ce-d38d-11f1-a8c0-42010a9c001a/komercijalista) | MojPosao IT |
 | 03.11. 00:04 | • [Tehnički sekretar](https://www.mojposao.ba/posao/e1f4bd0f-d6bf-11f1-a8c0-42010a9c001a/tehnicki-sekretar) | MojPosao Kanton Sarajevo |
 | 03.11. 00:04 | • [Kustos/Kustosica u galeriji slika](https://www.mojposao.ba/posao/fea78db1-d6cc-11f1-a8c0-42010a9c001a/kustoskustosica-u-galeriji-slika) | MojPosao Kanton Sarajevo |
@@ -1468,39 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Mobile Zona traži prodavačicu u Širokom Brijegu](https://szz-zzh.ba/2026/10/26/mobile-zona-trazi-prodavacicu-u-sirokom-brijegu) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [Dom zdravlja Ljubuški](https://szz-zzh.ba/2026/10/23/4502) | SZZ ZHK (natječaji) |
 | 02.11. 00:13 | •⏺ [JAVNI OGLAS za prijem radnika u radni odnos u Razvojnoj banci FBiH](https://szz-zzh.ba/2026/10/22/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-fbih) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Pepco BH d.o.o. natječaj za posao blagajnik – prodavač](https://szz-zzh.ba/2026/10/22/pepco-bh-d-o-o-natjecaj-za-posao-blagajnik-prodavac) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Medicinska sestra/tehničar, njegovatelj/njegovateljica](https://szz-zzh.ba/2026/10/22/medicinska-sestra-tehnicar-njegovatelj-njegovateljica) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [NATJEČAJ ZA POSAO – MESNA INDUSTRIJA BRAĆA PIVAC](https://szz-zzh.ba/2026/10/15/natjecaj-za-posao-mesna-industrija-braca-pivac) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Posao u Mostaru: CENTRALUS raspisao natječaj za radno mjesto](https://szz-zzh.ba/2026/10/13/posao-u-mostaru-centralus-raspisao-natjecaj-za-radno-mjesto) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [PERIŠIĆ d.o.o. Grude raspisao natječaj za posao](https://szz-zzh.ba/2026/10/13/perisic-d-o-o-grude-raspisao-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Dom zdravlja Posušje – natječaj za posao](https://szz-zzh.ba/2026/10/12/dom-zdravlja-posusje-natjecaj-za-posao-4) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Jelinak širi tim za zimsku sezonu na Blidinju: Otvorena četiri radna mjesta](https://szz-zzh.ba/2026/10/09/jelinak-siri-tim-za-zimsku-sezonu-na-blidinju-otvorena-cetiri-radna-mjesta) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [BERNINA d.o.o. Široki Brijeg raspisuje natječaj](https://szz-zzh.ba/2026/10/09/bernina-d-o-o-siroki-brijeg-raspisuje-natjecaj) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [JU Dom zdravlja Široki Brijeg](https://szz-zzh.ba/2026/10/02/ju-dom-zdravlja-siroki-brijeg) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [A-A Company d.o.o.](https://szz-zzh.ba/2026/09/30/a-a-company-d-o-o) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [SKB Mostar zapošljava 81 osobu na 31 radno mjesto: Evo što se traži](https://szz-zzh.ba/2026/09/29/skb-mostar-zaposljava-81-osobu-na-31-radno-mjesto-evo-sto-se-trazi) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Natječaj za posao HI HERING d.d.](https://szz-zzh.ba/2026/09/28/4452) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Novi natječaj za posao u Širokom Brijegu: TT Kabeli traže tri zaposlenika](https://szz-zzh.ba/2026/09/28/novi-natjecaj-za-posao-u-sirokom-brijegu-tt-kabeli-traze-tri-zaposlenika) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Agropet zapošljava agronome i trgovce u Posušju](https://szz-zzh.ba/2026/09/28/agropet-zaposljava-agronome-i-trgovce-u-posusju) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Vodomontaža d.o.o. Široki Brijeg natječaj za posao](https://szz-zzh.ba/2026/09/24/vodomontaza-d-o-o-siroki-brijeg-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [ASA Central osiguranje zapošljava](https://szz-zzh.ba/2026/09/22/asa-central-osiguranje-zaposljava-2) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [CMA – rad na benzinskoj postaji/marketu](https://szz-zzh.ba/2026/09/16/cma-rad-na-benzinskoj-postaji-marketu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [RESTORAN PIZZERIA SAN MARINO ČAPLJINA – KUHAR](https://szz-zzh.ba/2026/09/16/restoran-pizzeria-san-marino-capljina-kuhar) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Sjemenarna zapošljava u odjelu transporta / logistike](https://szz-zzh.ba/2026/09/15/sjemenarna-zaposljava-u-odjelu-transporta-logistike) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Violeta traži nove članove tima: Pogledajte koje su pozicije otvorene](https://szz-zzh.ba/2026/09/15/violeta-trazi-nove-clanove-tima-pogledajte-koje-su-pozicije-otvorene) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Namex raspisuje natječaj za posao: Daj 5 za 5 radnih dana u tjednu](https://szz-zzh.ba/2026/09/15/namex-raspisuje-natjecaj-za-posao-daj-5-za-5-radnih-dana-u-tjednu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Sport Net Inženjering d.o.o. Široki Brijeg raspisuje natječaj za više radnih mjesta](https://szz-zzh.ba/2026/09/15/sport-net-inzenjering-d-o-o-siroki-brijeg-raspisuje-natjecaj-za-vise-radnih-mjesta) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Poliklinika “Futura” iz Širokog Brijega raspisuje natječaj za posao](https://szz-zzh.ba/2026/09/15/poliklinika-futura-iz-sirokog-brijega-raspisuje-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Gradska ljekarna Čitluk traži ravnatelja: Objavljeni uvjeti i rok za prijavu](https://szz-zzh.ba/2026/09/15/gradska-ljekarna-citluk-trazi-ravnatelja-objavljeni-uvjeti-i-rok-za-prijavu) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [TIOIL d.o.o.](https://szz-zzh.ba/2026/09/15/tioil-d-o-o) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [PEPCO BiH – Natječaj za posao](https://szz-zzh.ba/2026/09/09/pepco-bih-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Blagajnik – prodavač (m/ž) Pepco BH d.o.o.](https://szz-zzh.ba/2026/09/09/blagajnik-prodavac-m-z-pepco-bh-d-o-o) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Miškić bus d.o.o. natječaj za posao](https://szz-zzh.ba/2026/09/08/miskic-bus-d-o-o-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [DLA MASCHINEN UND MONTAGEN d.o.o. Zagreb – NATJEČAJ ZA POSAO](https://szz-zzh.ba/2026/09/07/dla-maschinen-und-montagen-d-o-o-zagreb-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [MICRON ING d.o.o. – Natječaj za posao](https://szz-zzh.ba/2026/09/07/micron-ing-d-o-o-natjecaj-za-posao-2) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [Bravarija M d.o.o. natječaj za posao](https://szz-zzh.ba/2026/09/04/bravarija-m-d-o-o-natjecaj-za-posao-3) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [MICRON ING d.o.o. – natječaj za posao](https://szz-zzh.ba/2026/09/04/micron-ing-d-o-o-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [PROMARK d.o.o. Mostar – NATJEČAJ ZA POSAO](https://szz-zzh.ba/2026/09/03/promark-d-o-o-mostar-natjecaj-za-posao) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [PLANIKA d.o.o – NATJEČAJ ZA POSAO](https://szz-zzh.ba/2026/08/31/planika-prodavac-i-poslovoda) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [AS DALMI – RADNIK ZA PRANJE VOZILA U AUTO SALONU (m/ž)](https://szz-zzh.ba/2026/08/28/as-dalmi-radnik-za-pranje-vozila-u-auto-salonu-m-z) | SZZ ZHK (natječaji) |
-| 02.11. 00:13 | •⏺ [AS DALMI – Autolakirer](https://szz-zzh.ba/2026/08/28/as-dalmi-autolakirer) | SZZ ZHK (natječaji) |
