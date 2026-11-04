@@ -4,6 +4,22 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 04.11. 22:14 | • [Viši analitičar za kreditne analize (m/ž)](https://www.mojposao.ba/posao/2c24b6b3-d861-11f1-a8c0-42010a9c001a/visi-analiticar-za-kreditne-analize-mz) | MojPosao Kanton Sarajevo |
+| 04.11. 22:14 | • [Specijalista za analizu podataka i upravljanje podacima](https://www.mojposao.ba/posao/0a9a7b69-d864-11f1-a8c0-42010a9c001a/specijalista-za-analizu-podataka-i-upravljanje-podacima) | MojPosao Kanton Sarajevo |
+| 04.11. 22:14 | 💻 [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478136025) · Dedalus | LinkedIn BiH |
+| 04.11. 22:14 | 💻 [Senior AI Engineer](https://www.linkedin.com/jobs/view/4359325062) · Avenga | LinkedIn BiH |
+| 04.11. 22:14 | • [Engineering Lead (m/f/d)](https://www.linkedin.com/jobs/view/4478126416) · Dedalus | LinkedIn BiH |
+| 04.11. 22:14 | • [Massage Therapist](https://www.linkedin.com/jobs/view/4483988199) · GLOBALWORKY DOO | LinkedIn BiH |
+| 04.11. 22:14 | 💻 [Data Engineer, Analytics](https://www.linkedin.com/jobs/view/4487522159) · Personify Health | LinkedIn BiH |
+| 04.11. 22:14 | 💻 [Data Engineer, Analytics](https://www.linkedin.com/jobs/view/4487513492) · Personify Health | LinkedIn BiH |
+| 04.11. 22:14 | • [ERM Risk Analyst](https://www.linkedin.com/jobs/view/4467637449) · Deel | LinkedIn BiH |
+| 04.11. 22:14 | 💻 [Manager, Quality Assurance & Testing](https://www.linkedin.com/jobs/view/4479050666) · Personify Health | LinkedIn BiH |
+| 04.11. 22:14 | 💻 [Manager, Quality Assurance & Testing](https://www.linkedin.com/jobs/view/4487507788) · Personify Health | LinkedIn BiH |
+| 04.11. 22:14 | • [Lessons Learnt Manager (m/f)](https://www.linkedin.com/jobs/view/4486850458) · HILL International Bosnia and Herzegovina | LinkedIn BiH |
+| 04.11. 22:14 | 💻 [JAVNI KONKURS za popunu radnih mjesta državnih službenika u Gradu Gradačac](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/6968) | ADS FBiH eKonkurs |
+| 04.11. 22:14 | • [JAVNI KONKURS za popunu radnog mjesta državnog službenika u Federalnom ministarstvu energije, rudarstva i industrije](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7078) | ADS FBiH eKonkurs |
+| 04.11. 22:14 | • [Javni oglas za prijem u radni odnos / Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1) | Univerzitet u Sarajevu (konkursi) |
+| 04.11. 22:14 | • [JAVNI OGLAS za prijem u radni odnos na Univerzitetu u Sarajevu - Prirodno-matematičkom fakultetu na određeno vrijeme](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-univerzitetu-u-sarajevu-prirodno-matematickom-14) | Univerzitet u Sarajevu (konkursi) |
 | 04.11. 15:18 | 💻 [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer) | MojPosao IT |
 | 04.11. 15:18 | 💻 [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer) | MojPosao IT |
 | 04.11. 15:18 | 💻 [Embedded Software Test Engineer](https://www.mojposao.ba/posao/bc9d78e0-d84f-11f1-a8c0-42010a9c001a/embedded-software-test-engineer) | MojPosao IT |
@@ -1488,19 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Grbavica I"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-grbavica-i) | Kanton Sarajevo (konkursi) |
 | 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Četvrta gimnazija](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-cetvrta-gimnazija) | Kanton Sarajevo (konkursi) |
 | 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Umihana Čuvidina"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-umihana-cuvidina) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Hašim Spahić"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-hasim-spahic) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Šesta osnovna škola](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-sesta-osnovna-skola) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Hrasno"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-hrasno) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Mula Mustafa Bašeskija"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-mula-mustafa-baseskija) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Vrhbosna"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-vrhbosna) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Javni oglas za popunu upražnjenih radnih mjesta namještenika na neodređeno vrijeme u Upravi policije MUP-a Kantona Sarajevo](https://mup.ks.gov.ba/aktuelno/konkursi/javni-oglas-za-popunu-upraznjenih-radnih-mjesta-namjestenika-na-neodredeno-18) | Kanton Sarajevo (konkursi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Viši stručni suradnik za zapošljavanje stranaca Objava: 05.10.2026](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Visi_strucni_suradnik_za_zaposljavanje_stranaca_2026.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_-_Visi_strucni_suradnik_za_zaposljavanje_stranaca_2026.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Stručni suradnik za posredovanje pri zapošljavanju u Podružnici Čapljina Objava: 10.08.2026](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Strucni_suradnik_za_posredovanje_pri_zaposljavanju_u_Podruznici_Capljina_2026.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_-_Strucni_suradnik_za_posredovanje_pri_zaposljavanju_2026.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Viši stručni suradnik za obračun i kontrolu materijalno-socijalnog osiguranja Objava: 10.08.2026](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Visi_strucni_suradnik_za_obracun_i_kontrolu_materijalno-socijalnog_osiguranja_2026.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_-_Visi_strucni_suradnik_za_obracun_i_kontrolu_materijalno-socijalnog_osiguranja_2026.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Viši stručni suradnik za provedbu programa i projekata Objava: 29.06.2026](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-Visi_strucni_suradnik_za_provedbu_programa_i_projekata.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_-_Visi_strucni_suradnik_za_provedbu_programa_i_projekata.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Stručni suradnik za prijave na evidencije i informiranje u Podružnici Mostar – Odjeljenje 2 Objava: 27.04.2026](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Strucni_suradnik_za_prijave_na_evidencije_i_informiranje_-_Mostar-Odjeljenje_2.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_-_Strucni_suradnik_za_prijave_na_evidencije_i_informiranje_-_Odjeljenje_2_2026.pdf) | SZZ HNK (javni oglasi) |
