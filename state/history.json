@@ -20414,5 +20414,29 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-04T01:13:13+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Stručno - komercijalni saradnik",
+  "url": "https://www.mojposao.ba/posao/8a5890cf-d46b-11f1-a8c0-42010a9c001a/strucno---komercijalni-saradnik",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-04T01:13:13+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Skladištar",
+  "url": "https://www.mojposao.ba/posao/143cb81b-d792-11f1-a8c0-42010a9c001a/skladistar",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 04.11. 02:13 | • [Stručno - komercijalni saradnik](https://www.mojposao.ba/posao/8a5890cf-d46b-11f1-a8c0-42010a9c001a/strucno---komercijalni-saradnik) | MojPosao IT |
+| 04.11. 02:13 | • [Skladištar](https://www.mojposao.ba/posao/143cb81b-d792-11f1-a8c0-42010a9c001a/skladistar) | MojPosao Kanton Sarajevo |
 | 03.11. 21:52 | • [Poslovođa prodavnice (m/ž)](https://www.mojposao.ba/posao/b16ea71a-d798-11f1-a8c0-42010a9c001a/poslovodja-prodavnice-mz) | MojPosao Kanton Sarajevo |
 | 03.11. 21:52 | • [Robno-materijalni knjigovođa (m/ž)](https://www.mojposao.ba/posao/0789f027-d795-11f1-a8c0-42010a9c001a/robno-materijalni-knjigovodja-mz) | MojPosao Kanton Sarajevo |
 | 03.11. 21:52 | • [Asistent poslovne podrške (m/ž)](https://www.mojposao.ba/posao/1346de3d-d795-11f1-a8c0-42010a9c001a/asistent-poslovne-podrske-mz) | MojPosao Kanton Sarajevo |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Samostalni_referent_za_posredovanje_pri_uposljavanju_u_Podruznici_Capljina.pdf) | SZZ HNK (javni oglasi) |
 | 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Stručni suradnik za izradu projektne dokumentacije Objava: 10.11.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Strucni_suradnik_za_izradu_projektne_dokumentacije.pdf) | SZZ HNK (javni oglasi) |
 | 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Strucni_suradnik_za_izradu_projektne_dokumentacije.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Služba za zapošljavanje HNŽ-HNK Vozač - domar Objava: 04.11.2021](https://www.szzhnz-k.ba/pdf/zaposlenje/Javni_oglas_-_Vozac-domar.pdf) | SZZ HNK (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Popis članova povjerenstva](https://www.szzhnz-k.ba/pdf/zaposlenje/Popis_clanova_povjerenstva-Vozac-domar.pdf) | SZZ HNK (javni oglasi) |

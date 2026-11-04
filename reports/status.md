@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **03.11.2026 21:52** (Sarajevo)  
+Zadnje pokretanje: **04.11.2026 02:13** (Sarajevo)  
 Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -8,7 +8,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ❌ | 0 | 0 | stranica je prazna |
 | [Addiko Bank Banja Luka](https://addiko-bank-bl.talentlyft.com/) | ✅ | 1 | 0 |  |
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
-| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 7 | 0 |  |
+| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 6 | 0 |  |
 | [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
 | [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 20 | 0 |  |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 3 | 0 |  |
@@ -28,13 +28,13 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 3 | 0 |  |
 | [BH Telecom](https://www.bhtelecom.ba/category/javni-oglasi-za-posao/) | ✅ | 10 | 0 |  |
 | [Bingo (oglasi)](https://www.bingotuzla.ba/bingooglasi) | ✅ | 6 | 0 |  |
-| [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 0 |  |
+| [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 1 |  |
 | [Centralna banka BiH (karijera)](https://www.cbbh.ba/career) | ✅ | 1 | 0 |  |
 | [D-ploy](https://apply.workable.com/d-ploy/) | ✅ | 1 | 0 |  |
 | [dzobs (IT poslovi)](https://dzobs.com/poslovi/1) | ✅ | 12 | 0 |  |
 | [dzobs (prakse)](https://dzobs.com/angazman/internship/1) | ✅ | 0 | 0 |  |
 | [Energoinvest](https://energoinvest.ba/karijere) | ✅ | 6 | 0 |  |
-| [Elektroprivreda BiH](https://www.epbih.ba/stranica/ljudski-resursi) | ✅ | 4 | 0 |  |
+| [Elektroprivreda BiH](https://www.epbih.ba/stranica/ljudski-resursi) | ✅ | 3 | 0 |  |
 | [Glas Srpske konkursi](https://www.glassrpske.com/lat/ekonomija/konkursi) | ✅ | 12 | 0 |  |
 | [Grawe osiguranje (posao)](https://www.grawe.ba/grawe-posao) | ✅ | 1 | 0 |  |
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 0 |  |
@@ -55,15 +55,15 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 48 | 7 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 46 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 32 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 199 | 5 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 32 | 1 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 199 | 1 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 2 | 0 |  |
@@ -87,7 +87,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
 | [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
-| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 3 |  |
+| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 0 |  |
 | [SZZ BPK Goražde (oglasi)](https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php) | ✅ | 18 | 0 |  |
 | [SZZ HNK (javni oglasi)](https://www.szzhnz-k.ba/careers_.php) | ✅ | 39 | 0 |  |
 | [SZZ Tuzlanski kanton (oglasi)](https://szztk.ba/oglasi) | ✅ | 12 | 0 |  |
@@ -102,14 +102,14 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [UniCredit Bank Banja Luka (karijera)](https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
 | [Univerzitet u Tuzli (konkursi)](https://untz.ba/konkursi) | ✅ | 0 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
 | [Walter Code / Galeyo](https://www.galeyo.com/open-positions) | ✅ | 2 | 0 |  |
 | [Wiener osiguranje](https://wiener.ba/karijera) | ✅ | 1 | 0 |  |
 | [Workable BiH](https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs) | ✅ | 2 | 0 |  |
-| [Služba za zapošljavanje ZDK](https://zdk-szz.ba/) | ✅ | 8 | 1 |  |
+| [Služba za zapošljavanje ZDK](https://zdk-szz.ba/) | ✅ | 8 | 0 |  |
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
 | [Zira Talent Academy](https://ziragroup.com/careers/zira-talent-academy) | ✅ | 1 | 0 |  |
 | [ZiraatBank BH (karijera)](https://ziraatbank.ba/karijera) | ✅ | 1 | 0 |  |
@@ -129,10 +129,9 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>ads_bih (7)</summary>
+<details><summary>ads_bih (6)</summary>
 
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Graničnoj policiji Bosne i Hercegovine Datum objave: 30.10.2026. Krajnji rok za prijave: 19.11.2026. KOMISIJA I 1/01 Šef Odsjeka za administrativno-tehničku podršku 1/02 Šef Od](https://www.ads.gov.ba/vacancies/3519/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-granicnoj-policiji-bosne-i-hercegovine)
-- [Interni oglas za popunjavanje radnog mjesta državnog službenika u Državnoj agenciji za istrage i zaštitu Datum objave: 26.10.2026. Krajnji rok za prijave: 02.11.2026. 1/01 Stručni savjetnik za imovinsko-pravne poslove](https://www.ads.gov.ba/vacancies/3518/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu)
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Direkciji za evropske integracije Vijeća ministara Bosne i Hercegovine Datum objave: 26.10.2026. Krajnji rok za prijave: 15.11.2026. 1/01 Stručni savjetnik za programe u oblast](https://www.ads.gov.ba/vacancies/3517/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-direkciji-za-evropske-integracije-vijeca-ministara-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Sekretarijatu Parlamentarne skupštine Bosne i Hercegovine Datum objave: 22.10.2026. Krajnji rok za prijave: 11.11.2026. 1/01 Viši stručni saradnik za protokol 1/02 Stručni savj](https://www.ads.gov.ba/vacancies/3516/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Direkciji za civilno zrakoplovstvo Bosne i Hercegovine Datum objave: 16.10.2026. Krajnji rok za prijave: 05.11.2026. KOMISIJA I 1/01 Pomoćnik generalnog direktora za finansije ](https://www.ads.gov.ba/vacancies/3515/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine)
@@ -320,7 +319,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 - [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 30 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
 - [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 30 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
 - [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 24 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
-- [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 8 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
+- [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 7 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
 </details>
 
@@ -340,10 +339,9 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>epbih (4)</summary>
+<details><summary>epbih (3)</summary>
 
 - [Oglas za zapošljavanje radnika na neodređeno vrijeme](https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20zaposljavanje%20radnika%20na%20neodredjeno%20vrijeme_TE%20Kakanj.pdf)
-- [Oglas za zapošljavanje novih radnika na neodređeno, određeno vrijeme i pripravnika](https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20novih%20radnika%20na%20neodredjeno_odredjeno%20vrijeme%20i%20pripravnika_ED%20Tuzla.pdf)
 - [zahtjeva za obavljanje prakse u Direkciji Društva](https://www.epbih.ba/upload/documents/Zahtjev%20za%20obavljenje%20studetske%20prakse%20Direkcija.pdf)
 - [zahtjeva za obavljanje prakse u podružnicama Društva.](https://www.epbih.ba/upload/documents/Zahtjev%20za%20obavljenje%20studetske%20prakse%20Podruznice%20Drustva.pdf)
 
@@ -508,7 +506,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (48)</summary>
+<details><summary>linkedin_bih (46)</summary>
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486153690)
 - [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
@@ -644,11 +642,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
 - [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Prodajni savjetnik (m/ž) JEORDIE’S Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/932)
 - [Recepcioner m/ž Granoff Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/931)
 - [Trgovac u Salonu Ceralmyco ALMY D.O.O. Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/707)

@@ -38,7 +38,8 @@
    "e31327ce-d38d-11f1-a8c0-42010a9c001a",
    "1b7b5cb4-d3af-11f1-a8c0-42010a9c001a",
    "8e178d6d-d454-11f1-a8c0-42010a9c001a",
-   "56848a28-d3ad-11f1-a8c0-42010a9c001a"
+   "56848a28-d3ad-11f1-a8c0-42010a9c001a",
+   "8a5890cf-d46b-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -267,7 +268,8 @@
    "0789f027-d795-11f1-a8c0-42010a9c001a",
    "1346de3d-d795-11f1-a8c0-42010a9c001a",
    "783c4b92-d799-11f1-a8c0-42010a9c001a",
-   "fe03985a-d796-11f1-a8c0-42010a9c001a"
+   "fe03985a-d796-11f1-a8c0-42010a9c001a",
+   "143cb81b-d792-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -2075,7 +2077,8 @@
    "hash:9e1a471988d9299f",
    "hash:497facf58805f2a5",
    "hash:0823a689ca518ce0",
-   "hash:dcc4eeb4aa317304"
+   "hash:dcc4eeb4aa317304",
+   "hash:078f76b8270c7a4e"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2122,14 +2125,14 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
@@ -4646,7 +4649,8 @@
  "bosnalijek": {
   "keys": [
    "hash:b8202419333f59a0",
-   "hash:0a538fc3b3c8fd2c"
+   "hash:0a538fc3b3c8fd2c",
+   "hash:8aca3d858cad17b6"
   ],
   "lines": [
    "O nama",
@@ -4762,7 +4766,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 03. 2026",
+   "novembar 04. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
