@@ -50,6 +50,26 @@ ENTRY_PATTERNS = [
     r"stipendij\w*", r"bez (radnog )?iskustva",
 ]
 
+# U TEKSTU oglasa (PDF, opis) tražimo samo nazive IT radnih mjesta, jer se riječi
+# poput "računar", "informacioni sistem" ili "baza podataka" pojavljuju u skoro
+# svakom javnom oglasu kao uslov ili pravna napomena.
+BODY_PATTERNS = [
+    r"informaticar\w*", r"informatizacij\w*", r"\bikt\b", r"\bict\b",
+    r"programer\w*", r"\bdeveloper\w*", r"softversk\w* inzenjer\w*", r"software (engineer|developer|tester)",
+    r"razvoj\w* (softvera|aplikacij\w*)",
+    r"sistem(ski)? administrator\w*", r"administrator\w* (sistema|mreze|mreza|baz\w*|servera|aplikacij\w*)",
+    r"mrezn\w* administrator\w*", r"system (engineer|administrator)", r"network (engineer|administrator)",
+    r"\bit (podrsk\w*|support|specijalist\w*|specialist|administrator\w*|tehnicar\w*|sektor\w*|odjel\w*|sluzb\w*|menadzer\w*|manager|inzenjer\w*|strucnjak\w*|saradnik\w*|suradnik\w*|referent\w*)",
+    r"\bza it\b", r"\bza ikt\b",
+    r"(saradnik|suradnik|savjetnik|referent|strucnjak|inzenjer|tehnicar|specijalist)\w* za (informaci\w*|informati\w*|ikt|it|racunar\w*|kompjuter\w*|mrez\w*|baz\w* podataka|aplikacij\w*|softver\w*|razvoj aplikacij\w*|podrsku korisnicima)",
+    r"(informacion|informacijsk|komunikacijsk)\w* (i komunikacijsk\w* )?tehnolog\w*",
+    r"kompjutersk\w* (i informacijsk\w* )?tehnolog\w*", r"racunarsk\w* (nauk\w*|inzenjer\w*|tehnik\w*)",
+    r"\bdevops\b", r"data (analyst|engineer|scien\w*)", r"analiticar\w* podataka",
+    r"\bcyber\w*", r"kibernet\w*", r"help ?desk", r"service desk", r"\bqa (engineer|inzenjer\w*|tester\w*)",
+    r"tester\w* (softvera|aplikacij\w*)", r"web (developer|programer\w*|dizajner\w*)",
+    r"front[- ]?end", r"back[- ]?end", r"full[- ]?stack", r"business intelligence", r"power ?bi\b",
+]
+_BODY_RE = [re.compile(p) for p in BODY_PATTERNS]
 _IT_RE = [re.compile(p) for p in IT_PATTERNS]
 _ENTRY_RE = [re.compile(p) for p in ENTRY_PATTERNS]
 
@@ -85,7 +105,7 @@ _BODY_NOISE = re.compile(
     r"(professional|personal|career|child|children'?s?) development|razvoj\w* djece|"
     r"pristup informacij\w*|zastit\w* (licnih )?podataka|"
     r"web ?(stranic\w*|site|portal\w*)( i| ili)? (sluzbe|fakulteta|ustanove|poslodavca)|"
-    r"putem (e-?maila|interneta|web\w*))"
+    r"putem (e-?maila|interneta|web\w*)|informatick\w* ?[-–] ?komunikacijsk\w* (i slicnih )?uslug\w*)"
 )
 
 
@@ -100,7 +120,7 @@ def find_it_match(text: str, is_title: bool = False):
     norm = normalize(text)
     if is_title and _IT_WORD.search(norm):
         return "IT"
-    for rx in _IT_RE:
+    for rx in (_IT_RE if is_title else _BODY_RE):
         m = rx.search(norm)
         if m:
             return m.group(0)

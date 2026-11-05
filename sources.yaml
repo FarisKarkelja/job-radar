@@ -58,6 +58,7 @@ sources:
     category: portal
     url: https://itbase.ba/poslovi
     pattern: 'itbase\.ba/.*\d{3,}'
+    exclude: 'itbase\.ba/(vijesti|blog|dogadjaji|kompanije)/'
     scope: it
 
   - id: workable_bih
@@ -614,6 +615,7 @@ sources:
     category: medjunarodne
     type: page_hash
     url: https://ba.usembassy.gov/jobs
+    js: true
 
   - id: ohr
     name: OHR (vacancies)
@@ -654,6 +656,7 @@ sources:
     category: ostalo
     type: page_hash
     url: https://www.hemofarm.ba/srb/karijera
+    js: true
 
   - id: asa_grupa
     name: ASA Grupa (karijera)

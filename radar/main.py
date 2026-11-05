@@ -421,9 +421,9 @@ def main():
         notify.send(m["title"], m["message"], priority=m["priority"], tags=m["tags"],
                     click=m.get("click"))
 
-    # --- dnevni izvještaj (jutarnja provjera, 05-10h UTC; cron zna kasniti)
+    # --- dnevni izvještaj (prva provjera poslije 06h po Sarajevu)
     today = run_started.date().isoformat()
-    if args.heartbeat or (5 <= run_started.hour < 10 and meta.get("last_heartbeat") != today
+    if args.heartbeat or (run_started.hour >= 5 and meta.get("last_heartbeat") != today
                           and not first_run and not only):
         day_ago = run_started - dt.timedelta(hours=24)
         recent = [h for h in history if not h.get("initial")
