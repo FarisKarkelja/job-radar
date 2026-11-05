@@ -336,7 +336,7 @@ def main():
                     res["new"] = 1
                     body = "\n".join(f"+ {l[:140]}" for l in added)
                     joined = " ".join(added)
-                    match = find_it_match(joined)
+                    match = find_it_match(joined, is_title=True)  # kratke linije sa stranice karijera
                     # glasno samo ako nova linija liči na oglas; ostale promjene (banneri,
                     # datumi, tekst) idu tiho da ne smetaju
                     jobish = JOBISH.search(normalize(joined))
