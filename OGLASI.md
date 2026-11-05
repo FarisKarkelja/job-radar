@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 05.11. 22:43 | • [Trgovac-prodavač](https://www.mojposao.ba/posao/f02d5ffa-d900-11f1-a8c0-42010a9c001a/trgovac-prodavac) | MojPosao IT |
+| 05.11. 22:43 | 💻 [Automation Tester (m/f/d)](https://www.linkedin.com/jobs/view/4478870486) · Dedalus | LinkedIn BiH |
 | 05.11. 22:26 | • [Komercijalista (terenski)](https://www.mojposao.ba/posao/d8895227-d8ef-11f1-a8c0-42010a9c001a/komercijalista-terenski) | MojPosao IT |
 | 05.11. 22:26 | • [Prodavač (m/ž)](https://www.mojposao.ba/posao/0c3fd6fb-cdf1-11f1-a8c0-42010a9c001a/prodavac-mz) | MojPosao IT |
 | 05.11. 22:26 | • [Stručni saradnik za kreditnu analizu i underwriting – klijenti fizička lica](https://www.mojposao.ba/posao/c164abda-d92c-11f1-a8c0-42010a9c001a/strucni-saradnik-za-kreditnu-analizu-i-underwriting-%E2%80%93-klijenti-fizicka-lica) | MojPosao Kanton Sarajevo |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Lista pitanja za pismeni i usmeni ispit,te lista propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit za radno mjesto Strucni saradnik za zastitu na radu i protupozarnu zastitu](https://www.park.ba/wp-content/uploads/2022/03/Lista-pitanja-za-pismeni-i-usmeni-ispitte-lista-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-Strucni-saradnik-za-zastitu-na-radu-i-protupozarnu-zastitu.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Javni oglas za davanje u zakup nekretnina- objekta Pacurka, restorana sa ljetnom i staklenom bastom i ljetnikovca iznad djecjeg parka u Pionirskoj dolini i zoo vrtu](https://www.park.ba/wp-content/uploads/2022/03/Javni-oglas-za-davanje-u-zakup-nekretnina-objekta-Pacurka-restorana-sa-ljetnom-i-staklenom-bastom-i-ljetnikovca-iznad-djecjeg-parka-u-Pionirskoj-dolini-i-zoo-vrtu.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Poslovnik o radu Komisije za provodenje javnog oglasa za popunu radnog mjesta STRUCNI SARADNIK ZA PRAVNE POSLOVE](https://www.park.ba/wp-content/uploads/2022/03/Poslovnik-o-radu-Komisije-za-provodenje-javnog-oglasa-za-popunu-radnog-mjesta-STRUCNI-SARADNIK-ZA-PRAVNE-POSLOVE.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos na odredeno vrijeme u KJKP Park doo Sarajevo- Strucni saradnik za pravne poslove](https://www.park.ba/wp-content/uploads/2022/03/Javni-oglas-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-KJKP-Park-doo-Sarajevo-Strucni-saradnik-za-pravne-poslove.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit i lista propisa i literature iz oblasti iz koje će se polagati pismeni i usmeni ispit za radno mjesto strucni saradnik za pravne poslove](https://www.park.ba/wp-content/uploads/2022/03/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-i-lista-propisa-i-literature-iz-oblasti-iz-koje-će-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-strucni-saradnik-za-pravne-poslove.pdf) | KJKP Park |

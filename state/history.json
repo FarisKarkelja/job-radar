@@ -21974,5 +21974,29 @@
   "priority": 4,
   "match": "hardware",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-05T21:43:56+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Trgovac-prodavač",
+  "url": "https://www.mojposao.ba/posao/f02d5ffa-d900-11f1-a8c0-42010a9c001a/trgovac-prodavac",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-05T21:43:56+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Automation Tester (m/f/d)",
+  "url": "https://www.linkedin.com/jobs/view/4478870486",
+  "company": "Dedalus",
+  "it": true,
+  "priority": 4,
+  "match": "tester",
+  "snippet": ""
  }
 ]
