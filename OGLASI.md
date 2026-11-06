@@ -4,6 +4,9 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 06.11. 15:07 | • [Terenski komercijalista (m/ž)](https://www.mojposao.ba/posao/0558bb1f-d9dc-11f1-a8c0-42010a9c001a/terenski-komercijalista-mz) | MojPosao Kanton Sarajevo |
+| 06.11. 15:07 | • [ADMINISTRATIVNI RADNIK](https://szks.ba/posao/administrativni-radnik-44) · JU OŠ &quot;VLADISLAV ŠKARIĆ&quot; SARAJEVO | SZKS (Služba za zapošljavanje KS) |
+| 06.11. 15:07 | • [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0) | Univerzitet u Sarajevu (konkursi) |
 | 06.11. 13:07 | • [Kuhar (m/ž)](https://www.mojposao.ba/posao/e2302339-d9b4-11f1-a8c0-42010a9c001a/kuhar-mz) | MojPosao Kanton Sarajevo |
 | 06.11. 13:07 | • [Prodajni predstavnik - inženjer (m/ž)](https://www.mojposao.ba/posao/6708666e-d9c4-11f1-a8c0-42010a9c001a/prodajni-predstavnik---inzenjer-mz) | MojPosao Kanton Sarajevo |
 | 06.11. 13:07 | 💻 [IT Project Manager](https://www.linkedin.com/jobs/view/4477305574) · Deloitte | LinkedIn BiH |
@@ -1501,6 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit iz koje ce se polagati pismeni i usmeni ispit za radno mjesto NK RADNIK](https://www.park.ba/wp-content/uploads/2022/10/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-NK-RADNIK.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit, te liste propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit za radno mjesto KV AUTOELEKTRICAR](https://www.park.ba/wp-content/uploads/2022/10/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-te-liste-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-KV-AUTOELEKTRICAR.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit, te liste propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit za radno mjesto KV BRAVAR](https://www.park.ba/wp-content/uploads/2022/10/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-te-liste-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-KV-BRAVAR.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit, te liste propisa i literature iz koje ce se polagati pismeni i usmeni ispit za radno mjesto KV VARIOC](https://www.park.ba/wp-content/uploads/2022/10/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-te-liste-propisa-i-literature-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-KV-VARIOC.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Prilog 1 uz Javni oglas za prijem u radni odnos na radno mjesto VETERINAR](https://www.park.ba/wp-content/uploads/2022/10/Prilog-1-uz-Javni-oglas-za-prijem-u-radni-odnos-na-radno-mjesto-VETERINAR.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje javnog oglasa – za prijem radnika na radno mjesto VETERINAR](https://www.park.ba/wp-content/uploads/2022/09/Poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-prijem-radnika-na-radno-mjesto-VETERINAR.pdf) | KJKP Park |

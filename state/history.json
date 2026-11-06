@@ -22328,5 +22328,41 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T14:07:39+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Terenski komercijalista (m/ž)",
+  "url": "https://www.mojposao.ba/posao/0558bb1f-d9dc-11f1-a8c0-42010a9c001a/terenski-komercijalista-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T14:07:39+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "ADMINISTRATIVNI RADNIK",
+  "url": "https://szks.ba/posao/administrativni-radnik-44",
+  "company": "JU OŠ &quot;VLADISLAV ŠKARIĆ&quot; SARAJEVO",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T14:07:39+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta",
+  "url": "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

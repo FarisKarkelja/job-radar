@@ -316,7 +316,8 @@
    "d8257c0a-d92c-11f1-a8c0-42010a9c001a",
    "4b71387b-d92a-11f1-a8c0-42010a9c001a",
    "e2302339-d9b4-11f1-a8c0-42010a9c001a",
-   "6708666e-d9c4-11f1-a8c0-42010a9c001a"
+   "6708666e-d9c4-11f1-a8c0-42010a9c001a",
+   "0558bb1f-d9dc-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -588,7 +589,8 @@
    "https://szks.ba/posao/nastavnik-tehnicke-kulture-18",
    "https://szks.ba/posao/nastavnik-osnove-tehnike-2",
    "https://szks.ba/posao/pametnica-110-uciteljica",
-   "https://szks.ba/posao/nastavnik-ica-hemije-4"
+   "https://szks.ba/posao/nastavnik-ica-hemije-4",
+   "https://szks.ba/posao/administrativni-radnik-44"
   ]
  },
  "zdk_szz": {
@@ -2201,7 +2203,8 @@
    "hash:955f6fc2b0f56d98",
    "hash:8eb0325f604f0582",
    "hash:7af66d568b7848b9",
-   "hash:f64666accb30f226"
+   "hash:f64666accb30f226",
+   "hash:dec9153f2a2a34d7"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2295,17 +2298,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Oročena štednja",
-   "Ulažite u budućnost",
-   "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
-   "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -3159,7 +3162,8 @@
    "hash:5a464938f9874823",
    "hash:53e16370e49abd6e",
    "hash:0eb2917fa97b18a6",
-   "hash:43ec2b842ef54b0e"
+   "hash:43ec2b842ef54b0e",
+   "hash:5aad3f37b0a3c4d9"
   ],
   "lines": [
    "07 Mart 2017",
@@ -3167,6 +3171,7 @@
    "E-mail",
    "Oglasi J.U. \"Opće bolnice Prim.dr. Abdulah Nakaš\" Sarajevo",
    "DOKUMENTACIJA KOJA JE POTREBNA ZA OBAVLJANJE STAŽA/VOLONTIRANJE",
+   "Obavještenje kandidatima o održavanju ispita - Medicinska sestra – tehničar u Odjeljenju za palijativnu njegu",
    "Poslovnik o radu Komisije za izbor kandidata za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Službenik za javne nabavke - administrator- 1 (jedan) izvršilac“ (05.11.2026. godine)",
    "Javni oglas za prijem u radni odnos na neodređeno vrijemeSlužbenik za javne nabavke- administrator - 1 (jedan) izvršilac (04.11.2026.godine – 14.11.2026.godine)",
    "Poslovnik o radu Komisije za prijem u radni odnos ljekar specijalista dermatovenerolog i ljekar specijalista nefrolog (04.11.2026.)",
@@ -3560,8 +3565,7 @@
    "Javni oglas za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Radnik za zaštitu na radu– 1 (jedan) izvršilac (25.10.2024. godina do 04.11.2024. godine)",
    "Pitanja i literatura za poziciju Radnik za zaštitu na radu - 1 (jedan) izvršilac na neodređeno vrijeme (24.10.2024.godine)",
    "Poslovnik o radu Komisije za prijem u radni odnos",
-   "1. Socijalni radnik- 1 (jedan) izvršilac",
-   "(23.10.2024. godine)"
+   "1. Socijalni radnik- 1 (jedan) izvršilac"
   ]
  },
  "viksa": {
@@ -4208,7 +4212,8 @@
    "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13",
    "https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3",
    "https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4",
-   "https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0"
+   "https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
+   "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0"
   ]
  },
  "untz_konkursi": {
@@ -4665,7 +4670,8 @@
  "us_embassy": {
   "keys": [
    "hash:35de3d3a77ab37c7",
-   "hash:5bd81332acd883f5"
+   "hash:5bd81332acd883f5",
+   "hash:d867ac36423691d4"
   ],
   "lines": [
    "Help us improve",
@@ -4695,6 +4701,7 @@
    "The Family Liaison Office has a dedicated team of professionals working to expand employment options and information resources for family members, both at home and abroad. Learn more about our programs or begin your employment planning.",
    "Read More About Family Member Employment",
    "How to Apply User Guide Video",
+   "Click to accept marketing cookies and enable this content",
    "Department Career Paths",
    "Internships and Fellowships",
    "Whether you’re an undergraduate or postgraduate student seeking a substantive internship or fellowship supporting U.S. foreign policy, there’s no limit as to how far our opportunities can take you. You’ll have the opportunity to gain insight into U.S. foreign policy and diplomacy, explore new career avenues, and acquire lifelong skills as you represent America to the world.",
@@ -5045,13 +5052,14 @@
    "hash:792930405e77f247",
    "hash:1dec9b49b42e6ca4",
    "hash:137f2a6a49530f4c",
-   "hash:e9949c34dcb2f8be"
+   "hash:e9949c34dcb2f8be",
+   "hash:a48d3996d62b3d9d"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.8e51c317.1793966953.c05f66ab",
-   "https://errors.edgesuite.net/18.8e51c317.1793966953.c05f66ab"
+   "Reference #18.edd11102.1793974165.1315884",
+   "https://errors.edgesuite.net/18.edd11102.1793974165.1315884"
   ]
  },
  "asa_grupa": {
@@ -5348,7 +5356,8 @@
    "hash:c9541707812af811",
    "hash:11b8fd5c760fb050",
    "hash:b8d6a82f133c4d55",
-   "hash:1959d415f9dc41de"
+   "hash:1959d415f9dc41de",
+   "hash:cc737f8c97a7c0a9"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5416,7 +5425,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 2 days ago",
+   "Posted 3 days ago",
    "Analyst Relations Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5434,7 +5443,7 @@
    "Kuala Lumpur (Malaysia)",
    "Job type:",
    "Hybrid",
-   "Posted 2 weeks ago",
+   "Posted 3 weeks ago",
    "Open Call for Sales, Partnerships Professionals",
    "Location:",
    "Rijeka (Croatia)",
@@ -5446,7 +5455,7 @@
    "Paris (France)",
    "Job type:",
    "Onsite",
-   "Posted 2 weeks ago",
+   "Posted 3 weeks ago",
    "Students / Internships – Future Vacancies",
    "Location:",
    "Zagreb (Croatia)",
@@ -6837,7 +6846,8 @@
    "hash:1b40b3e907dc5248",
    "hash:0c5d9d38ab41e344",
    "hash:201f4cbf3ee94d02",
-   "hash:0ebd48f112f8068c"
+   "hash:0ebd48f112f8068c",
+   "hash:19c9aeaa8929e8ae"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6845,8 +6855,26 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 147",
+   "1-20 od 150",
    "Stavki po stranici",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Poslastičar i pekar",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Добој",
+   "Неодређено време",
+   "6. nov - 1. dec 2026.",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Pomoćni radnik u kuhinji",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Добој",
+   "Неодређено време",
+   "6. nov - 1. dec 2026.",
+   "ZU Stomatološka ambulanta \"STOMATOLOGIJA MILUTINOVIĆ\"",
+   "Asistent u stomatološkoj ambulanti",
+   "ZU Stomatološka ambulanta \"STOMATOLOGIJA MILUTINOVIĆ\"",
+   "Лакташи",
+   "Одређено време",
+   "6. nov - 6. dec 2026.",
    "CCTEB Podružnica Omarska",
    "Грађевински инжењер (хидротехнички смјер)",
    "CCTEB Podružnica Omarska",
@@ -6871,7 +6899,9 @@
    "Приједор",
    "Одређено време",
    "5. nov - 5. dec 2026.",
+   "\"ANG\" d.o.o. Banja Luka",
    "Комерцијалиста-,,ЗРАК -ДКС” д.о.о. Теслић",
+   "\"ANG\" d.o.o. Banja Luka",
    "Теслић",
    "Одређено време",
    "5. nov - 5. dec 2026.",
@@ -6887,7 +6917,9 @@
    "Бања Лука",
    "Неодређено време",
    "4. nov - 4. dec 2026.",
+   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "ШИВАЧ-„OX Europe“ ДОО ГРАДИШКА",
+   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -6932,19 +6964,7 @@
    "ЈУ ОШ ,,Вук Караџић“ Бараћи, Мркоњић Град",
    "Мркоњић Град",
    "Одређено време",
-   "4. nov - 12. nov 2026.",
-   "Избор директора ЈУ ОШ „Козарска дјеца“ Градишка",
-   "Градишка",
-   "Одређено време",
-   "4. nov - 19. nov 2026.",
-   "ОКРУЖНИ ПРИВРЕДНИ СУД У БАЊОЈ ЛУЦИ",
-   "Бања Лука",
-   "Одређено време",
-   "4. nov - 12. nov 2026.",
-   "Алтернативна телевизија д.о.о. Бања Лука",
-   "Бања Лука",
-   "Одређено време",
-   "4. nov - 20. nov 2026."
+   "4. nov - 12. nov 2026."
   ]
  },
  "arz_bih": {
