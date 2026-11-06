@@ -2220,7 +2220,8 @@
    "hash:dec9153f2a2a34d7",
    "hash:6c4b07e470d9fc11",
    "hash:e3833ed38c478cec",
-   "hash:81f48e1c91dc8776"
+   "hash:81f48e1c91dc8776",
+   "hash:e371b69ec7d7f1d3"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2314,8 +2315,8 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
@@ -5080,13 +5081,14 @@
    "hash:a48d3996d62b3d9d",
    "hash:b83e2a0bd245ff7a",
    "hash:64610d98ee327cbc",
-   "hash:68de4038478fae06"
+   "hash:68de4038478fae06",
+   "hash:6d14d2b6d0cea582"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.862d3e17.1793998252.f295d03b",
-   "https://errors.edgesuite.net/18.862d3e17.1793998252.f295d03b"
+   "Reference #18.b7c83017.1793999367.1322cef4",
+   "https://errors.edgesuite.net/18.b7c83017.1793999367.1322cef4"
   ]
  },
  "asa_grupa": {
