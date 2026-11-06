@@ -52,7 +52,8 @@
    "d8895227-d8ef-11f1-a8c0-42010a9c001a",
    "0c3fd6fb-cdf1-11f1-a8c0-42010a9c001a",
    "f02d5ffa-d900-11f1-a8c0-42010a9c001a",
-   "53f597fb-d84e-11f1-a8c0-42010a9c001a"
+   "53f597fb-d84e-11f1-a8c0-42010a9c001a",
+   "c69d929b-d90d-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -575,7 +576,13 @@
    "https://szks.ba/posao/javni-oglas-386",
    "https://szks.ba/posao/javni-oglas-samostalni-strucni-saradnik-za-ljudske-resurse-i-zastitu-na-radu-samostalni-strucni-saradnik-za-javne-nabavke-radnik-za-pracenje-i-kontrolu-na-parkinzima",
    "https://szks.ba/posao/javni-oglas-sluzbenik-za-javne-nabavke-administrator",
-   "https://szks.ba/posao/javni-oglas-387"
+   "https://szks.ba/posao/javni-oglas-387",
+   "https://szks.ba/posao/nastavnik-tehnicke-kulture-19",
+   "https://szks.ba/posao/ketti-166-djelatnik-u-trgovini-za-kucne-ljubimce-2",
+   "https://szks.ba/posao/proizvodni-radnici-2",
+   "https://szks.ba/posao/nastavnik-tehnicke-kulture-18",
+   "https://szks.ba/posao/nastavnik-osnove-tehnike-2",
+   "https://szks.ba/posao/pametnica-110-uciteljica"
   ]
  },
  "zdk_szz": {
@@ -1362,7 +1369,8 @@
  },
  "raiffeisen": {
   "keys": [
-   "hash:390390329297428b"
+   "hash:390390329297428b",
+   "hash:a4d7d9d0d9f0be56"
   ],
   "lines": [
    "Raiffeisen banka kao poslodavac",
@@ -1373,7 +1381,7 @@
    "Oglas za studente - Praksa u Raiffeisen banci",
    "Pozicija: Rukovodilac za prodaju SME klijentima / Lokacija rada: Sarajevo / Oglas ostaje otvoren do: 08.11.2026.",
    "Pozicija: Rukovodilac za prodaju / Lokacija rada: Bihać / Oglas ostaje otvoren do: 08.11.2026.",
-   "Pozicija: Tim lider i zastupnik u osiguranju / Lokacija rada: Hrasnica / Oglas ostaje otvoren do: 31.10.2026.",
+   "Pozicija: Stručni saradnik za kreditnu analizu i underwriting – klijenti fizička lica / Lokacija rada: Sarajevo / Oglas ostaje otvoren do: 13.11.2026.",
    "Raiffeisen banka kao poslodavac",
    "Dragi posjetitelji,",
    "Hvala što ste posjetili našu stranicu, poklonili nam vaše vrijeme. U videima u nastavku imate priliku zaviriti iza kulisa i upoznati nas malo bolje. Naša priča ne završava sa ovim videom, jer imamo još puno toga za podijeliti. Ponosni na naše kolegice i kolege, pozivamo vas da istražujete dalje, saznate šta radimo izvan radnog vremena, šta nas raduje, kako koristimo svoje znanje i umijeće u oblikovanju budućnosti naše banke i vašeg finansijskog iskustva. Želimo da osjetite snagu naše saradnje, proaktivan pristup, svjesnost naše odgovornosti za vlastite postupke i odluke, prepoznate našu posvećenost učenju i razvoju. Ove vrijednosti ne vode nas samo uspjehu, već su ključne u pružanju vrhunske usluge našim klijentima.",
@@ -2185,7 +2193,8 @@
    "hash:9cee5e08d0bff673",
    "hash:796accade328ffe4",
    "hash:955f6fc2b0f56d98",
-   "hash:8eb0325f604f0582"
+   "hash:8eb0325f604f0582",
+   "hash:7af66d568b7848b9"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2232,17 +2241,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Oročena štednja",
-   "Ulažite u budućnost",
-   "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4106,7 +4115,8 @@
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae83e40e73d85.74274884.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae9e26c7748b6.38965689.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aeb16428c2d30.03753350.pdf",
-   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aead8af0db814.31049434.pdf"
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aead8af0db814.31049434.pdf",
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aed7338e85df7.11977830.pdf"
   ]
  },
  "unsa_konkursi": {
@@ -4976,13 +4986,14 @@
    "hash:34f6da7c8357053a",
    "hash:90856daba5656eb1",
    "hash:792930405e77f247",
-   "hash:1dec9b49b42e6ca4"
+   "hash:1dec9b49b42e6ca4",
+   "hash:137f2a6a49530f4c"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.557b3517.1793945996.c46e7c4",
-   "https://errors.edgesuite.net/18.557b3517.1793945996.c46e7c4"
+   "Reference #18.9751c317.1793956160.f634c667",
+   "https://errors.edgesuite.net/18.9751c317.1793956160.f634c667"
   ]
  },
  "asa_grupa": {
@@ -6761,7 +6772,8 @@
    "hash:77682194eed14fc5",
    "hash:1b40b3e907dc5248",
    "hash:0c5d9d38ab41e344",
-   "hash:201f4cbf3ee94d02"
+   "hash:201f4cbf3ee94d02",
+   "hash:0ebd48f112f8068c"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6769,7 +6781,7 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 204",
+   "1-20 od 147",
    "Stavki po stranici",
    "CCTEB Podružnica Omarska",
    "Грађевински инжењер (хидротехнички смјер)",
