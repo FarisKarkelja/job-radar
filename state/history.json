@@ -21998,5 +21998,101 @@
   "priority": 4,
   "match": "tester",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Prodajni savjetnik – terenska prodaja (m/ž)",
+  "url": "https://www.mojposao.ba/posao/53f597fb-d84e-11f1-a8c0-42010a9c001a/prodajni-savjetnik-%E2%80%93-terenska-prodaja-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Senior Backend Engineer (FIX & Identity)",
+  "url": "https://www.linkedin.com/jobs/view/4488101712",
+  "company": "Avenga",
+  "it": true,
+  "priority": 4,
+  "match": "backend",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "JAVNI OGLAS",
+  "url": "https://szks.ba/posao/javni-oglas-387",
+  "company": "KJKP &quot;Toplane-Sarajevo&quot; d.o.o. Sarajevo",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "epbih",
+  "source_name": "Elektroprivreda BiH",
+  "title": "Oglas za prijem radnika na neodređeno vrijeme i pripravnika na određeno vrijeme",
+  "url": "https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20radnika%20na%20neodredjeno%20vrijeme%20i%20pripravnika%20na%20odredjeno%20vrijeme_HEN.pdf",
+  "company": "",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije",
+  "url": "https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije",
+  "url": "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Prirodno-matematički fakultet",
+  "url": "https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T06:17:59+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Javni oglas za prijem radnika u radni odnos | Univerzitet u Sarajevu - Pravni fakultet",
+  "url": "https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]
