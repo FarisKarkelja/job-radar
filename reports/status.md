@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **06.11.2026 16:07** (Sarajevo)  
+Zadnje pokretanje: **06.11.2026 19:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -10,7 +10,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 4 | 0 |  |
 | [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
 | [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 20 | 0 |  |
-| [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 1 |  |
+| [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
 | [Aluminij Mostar (careers)](https://aluminij.com/careers) | ✅ | 20 | 0 |  |
 | [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [Agencija za rad i zapošljavanje BiH (oglasi)](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) | ✅ | 1 | 0 |  |
@@ -54,7 +54,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 48 | 1 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 49 | 4 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -62,12 +62,12 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 38 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 7 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 1 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 1 | 0 |  |
 | [NLB Banka Banja Luka (karijera)](https://www.nlb-rs.ba/o-banci/karijera) | ✅ | 1 | 0 |  |
-| [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 1 |  |
+| [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
 | [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
@@ -89,7 +89,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 0 |  |
 | [SZZ BPK Goražde (oglasi)](https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php) | ✅ | 20 | 0 |  |
 | [SZZ HNK (javni oglasi)](https://www.szzhnz-k.ba/careers_.php) | ✅ | 40 | 0 |  |
-| [SZZ Tuzlanski kanton (oglasi)](https://szztk.ba/oglasi) | ✅ | 12 | 1 |  |
+| [SZZ Tuzlanski kanton (oglasi)](https://szztk.ba/oglasi) | ✅ | 12 | 0 |  |
 | [SZZ ZHK (natječaji)](https://szz-zzh.ba/natjecaji-za-posao) | ✅ | 119 | 0 |  |
 | [Tacta (careers)](https://tacta.io/careers) | ✅ | 1 | 0 |  |
 | [Telemach BH (zaposlenje)](https://telemach.ba/zaposlenje) | ✅ | 1 | 0 |  |
@@ -101,11 +101,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [UniCredit Bank Banja Luka (karijera)](https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 2 |  |
 | [Univerzitet u Tuzli (konkursi)](https://untz.ba/konkursi) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
-| [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
+| [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 1 |  |
 | [Walter Code / Galeyo](https://www.galeyo.com/open-positions) | ✅ | 2 | 0 |  |
 | [Wiener osiguranje](https://wiener.ba/karijera) | ✅ | 1 | 0 |  |
 | [Workable BiH](https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs) | ✅ | 2 | 0 |  |
@@ -506,7 +506,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (48)</summary>
+<details><summary>linkedin_bih (49)</summary>
 
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486153690)
@@ -570,7 +570,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Senior Embedded Security Engineer](https://www.mojposao.ba/posao/2ff980c4-d851-11f1-a8c0-42010a9c001a/senior-embedded-security-engineer)
 - [Senior Hardware Engineer](https://www.mojposao.ba/posao/e519174b-d851-11f1-a8c0-42010a9c001a/senior-hardware-engineer)
 - [Softverski developer za AI i poslovne aplikacije](https://www.mojposao.ba/posao/a4e4e32f-d3af-11f1-a8c0-42010a9c001a/softverski-developer-za-ai-i-poslovne-aplikacije)
-- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
+- [Medior software developer / software dizajner](https://www.mojposao.ba/posao/f07df1e7-c31a-11f1-a8c0-42010a9c001a/medior-software-developer--software-dizajner)
 - [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 
 </details>
@@ -580,7 +580,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [Savjetnik za korisničku podršku na njemačkom jeziku (m/ž)](https://www.mojposao.ba/posao/0c288ef4-c3db-11f1-a8c0-42010a9c001a/savjetnik-za-korisnicku-podrsku-na-njemackom-jeziku-mz)
 - [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/05c4564f-c3db-11f1-a8c0-42010a9c001a/kundenberater-mwd)
-- [Saradnik za brigu o potrošačima (m,ž)](https://www.mojposao.ba/posao/f0306776-d9eb-11f1-a8c0-42010a9c001a/saradnik-za-brigu-o-potrosacima-mz)
+- [Administrativni radnik (m/ž)](https://www.mojposao.ba/posao/2472a83c-d9f0-11f1-a8c0-42010a9c001a/administrativni-radnik-mz)
 - [Zapošljavamo: QA supervizora – sigurnosti hrane (m/ž)](https://www.mojposao.ba/posao/291d007d-d917-11f1-a8c0-42010a9c001a/zaposljavamo-qa-supervizora-%E2%80%93-sigurnosti-hrane-mz)
 - [Trgovac-prodavač](https://www.mojposao.ba/posao/f02d5ffa-d900-11f1-a8c0-42010a9c001a/trgovac-prodavac)
 - [Viši analitičar za kreditne analize (m/ž)](https://www.mojposao.ba/posao/2c24b6b3-d861-11f1-a8c0-42010a9c001a/visi-analiticar-za-kreditne-analize-mz)
@@ -641,11 +641,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
 - [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
 - [Kurir (m) A2B Express Delivery d.o.o. Mostar Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/935)
@@ -883,14 +883,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>unsa_konkursi (10)</summary>
 
-- [Konkurs za izbor akademskog osoblja - nastavnika | Univerzitet u Sarajevu - Fakultet političkih nauka](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26)
-- [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0)
-- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
-- [Javni oglas za prijem u radni odnos | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1)
+- [Konkurs za izbor u akademska zvanja | Univerzitet u Sarajevu - Fakultet zdravstvenih studija](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19)
+- [Konkurs za izbor akademskog osoblja - nastavnika | Univerzitet u Sarajevu - Fakultet političkih nauka](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26)
+- [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0)
+- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
+- [Javni oglas za prijem u radni odnos | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1)
 - [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13)
 - [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Prirodno-matematički fakultet](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3)
 - [Javni oglas za prijem radnika u radni odnos | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4)
-- [Konkurs za izbor u zvanje | Univerzitet u Sarajevu - Institut za jezik](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-jezik-11)
 
 </details>
 
@@ -920,6 +920,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>vlada_ks (20)</summary>
 
+- [Ispravka teksta Javnog oglasa za izbor i imenovanje na pozicije predsjednika i članova u školskim odborima osnovnih škola kao javnih ustanova na području Kantona Sarajevo, čija konačna imenovanja vrši Vlada Kantona Sarajevo](https://mo.ks.gov.ba/javni-oglasi-pozivi/ispravka-teksta-javnog-oglasa-za-izbor-i-imenovanje-na-pozicije-predsjednika-i)
 - [JAVNI OGLAS za izbor i imenovanje na pozicije predsjednika i članova u školskim odborima osnovnih škola kao javnih ustanova na području Kantona Sarajevo, čija konačna imenovanja vrši Vlada Kantona Sarajevo](https://mo.ks.gov.ba/javni-oglasi-pozivi/javni-oglas-za-izbor-i-imenovanje-na-pozicije-predsjednika-i-clanova-u-4)
 - [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Hrasno"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-hrasno-0)
 - [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Avdo Smailović"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-avdo-smailovic)
@@ -927,7 +928,6 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Javni poziv zakup prostora za odlaganje privremeno oduzetih motornih vozila](https://mup.ks.gov.ba/aktuelno/konkursi/javni-poziv-zakup-prostora-za-odlaganje-privremeno-oduzetih-motornih-vozila)
 - [Javni konkurs za izbor direktora/direktorice JU Osnovna škola "Džemaludin Čaušević"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-dzemaludin-causevic)
 - [JAVNI OGLAS za izbor i imenovanje na pozicije predsjednika i članova u školskom odboru srednje škole, srednjoškolskog i školskog centra kao javnih ustanova na području Kantona Sarajevo, čija konačna imenovanja vrši Vlada Kantona Sarajevo](https://mo.ks.gov.ba/javni-oglasi-pozivi/javni-oglas-za-izbor-i-imenovanje-na-pozicije-predsjednika-i-clanova-u-3)
-- [Javni konkurs za izbor direktora/direktorice JU Centar za slijepu i slabovidnu djecu i omladinu](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-centar-za-slijepu-i-slabovidnu-djecu-i)
 
 </details>
 

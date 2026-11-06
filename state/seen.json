@@ -324,7 +324,8 @@
    "832df123-d9f1-11f1-a8c0-42010a9c001a",
    "98dcbcf1-d9f0-11f1-a8c0-42010a9c001a",
    "934bc520-d9f0-11f1-a8c0-42010a9c001a",
-   "2472a83c-d9f0-11f1-a8c0-42010a9c001a"
+   "2472a83c-d9f0-11f1-a8c0-42010a9c001a",
+   "f6898347-d9f5-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -513,7 +514,11 @@
    "https://www.linkedin.com/jobs/view/4477305574",
    "https://www.linkedin.com/jobs/view/4486231443",
    "https://www.linkedin.com/jobs/view/4488139676",
-   "https://www.linkedin.com/jobs/view/4486998452"
+   "https://www.linkedin.com/jobs/view/4486998452",
+   "https://www.linkedin.com/jobs/view/4453160141",
+   "https://www.linkedin.com/jobs/view/4453147299",
+   "https://www.linkedin.com/jobs/view/4488414022",
+   "https://www.linkedin.com/jobs/view/4487522128"
   ]
  },
  "glassrpske_konkursi": {
@@ -2213,7 +2218,8 @@
    "hash:7af66d568b7848b9",
    "hash:f64666accb30f226",
    "hash:dec9153f2a2a34d7",
-   "hash:6c4b07e470d9fc11"
+   "hash:6c4b07e470d9fc11",
+   "hash:e3833ed38c478cec"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2307,17 +2313,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
    "Mastercard Gold kreditna kartica",
    "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -3921,7 +3927,8 @@
    "https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-hrasno",
    "https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-mula-mustafa-baseskija",
    "https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-vrhbosna",
-   "https://mup.ks.gov.ba/aktuelno/konkursi/javni-oglas-za-popunu-upraznjenih-radnih-mjesta-namjestenika-na-neodredeno-18"
+   "https://mup.ks.gov.ba/aktuelno/konkursi/javni-oglas-za-popunu-upraznjenih-radnih-mjesta-namjestenika-na-neodredeno-18",
+   "https://mo.ks.gov.ba/javni-oglasi-pozivi/ispravka-teksta-javnog-oglasa-za-izbor-i-imenovanje-na-pozicije-predsjednika-i"
   ]
  },
  "szz_hnk": {
@@ -4226,7 +4233,9 @@
    "https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4",
    "https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
    "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
-   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26"
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26"
   ]
  },
  "untz_konkursi": {
@@ -5067,13 +5076,14 @@
    "hash:137f2a6a49530f4c",
    "hash:e9949c34dcb2f8be",
    "hash:a48d3996d62b3d9d",
-   "hash:b83e2a0bd245ff7a"
+   "hash:b83e2a0bd245ff7a",
+   "hash:64610d98ee327cbc"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.edd11102.1793977775.23d61e2",
-   "https://errors.edgesuite.net/18.edd11102.1793977775.23d61e2"
+   "Reference #18.bac83017.1793988554.b90d8eab",
+   "https://errors.edgesuite.net/18.bac83017.1793988554.b90d8eab"
   ]
  },
  "asa_grupa": {
