@@ -317,7 +317,14 @@
    "4b71387b-d92a-11f1-a8c0-42010a9c001a",
    "e2302339-d9b4-11f1-a8c0-42010a9c001a",
    "6708666e-d9c4-11f1-a8c0-42010a9c001a",
-   "0558bb1f-d9dc-11f1-a8c0-42010a9c001a"
+   "0558bb1f-d9dc-11f1-a8c0-42010a9c001a",
+   "f0306776-d9eb-11f1-a8c0-42010a9c001a",
+   "3ba5eec4-d9f1-11f1-a8c0-42010a9c001a",
+   "e3cc4982-d9f1-11f1-a8c0-42010a9c001a",
+   "832df123-d9f1-11f1-a8c0-42010a9c001a",
+   "98dcbcf1-d9f0-11f1-a8c0-42010a9c001a",
+   "934bc520-d9f0-11f1-a8c0-42010a9c001a",
+   "2472a83c-d9f0-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -505,7 +512,8 @@
    "https://www.linkedin.com/jobs/view/4488101712",
    "https://www.linkedin.com/jobs/view/4477305574",
    "https://www.linkedin.com/jobs/view/4486231443",
-   "https://www.linkedin.com/jobs/view/4488139676"
+   "https://www.linkedin.com/jobs/view/4488139676",
+   "https://www.linkedin.com/jobs/view/4486998452"
   ]
  },
  "glassrpske_konkursi": {
@@ -2204,7 +2212,8 @@
    "hash:8eb0325f604f0582",
    "hash:7af66d568b7848b9",
    "hash:f64666accb30f226",
-   "hash:dec9153f2a2a34d7"
+   "hash:dec9153f2a2a34d7",
+   "hash:6c4b07e470d9fc11"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2298,17 +2307,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
+   "Detaljnije",
    "Mastercard Gold kreditna kartica",
    "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
-   "Detaljnije",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -2997,7 +3006,8 @@
    "https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1588/Javni konkurs",
    "https://sarajevo-airport.ba/List/Oglasna-ploca/Read/2159/Lista zabranjenih predmeta",
    "https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1494/Prijava vrijednosnog iznosa carinskom organu",
-   "https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1495/Tečnosti (aerosoli i gelovi ) koje se u ručnom prtljagu mogu unijeti u zrakoplov"
+   "https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1495/Tečnosti (aerosoli i gelovi ) koje se u ručnom prtljagu mogu unijeti u zrakoplov",
+   "https://sarajevo-airport.ba/List/Oglasna-ploca/Read/2149/Javni oglas za dodjelu donacija"
   ]
  },
  "rtvfbih": {
@@ -3163,7 +3173,8 @@
    "hash:53e16370e49abd6e",
    "hash:0eb2917fa97b18a6",
    "hash:43ec2b842ef54b0e",
-   "hash:5aad3f37b0a3c4d9"
+   "hash:5aad3f37b0a3c4d9",
+   "hash:70188dc26b4eabf5"
   ],
   "lines": [
    "07 Mart 2017",
@@ -3171,6 +3182,7 @@
    "E-mail",
    "Oglasi J.U. \"Opće bolnice Prim.dr. Abdulah Nakaš\" Sarajevo",
    "DOKUMENTACIJA KOJA JE POTREBNA ZA OBAVLJANJE STAŽA/VOLONTIRANJE",
+   "Obavještenje o terminu polaganja pismenog i usmenog ispita- Medicinski tehničar - 5 izvršilaca",
    "Obavještenje kandidatima o održavanju ispita - Medicinska sestra – tehničar u Odjeljenju za palijativnu njegu",
    "Poslovnik o radu Komisije za izbor kandidata za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Službenik za javne nabavke - administrator- 1 (jedan) izvršilac“ (05.11.2026. godine)",
    "Javni oglas za prijem u radni odnos na neodređeno vrijemeSlužbenik za javne nabavke- administrator - 1 (jedan) izvršilac (04.11.2026.godine – 14.11.2026.godine)",
@@ -3564,8 +3576,7 @@
    "Poslovnik o radu Komisije za prijem u radni odnos 1. Radnik za zaštitu na radu- 1 (jedan) izvršilac (26.10.2024. godine)",
    "Javni oglas za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Radnik za zaštitu na radu– 1 (jedan) izvršilac (25.10.2024. godina do 04.11.2024. godine)",
    "Pitanja i literatura za poziciju Radnik za zaštitu na radu - 1 (jedan) izvršilac na neodređeno vrijeme (24.10.2024.godine)",
-   "Poslovnik o radu Komisije za prijem u radni odnos",
-   "1. Socijalni radnik- 1 (jedan) izvršilac"
+   "Poslovnik o radu Komisije za prijem u radni odnos"
   ]
  },
  "viksa": {
@@ -4146,7 +4157,8 @@
    "https://szztk.ba/posao/36924/bis-bosfam-tuzla-vozac-dostavljac-pica",
    "https://szztk.ba/posao/36919/autotransport-cvijetic-tuzla-vozac-ce-kategorije-u-medjunarodnom-transportu",
    "https://szztk.ba/posao/36916/ju-centar-za-kulturu-ahmed-muradbegovic-gradacac-javni-oglas-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme",
-   "https://szztk.ba/posao/36935/koala-automotive-tuzla-dekorater-igracaka"
+   "https://szztk.ba/posao/36935/koala-automotive-tuzla-dekorater-igracaka",
+   "https://szztk.ba/posao/36936/jp-sume-tk-dd-kladanj-javni-oglas-za-prijem-u-radani-odnos"
   ]
  },
  "szz_bpk": {
@@ -4213,7 +4225,8 @@
    "https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3",
    "https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4",
    "https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
-   "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0"
+   "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26"
   ]
  },
  "untz_konkursi": {
@@ -5053,13 +5066,14 @@
    "hash:1dec9b49b42e6ca4",
    "hash:137f2a6a49530f4c",
    "hash:e9949c34dcb2f8be",
-   "hash:a48d3996d62b3d9d"
+   "hash:a48d3996d62b3d9d",
+   "hash:b83e2a0bd245ff7a"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.edd11102.1793974165.1315884",
-   "https://errors.edgesuite.net/18.edd11102.1793974165.1315884"
+   "Reference #18.edd11102.1793977775.23d61e2",
+   "https://errors.edgesuite.net/18.edd11102.1793977775.23d61e2"
   ]
  },
  "asa_grupa": {
@@ -6847,7 +6861,8 @@
    "hash:0c5d9d38ab41e344",
    "hash:201f4cbf3ee94d02",
    "hash:0ebd48f112f8068c",
-   "hash:19c9aeaa8929e8ae"
+   "hash:19c9aeaa8929e8ae",
+   "hash:a2f6e8f555cc38b5"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6899,9 +6914,7 @@
    "Приједор",
    "Одређено време",
    "5. nov - 5. dec 2026.",
-   "\"ANG\" d.o.o. Banja Luka",
    "Комерцијалиста-,,ЗРАК -ДКС” д.о.о. Теслић",
-   "\"ANG\" d.o.o. Banja Luka",
    "Теслић",
    "Одређено време",
    "5. nov - 5. dec 2026.",
@@ -6917,9 +6930,7 @@
    "Бања Лука",
    "Неодређено време",
    "4. nov - 4. dec 2026.",
-   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "ШИВАЧ-„OX Europe“ ДОО ГРАДИШКА",
-   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
