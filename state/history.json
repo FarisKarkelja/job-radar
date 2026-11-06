@@ -22601,5 +22601,17 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-06T20:49:01+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Konkurs za izbor u akademska zvanja | Univerzitet u Sarajevu - Fakultet zdravstvenih studija",
+  "url": "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

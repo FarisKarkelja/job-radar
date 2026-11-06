@@ -4,6 +4,7 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 06.11. 21:49 | • [Konkurs za izbor u akademska zvanja / Univerzitet u Sarajevu - Fakultet zdravstvenih studija](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19) | Univerzitet u Sarajevu (konkursi) |
 | 06.11. 19:07 | • [Voditelj poslovnice](https://www.mojposao.ba/posao/f6898347-d9f5-11f1-a8c0-42010a9c001a/voditelj--poslovnice) | MojPosao Kanton Sarajevo |
 | 06.11. 19:07 | • [Systems Technical Lead](https://www.linkedin.com/jobs/view/4453160141) · Personify Health | LinkedIn BiH |
 | 06.11. 19:07 | • [Systems Technical Lead](https://www.linkedin.com/jobs/view/4453147299) · Personify Health | LinkedIn BiH |
@@ -1503,4 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju i Lista pitanja za pismeni i usmeni ispit , te Lista propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit za radno mjesto KV ZIDAR](https://www.park.ba/wp-content/uploads/2022/11/Odluka-o-utvrdivanju-i-Lista-pitanja-za-pismeni-i-usmeni-ispit-te-Lista-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-KV-ZIDAR.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju i Lista pitanja za pismeni i usmeni ispit , te Lista propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit za radno mjesto KV BRAVAR](https://www.park.ba/wp-content/uploads/2022/11/Odluka-o-utvrdivanju-i-Lista-pitanja-za-pismeni-i-usmeni-ispit-te-Lista-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-KV-BRAVAR.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju i Lista pitanja za pismeni i usmeni ispit , te Lista propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit za radno mjesto KV VARIOC](https://www.park.ba/wp-content/uploads/2022/11/Odluka-o-utvrdivanju-i-Lista-pitanja-za-pismeni-i-usmeni-ispit-te-Lista-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-KV-VARIOC.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Ponovni javni oglas za prijem radnika u radni odnos na odredeno vrijeme u KJKP Park na radno mjesto STRUCNI SARADNIK ZA JAVNU RASVJETU](https://www.park.ba/wp-content/uploads/2022/11/Ponovni-javni-oglas-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-KJKP-Park-na-radno-mjesto-STRUCNI-SARADNIK-ZA-JAVNU-RASVJETU.pdf) | KJKP Park |

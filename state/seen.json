@@ -2219,7 +2219,8 @@
    "hash:f64666accb30f226",
    "hash:dec9153f2a2a34d7",
    "hash:6c4b07e470d9fc11",
-   "hash:e3833ed38c478cec"
+   "hash:e3833ed38c478cec",
+   "hash:81f48e1c91dc8776"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2313,17 +2314,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
    "Trajni nalog",
    "Mi štedimo Vaše vrijeme",
    "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
-   "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4235,7 +4236,8 @@
    "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19",
-   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26"
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19"
   ]
  },
  "untz_konkursi": {
@@ -5077,13 +5079,14 @@
    "hash:e9949c34dcb2f8be",
    "hash:a48d3996d62b3d9d",
    "hash:b83e2a0bd245ff7a",
-   "hash:64610d98ee327cbc"
+   "hash:64610d98ee327cbc",
+   "hash:68de4038478fae06"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.bac83017.1793988554.b90d8eab",
-   "https://errors.edgesuite.net/18.bac83017.1793988554.b90d8eab"
+   "Reference #18.862d3e17.1793998252.f295d03b",
+   "https://errors.edgesuite.net/18.862d3e17.1793998252.f295d03b"
   ]
  },
  "asa_grupa": {
