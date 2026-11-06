@@ -1,11 +1,10 @@
 # Status izvora
 
-Zadnje pokretanje: **06.11.2026 10:07** (Sarajevo)  
-Izvora: **109**, ispravnih: **108**, s greškom: **1**
+Zadnje pokretanje: **06.11.2026 13:07** (Sarajevo)  
+Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
-| [SZZ ZHK (natječaji)](https://szz-zzh.ba/natjecaji-za-posao) | ❌ | 0 | 0 | ConnectionError: HTTPSConnectionPool(host='szz-zzh.ba', port=443): Max retries exceeded with url: /natjecaji-za-posao (C |
 | [Addiko Bank Banja Luka](https://addiko-bank-bl.talentlyft.com/) | ✅ | 1 | 0 |  |
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
 | [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 4 | 0 |  |
@@ -22,7 +21,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 0 |  |
 | [Atlantbh praksa](https://atlantbh.com/internship/) | ✅ | 1 | 0 |  |
 | [ATOS banka (karijera)](https://www.atosbank.ba/content/read/karijera) | ✅ | 1 | 1 |  |
-| [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 0 |  |
+| [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 1 |  |
 | [BBI Banka (karijera)](https://bbi.ba/karijera) | ✅ | 1 | 0 |  |
 | [BH Gas (javni oglasi)](https://www.bh-gas.ba/javni-oglasi) | ✅ | 2 | 0 |  |
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 3 | 0 |  |
@@ -55,26 +54,26 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 48 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 3 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 38 | 1 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 38 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 2 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 1 | 0 |  |
 | [NLB Banka Banja Luka (karijera)](https://www.nlb-rs.ba/o-banci/karijera) | ✅ | 1 | 0 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
-| [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
+| [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 1 |  |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 1 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
-| [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 1 |  |
+| [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
 | [Raiffeisen Leasing (posao)](https://www.rlbh.ba/bs/o-nama/posao-u-raiffeisen-leasingu.html) | ✅ | 1 | 0 |  |
 | [Razvojna banka FBiH (oglasi)](https://rbfbih.ba/category/sluzbene-objave/oglasi) | ✅ | 3 | 0 |  |
 | [Robot (aktivni konkursi)](https://robot.ba/aktivni-konkursi) | ✅ | 6 | 0 |  |
@@ -87,10 +86,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
 | [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
-| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 6 |  |
-| [SZZ BPK Goražde (oglasi)](https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php) | ✅ | 20 | 1 |  |
+| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 1 |  |
+| [SZZ BPK Goražde (oglasi)](https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php) | ✅ | 20 | 0 |  |
 | [SZZ HNK (javni oglasi)](https://www.szzhnz-k.ba/careers_.php) | ✅ | 40 | 0 |  |
-| [SZZ Tuzlanski kanton (oglasi)](https://szztk.ba/oglasi) | ✅ | 12 | 0 |  |
+| [SZZ Tuzlanski kanton (oglasi)](https://szztk.ba/oglasi) | ✅ | 12 | 1 |  |
+| [SZZ ZHK (natječaji)](https://szz-zzh.ba/natjecaji-za-posao) | ✅ | 119 | 0 |  |
 | [Tacta (careers)](https://tacta.io/careers) | ✅ | 1 | 0 |  |
 | [Telemach BH (zaposlenje)](https://telemach.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [KJKP Toplane (konkursi)](https://www.toplanesarajevo.ba/stranica/konkursi) | ✅ | 1 | 0 |  |
@@ -101,7 +101,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [UniCredit Bank Banja Luka (karijera)](https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
 | [Univerzitet u Tuzli (konkursi)](https://untz.ba/konkursi) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
@@ -113,7 +113,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
 | [Zira Talent Academy](https://ziragroup.com/careers/zira-talent-academy) | ✅ | 1 | 0 |  |
 | [ZiraatBank BH (karijera)](https://ziraatbank.ba/karijera) | ✅ | 1 | 0 |  |
-| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 1 |  |
+| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 0 |  |
 
 ## Uzorak izvučenih oglasa po izvoru
 
@@ -312,11 +312,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 <details><summary>dzobs (12)</summary>
 
 - [Freelance Developer Zendev Sarajevo jo š 28 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827)
-- [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 28 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905)
-- [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 28 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367)
-- [.Net Full Stack Developer QSS Sarajevo Medior jo š 28 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
-- [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 28 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
-- [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 28 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
+- [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 27 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905)
+- [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 27 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367)
+- [.Net Full Stack Developer QSS Sarajevo Medior jo š 27 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
+- [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 27 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
+- [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 27 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
 - [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 22 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
 - [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 5 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
@@ -505,7 +505,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (48)</summary>
+<details><summary>linkedin_bih (47)</summary>
 
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486153690)
@@ -627,6 +627,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>partner_mkf (10)</summary>
 
+- [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Laktaši](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-laktasi)
 - [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Prnjavor](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-prnjavor)
 - [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Bijeljina](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-bijeljina)
 - [Oglas za prijem u radni odnos – Koordinator za finansijske izvore – 1 izvršilac, Tuzla](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-koordinator-za-finansijske-izvore-1-izvrsilac-tuzla)
@@ -634,20 +635,19 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 - [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Žepče](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-zepce)
 - [Oglas za prijem u radni odnos – Kreditni službenik – 2 izvršioca, opština Modriča, Grad Mostar](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-2-izvrsioca-opstina-modrica-grad-mostar)
 - [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Doboj](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-doboj)
-- [Oglas za prijem u radni odnos – Administrativni asistent za kreditne poslove – 1 izvršilac, opština Jajce](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-administrativni-asistent-za-kreditne-poslove-1-izvrsilac-opstina-jajce)
 
 </details>
 
 <details><summary>poslovnioglasi (13)</summary>
 
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
 - [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
 - [Kurir (m) A2B Express Delivery d.o.o. Mostar Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/935)
-- [Magacioner za poslove nabavke i administracije šteta X express d.o.o. Banja Luka Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/934)
 
 </details>
 
@@ -750,6 +750,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>szks (10)</summary>
 
+- [NASTAVNIK/ICA HEMIJE](https://szks.ba/posao/nastavnik-ica-hemije-4)
 - [NASTAVNIK TEHNIČKE KULTURE](https://szks.ba/posao/nastavnik-tehnicke-kulture-19)
 - [DJELATNIK U TRGOVINI ZA KUĆNE LJUBIMCE](https://szks.ba/posao/ketti-166-djelatnik-u-trgovini-za-kucne-ljubimce-2)
 - [PROIZVODNI RADNICI](https://szks.ba/posao/proizvodni-radnici-2)
@@ -757,7 +758,6 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 - [NASTAVNIK OSNOVE TEHNIKE](https://szks.ba/posao/nastavnik-osnove-tehnike-2)
 - [JAVNI OGLAS](https://szks.ba/posao/javni-oglas-387)
 - [UČITELJICA](https://szks.ba/posao/pametnica-110-uciteljica)
-- [MEDICINSKA SESTRA- PEDIJATRIJSKI SMJER](https://szks.ba/posao/medicinska-sestra-pedijatrijski-smjer-3)
 
 </details>
 
@@ -789,6 +789,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>szz_tk (12)</summary>
 
+- [KOALA AUTOMOTIVE Tuzla: Dekorater igračaka](https://szztk.ba/posao/36935/koala-automotive-tuzla-dekorater-igracaka)
 - [Nermaris, PJ PROMETAL Gračanica: Bravar](https://szztk.ba/posao/36926/nermaris-pj-prometal-gracanica-bravar)
 - [Bis – BOSFAM Tuzla: Vozač – dostavljač pića](https://szztk.ba/posao/36924/bis-bosfam-tuzla-vozac-dostavljac-pica)
 - [Autotransport cvijetic tuzla vozac ce kategorije u medjunarodnom transportu](https://szztk.ba/posao/36919/autotransport-cvijetic-tuzla-vozac-ce-kategorije-u-medjunarodnom-transportu)
@@ -796,12 +797,19 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 - [KP Komunalac Kalesija: Poništenje dijela javnog oglasa od 23.10.2026. godine](https://szztk.ba/posao/36914/kp-komunalac-kalesija)
 - [PPU Dječija kuća Tuzla: Odgajatelj](https://szztk.ba/posao/36913/ppu-djecija-kuca-tuzla-odgajatelj)
 - [JU BKC Živinice: Javni oglas za prijem u radni odnos](https://szztk.ba/posao/36911/ju-bkc-zivinice-javni-oglas-za-prijem-u-radni-odnos)
-- [Apoteka Blink Tuzla: Magistar farmacije](https://szztk.ba/posao/36904/apoteka-blink-tuzla-magistar-farmacije)
 
 </details>
 
-<details><summary>szz_zhk (0)</summary>
+<details><summary>szz_zhk (119)</summary>
 
+- [Bonusi, popusti i mogućnost razvoja: Pepco zapošljava u Širokom Brijegu](https://szz-zzh.ba/2026/10/29/bonusi-popusti-i-mogucnost-razvoja-pepco-zaposljava-u-sirokom-brijegu)
+- [AX-SOLING otvara veću koncept trgovinu u Širokom Brijegu i zapošljava 8 radnika, provjerite detalje](https://szz-zzh.ba/2026/10/28/ax-soling-otvara-vecu-koncept-trgovinu-u-sirokom-brijegu-i-zaposljava-8-radnika-provjerite-detalje)
+- [Tražite posao u prvoj smjeni? BERNINA zapošljava u Širokom Brijegu](https://szz-zzh.ba/2026/10/26/trazite-posao-u-prvoj-smjeni-bernina-zaposljava-u-sirokom-brijegu)
+- [Dom Hrast traži nove članove tima: Otvoreno više pozicija, provjerite uvjete](https://szz-zzh.ba/2026/10/26/dom-hrast-trazi-nove-clanove-tima-otvoreno-vise-pozicija-provjerite-uvjete)
+- [Mobile Zona traži prodavačicu u Širokom Brijegu](https://szz-zzh.ba/2026/10/26/mobile-zona-trazi-prodavacicu-u-sirokom-brijegu)
+- [Dom zdravlja Ljubuški](https://szz-zzh.ba/2026/10/23/4502)
+- [JAVNI OGLAS za prijem radnika u radni odnos u Razvojnoj banci FBiH](https://szz-zzh.ba/2026/10/22/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-fbih)
+- [Pepco BH d.o.o. natječaj za posao blagajnik – prodavač](https://szz-zzh.ba/2026/10/22/pepco-bh-d-o-o-natjecaj-za-posao-blagajnik-prodavac)
 
 </details>
 
@@ -874,6 +882,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>unsa_konkursi (10)</summary>
 
+- [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0)
 - [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
 - [Javni oglas za prijem u radni odnos | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1)
 - [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13)
@@ -881,7 +890,6 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 - [Javni oglas za prijem radnika u radni odnos | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4)
 - [Konkurs za izbor u zvanje | Univerzitet u Sarajevu - Institut za jezik](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-jezik-11)
 - [JAVNI OGLAS za prijem u radni odnos na Univerzitetu u Sarajevu - Prirodno-matematičkom fakultetu na određeno vrijeme](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-univerzitetu-u-sarajevu-prirodno-matematickom-14)
-- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu – Prirodno-matematički fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-12)
 
 </details>
 
