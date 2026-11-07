@@ -2224,7 +2224,8 @@
    "hash:81f48e1c91dc8776",
    "hash:e371b69ec7d7f1d3",
    "hash:2ca7ede31e819d52",
-   "hash:8f8c03b488023752"
+   "hash:8f8c03b488023752",
+   "hash:dc8a087b49647790"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2318,17 +2319,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5088,13 +5089,14 @@
    "hash:68de4038478fae06",
    "hash:6d14d2b6d0cea582",
    "hash:49dd84225fea8d0e",
-   "hash:91ea3f3a66bc994b"
+   "hash:91ea3f3a66bc994b",
+   "hash:7dea515e8be994e8"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.556bdc17.1794031756.92edab6",
-   "https://errors.edgesuite.net/18.556bdc17.1794031756.92edab6"
+   "Reference #18.8e51c317.1794042594.d2987b04",
+   "https://errors.edgesuite.net/18.8e51c317.1794042594.d2987b04"
   ]
  },
  "asa_grupa": {
@@ -6883,7 +6885,8 @@
    "hash:201f4cbf3ee94d02",
    "hash:0ebd48f112f8068c",
    "hash:19c9aeaa8929e8ae",
-   "hash:a2f6e8f555cc38b5"
+   "hash:a2f6e8f555cc38b5",
+   "hash:5f4253be4b77ed58"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6891,7 +6894,7 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 150",
+   "1-20 od 147",
    "Stavki po stranici",
    "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Poslastičar i pekar",
