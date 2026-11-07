@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **07.11.2026 13:51** (Sarajevo)  
+Zadnje pokretanje: **07.11.2026 16:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -39,7 +39,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 1 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 2 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -54,7 +54,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -311,13 +311,13 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>dzobs (12)</summary>
 
-- [Freelance Developer Zendev Sarajevo jo š 27 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827)
+- [Freelance Developer Zendev Sarajevo jo š 26 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827)
 - [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 26 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905)
 - [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 26 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367)
 - [.Net Full Stack Developer QSS Sarajevo Medior jo š 26 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
 - [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 26 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
 - [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 26 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
-- [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 21 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
+- [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 20 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
 - [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 4 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
 </details>
@@ -511,10 +511,10 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486153690)
 - [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478136025)
-- [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
 - [Senior Backend Engineer (FIX & Identity)](https://www.linkedin.com/jobs/view/4488101712)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486147814)
 - [Mid/Senior Software Engineer](https://www.linkedin.com/jobs/view/4486589857)
+- [Staff Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4478198871)
 
 </details>
 
@@ -640,10 +640,10 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
@@ -882,14 +882,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>unsa_konkursi (10)</summary>
 
-- [Konkurs za izbor u akademska zvanja | Univerzitet u Sarajevu - Fakultet zdravstvenih studija](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19)
-- [Konkurs za izbor akademskog osoblja - nastavnika | Univerzitet u Sarajevu - Fakultet političkih nauka](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26)
-- [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0)
-- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
-- [Javni oglas za prijem u radni odnos | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1)
-- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13)
-- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Prirodno-matematički fakultet](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3)
-- [Javni oglas za prijem radnika u radni odnos | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4)
+- [Konkurs za izbor u akademska zvanja | Univerzitet u Sarajevu - Fakultet zdravstvenih studija](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19)
+- [Konkurs za izbor akademskog osoblja - nastavnika | Univerzitet u Sarajevu - Fakultet političkih nauka](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26)
+- [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0)
+- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
+- [Javni oglas za prijem u radni odnos | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1)
+- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13)
+- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Prirodno-matematički fakultet](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3)
+- [Javni oglas za prijem radnika u radni odnos | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-univerzitet-u-sarajevu-pravni-fakultet-4)
 
 </details>
 

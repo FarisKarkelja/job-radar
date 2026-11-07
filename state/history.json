@@ -22649,5 +22649,17 @@
   "priority": 4,
   "match": "developer",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-07T15:07:36+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Mechanical Design Engineer",
+  "url": "https://www.linkedin.com/jobs/view/4486638370",
+  "company": "Connector Subsea Solutions",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

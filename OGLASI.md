@@ -4,6 +4,7 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 07.11. 16:07 | • [Mechanical Design Engineer](https://www.linkedin.com/jobs/view/4486638370) · Connector Subsea Solutions | LinkedIn BiH |
 | 07.11. 13:07 | • [Administrativni radnik (m/ž)](https://www.mojposao.ba/posao/2472a83c-d9f0-11f1-a8c0-42010a9c001a/administrativni-radnik-mz) | MojPosao IT |
 | 07.11. 13:07 | 💻 [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584) · Deloitte | LinkedIn BiH |
 | 07.11. 01:50 | • [Voditelj komercijalnog sektora mliječnog programa (m/ž)](https://www.mojposao.ba/posao/1fe526d7-d6a7-11f1-a8c0-42010a9c001a/voditelj-komercijalnog-sektora-mlijecnog-programa-mz) | MojPosao IT |
@@ -1503,4 +1504,3 @@
 | 02.11. 00:13 | •⏺ [JAVNA LICITACIJA O PRODAJI VOZILA I MASINA I Obrazac za cijenu ponuda](https://www.park.ba/wp-content/uploads/2022/12/JAVNA-LICITACIJA-O-PRODAJI-VOZILA-I-MASINA-I-Obrazac-za-cijenu-ponuda.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje javnog oglasa prijem radnika na radna mjesta KV bravar, KV varioc i KV zidar u KJKP Park doo Sarajevo](https://www.park.ba/wp-content/uploads/2022/12/Poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-prijem-radnika-na-radna-mjesta-KV-bravar-KV-varioc-i-KV-zidar-u-KJKP-Park-doo-Sarajevo.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje javnog oglasa za prijem radnika na radno mjesto STRUCNI SARADNIK ZA ODRZAVANJE JAVNE RASVJETE](https://www.park.ba/wp-content/uploads/2022/12/Poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-prijem-radnika-na-radno-mjesto-STRUCNI-SARADNIK-ZA-ODRZAVANJE-JAVNE-RASVJETE.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit, te liste propisa i literature iz oblasti iz koje ce se polagati pismeni i usmeni ispit STRUCNI SARADNIK ZA ODRZAVANJE JAVNE RASVJETE](https://www.park.ba/wp-content/uploads/2022/12/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-te-liste-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-pismeni-i-usmeni-ispit-STRUCNI-SARADNIK-ZA-ODRZAVANJE-JAVNE-RASVJETE.pdf) | KJKP Park |
