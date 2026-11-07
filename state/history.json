@@ -22625,5 +22625,29 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-07T12:07:33+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Administrativni radnik (m/ž)",
+  "url": "https://www.mojposao.ba/posao/2472a83c-d9f0-11f1-a8c0-42010a9c001a/administrativni-radnik-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-07T12:07:33+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Senior Application Developer",
+  "url": "https://www.linkedin.com/jobs/view/4477712584",
+  "company": "Deloitte",
+  "it": true,
+  "priority": 4,
+  "match": "developer",
+  "snippet": ""
  }
 ]

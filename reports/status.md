@@ -1,11 +1,10 @@
 # Status izvora
 
-Zadnje pokretanje: **07.11.2026 10:07** (Sarajevo)  
-Izvora: **109**, ispravnih: **108**, s greškom: **1**
+Zadnje pokretanje: **07.11.2026 13:07** (Sarajevo)  
+Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
-| [KCUS (konkursi i oglasi)](https://kcus.ba/konkursi-i-oglasi) | ❌ | 0 | 0 | ConnectionError: HTTPSConnectionPool(host='kcus.ba', port=443): Max retries exceeded with url: /konkursi-i-oglasi (Cause |
 | [Addiko Bank Banja Luka](https://addiko-bank-bl.talentlyft.com/) | ✅ | 1 | 0 |  |
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
 | [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 3 | 0 |  |
@@ -46,6 +45,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
 | [JP Ceste FBiH (oglasi)](https://jpcfbih.ba/bs/oglasi) | ✅ | 1 | 0 |  |
 | [Dom zdravlja KS](https://judzks.ba/zaposljavanje/) | ✅ | 10 | 0 |  |
+| [KCUS (konkursi i oglasi)](https://kcus.ba/konkursi-i-oglasi) | ✅ | 1 | 0 |  |
 | [KJKP Park](https://www.park.ba/?page_id=9652) | ✅ | 266 | 0 |  |
 | [KJKP Pokop](https://pokop.ba/novosti) | ✅ | 1 | 0 |  |
 | [KJKP Rad](https://rad.com.ba/) | ✅ | 4 | 0 |  |
@@ -54,15 +54,15 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 46 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 36 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 36 | 1 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 99 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 1 | 0 |  |
@@ -113,7 +113,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
 | [Zira Talent Academy](https://ziragroup.com/careers/zira-talent-academy) | ✅ | 1 | 0 |  |
 | [ZiraatBank BH (karijera)](https://ziraatbank.ba/karijera) | ✅ | 1 | 0 |  |
-| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 1 |  |
+| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 0 |  |
 
 ## Uzorak izvučenih oglasa po izvoru
 
@@ -312,11 +312,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 <details><summary>dzobs (12)</summary>
 
 - [Freelance Developer Zendev Sarajevo jo š 27 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827)
-- [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 27 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905)
-- [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 27 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367)
-- [.Net Full Stack Developer QSS Sarajevo Medior jo š 27 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
-- [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 27 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
-- [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 27 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
+- [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 26 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905)
+- [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 26 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367)
+- [.Net Full Stack Developer QSS Sarajevo Medior jo š 26 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
+- [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 26 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
+- [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 26 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
 - [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 21 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
 - [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 4 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
@@ -434,8 +434,9 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>kcus (0)</summary>
+<details><summary>kcus (1)</summary>
 
+- [Stranica je promijenjena](https://kcus.ba/konkursi-i-oglasi)
 
 </details>
 
@@ -504,8 +505,9 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (46)</summary>
+<details><summary>linkedin_bih (47)</summary>
 
+- [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584)
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486153690)
 - [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478136025)
@@ -513,7 +515,6 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 - [Senior Backend Engineer (FIX & Identity)](https://www.linkedin.com/jobs/view/4488101712)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486147814)
 - [Mid/Senior Software Engineer](https://www.linkedin.com/jobs/view/4486589857)
-- [Staff Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4478198871)
 
 </details>
 
@@ -573,7 +574,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>mojposao_ks (197)</summary>
+<details><summary>mojposao_ks (99)</summary>
 
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [Savjetnik za korisničku podršku na njemačkom jeziku (m/ž)](https://www.mojposao.ba/posao/0c288ef4-c3db-11f1-a8c0-42010a9c001a/savjetnik-za-korisnicku-podrsku-na-njemackom-jeziku-mz)
@@ -639,11 +640,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
 - [Kurir (m) A2B Express Delivery d.o.o. Mostar Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/935)
