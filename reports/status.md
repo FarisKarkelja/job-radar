@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **07.11.2026 16:07** (Sarajevo)  
+Zadnje pokretanje: **07.11.2026 19:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -39,7 +39,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 1 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 2 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -54,7 +54,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 1 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 38 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -70,7 +70,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 1 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
 | [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
@@ -505,7 +505,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (47)</summary>
+<details><summary>linkedin_bih (38)</summary>
 
 - [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584)
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
@@ -569,7 +569,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Senior Embedded Security Engineer](https://www.mojposao.ba/posao/2ff980c4-d851-11f1-a8c0-42010a9c001a/senior-embedded-security-engineer)
 - [Senior Hardware Engineer](https://www.mojposao.ba/posao/e519174b-d851-11f1-a8c0-42010a9c001a/senior-hardware-engineer)
 - [Softverski developer za AI i poslovne aplikacije](https://www.mojposao.ba/posao/a4e4e32f-d3af-11f1-a8c0-42010a9c001a/softverski-developer-za-ai-i-poslovne-aplikacije)
-- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
+- [Medior software developer / software dizajner](https://www.mojposao.ba/posao/f07df1e7-c31a-11f1-a8c0-42010a9c001a/medior-software-developer--software-dizajner)
 - [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 
 </details>
@@ -640,14 +640,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
-- [Kurir (m) A2B Express Delivery d.o.o. Mostar Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/935)
 
 </details>
 

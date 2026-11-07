@@ -2231,7 +2231,8 @@
    "hash:dc8a087b49647790",
    "hash:be9e32425c9ee1f2",
    "hash:a729f52530d028c1",
-   "hash:1079f11b5ae13b8b"
+   "hash:1079f11b5ae13b8b",
+   "hash:65cf4a364b58d7e8"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2325,8 +2326,8 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Brzi kredit",
    "Sa nama ste najbrži!",
@@ -2334,8 +2335,8 @@
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5099,13 +5100,14 @@
    "hash:7dea515e8be994e8",
    "hash:1d942d9096105e25",
    "hash:c340832b1acd8cdc",
-   "hash:f6adaa19ace0cce1"
+   "hash:f6adaa19ace0cce1",
+   "hash:bc9096c23fed681e"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.71cfdb17.1794064165.a83959d",
-   "https://errors.edgesuite.net/18.71cfdb17.1794064165.a83959d"
+   "Reference #18.cb5ec817.1794074954.b2d0a2e1",
+   "https://errors.edgesuite.net/18.cb5ec817.1794074954.b2d0a2e1"
   ]
  },
  "asa_grupa": {
@@ -6787,7 +6789,8 @@
    "https://poslovnioglasi.ba/company-ad-details/934",
    "https://poslovnioglasi.ba/company-ad-details/933",
    "https://poslovnioglasi.ba/company-ad-details/936",
-   "https://poslovnioglasi.ba/company-ad-details/937"
+   "https://poslovnioglasi.ba/company-ad-details/937",
+   "https://poslovnioglasi.ba/company-ad-details/938"
   ]
  },
  "ads_bih": {
