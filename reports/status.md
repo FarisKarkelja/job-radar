@@ -1,13 +1,14 @@
 # Status izvora
 
-Zadnje pokretanje: **06.11.2026 22:07** (Sarajevo)  
-Izvora: **109**, ispravnih: **109**, s greškom: **0**
+Zadnje pokretanje: **07.11.2026 01:50** (Sarajevo)  
+Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
+| [Tacta (careers)](https://tacta.io/careers) | ❌ | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='tacta.io', port=443): Max retries exceeded with url: /careers (Caused by Conne |
 | [Addiko Bank Banja Luka](https://addiko-bank-bl.talentlyft.com/) | ✅ | 1 | 0 |  |
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
-| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 4 | 0 |  |
+| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 3 | 0 |  |
 | [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
 | [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 20 | 0 |  |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
@@ -54,14 +55,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 35 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 38 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 36 | 1 |  |
 | [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
@@ -91,7 +92,6 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [SZZ HNK (javni oglasi)](https://www.szzhnz-k.ba/careers_.php) | ✅ | 40 | 0 |  |
 | [SZZ Tuzlanski kanton (oglasi)](https://szztk.ba/oglasi) | ✅ | 12 | 0 |  |
 | [SZZ ZHK (natječaji)](https://szz-zzh.ba/natjecaji-za-posao) | ✅ | 119 | 0 |  |
-| [Tacta (careers)](https://tacta.io/careers) | ✅ | 1 | 0 |  |
 | [Telemach BH (zaposlenje)](https://telemach.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [KJKP Toplane (konkursi)](https://www.toplanesarajevo.ba/stranica/konkursi) | ✅ | 1 | 0 |  |
 | [Triglav osiguranje (zaposlenje)](https://www.triglav.ba/karijera/triglav-zaposlenje) | ✅ | 1 | 0 |  |
@@ -129,12 +129,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>ads_bih (4)</summary>
+<details><summary>ads_bih (3)</summary>
 
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Graničnoj policiji Bosne i Hercegovine Datum objave: 30.10.2026. Krajnji rok za prijave: 19.11.2026. KOMISIJA I 1/01 Šef Odsjeka za administrativno-tehničku podršku 1/02 Šef Od](https://www.ads.gov.ba/vacancies/3519/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-granicnoj-policiji-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Direkciji za evropske integracije Vijeća ministara Bosne i Hercegovine Datum objave: 26.10.2026. Krajnji rok za prijave: 15.11.2026. 1/01 Stručni savjetnik za programe u oblast](https://www.ads.gov.ba/vacancies/3517/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-direkciji-za-evropske-integracije-vijeca-ministara-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnih mjesta državnih službenika u Sekretarijatu Parlamentarne skupštine Bosne i Hercegovine Datum objave: 22.10.2026. Krajnji rok za prijave: 11.11.2026. 1/01 Viši stručni saradnik za protokol 1/02 Stručni savj](https://www.ads.gov.ba/vacancies/3516/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine)
-- [Javni oglas za popunjavanje radnih mjesta državnih službenika u Direkciji za civilno zrakoplovstvo Bosne i Hercegovine Datum objave: 16.10.2026. Krajnji rok za prijave: 05.11.2026. KOMISIJA I 1/01 Pomoćnik generalnog direktora za finansije ](https://www.ads.gov.ba/vacancies/3515/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine)
 
 </details>
 
@@ -319,7 +318,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 27 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
 - [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 27 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
 - [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 21 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
-- [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 5 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
+- [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 4 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
 </details>
 
@@ -506,11 +505,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (35)</summary>
+<details><summary>linkedin_bih (47)</summary>
 
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486153690)
-- [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478136025)
+- [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478856785)
 - [Staff Software Engineer, Golang](https://www.linkedin.com/jobs/view/4440236731)
 - [Senior Backend Engineer (FIX & Identity)](https://www.linkedin.com/jobs/view/4488101712)
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4486147814)
@@ -562,7 +561,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>mojposao_it (38)</summary>
+<details><summary>mojposao_it (36)</summary>
 
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
@@ -642,10 +641,10 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 <details><summary>poslovnioglasi (13)</summary>
 
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
 - [Kurir (m) A2B Express Delivery d.o.o. Mostar Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/935)
@@ -796,8 +795,8 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Bis – BOSFAM Tuzla: Vozač – dostavljač pića](https://szztk.ba/posao/36924/bis-bosfam-tuzla-vozac-dostavljac-pica)
 - [Autotransport cvijetic tuzla vozac ce kategorije u medjunarodnom transportu](https://szztk.ba/posao/36919/autotransport-cvijetic-tuzla-vozac-ce-kategorije-u-medjunarodnom-transportu)
 - [Ju centar za kulturu ahmed muradbegovic gradacac javni oglas za prijem u radni odnos na neodredjeno vrijeme](https://szztk.ba/posao/36916/ju-centar-za-kulturu-ahmed-muradbegovic-gradacac-javni-oglas-za-prijem-u-radni-odnos-na-neodredjeno-vrijeme)
-- [KP Komunalac Kalesija: Poništenje dijela javnog oglasa od 23.10.2026. godine](https://szztk.ba/posao/36914/kp-komunalac-kalesija)
 - [PPU Dječija kuća Tuzla: Odgajatelj](https://szztk.ba/posao/36913/ppu-djecija-kuca-tuzla-odgajatelj)
+- [JU BKC Živinice: Javni oglas za prijem u radni odnos](https://szztk.ba/posao/36911/ju-bkc-zivinice-javni-oglas-za-prijem-u-radni-odnos)
 
 </details>
 
@@ -814,9 +813,8 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>tacta (1)</summary>
+<details><summary>tacta (0)</summary>
 
-- [Stranica je promijenjena](https://tacta.io/careers)
 
 </details>
 

@@ -53,7 +53,8 @@
    "0c3fd6fb-cdf1-11f1-a8c0-42010a9c001a",
    "f02d5ffa-d900-11f1-a8c0-42010a9c001a",
    "53f597fb-d84e-11f1-a8c0-42010a9c001a",
-   "c69d929b-d90d-11f1-a8c0-42010a9c001a"
+   "c69d929b-d90d-11f1-a8c0-42010a9c001a",
+   "1fe526d7-d6a7-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -2221,7 +2222,8 @@
    "hash:6c4b07e470d9fc11",
    "hash:e3833ed38c478cec",
    "hash:81f48e1c91dc8776",
-   "hash:e371b69ec7d7f1d3"
+   "hash:e371b69ec7d7f1d3",
+   "hash:2ca7ede31e819d52"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2315,17 +2317,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
-   "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5082,13 +5084,14 @@
    "hash:b83e2a0bd245ff7a",
    "hash:64610d98ee327cbc",
    "hash:68de4038478fae06",
-   "hash:6d14d2b6d0cea582"
+   "hash:6d14d2b6d0cea582",
+   "hash:49dd84225fea8d0e"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.b7c83017.1793999367.1322cef4",
-   "https://errors.edgesuite.net/18.b7c83017.1793999367.1322cef4"
+   "Reference #18.486ccd17.1794012837.86c18a0",
+   "https://errors.edgesuite.net/18.486ccd17.1794012837.86c18a0"
   ]
  },
  "asa_grupa": {
