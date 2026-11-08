@@ -2234,7 +2234,8 @@
    "hash:1079f11b5ae13b8b",
    "hash:65cf4a364b58d7e8",
    "hash:14f1d0e7d10438d5",
-   "hash:8a13cb0582649915"
+   "hash:8a13cb0582649915",
+   "hash:92cfdeb6dfbcf54f"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2331,11 +2332,11 @@
    "Optimum paket",
    "Plaćajte manje, koristite više!",
    "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
    "Western Union",
    "Brz i siguran transfer novca",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
@@ -4837,7 +4838,8 @@
    "hash:8aca3d858cad17b6",
    "hash:7ec97fd02968d1ab",
    "hash:095a4fb46b592e8a",
-   "hash:e3335d0b710a2f21"
+   "hash:e3335d0b710a2f21",
+   "hash:a3bad9c7054fdb72"
   ],
   "lines": [
    "O nama",
@@ -4953,7 +4955,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 07. 2026",
+   "novembar 08. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5105,13 +5107,14 @@
    "hash:f6adaa19ace0cce1",
    "hash:bc9096c23fed681e",
    "hash:a09b67dcc142c114",
-   "hash:26b4d53a766984eb"
+   "hash:26b4d53a766984eb",
+   "hash:280e0e2822bad7dc"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.8e51c317.1794085758.46974b7",
-   "https://errors.edgesuite.net/18.8e51c317.1794085758.46974b7"
+   "Reference #18.8e51c317.1794097576.8501de7",
+   "https://errors.edgesuite.net/18.8e51c317.1794097576.8501de7"
   ]
  },
  "asa_grupa": {

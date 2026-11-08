@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **07.11.2026 22:07** (Sarajevo)  
+Zadnje pokretanje: **08.11.2026 01:24** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -20,14 +20,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [ATIA (open positions)](https://atia.ba/open-positions) | ✅ | 1 | 0 |  |
 | [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 0 |  |
 | [Atlantbh praksa](https://atlantbh.com/internship/) | ✅ | 1 | 0 |  |
-| [ATOS banka (karijera)](https://www.atosbank.ba/content/read/karijera) | ✅ | 1 | 1 |  |
+| [ATOS banka (karijera)](https://www.atosbank.ba/content/read/karijera) | ✅ | 1 | 0 |  |
 | [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 0 |  |
 | [BBI Banka (karijera)](https://bbi.ba/karijera) | ✅ | 1 | 0 |  |
 | [BH Gas (javni oglasi)](https://www.bh-gas.ba/javni-oglasi) | ✅ | 2 | 0 |  |
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 3 | 0 |  |
 | [BH Telecom](https://www.bhtelecom.ba/category/javni-oglasi-za-posao/) | ✅ | 10 | 0 |  |
 | [Bingo (oglasi)](https://www.bingotuzla.ba/bingooglasi) | ✅ | 7 | 0 |  |
-| [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 0 |  |
+| [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 1 |  |
 | [Centralna banka BiH (karijera)](https://www.cbbh.ba/career) | ✅ | 1 | 0 |  |
 | [D-ploy](https://apply.workable.com/d-ploy/) | ✅ | 1 | 0 |  |
 | [dzobs (IT poslovi)](https://dzobs.com/poslovi/1) | ✅ | 12 | 0 |  |
@@ -54,14 +54,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 32 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 36 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 0 |  |
 | [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
@@ -318,7 +318,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 26 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
 - [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 26 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
 - [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 20 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
-- [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 4 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
+- [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 3 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
 </details>
 
@@ -505,7 +505,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (32)</summary>
+<details><summary>linkedin_bih (47)</summary>
 
 - [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584)
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
@@ -561,7 +561,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>mojposao_it (36)</summary>
+<details><summary>mojposao_it (34)</summary>
 
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
@@ -569,7 +569,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Senior Embedded Security Engineer](https://www.mojposao.ba/posao/2ff980c4-d851-11f1-a8c0-42010a9c001a/senior-embedded-security-engineer)
 - [Senior Hardware Engineer](https://www.mojposao.ba/posao/e519174b-d851-11f1-a8c0-42010a9c001a/senior-hardware-engineer)
 - [Softverski developer za AI i poslovne aplikacije](https://www.mojposao.ba/posao/a4e4e32f-d3af-11f1-a8c0-42010a9c001a/softverski-developer-za-ai-i-poslovne-aplikacije)
-- [Medior software developer / software dizajner](https://www.mojposao.ba/posao/f07df1e7-c31a-11f1-a8c0-42010a9c001a/medior-software-developer--software-dizajner)
+- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
 - [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 
 </details>
@@ -640,11 +640,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
 - [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
