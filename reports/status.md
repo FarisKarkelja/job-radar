@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **08.11.2026 14:12** (Sarajevo)  
+Zadnje pokretanje: **08.11.2026 16:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -39,7 +39,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 1 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 2 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -317,7 +317,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [.Net Full Stack Developer QSS Sarajevo Medior jo š 25 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
 - [Firmware Developer Klika Banja Luka, Sarajevo Medior, Senior jo š 25 dana Remote](https://dzobs.com/posao/klika-699231/firmware-developer-355553)
 - [Data Analytics Engineer Klika Banja Luka, Sarajevo jo š 25 dana Remote](https://dzobs.com/posao/klika-699231/data-analytics-engineer-629327)
-- [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 20 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
+- [SAP HCM Consultant Lanaco Banja Luka, Sarajevo Junior, Medior, Senior jo š 19 dana](https://dzobs.com/posao/lanaco-111412/sap-hcm-consultant-503239)
 - [SAP Basis Consultant Lanaco Banja Luka, Sarajevo Medior, Senior jo š 3 dana](https://dzobs.com/posao/lanaco-111412/sap-basis-consultant-266049)
 
 </details>
@@ -640,11 +640,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
