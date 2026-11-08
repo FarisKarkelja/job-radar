@@ -22673,5 +22673,65 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-08T06:07:36+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Terenski komercijalista",
+  "url": "https://www.mojposao.ba/posao/221ac6a2-d91d-11f1-a8c0-42010a9c001a/terenski--komercijalista",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-08T06:07:36+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Asistent poslovne podrške (m/ž)",
+  "url": "https://www.mojposao.ba/posao/1346de3d-d795-11f1-a8c0-42010a9c001a/asistent-poslovne-podrske-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-08T06:07:36+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Kustos/Kustosica u galeriji slika",
+  "url": "https://www.mojposao.ba/posao/fea78db1-d6cc-11f1-a8c0-42010a9c001a/kustoskustosica-u-galeriji-slika",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-08T06:07:36+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Terenski komercijalista (m/ž)",
+  "url": "https://www.mojposao.ba/posao/0558bb1f-d9dc-11f1-a8c0-42010a9c001a/terenski-komercijalista-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-08T06:07:36+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Driver",
+  "url": "https://www.mojposao.ba/posao/d706ea3a-d90d-11f1-a8c0-42010a9c001a/driver",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

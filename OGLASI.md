@@ -4,6 +4,11 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 08.11. 07:07 | • [Terenski komercijalista](https://www.mojposao.ba/posao/221ac6a2-d91d-11f1-a8c0-42010a9c001a/terenski--komercijalista) | MojPosao IT |
+| 08.11. 07:07 | • [Asistent poslovne podrške (m/ž)](https://www.mojposao.ba/posao/1346de3d-d795-11f1-a8c0-42010a9c001a/asistent-poslovne-podrske-mz) | MojPosao IT |
+| 08.11. 07:07 | • [Kustos/Kustosica u galeriji slika](https://www.mojposao.ba/posao/fea78db1-d6cc-11f1-a8c0-42010a9c001a/kustoskustosica-u-galeriji-slika) | MojPosao IT |
+| 08.11. 07:07 | • [Terenski komercijalista (m/ž)](https://www.mojposao.ba/posao/0558bb1f-d9dc-11f1-a8c0-42010a9c001a/terenski-komercijalista-mz) | MojPosao IT |
+| 08.11. 07:07 | • [Driver](https://www.mojposao.ba/posao/d706ea3a-d90d-11f1-a8c0-42010a9c001a/driver) | MojPosao IT |
 | 07.11. 19:07 | • [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938) | Poslovni oglasi |
 | 07.11. 16:07 | • [Mechanical Design Engineer](https://www.linkedin.com/jobs/view/4486638370) · Connector Subsea Solutions | LinkedIn BiH |
 | 07.11. 13:07 | • [Administrativni radnik (m/ž)](https://www.mojposao.ba/posao/2472a83c-d9f0-11f1-a8c0-42010a9c001a/administrativni-radnik-mz) | MojPosao IT |
@@ -1499,8 +1504,3 @@
 | 02.11. 00:13 | •⏺ [JAVNI POZIV ZA UCESCE NA AUKCIJSKOJ PRODAJI br 74 ZA PRODAJU U NASELJU ROZAT, DUBROVNIK, REPUBLIKA HRVATSKA](https://www.park.ba/wp-content/uploads/2023/01/JAVNI-POZIV-ZA-NA-AUKCIJSKOJ-PRODAJI-br-74-ZA-PRODAJU-U-NASELJU-ROZAT-DUBROVNIK-REPUBLIKA-HRVATSKA.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [JAVNI POZIV ZA UCESCE NA AUKCIJSKOJ PRODAJI BR.73-ZA PRODAJU NEKRETNINA U NASELJU KOMOLAC , DUBROVNIK, REPUBLIKA HRVATSKA](https://www.park.ba/wp-content/uploads/2023/01/JAVNI-POZIV-ZA-UCESCE-NA-AUKCIJSKOJ-PRODAJI-BR.73-ZA-PRODAJU-NEKRETNINA-U-NASELJU-KOMOLAC-DUBROVNIK-REPUBLIKA-HRVATSKA.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o ponistenju dijela ponovnog javnog oglasa za prijem radnika u radni odnos- KV bravar](https://www.park.ba/wp-content/uploads/2023/01/Odluka-o-ponistenju-dijela-ponovnog-javnog-oglasa-za-prijem-radnika-u-radni-odnos-KV-bravar.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje javnog oglasa za popunu radnog mjesta KV radnik](https://www.park.ba/wp-content/uploads/2023/01/Poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-popunu-radnog-mjesta-KV-radnik.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos na neodredeno vrijeme u KJKP Park doo Sarajevo- RADNO MJESTO KV RADNIK i Izjava](https://www.park.ba/wp-content/uploads/2023/01/Javni-oglas-za-prijem-radnika-u-radni-odnos-na-neodredeno-vrijeme-u-KJKP-Park-doo-Sarajevo-RADNO-MJESTO-KV-RADNIK-i-Izjava.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit, te liste propis i literature iz koje će se polagati pismeni i usmeni ispit za dadno mjesto KV radnik](https://www.park.ba/wp-content/uploads/2023/01/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-te-liste-propis-i-literature-iz-koje-će-se-polagati-pismeni-i-usmeni-ispit-za-dadno-mjesto-KV-radnik.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [JAVNA LICITACIJA O PRODAJI VOZILA I MASINA I Obrazac za cijenu ponuda](https://www.park.ba/wp-content/uploads/2022/12/JAVNA-LICITACIJA-O-PRODAJI-VOZILA-I-MASINA-I-Obrazac-za-cijenu-ponuda.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje javnog oglasa prijem radnika na radna mjesta KV bravar, KV varioc i KV zidar u KJKP Park doo Sarajevo](https://www.park.ba/wp-content/uploads/2022/12/Poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-prijem-radnika-na-radna-mjesta-KV-bravar-KV-varioc-i-KV-zidar-u-KJKP-Park-doo-Sarajevo.pdf) | KJKP Park |

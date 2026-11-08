@@ -55,7 +55,12 @@
    "53f597fb-d84e-11f1-a8c0-42010a9c001a",
    "c69d929b-d90d-11f1-a8c0-42010a9c001a",
    "1fe526d7-d6a7-11f1-a8c0-42010a9c001a",
-   "2472a83c-d9f0-11f1-a8c0-42010a9c001a"
+   "2472a83c-d9f0-11f1-a8c0-42010a9c001a",
+   "221ac6a2-d91d-11f1-a8c0-42010a9c001a",
+   "1346de3d-d795-11f1-a8c0-42010a9c001a",
+   "fea78db1-d6cc-11f1-a8c0-42010a9c001a",
+   "0558bb1f-d9dc-11f1-a8c0-42010a9c001a",
+   "d706ea3a-d90d-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -2235,7 +2240,8 @@
    "hash:65cf4a364b58d7e8",
    "hash:14f1d0e7d10438d5",
    "hash:8a13cb0582649915",
-   "hash:92cfdeb6dfbcf54f"
+   "hash:92cfdeb6dfbcf54f",
+   "hash:3d1898fa95b11c0d"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2329,17 +2335,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
-   "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
+   "Detaljnije",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5108,13 +5114,14 @@
    "hash:bc9096c23fed681e",
    "hash:a09b67dcc142c114",
    "hash:26b4d53a766984eb",
-   "hash:280e0e2822bad7dc"
+   "hash:280e0e2822bad7dc",
+   "hash:3402b20f90fbbecd"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.8e51c317.1794097576.8501de7",
-   "https://errors.edgesuite.net/18.8e51c317.1794097576.8501de7"
+   "Reference #18.aaaa3717.1794118157.2b0a6000",
+   "https://errors.edgesuite.net/18.aaaa3717.1794118157.2b0a6000"
   ]
  },
  "asa_grupa": {
@@ -6906,7 +6913,8 @@
    "hash:0ebd48f112f8068c",
    "hash:19c9aeaa8929e8ae",
    "hash:a2f6e8f555cc38b5",
-   "hash:5f4253be4b77ed58"
+   "hash:5f4253be4b77ed58",
+   "hash:07000ef647fb68a3"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6914,7 +6922,7 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 147",
+   "1-20 od 146",
    "Stavki po stranici",
    "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Poslastičar i pekar",
