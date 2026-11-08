@@ -2247,7 +2247,8 @@
    "hash:9595a7663b850ba7",
    "hash:8b9ae5bf75658ce9",
    "hash:3a73761e60cd250d",
-   "hash:c98fe7468cf4d281"
+   "hash:c98fe7468cf4d281",
+   "hash:21df775a17e126cb"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2341,17 +2342,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
+   "Detaljnije",
    "Stambeni krediti",
    "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
-   "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
-   "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5127,13 +5128,14 @@
    "hash:949ffdcf1e3b17bb",
    "hash:f1b9f786f1b67aae",
    "hash:daecff01bb4ed380",
-   "hash:7a9af597781eb3ea"
+   "hash:7a9af597781eb3ea",
+   "hash:13675ba35bf84bc7"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.cb5ec817.1794166211.d1766f16",
-   "https://errors.edgesuite.net/18.cb5ec817.1794166211.d1766f16"
+   "Reference #18.cb5ec817.1794172152.d3f3df2b",
+   "https://errors.edgesuite.net/18.cb5ec817.1794172152.d3f3df2b"
   ]
  },
  "asa_grupa": {
