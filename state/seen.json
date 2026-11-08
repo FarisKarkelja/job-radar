@@ -2245,7 +2245,8 @@
    "hash:a69f420281e9255e",
    "hash:2e73c8ee01a81852",
    "hash:9595a7663b850ba7",
-   "hash:8b9ae5bf75658ce9"
+   "hash:8b9ae5bf75658ce9",
+   "hash:3a73761e60cd250d"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2339,17 +2340,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
-   "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
+   "Detaljnije",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
+   "Detaljnije",
    "Western Union",
    "Brz i siguran transfer novca",
-   "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5123,13 +5124,14 @@
    "hash:fb01439edebe8b12",
    "hash:484fd3714924d903",
    "hash:949ffdcf1e3b17bb",
-   "hash:f1b9f786f1b67aae"
+   "hash:f1b9f786f1b67aae",
+   "hash:daecff01bb4ed380"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.cb5ec817.1794150571.ca5e3a34",
-   "https://errors.edgesuite.net/18.cb5ec817.1794150571.ca5e3a34"
+   "Reference #18.8e51c317.1794161361.17b41c53",
+   "https://errors.edgesuite.net/18.8e51c317.1794161361.17b41c53"
   ]
  },
  "asa_grupa": {

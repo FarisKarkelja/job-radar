@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **08.11.2026 16:07** (Sarajevo)  
+Zadnje pokretanje: **08.11.2026 19:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -39,7 +39,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 1 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 2 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -640,11 +640,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
 - [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
@@ -883,9 +883,9 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 <details><summary>unsa_konkursi (10)</summary>
 
 - [Konkurs za izbor u akademska zvanja | Univerzitet u Sarajevu - Fakultet zdravstvenih studija](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19)
-- [Konkurs za izbor akademskog osoblja - nastavnika | Univerzitet u Sarajevu - Fakultet političkih nauka](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26)
+- [Konkurs za izbor akademskog osoblja - nastavnika | Univerzitet u Sarajevu - Fakultet političkih nauka](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26)
 - [Javni konkurs za izbor dekana Univerziteta u Sarajevu – Stomatološkog fakulteta](https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-dekana-univerziteta-u-sarajevu-stomatoloskog-fakulteta-0)
-- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
+- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-fakultet-za-2)
 - [Javni oglas za prijem u radni odnos | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-1)
 - [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-13)
 - [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Prirodno-matematički fakultet](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-prirodno-3)
