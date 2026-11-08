@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **08.11.2026 19:07** (Sarajevo)  
+Zadnje pokretanje: **08.11.2026 20:28** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -640,11 +640,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
 - [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
