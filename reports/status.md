@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **08.11.2026 13:07** (Sarajevo)  
+Zadnje pokretanje: **08.11.2026 14:12** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -311,7 +311,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>dzobs (12)</summary>
 
-- [Freelance Developer Zendev Sarajevo jo š 26 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827)
+- [Freelance Developer Zendev Sarajevo jo š 25 dana Remote](https://dzobs.com/posao/zendev-395410/freelance-developer-543827)
 - [Product Designer Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 25 dana Remote](https://dzobs.com/posao/symphony-164748/product-designer-386905)
 - [Data Architect Symphony Banja Luka, Sarajevo, Tuzla Senior jo š 25 dana Remote](https://dzobs.com/posao/symphony-164748/data-architect-862367)
 - [.Net Full Stack Developer QSS Sarajevo Medior jo š 25 dana](https://dzobs.com/posao/qss-909555/net-full-stack-developer-884130)
@@ -640,11 +640,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Mlijekoprodukt d.o.o.](https://poslovnioglasi.ba/company/142/mlijekoprodukt-d-o-o)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Kreditni službenik / Službenik za klijente (m/ž) Partner Mikrokreditno Društvo d.o.o. Laktaši Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/938)
 - [Vozač - Dostavljač - Automobil / Skuter Ćevabdžinica Zmaj Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/937)
 - [Outbound Call Center Agent BA SERVICES d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/936)
