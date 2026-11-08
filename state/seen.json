@@ -2241,7 +2241,8 @@
    "hash:14f1d0e7d10438d5",
    "hash:8a13cb0582649915",
    "hash:92cfdeb6dfbcf54f",
-   "hash:3d1898fa95b11c0d"
+   "hash:3d1898fa95b11c0d",
+   "hash:a69f420281e9255e"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2335,17 +2336,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Oročena štednja",
+   "Ulažite u budućnost",
+   "Detaljnije",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
-   "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5115,13 +5116,14 @@
    "hash:a09b67dcc142c114",
    "hash:26b4d53a766984eb",
    "hash:280e0e2822bad7dc",
-   "hash:3402b20f90fbbecd"
+   "hash:3402b20f90fbbecd",
+   "hash:fb01439edebe8b12"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.aaaa3717.1794118157.2b0a6000",
-   "https://errors.edgesuite.net/18.aaaa3717.1794118157.2b0a6000"
+   "Reference #18.b72d3e17.1794128974.1f042b24",
+   "https://errors.edgesuite.net/18.b72d3e17.1794128974.1f042b24"
   ]
  },
  "asa_grupa": {
@@ -5420,7 +5422,8 @@
    "hash:b8d6a82f133c4d55",
    "hash:1959d415f9dc41de",
    "hash:cc737f8c97a7c0a9",
-   "hash:40024db387f29f26"
+   "hash:40024db387f29f26",
+   "hash:a8d207f3ef3285b8"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5489,12 +5492,6 @@
    "Job type:",
    "Onsite",
    "Posted 4 days ago",
-   "Analyst Relations Intern",
-   "Location:",
-   "Zagreb (Croatia)",
-   "Job type:",
-   "Onsite",
-   "Posted 3 weeks ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
