@@ -337,7 +337,10 @@
    "2472a83c-d9f0-11f1-a8c0-42010a9c001a",
    "f6898347-d9f5-11f1-a8c0-42010a9c001a",
    "12d50eb5-cd4f-11f1-a8c0-42010a9c001a",
-   "d3d7c223-c706-11f1-a8c0-42010a9c001a"
+   "d3d7c223-c706-11f1-a8c0-42010a9c001a",
+   "ca2a31e0-dc21-11f1-a8c0-42010a9c001a",
+   "dc31c1b9-dc1e-11f1-a8c0-42010a9c001a",
+   "f89771f3-dc22-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -372,7 +375,8 @@
    "https://posao.klix.ba/oglasi/home-office-kundenberaterin-im-vertrieb-fur-sky-mwd-outbound-telus-digital/11005",
    "https://posao.klix.ba/oglasi/100-home-office-kundenberater-mwd-onlineversandhandel-telus-digital/11007",
    "https://posao.klix.ba/oglasi/prodavac-mz-at-store/11032",
-   "https://posao.klix.ba/oglasi/agent-telefonske-prodaje-telekom-usluga-mz-smak-solutions/11027"
+   "https://posao.klix.ba/oglasi/agent-telefonske-prodaje-telekom-usluga-mz-smak-solutions/11027",
+   "https://posao.klix.ba/oglasi/kundenberater-in-der-automobilindustrie-mw-tp/11043"
   ]
  },
  "itbase": {
@@ -532,7 +536,10 @@
    "https://www.linkedin.com/jobs/view/4488414022",
    "https://www.linkedin.com/jobs/view/4487522128",
    "https://www.linkedin.com/jobs/view/4477712584",
-   "https://www.linkedin.com/jobs/view/4486638370"
+   "https://www.linkedin.com/jobs/view/4486638370",
+   "https://www.linkedin.com/jobs/view/4487919032",
+   "https://www.linkedin.com/jobs/view/4487916034",
+   "https://www.linkedin.com/jobs/view/4487911143"
   ]
  },
  "glassrpske_konkursi": {
@@ -621,7 +628,15 @@
    "https://szks.ba/posao/javni-oglas-samostalni-referent-obaveza-i-potrazivanja-i-blagajnik",
    "https://szks.ba/posao/vozac-dostavljac-tmv-nosivosti-preko-35-tona-4",
    "https://szks.ba/posao/nastavnik-razredne-nastave-65",
-   "https://szks.ba/posao/nastavnik-fizike-18"
+   "https://szks.ba/posao/nastavnik-fizike-18",
+   "https://szks.ba/posao/nastavnik-strucno-teorijske-nastave-elektro-grupa-predmeta",
+   "https://szks.ba/posao/logoped-u-sastavu-mobilnog-strucnog-tima-za-pruzanje-podrske-inkluzivnom-obrazovanju",
+   "https://szks.ba/posao/sekretar-3",
+   "https://szks.ba/posao/zebax-110-prodaja-autodijelova-z",
+   "https://szks.ba/posao/poliklinika-estiva-110-medicinska-sestra-tehnicar",
+   "https://szks.ba/posao/ovest-166-medicinska-sestra-tehnicar-2",
+   "https://szks.ba/posao/free-style-166-frizer-2",
+   "https://szks.ba/posao/poliklinika-estiva-110-laboratorijski-tehnicar"
   ]
  },
  "zdk_szz": {
@@ -1557,7 +1572,8 @@
  },
  "nlb_bl": {
   "keys": [
-   "hash:3790f487616fd687"
+   "hash:3790f487616fd687",
+   "hash:727b4ba61f72f81c"
   ],
   "lines": [
    "Pređi na sadržaj",
@@ -1766,7 +1782,10 @@
    "Lista otvorenih pozicija",
    "Drago nam je što ste pokazali interesovanje da postanete dio tima NLB, članice NLB Grupe, jedne od vodećih finansijskih grupacija u regionu Jugoistočne evrope. Mi predstavljamo najbolji izbor.",
    "Samoinicijativna prijava za posao",
-   "Prijave na oglase moguće je podnijeti putem web forme Samoinicijativna prijava za posao. Pridružite se NLB timu i gradite svoju karijeru u okruženju koje podstiče razvoj, saradnju i profesionalni napredak.",
+   "SPECIJALISTA ZA UPRAVLJANJE PROJEKTIMA I POSLOVNIM PROCESIMA",
+   "Lokacija:",
+   "Tip:",
+   "Više informacija",
    "Pokaži više",
    "O BANCI",
    "O BANCI",
@@ -2261,7 +2280,8 @@
    "hash:21df775a17e126cb",
    "hash:7aaeda935714228e",
    "hash:1546e2ac18ae170d",
-   "hash:33c6e8b63e384420"
+   "hash:33c6e8b63e384420",
+   "hash:c029a9142f352b5c"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2355,17 +2375,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Western Union",
-   "Brz i siguran transfer novca",
-   "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
    "Stambeni krediti",
    "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
+   "Detaljnije",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4244,7 +4264,9 @@
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aeb16428c2d30.03753350.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aead8af0db814.31049434.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aed7338e85df7.11977830.pdf",
-   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6af165773815c5.00508418.pdf"
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6af165773815c5.00508418.pdf",
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6af1b44c2bc498.04919418.pdf",
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6af19ead3ee406.60293760.pdf"
   ]
  },
  "unsa_konkursi": {
@@ -4285,7 +4307,17 @@
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-nastavnika-univerzitet-u-sarajevu-fakultet-26",
-   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19"
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademska-zvanja-univerzitet-u-sarajevu-fakultet-zdravstvenih-19",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-1",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-u-akademsko-zvanje-univerzitet-u-sarajevu-8",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-0",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-saradnicko-zvanje-univerzitet-u-sarajevu-gradevinski-1",
+   "https://www.unsa.ba/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-neodredeno-vrijeme-univerzitet-u-sarajevu-18",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-naucno-nastavna-zvanja-univerzitet-u-sarajevu-medicinski-fakultet-28",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-naucno-nastavna-zvanja-univerzitet-u-sarajevu-medicinski-fakultet-27",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-naucno-nastavna-zvanja-univerzitet-u-sarajevu-medicinski-fakultet-26",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-9",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu-fakultet-za-0"
   ]
  },
  "untz_konkursi": {
@@ -5153,13 +5185,14 @@
    "hash:13675ba35bf84bc7",
    "hash:230d4988af420ef9",
    "hash:9b04b811a9c7bec7",
-   "hash:0b89f967b237ab44"
+   "hash:0b89f967b237ab44",
+   "hash:6f8757e7ddcbfa6a"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.127b3517.1794215377.1b71af5b",
-   "https://errors.edgesuite.net/18.127b3517.1794215377.1b71af5b"
+   "Reference #18.bbaa3717.1794226150.16c5df61",
+   "https://errors.edgesuite.net/18.bbaa3717.1794226150.16c5df61"
   ]
  },
  "asa_grupa": {
@@ -6838,7 +6871,9 @@
    "https://poslovnioglasi.ba/company-ad-details/933",
    "https://poslovnioglasi.ba/company-ad-details/936",
    "https://poslovnioglasi.ba/company-ad-details/937",
-   "https://poslovnioglasi.ba/company-ad-details/938"
+   "https://poslovnioglasi.ba/company-ad-details/938",
+   "https://poslovnioglasi.ba/company-ad-details/940",
+   "https://poslovnioglasi.ba/company-ad-details/939"
   ]
  },
  "ads_bih": {
