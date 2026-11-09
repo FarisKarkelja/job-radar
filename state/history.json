@@ -23645,5 +23645,65 @@
   "priority": 4,
   "match": ".net",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T15:58:31+00:00",
+  "source": "dzobs",
+  "source_name": "dzobs (IT poslovi)",
+  "title": "C Developer Crossvallia Sarajevo Senior jo š 33 dana Remote",
+  "url": "https://dzobs.com/posao/crossvallia-336512/c-developer-639546",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "developer",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T15:58:31+00:00",
+  "source": "dzobs",
+  "source_name": "dzobs (IT poslovi)",
+  "title": "UX/UI Designer Imperea Zenica Junior, Medior, Senior jo š 33 dana Remote",
+  "url": "https://dzobs.com/posao/imperea-405010/uxui-designer-982926",
+  "company": "",
+  "it": true,
+  "priority": 5,
+  "match": "ux",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T15:58:31+00:00",
+  "source": "dzobs",
+  "source_name": "dzobs (IT poslovi)",
+  "title": "DevOps Engineer – Fintech SaaS OGO Sense Banja Luka Medior jo š 33 dana",
+  "url": "https://dzobs.com/posao/ogo-sense-193132/devops-engineer-fintech-saas-291943",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "devops",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T15:58:31+00:00",
+  "source": "dzobs",
+  "source_name": "dzobs (IT poslovi)",
+  "title": "Event/Project Organizer – Marketing Team Crossvallia Banja Luka, Sarajevo Medior, Senior jo š 33 dana",
+  "url": "https://dzobs.com/posao/crossvallia-336512/eventproject-organizer-marketing-team-378913",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T15:58:31+00:00",
+  "source": "dzobs",
+  "source_name": "dzobs (IT poslovi)",
+  "title": "Systems Administrator Crossvallia Sarajevo Medior, Senior jo š 33 dana",
+  "url": "https://dzobs.com/posao/crossvallia-336512/systems-administrator-386402",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "",
+  "snippet": ""
  }
 ]

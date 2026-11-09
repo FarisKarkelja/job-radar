@@ -2295,7 +2295,8 @@
    "hash:1546e2ac18ae170d",
    "hash:33c6e8b63e384420",
    "hash:c029a9142f352b5c",
-   "hash:709171d87c48e832"
+   "hash:709171d87c48e832",
+   "hash:3b5edf19742d5a65"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2389,17 +2390,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
-   "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
    "Mastercard Gold kreditna kartica",
    "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4386,7 +4387,12 @@
    "https://dzobs.com/posao/zentury-media-794544/full-stack-software-developer-592597",
    "https://dzobs.com/posao/cape-ann-enterprises-948817/iga-engineer-579937",
    "https://dzobs.com/posao/cape-ann-enterprises-948817/senior-backend-engineer-287485",
-   "https://dzobs.com/posao/htec-group-654157/experienced-net-engineer-536214"
+   "https://dzobs.com/posao/htec-group-654157/experienced-net-engineer-536214",
+   "https://dzobs.com/posao/crossvallia-336512/c-developer-639546",
+   "https://dzobs.com/posao/imperea-405010/uxui-designer-982926",
+   "https://dzobs.com/posao/ogo-sense-193132/devops-engineer-fintech-saas-291943",
+   "https://dzobs.com/posao/crossvallia-336512/eventproject-organizer-marketing-team-378913",
+   "https://dzobs.com/posao/crossvallia-336512/systems-administrator-386402"
   ]
  },
  "dzobs_praksa": {
@@ -4978,13 +4984,14 @@
    "hash:9b04b811a9c7bec7",
    "hash:0b89f967b237ab44",
    "hash:6f8757e7ddcbfa6a",
-   "hash:4b1232aedaaa4ea9"
+   "hash:4b1232aedaaa4ea9",
+   "hash:b86a87818d926836"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.56951eb8.1794236991.164862f",
-   "https://errors.edgesuite.net/18.56951eb8.1794236991.164862f"
+   "Reference #18.d3c83017.1794240019.f86f34",
+   "https://errors.edgesuite.net/18.d3c83017.1794240019.f86f34"
   ]
  },
  "asa_grupa": {
@@ -5285,7 +5292,8 @@
    "hash:cc737f8c97a7c0a9",
    "hash:40024db387f29f26",
    "hash:a8d207f3ef3285b8",
-   "hash:771b9b047d7406de"
+   "hash:771b9b047d7406de",
+   "hash:875b5846b1146252"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5353,7 +5361,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
