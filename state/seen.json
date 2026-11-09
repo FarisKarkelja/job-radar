@@ -550,7 +550,11 @@
    "https://www.linkedin.com/jobs/view/4487911143",
    "https://www.linkedin.com/jobs/view/4451635615",
    "https://www.linkedin.com/jobs/view/4476780382",
-   "https://www.linkedin.com/jobs/view/4487111055"
+   "https://www.linkedin.com/jobs/view/4487111055",
+   "https://www.linkedin.com/jobs/view/4487174775",
+   "https://www.linkedin.com/jobs/view/4487155983",
+   "https://www.linkedin.com/jobs/view/4487190194",
+   "https://www.linkedin.com/jobs/view/4487633954"
   ]
  },
  "glassrpske_konkursi": {
@@ -2296,7 +2300,8 @@
    "hash:33c6e8b63e384420",
    "hash:c029a9142f352b5c",
    "hash:709171d87c48e832",
-   "hash:3b5edf19742d5a65"
+   "hash:3b5edf19742d5a65",
+   "hash:17e3afdbdb4b6f48"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2390,17 +2395,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
-   "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
    "Detaljnije",
    "Oročena štednja",
    "Ulažite u budućnost",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
+   "Detaljnije",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4335,7 +4340,14 @@
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-naucno-nastavna-zvanja-univerzitet-u-sarajevu-medicinski-fakultet-26",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-9",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu-fakultet-za-0",
-   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-pravni-fakultet-18"
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-pravni-fakultet-18",
+   "https://www.unsa.ba/konkursi/odluka-o-ponistenju-javnog-oglasa-objavljenog-02-10-2026-godine-univerzitet-u-sarajevu",
+   "https://www.unsa.ba/konkursi/odluka-o-ponistenju-javnog-oglasa-objavljenog-13-11-2025-godine-univerzitet-u-sarajevu",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-0",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-saradnicko-zvanje-univerzitet-u-sarajevu-gradevinski-1",
+   "https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-neodredeno-vrijeme-univerzitet-u-sarajevu-18",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-naucno-nastavna-zvanja-univerzitet-u-sarajevu-medicinski-fakultet-28",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-naucno-nastavna-zvanja-univerzitet-u-sarajevu-medicinski-fakultet-27"
   ]
  },
  "untz_konkursi": {
@@ -4985,13 +4997,14 @@
    "hash:0b89f967b237ab44",
    "hash:6f8757e7ddcbfa6a",
    "hash:4b1232aedaaa4ea9",
-   "hash:b86a87818d926836"
+   "hash:b86a87818d926836",
+   "hash:d17581876715d73f"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.d3c83017.1794240019.f86f34",
-   "https://errors.edgesuite.net/18.d3c83017.1794240019.f86f34"
+   "Reference #18.370c3417.1794247773.4df55190",
+   "https://errors.edgesuite.net/18.370c3417.1794247773.4df55190"
   ]
  },
  "asa_grupa": {
@@ -6674,7 +6687,8 @@
    "https://poslovnioglasi.ba/company-ad-details/938",
    "https://poslovnioglasi.ba/company-ad-details/940",
    "https://poslovnioglasi.ba/company-ad-details/939",
-   "https://poslovnioglasi.ba/company-ad-details/941"
+   "https://poslovnioglasi.ba/company-ad-details/941",
+   "https://poslovnioglasi.ba/company-ad-details/942"
   ]
  },
  "ads_bih": {
