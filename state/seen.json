@@ -62,7 +62,8 @@
    "0558bb1f-d9dc-11f1-a8c0-42010a9c001a",
    "d706ea3a-d90d-11f1-a8c0-42010a9c001a",
    "e3cc4982-d9f1-11f1-a8c0-42010a9c001a",
-   "0a9a7b69-d864-11f1-a8c0-42010a9c001a"
+   "0a9a7b69-d864-11f1-a8c0-42010a9c001a",
+   "b10299d7-dc13-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -617,7 +618,10 @@
    "https://szks.ba/posao/pametnica-110-uciteljica",
    "https://szks.ba/posao/nastavnik-ica-hemije-4",
    "https://szks.ba/posao/administrativni-radnik-44",
-   "https://szks.ba/posao/javni-oglas-samostalni-referent-obaveza-i-potrazivanja-i-blagajnik"
+   "https://szks.ba/posao/javni-oglas-samostalni-referent-obaveza-i-potrazivanja-i-blagajnik",
+   "https://szks.ba/posao/vozac-dostavljac-tmv-nosivosti-preko-35-tona-4",
+   "https://szks.ba/posao/nastavnik-razredne-nastave-65",
+   "https://szks.ba/posao/nastavnik-fizike-18"
   ]
  },
  "zdk_szz": {
@@ -2256,7 +2260,8 @@
    "hash:c98fe7468cf4d281",
    "hash:21df775a17e126cb",
    "hash:7aaeda935714228e",
-   "hash:1546e2ac18ae170d"
+   "hash:1546e2ac18ae170d",
+   "hash:33c6e8b63e384420"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2350,17 +2355,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Stambeni krediti",
    "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
-   "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4168,7 +4173,13 @@
    "https://szz-zzh.ba/2025/05/16/okel-invest-trazi-djelatnika",
    "https://szz-zzh.ba/2025/05/15/audio-team-trazi-radnika",
    "https://szz-zzh.ba/2025/05/15/djelatnik-na-odrzavanju-eurocompany",
-   "https://szz-zzh.ba/2025/05/15/coicopco"
+   "https://szz-zzh.ba/2025/05/15/coicopco",
+   "https://szz-zzh.ba/2026/11/09/markeli-zaposljava-u-sirokom-brijegu-nudi-se-mogucnost-stalnog-radnog-odnosa",
+   "https://szz-zzh.ba/2026/11/09/caffe-bar-fonte-u-sirokom-brijegu-zaposljava-rad-pet-dana-u-tjednu-uz-brojne-pogodnosti",
+   "https://szz-zzh.ba/2026/11/09/ktm-brina-trazi-vise-bagerista-evo-sto-nude-buducim-zaposlenicima",
+   "https://szz-zzh.ba/2026/11/09/ktm-brina-raspisala-natjecaj-za-posao-evo-koga-traze-i-sto-nude",
+   "https://szz-zzh.ba/2026/11/09/javna-ustanova-u-zzh-trazi-novog-ravnatelja-kandidat-ne-smije-biti-na-polozaju-u-stranci",
+   "https://szz-zzh.ba/2026/11/09/sjemenarna-zaposljava-trgovca-u-agrocentru-u-sirokom-brijegu"
   ]
  },
  "szz_tk": {
@@ -4232,7 +4243,8 @@
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6ae9e26c7748b6.38965689.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aeb16428c2d30.03753350.pdf",
    "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aead8af0db814.31049434.pdf",
-   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aed7338e85df7.11977830.pdf"
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6aed7338e85df7.11977830.pdf",
+   "https://szzbpk.ba/szzbpkoglasi/uploads/oglas_6af165773815c5.00508418.pdf"
   ]
  },
  "unsa_konkursi": {
@@ -5140,13 +5152,14 @@
    "hash:7a9af597781eb3ea",
    "hash:13675ba35bf84bc7",
    "hash:230d4988af420ef9",
-   "hash:9b04b811a9c7bec7"
+   "hash:9b04b811a9c7bec7",
+   "hash:0b89f967b237ab44"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.8e51c317.1794204564.251a8aab",
-   "https://errors.edgesuite.net/18.8e51c317.1794204564.251a8aab"
+   "Reference #18.127b3517.1794215377.1b71af5b",
+   "https://errors.edgesuite.net/18.127b3517.1794215377.1b71af5b"
   ]
  },
  "asa_grupa": {
@@ -6936,7 +6949,8 @@
    "hash:a2f6e8f555cc38b5",
    "hash:5f4253be4b77ed58",
    "hash:07000ef647fb68a3",
-   "hash:cc783a946ee6da56"
+   "hash:cc783a946ee6da56",
+   "hash:df0da0cc735df421"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6944,7 +6958,7 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 146",
+   "1-20 od 147",
    "Stavki po stranici",
    "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Poslastičar i pekar",
@@ -6989,8 +7003,12 @@
    "Одређено време",
    "5. nov - 5. dec 2026.",
    "\"TOP-CLEAN\" Aleksandar Zubić s.p. BanjaLuka",
-   "Комерцијалиста-,,ЗРАК -ДКС” д.о.о. Теслић",
+   "Radnik u hemijskoj čistionici",
    "\"TOP-CLEAN\" Aleksandar Zubić s.p. BanjaLuka",
+   "Бања Лука",
+   "Неодређено време",
+   "9. nov - 11. dec 2026.",
+   "Комерцијалиста-,,ЗРАК -ДКС” д.о.о. Теслић",
    "Теслић",
    "Одређено време",
    "5. nov - 5. dec 2026.",
@@ -7006,9 +7024,7 @@
    "Бања Лука",
    "Неодређено време",
    "4. nov - 4. dec 2026.",
-   "\"ANG\" d.o.o. Banja Luka",
    "ШИВАЧ-„OX Europe“ ДОО ГРАДИШКА",
-   "\"ANG\" d.o.o. Banja Luka",
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -7022,9 +7038,7 @@
    "Мркоњић Град",
    "Одређено време",
    "4. nov - 12. nov 2026.",
-   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "ЈУ Гимназија „Филип Вишњић“ Бијељина",
-   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "Бијељина",
    "Одређено време",
    "4. nov - 12. nov 2026.",
@@ -7034,9 +7048,7 @@
    "Источна Илиџа",
    "Неодређено време",
    "4. nov - 5. feb 2027.",
-   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "ПУ Клуб за дјецу „Звјездица“ Бања Лука",
-   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "Бања Лука",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -7046,18 +7058,12 @@
    "Градишка",
    "Одређено време",
    "4. nov - 19. nov 2026.",
-   "JU OŠ \"Kozarska djeca\" Gradiška",
    "ЈУ ОШ „Десанка Максимовић“ Горњи Рибни",
-   "JU OŠ \"Kozarska djeca\" Gradiška",
    "Рибник",
    "Одређено време",
    "4. nov - 12. nov 2026.",
    "Исправка конкурса ЈУ ОШ „Дринић“ Дринић, Петровац",
    "Бања Лука, Петровац",
-   "Одређено време",
-   "4. nov - 12. nov 2026.",
-   "ЈУ ОШ ,,Вук Караџић“ Бараћи, Мркоњић Град",
-   "Мркоњић Град",
    "Одређено време",
    "4. nov - 12. nov 2026."
   ]
