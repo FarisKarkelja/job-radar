@@ -616,7 +616,8 @@
    "https://szks.ba/posao/nastavnik-osnove-tehnike-2",
    "https://szks.ba/posao/pametnica-110-uciteljica",
    "https://szks.ba/posao/nastavnik-ica-hemije-4",
-   "https://szks.ba/posao/administrativni-radnik-44"
+   "https://szks.ba/posao/administrativni-radnik-44",
+   "https://szks.ba/posao/javni-oglas-samostalni-referent-obaveza-i-potrazivanja-i-blagajnik"
   ]
  },
  "zdk_szz": {
@@ -2254,7 +2255,8 @@
    "hash:3a73761e60cd250d",
    "hash:c98fe7468cf4d281",
    "hash:21df775a17e126cb",
-   "hash:7aaeda935714228e"
+   "hash:7aaeda935714228e",
+   "hash:1546e2ac18ae170d"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2348,17 +2350,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
+   "Detaljnije",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
+   "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
-   "Detaljnije",
    "Mastercard Gold kreditna kartica",
    "Dobro došli u svijet pogodnosti!",
-   "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5137,13 +5139,14 @@
    "hash:daecff01bb4ed380",
    "hash:7a9af597781eb3ea",
    "hash:13675ba35bf84bc7",
-   "hash:230d4988af420ef9"
+   "hash:230d4988af420ef9",
+   "hash:9b04b811a9c7bec7"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.56951eb8.1794185125.4855bf30",
-   "https://errors.edgesuite.net/18.56951eb8.1794185125.4855bf30"
+   "Reference #18.8e51c317.1794204564.251a8aab",
+   "https://errors.edgesuite.net/18.8e51c317.1794204564.251a8aab"
   ]
  },
  "asa_grupa": {
@@ -6932,7 +6935,8 @@
    "hash:19c9aeaa8929e8ae",
    "hash:a2f6e8f555cc38b5",
    "hash:5f4253be4b77ed58",
-   "hash:07000ef647fb68a3"
+   "hash:07000ef647fb68a3",
+   "hash:cc783a946ee6da56"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -6984,7 +6988,9 @@
    "Приједор",
    "Одређено време",
    "5. nov - 5. dec 2026.",
+   "\"TOP-CLEAN\" Aleksandar Zubić s.p. BanjaLuka",
    "Комерцијалиста-,,ЗРАК -ДКС” д.о.о. Теслић",
+   "\"TOP-CLEAN\" Aleksandar Zubić s.p. BanjaLuka",
    "Теслић",
    "Одређено време",
    "5. nov - 5. dec 2026.",
@@ -7000,7 +7006,9 @@
    "Бања Лука",
    "Неодређено време",
    "4. nov - 4. dec 2026.",
+   "\"ANG\" d.o.o. Banja Luka",
    "ШИВАЧ-„OX Europe“ ДОО ГРАДИШКА",
+   "\"ANG\" d.o.o. Banja Luka",
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -7014,7 +7022,9 @@
    "Мркоњић Град",
    "Одређено време",
    "4. nov - 12. nov 2026.",
+   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "ЈУ Гимназија „Филип Вишњић“ Бијељина",
+   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "Бијељина",
    "Одређено време",
    "4. nov - 12. nov 2026.",
@@ -7024,7 +7034,9 @@
    "Источна Илиџа",
    "Неодређено време",
    "4. nov - 5. feb 2027.",
+   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "ПУ Клуб за дјецу „Звјездица“ Бања Лука",
+   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "Бања Лука",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -7034,7 +7046,9 @@
    "Градишка",
    "Одређено време",
    "4. nov - 19. nov 2026.",
+   "JU OŠ \"Kozarska djeca\" Gradiška",
    "ЈУ ОШ „Десанка Максимовић“ Горњи Рибни",
+   "JU OŠ \"Kozarska djeca\" Gradiška",
    "Рибник",
    "Одређено време",
    "4. nov - 12. nov 2026.",

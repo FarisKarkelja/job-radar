@@ -4,6 +4,7 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 09.11. 07:07 | • [JAVNI OGLAS -Samostalni referent obaveza i potraživanja i blagajnik](https://szks.ba/posao/javni-oglas-samostalni-referent-obaveza-i-potrazivanja-i-blagajnik) · UNIVERZITET U SARAJEVU – STOMATOLOŠKI KLINIČKI CENTAR | SZKS (Služba za zapošljavanje KS) |
 | 09.11. 01:43 | • [Referent nabavke](https://www.mojposao.ba/posao/e3cc4982-d9f1-11f1-a8c0-42010a9c001a/referent-nabavke) | MojPosao IT |
 | 09.11. 01:43 | • [Specijalista za analizu podataka i upravljanje podacima](https://www.mojposao.ba/posao/0a9a7b69-d864-11f1-a8c0-42010a9c001a/specijalista-za-analizu-podataka-i-upravljanje-podacima) | MojPosao IT |
 | 09.11. 01:43 | • [Skladišni radnik (m/ž)](https://www.mojposao.ba/posao/12d50eb5-cd4f-11f1-a8c0-42010a9c001a/skladisni-radnik-mz) | MojPosao Kanton Sarajevo |
@@ -1503,4 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos na odredeno vrijeme u KJKP Park doo Sarajevo- RADNIK NA ODRZAVANJU JAVNE RASVJETE i Izjava o koristenju licnih podataka](https://www.park.ba/wp-content/uploads/2023/04/Javni-oglas-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-KJKP-Park-doo-Sarajevo-RADNIK-NA-ODRZAVANJU-JAVNE-RASVJETE-i-Izjava-o-koristenju-licnih-podataka.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispit i liste propisa i literature iz oblasti iz koje će se polagati pismeni i usmeni ispit za radno mjesto RADNIK NA ODRZAVANJU JAVNE RASVJETE](https://www.park.ba/wp-content/uploads/2023/04/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispit-i-liste-propisa-i-literature-iz-oblasti-iz-koje-će-se-polagati-pismeni-i-usmeni-ispit-za-radno-mjesto-RADNIK-NA-ODRZAVANJU-JAVNE-RASVJETE.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje javnog oglasa za prijem radnika- STRUCNI SARADNIK ZA PRAVNE POSLOVE](https://www.park.ba/wp-content/uploads/2023/04/Poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-za-prijem-u-radnika-STRUCNI-SARADNIK-ZA-PRAVNE-POSLOVE.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS za prijem radnika u radni odnos na neodredeno vrijeme u KJKP Park doo Sarajevo na radno mjesto STRUCNI SARADNIK ZA PRAVNE POSLOVE](https://www.park.ba/wp-content/uploads/2023/04/JAVNI-OGLAS-za-prijem-radnika-u-radni-odnos-na-neodredeno-vrijeme-u-KJKP-Park-doo-sarajevo-na-radno-mjesto-STRUCNI-SARADNIK-ZA-PRAVNE-POSLOVE.pdf) | KJKP Park |

@@ -22793,5 +22793,17 @@
   "priority": 3,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T06:07:35+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "JAVNI OGLAS -Samostalni referent obaveza i potraživanja i blagajnik",
+  "url": "https://szks.ba/posao/javni-oglas-samostalni-referent-obaveza-i-potrazivanja-i-blagajnik",
+  "company": "UNIVERZITET U SARAJEVU – STOMATOLOŠKI KLINIČKI CENTAR",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]
