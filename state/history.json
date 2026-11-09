@@ -23849,5 +23849,29 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T21:10:07+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Prodavac - Sinsay Tomislavgrad",
+  "url": "https://www.linkedin.com/jobs/view/4487933899",
+  "company": "LPP BH",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T21:10:07+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Prodavac - Sinsay Goražde",
+  "url": "https://www.linkedin.com/jobs/view/4487953061",
+  "company": "LPP BH",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

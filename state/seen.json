@@ -554,7 +554,9 @@
    "https://www.linkedin.com/jobs/view/4487174775",
    "https://www.linkedin.com/jobs/view/4487155983",
    "https://www.linkedin.com/jobs/view/4487190194",
-   "https://www.linkedin.com/jobs/view/4487633954"
+   "https://www.linkedin.com/jobs/view/4487633954",
+   "https://www.linkedin.com/jobs/view/4487933899",
+   "https://www.linkedin.com/jobs/view/4487953061"
   ]
  },
  "glassrpske_konkursi": {
@@ -2301,7 +2303,8 @@
    "hash:c029a9142f352b5c",
    "hash:709171d87c48e832",
    "hash:3b5edf19742d5a65",
-   "hash:17e3afdbdb4b6f48"
+   "hash:17e3afdbdb4b6f48",
+   "hash:b9dee12b6cb9746d"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2398,14 +2401,14 @@
    "Optimum paket",
    "Plaćajte manje, koristite više!",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4998,13 +5001,14 @@
    "hash:6f8757e7ddcbfa6a",
    "hash:4b1232aedaaa4ea9",
    "hash:b86a87818d926836",
-   "hash:d17581876715d73f"
+   "hash:d17581876715d73f",
+   "hash:66cf0dde9573ada4"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.370c3417.1794247773.4df55190",
-   "https://errors.edgesuite.net/18.370c3417.1794247773.4df55190"
+   "Reference #18.9bf93117.1794258709.689ebff",
+   "https://errors.edgesuite.net/18.9bf93117.1794258709.689ebff"
   ]
  },
  "asa_grupa": {
@@ -5838,7 +5842,8 @@
    "hash:ed2999829e4c46cd",
    "hash:9db117f6e43c32d4",
    "hash:d7df558fa5e948ce",
-   "hash:e1ef31938c429ab1"
+   "hash:e1ef31938c429ab1",
+   "hash:733ae03c1e82358c"
   ],
   "lines": [
    "Skip to content",
@@ -5895,6 +5900,9 @@
    "Job Title",
    "Location",
    "AI Engineer",
+   "Location",
+   "Remote, Brazil, Dominican Republic, Argentina, Mexico, Costa Rica",
+   "AI Scrum master",
    "Location",
    "Remote, Brazil, Dominican Republic, Argentina, Mexico, Costa Rica",
    "AP Lab: Join the Talent Pool for Our Next Session",

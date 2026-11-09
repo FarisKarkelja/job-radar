@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **09.11.2026 19:07** (Sarajevo)  
+Zadnje pokretanje: **09.11.2026 22:10** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -21,7 +21,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 0 |  |
 | [Atlantbh praksa](https://atlantbh.com/internship/) | ✅ | 1 | 0 |  |
 | [ATOS banka (karijera)](https://www.atosbank.ba/content/read/karijera) | ✅ | 1 | 1 |  |
-| [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 0 |  |
+| [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 1 |  |
 | [BBI Banka (karijera)](https://bbi.ba/karijera) | ✅ | 1 | 0 |  |
 | [BH Gas (javni oglasi)](https://www.bh-gas.ba/javni-oglasi) | ✅ | 2 | 0 |  |
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 3 | 0 |  |
@@ -54,7 +54,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 44 | 4 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 45 | 2 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -70,7 +70,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 1 |  |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
 | [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
@@ -101,7 +101,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [UniCredit Bank Banja Luka (karijera)](https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 7 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
 | [Univerzitet u Tuzli (konkursi)](https://untz.ba/konkursi) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
@@ -506,7 +506,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (44)</summary>
+<details><summary>linkedin_bih (45)</summary>
 
 - [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584)
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
@@ -571,7 +571,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Senior Embedded Security Engineer](https://www.mojposao.ba/posao/2ff980c4-d851-11f1-a8c0-42010a9c001a/senior-embedded-security-engineer)
 - [Senior Hardware Engineer](https://www.mojposao.ba/posao/e519174b-d851-11f1-a8c0-42010a9c001a/senior-hardware-engineer)
 - [Softverski developer za AI i poslovne aplikacije](https://www.mojposao.ba/posao/a4e4e32f-d3af-11f1-a8c0-42010a9c001a/softverski-developer-za-ai-i-poslovne-aplikacije)
-- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
+- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 
 </details>
 
@@ -641,11 +641,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [Magacioner (samo muškarci) Hoše-komerc d.o.o. Sarajevo-Butile Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/942)
 - [Asistent poslovne podrške (m/ž) "INTRAS" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/941)
 - [Kotlovničar Hotel Radon Plaza Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/940)
@@ -888,9 +888,9 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Konkurs za izbor u akademsko zvanje | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-pravni-fakultet-18)
 - [Konkurs za izbor u akademsko zvanje | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-1)
 - [Konkurs za izbor akademskog osoblja u akademsko zvanje | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-u-akademsko-zvanje-univerzitet-u-sarajevu-8)
-- [Konkurs za izbor u akademsko zvanje | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-0)
-- [Konkurs za izbor u akademsko saradničko zvanje | Univerzitet u Sarajevu - Građevinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-saradnicko-zvanje-univerzitet-u-sarajevu-gradevinski-1)
-- [Javni oglas za prijem u radni odnos na neodređeno vrijeme | Univerzitet u Sarajevu - Stomatološki klinički centar](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-neodredeno-vrijeme-univerzitet-u-sarajevu-18)
+- [Konkurs za izbor u akademsko zvanje | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-0)
+- [Konkurs za izbor u akademsko saradničko zvanje | Univerzitet u Sarajevu - Građevinski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-akademsko-saradnicko-zvanje-univerzitet-u-sarajevu-gradevinski-1)
+- [Javni oglas za prijem u radni odnos na neodređeno vrijeme | Univerzitet u Sarajevu - Stomatološki klinički centar](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-u-radni-odnos-na-neodredeno-vrijeme-univerzitet-u-sarajevu-18)
 
 </details>
 

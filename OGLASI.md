@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 09.11. 22:10 | • [Prodavac - Sinsay Tomislavgrad](https://www.linkedin.com/jobs/view/4487933899) · LPP BH | LinkedIn BiH |
+| 09.11. 22:10 | • [Prodavac - Sinsay Goražde](https://www.linkedin.com/jobs/view/4487953061) · LPP BH | LinkedIn BiH |
 | 09.11. 19:07 | • [Prodavac - Sinsay Tomislavgrad](https://www.linkedin.com/jobs/view/4487174775) · LPP BH | LinkedIn BiH |
 | 09.11. 19:07 | • [Administrative Officer (m/f)](https://www.linkedin.com/jobs/view/4487155983) · DEKRA Arbeit Group Bosnia and Herzegovina | LinkedIn BiH |
 | 09.11. 19:07 | • [Prodavac - Sinsay Gora&#x17E;de](https://www.linkedin.com/jobs/view/4487190194) · LPP BH | LinkedIn BiH |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Odluka za usmeni i pismeni ispit za radnika na održavanju javne rasvjete](https://www.park.ba/wp-content/uploads/2025/06/odluka-za-usmeni-i-pismeni-ispit-za-radnika-na-održavanju-javne-rasvjete-.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Poslovnik o radu komisije za provodenje Javnog oglasa za radno mjesto POMOCNI RADNIK U ODJELU ZANATSKI RADOVI, REKREATIVNO SPOTSKA IGRALISTA I PARKOVSKI MOBILIJAR](https://www.park.ba/wp-content/uploads/2025/04/Poslovnik-o-radu-komisije-za-provodenje-Javnog-oglasa-za-radno-mjesto-POMOCNI-RADNIK-U-ODJELU-ZANATSKI-RADOVI-REKREATIVNO-SPOTSKA-IGRALISTA-I-PARKOVSKI-MOBILIJAR.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos na odredeno vrijeme u KJKP Park doo Sarajevo- POMOCNI RADNIK U ODJELU ZANATSKI RADOVI i IZJAVA O KORISTENJU LICNIH PODATAKA](https://www.park.ba/wp-content/uploads/2025/04/Javni-oglas-za-prijem-radnika-u-radni-odnos-na-odredeno-vrijeme-u-KJKP-Park-doo-Sarajevo-POMOCNI-RADNIK-U-ODJELU-ZANATSKI-RADOVI-i-IZJAVA-O-KORISTENJU-LICNIH-PODATAKA.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za usmeni ispit, te liste propisa i literature iz oblasti iz koje ce se polagati usmeni ispit za radno mjesto POMOCNI RADNIK U ODJELU ZANATSKI RADOVI](https://www.park.ba/wp-content/uploads/2025/04/Odluka-o-utvrdivanju-liste-pitanja-za-usmeni-ispit-te-liste-propisa-i-literature-iz-oblasti-iz-koje-ce-se-polagati-usmeni-ispit-za-radno-mjesto-POMOCNI-RADNIK-U-ODJELU-ZANATSKI-RADOVI.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Javni konkurs za izbor i imenovanje članova Odbora za reviziju KJKP Park d.o.o. Sarajevo](https://www.park.ba/wp-content/uploads/2025/04/Javni-konkurs-za-izbor-i-imenovanje-članova-Odbora-za-reviziju-KJKP-Park-d.o.o.-Sarajevo.pdf) | KJKP Park |
