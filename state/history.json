@@ -22733,5 +22733,65 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T00:43:32+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Referent nabavke",
+  "url": "https://www.mojposao.ba/posao/e3cc4982-d9f1-11f1-a8c0-42010a9c001a/referent-nabavke",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T00:43:32+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Specijalista za analizu podataka i upravljanje podacima",
+  "url": "https://www.mojposao.ba/posao/0a9a7b69-d864-11f1-a8c0-42010a9c001a/specijalista-za-analizu-podataka-i-upravljanje-podacima",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T00:43:32+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Skladišni radnik (m/ž)",
+  "url": "https://www.mojposao.ba/posao/12d50eb5-cd4f-11f1-a8c0-42010a9c001a/skladisni-radnik-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T00:43:32+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Diplomirani inžinjer mašinstva",
+  "url": "https://www.mojposao.ba/posao/d3d7c223-c706-11f1-a8c0-42010a9c001a/diplomirani-inzinjer-masinstva",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-09T00:43:32+00:00",
+  "source": "epbih",
+  "source_name": "Elektroprivreda BiH",
+  "title": "Oglas za prijem radnika na neodređeno vrijeme uz obavezan probni rad",
+  "url": "https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20radnika%20na%20neodredjeno%20vrijeme%20uz%20obavezan%20probni%20rad_TE%20Kakanj.pdf",
+  "company": "",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": ""
  }
 ]

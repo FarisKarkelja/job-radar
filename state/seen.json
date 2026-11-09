@@ -60,7 +60,9 @@
    "1346de3d-d795-11f1-a8c0-42010a9c001a",
    "fea78db1-d6cc-11f1-a8c0-42010a9c001a",
    "0558bb1f-d9dc-11f1-a8c0-42010a9c001a",
-   "d706ea3a-d90d-11f1-a8c0-42010a9c001a"
+   "d706ea3a-d90d-11f1-a8c0-42010a9c001a",
+   "e3cc4982-d9f1-11f1-a8c0-42010a9c001a",
+   "0a9a7b69-d864-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -332,7 +334,9 @@
    "98dcbcf1-d9f0-11f1-a8c0-42010a9c001a",
    "934bc520-d9f0-11f1-a8c0-42010a9c001a",
    "2472a83c-d9f0-11f1-a8c0-42010a9c001a",
-   "f6898347-d9f5-11f1-a8c0-42010a9c001a"
+   "f6898347-d9f5-11f1-a8c0-42010a9c001a",
+   "12d50eb5-cd4f-11f1-a8c0-42010a9c001a",
+   "d3d7c223-c706-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -1057,7 +1061,8 @@
    "https://www.epbih.ba/upload/documents/Zahtjev%20za%20obavljenje%20studetske%20prakse%20Direkcija.pdf",
    "https://www.epbih.ba/upload/documents/Zahtjev%20za%20obavljenje%20studetske%20prakse%20Podruznice%20Drustva.pdf",
    "https://www.epbih.ba/upload/documents/politike/Politika_kolacica_EPBIH.pdf",
-   "https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20radnika%20na%20neodredjeno%20vrijeme%20i%20pripravnika%20na%20odredjeno%20vrijeme_HEN.pdf"
+   "https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20radnika%20na%20neodredjeno%20vrijeme%20i%20pripravnika%20na%20odredjeno%20vrijeme_HEN.pdf",
+   "https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20radnika%20na%20neodredjeno%20vrijeme%20uz%20obavezan%20probni%20rad_TE%20Kakanj.pdf"
   ]
  },
  "sparkasse": {
@@ -2248,7 +2253,8 @@
    "hash:8b9ae5bf75658ce9",
    "hash:3a73761e60cd250d",
    "hash:c98fe7468cf4d281",
-   "hash:21df775a17e126cb"
+   "hash:21df775a17e126cb",
+   "hash:7aaeda935714228e"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2342,17 +2348,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
    "Oročena štednja",
    "Ulažite u budućnost",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4852,7 +4858,8 @@
    "hash:7ec97fd02968d1ab",
    "hash:095a4fb46b592e8a",
    "hash:e3335d0b710a2f21",
-   "hash:a3bad9c7054fdb72"
+   "hash:a3bad9c7054fdb72",
+   "hash:fb291a0c6a23a98b"
   ],
   "lines": [
    "O nama",
@@ -4968,7 +4975,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 08. 2026",
+   "novembar 09. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5129,13 +5136,14 @@
    "hash:f1b9f786f1b67aae",
    "hash:daecff01bb4ed380",
    "hash:7a9af597781eb3ea",
-   "hash:13675ba35bf84bc7"
+   "hash:13675ba35bf84bc7",
+   "hash:230d4988af420ef9"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.cb5ec817.1794172152.d3f3df2b",
-   "https://errors.edgesuite.net/18.cb5ec817.1794172152.d3f3df2b"
+   "Reference #18.56951eb8.1794185125.4855bf30",
+   "https://errors.edgesuite.net/18.56951eb8.1794185125.4855bf30"
   ]
  },
  "asa_grupa": {
