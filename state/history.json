@@ -24806,5 +24806,53 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T21:07:44+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Senior AI Solutions Engineer",
+  "url": "https://www.linkedin.com/jobs/view/4487800302",
+  "company": "Brookstone Partners",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T21:07:44+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Elektrotehnički fakultet",
+  "url": "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-elektrotehnicki-fakultet-46",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "elektrotehnicki",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T21:07:44+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Arhitektonski fakultet",
+  "url": "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-15",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T21:07:44+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "NATJEČAJ za izbor akademskog osoblja na Univerzitetu u Sarajevu - Katoličkom bogoslovnom fakultetu",
+  "url": "https://www.unsa.ba/konkursi/natjecaj-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-katolickom-bogoslovnom-2",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

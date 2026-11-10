@@ -4,6 +4,10 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 10.11. 22:07 | • [Senior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487800302) · Brookstone Partners | LinkedIn BiH |
+| 10.11. 22:07 | 💻 [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Elektrotehnički fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-elektrotehnicki-fakultet-46) | Univerzitet u Sarajevu (konkursi) |
+| 10.11. 22:07 | • [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Arhitektonski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-15) | Univerzitet u Sarajevu (konkursi) |
+| 10.11. 22:07 | • [NATJEČAJ za izbor akademskog osoblja na Univerzitetu u Sarajevu - Katoličkom bogoslovnom fakultetu](https://www.unsa.ba/konkursi/natjecaj-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-katolickom-bogoslovnom-2) | Univerzitet u Sarajevu (konkursi) |
 | 10.11. 19:08 | 💻 [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz) | MojPosao IT |
 | 10.11. 19:08 | 💻 [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz) | MojPosao Kanton Sarajevo |
 | 10.11. 19:08 | • [Junior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487489772) · Brookstone Partners | LinkedIn BiH |
@@ -1500,7 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-2-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-3-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-4-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-medicinska-sestra-tehnicar-11022025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-spremacica-11022025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-serirka-1122025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-perac-vesa.pdf) | UKC Tuzla (konkursi) |
