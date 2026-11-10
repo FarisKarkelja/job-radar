@@ -68,7 +68,8 @@
    "1c2a31e3-d906-11f1-a8c0-42010a9c001a",
    "4b71387b-d92a-11f1-a8c0-42010a9c001a",
    "bc374abc-cd47-11f1-a8c0-42010a9c001a",
-   "64d5dc1a-dc40-11f1-a8c0-42010a9c001a"
+   "64d5dc1a-dc40-11f1-a8c0-42010a9c001a",
+   "d29df0c8-dd1a-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -368,7 +369,8 @@
    "d5f31349-dd0a-11f1-a8c0-42010a9c001a",
    "8ca71b30-dd10-11f1-a8c0-42010a9c001a",
    "36a318e9-dd0c-11f1-a8c0-42010a9c001a",
-   "726cec4e-dd07-11f1-a8c0-42010a9c001a"
+   "726cec4e-dd07-11f1-a8c0-42010a9c001a",
+   "d29df0c8-dd1a-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -589,7 +591,8 @@
    "https://www.linkedin.com/jobs/view/4487473713",
    "https://www.linkedin.com/jobs/view/4487477592",
    "https://www.linkedin.com/jobs/view/4487457935",
-   "https://www.linkedin.com/jobs/view/4481551992"
+   "https://www.linkedin.com/jobs/view/4481551992",
+   "https://www.linkedin.com/jobs/view/4487489772"
   ]
  },
  "glassrpske_konkursi": {
@@ -2296,7 +2299,6 @@
  },
  "atos": {
   "keys": [
-   "hash:497facf58805f2a5",
    "hash:0823a689ca518ce0",
    "hash:dcc4eeb4aa317304",
    "hash:078f76b8270c7a4e",
@@ -2345,7 +2347,8 @@
    "hash:ee89a510a78eb888",
    "hash:76c297231f0a7dae",
    "hash:e904bbf33321a2ce",
-   "hash:7c6f97389a0b2aca"
+   "hash:7c6f97389a0b2aca",
+   "hash:59e797b6ad580269"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2439,17 +2442,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5318,13 +5321,14 @@
    "hash:fdcae6574e20e351",
    "hash:49deb8b3f4197871",
    "hash:81166e55266ce7dd",
-   "hash:63c21dfd7e3feef4"
+   "hash:63c21dfd7e3feef4",
+   "hash:b4cba13d4672db4e"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.9367cd17.1794323371.1f61265d",
-   "https://errors.edgesuite.net/18.9367cd17.1794323371.1f61265d"
+   "Reference #18.2ca7cb17.1794334199.be583c8",
+   "https://errors.edgesuite.net/18.2ca7cb17.1794334199.be583c8"
   ]
  },
  "asa_grupa": {
@@ -7135,7 +7139,8 @@
    "hash:df0da0cc735df421",
    "hash:e495eb5099569914",
    "hash:a9cf51e92390fee5",
-   "hash:76c24b9eeebaa91f"
+   "hash:76c24b9eeebaa91f",
+   "hash:770f68377a6df87d"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7145,15 +7150,21 @@
    "20 Rezultati",
    "1-20 od 148",
    "Stavki po stranici",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Ложач-Творница обуће БЕМА д.о.о.",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Бања Лука",
    "Одређено време",
    "10. nov - 10. dec 2026.",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "„Дворник“ д.о.о. Бања Лука",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Бања Лука",
    "Одређено време",
    "10. nov - 17. nov 2026.",
+   "ZU Stomatološka ambulanta \"STOMATOLOGIJA MILUTINOVIĆ\"",
    "SECOND HAND BOUTIQUE FAMILY",
+   "ZU Stomatološka ambulanta \"STOMATOLOGIJA MILUTINOVIĆ\"",
    "Лакташи",
    "Одређено време",
    "10. nov - 25. nov 2026.",
@@ -7211,7 +7222,9 @@
    "Бања Лука",
    "Неодређено време",
    "9. nov - 11. dec 2026.",
+   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "Комерцијалиста-,,ЗРАК -ДКС” д.о.о. Теслић",
+   "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "Теслић",
    "Одређено време",
    "5. nov - 5. dec 2026.",

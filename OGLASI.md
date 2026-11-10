@@ -4,6 +4,9 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 10.11. 19:08 | 💻 [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz) | MojPosao IT |
+| 10.11. 19:08 | 💻 [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz) | MojPosao Kanton Sarajevo |
+| 10.11. 19:08 | • [Junior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487489772) · Brookstone Partners | LinkedIn BiH |
 | 10.11. 15:45 | • [Sekretar udruženja (ž/m)](https://www.mojposao.ba/posao/64d5dc1a-dc40-11f1-a8c0-42010a9c001a/sekretar-udruzenja-zm) | MojPosao IT |
 | 10.11. 15:45 | • [Intern (m/f/d)](https://www.mojposao.ba/posao/aea31240-dd0b-11f1-a8c0-42010a9c001a/intern-mfd) | MojPosao Kanton Sarajevo |
 | 10.11. 15:45 | • [Vodeći specijalist za računovodstvo (m/ž)](https://www.mojposao.ba/posao/9bc830b4-dd05-11f1-a8c0-42010a9c001a/vodeci-specijalist-za-racunovodstvo-mz) | MojPosao Kanton Sarajevo |
@@ -1501,6 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-spremacica-11022025.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-serirka-1122025.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-perac-vesa.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/01/Javni-oglas-za-prijem-doktora-medicine-specijalista-na-neodredjeno-vrijeme.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/01/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2024/12/Odgovorni-inzenjer-energetike.pdf) | UKC Tuzla (konkursi) |

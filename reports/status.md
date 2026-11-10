@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **10.11.2026 16:07** (Sarajevo)  
+Zadnje pokretanje: **10.11.2026 19:08** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -54,15 +54,15 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 47 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 46 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 1 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 1 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 1 | 0 |  |
@@ -113,7 +113,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
 | [Zira Talent Academy](https://ziragroup.com/careers/zira-talent-academy) | ✅ | 1 | 0 |  |
 | [ZiraatBank BH (karijera)](https://ziraatbank.ba/karijera) | ✅ | 1 | 0 |  |
-| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 1 |  |
+| [Zavod za zapošljavanje RS](https://zzzrs.net/lat/oglasi/search) | ✅ | 1 | 0 |  |
 
 ## Uzorak izvučenih oglasa po izvoru
 
@@ -507,7 +507,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (47)</summary>
+<details><summary>linkedin_bih (46)</summary>
 
 - [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584)
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
@@ -516,7 +516,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Mid/Senior Software Engineer](https://www.linkedin.com/jobs/view/4486589857)
 - [Staff Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4478198871)
 - [Backend Developer](https://www.linkedin.com/jobs/view/4487487148)
-- [Senior AI Engineer](https://www.linkedin.com/jobs/view/4359325062)
+- [Junior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487489772)
 
 </details>
 
@@ -563,16 +563,16 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>mojposao_it (33)</summary>
+<details><summary>mojposao_it (34)</summary>
 
+- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
 - [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
+- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
 - [Embedded Software Test Engineer](https://www.mojposao.ba/posao/bc9d78e0-d84f-11f1-a8c0-42010a9c001a/embedded-software-test-engineer)
 - [Senior Embedded Security Engineer](https://www.mojposao.ba/posao/2ff980c4-d851-11f1-a8c0-42010a9c001a/senior-embedded-security-engineer)
 - [Senior Hardware Engineer](https://www.mojposao.ba/posao/e519174b-d851-11f1-a8c0-42010a9c001a/senior-hardware-engineer)
-- [Softverski developer za AI i poslovne aplikacije](https://www.mojposao.ba/posao/a4e4e32f-d3af-11f1-a8c0-42010a9c001a/softverski-developer-za-ai-i-poslovne-aplikacije)
-- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
 
 </details>
 
@@ -581,11 +581,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [Savjetnik za korisničku podršku na njemačkom jeziku (m/ž)](https://www.mojposao.ba/posao/0c288ef4-c3db-11f1-a8c0-42010a9c001a/savjetnik-za-korisnicku-podrsku-na-njemackom-jeziku-mz)
 - [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/05c4564f-c3db-11f1-a8c0-42010a9c001a/kundenberater-mwd)
-- [Product Marketing & Content Specialist (m/f)](https://www.mojposao.ba/posao/2af7cf9d-dcf2-11f1-a8c0-42010a9c001a/product-marketing--content-specialist-mf)
-- [Stručni suradnik za računovodstvo](https://www.mojposao.ba/posao/db6473c7-dcdc-11f1-a8c0-42010a9c001a/strucni-suradnik-za-racunovodstvo)
-- [Bankarski službenik (m/ž)](https://www.mojposao.ba/posao/39603953-dcdc-11f1-a8c0-42010a9c001a/bankarski-sluzbenik-mz)
-- [Agent u službi za korisnike / Customer Support Specialist (m/ž)](https://www.mojposao.ba/posao/4846c87e-dc3c-11f1-a8c0-42010a9c001a/agent-u-sluzbi-za-korisnike--customer-support-specialist-mz)
-- [Saradnik za brigu o potrošačima (m,ž)](https://www.mojposao.ba/posao/f0306776-d9eb-11f1-a8c0-42010a9c001a/saradnik-za-brigu-o-potrosacima-mz)
+- [Menadžer za biznis prodaju malim i srednjim preduzećima](https://www.mojposao.ba/posao/373a4ed2-dcf5-11f1-a8c0-42010a9c001a/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima)
+- [Specijalista za carinu - deklarant (m/ž)](https://www.mojposao.ba/posao/46dfbeb3-dce5-11f1-a8c0-42010a9c001a/specijalista-za-carinu---deklarant-mz)
+- [Radnik u skladištu (Skladištar)](https://www.mojposao.ba/posao/bef45956-dc29-11f1-a8c0-42010a9c001a/radnik-u-skladistu-skladistar)
+- [Home Office Kundenberater/in im Vertrieb für SKY (m/w/d) - Outbound](https://www.mojposao.ba/posao/956a64c0-d6a7-11f1-a8c0-42010a9c001a/home-office-kundenberaterin-im-vertrieb-f%C3%BCr-sky-mwd---outbound)
+- [Home Office Kundenberater (m/w/d) - Onlineversandhandel](https://www.mojposao.ba/posao/a4af6862-d6a7-11f1-a8c0-42010a9c001a/home-office-kundenberater-mwd---onlineversandhandel)
 
 </details>
 
@@ -642,11 +642,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
 - [SALES ASSISTANT PRODAVAČ (m/ž) LPP BH d.o.o. - Sinsay Tomislavgrad Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/944)
 - [Magacioner X express d.o.o. Banja Luka, Zvornik, Vitez Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/943)
 - [Magacioner (samo muškarci) Hoše-komerc d.o.o. Sarajevo-Butile Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/942)

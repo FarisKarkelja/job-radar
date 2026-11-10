@@ -24770,5 +24770,41 @@
   "priority": 4,
   "match": "developer",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T18:08:02+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Oracle APEX developer (m/ž)",
+  "url": "https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "developer",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T18:08:02+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Oracle APEX developer (m/ž)",
+  "url": "https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "developer",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T18:08:02+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Junior AI Solutions Engineer",
+  "url": "https://www.linkedin.com/jobs/view/4487489772",
+  "company": "Brookstone Partners",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]
