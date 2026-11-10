@@ -23993,5 +23993,41 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T06:07:52+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Trgovac/Prodavač u maloprodajnom objektu (m/ž)",
+  "url": "https://www.mojposao.ba/posao/bc374abc-cd47-11f1-a8c0-42010a9c001a/trgovacprodavac-u-maloprodajnom-objektu-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T06:07:52+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Digital Workplace Architect",
+  "url": "https://www.linkedin.com/jobs/view/4489141980",
+  "company": "Avenga",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-10T06:07:52+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "JAVNI OGLAS ZA PRIJEM RADNIKA U RADNI ODNOS ODREĐENO VRIJEME DO GODINU DANA SA PROBNIM RADOM DO 3 (TRI) MJESECA",
+  "url": "https://szks.ba/posao/javni-oglas-za-prijem-radnika-u-radni-odnos-odredjeno-vrijeme-do-godinu-dana-sa-probnim-radom-do-3-tri-mjeseca",
+  "company": "KJP „ZOI&#039;84“ OCS d.o.o. Sarajevo",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

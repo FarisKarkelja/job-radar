@@ -4,6 +4,9 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 10.11. 07:07 | • [Trgovac/Prodavač u maloprodajnom objektu (m/ž)](https://www.mojposao.ba/posao/bc374abc-cd47-11f1-a8c0-42010a9c001a/trgovacprodavac-u-maloprodajnom-objektu-mz) | MojPosao IT |
+| 10.11. 07:07 | • [Digital Workplace Architect](https://www.linkedin.com/jobs/view/4489141980) · Avenga | LinkedIn BiH |
+| 10.11. 07:07 | • [JAVNI OGLAS ZA PRIJEM RADNIKA U RADNI ODNOS ODREĐENO VRIJEME DO GODINU DANA SA PROBNIM RADOM DO 3 (TRI) MJESECA](https://szks.ba/posao/javni-oglas-za-prijem-radnika-u-radni-odnos-odredjeno-vrijeme-do-godinu-dana-sa-probnim-radom-do-3-tri-mjeseca) · KJP „ZOI&#039;84“ OCS d.o.o. Sarajevo | SZKS (Služba za zapošljavanje KS) |
 | 10.11. 02:26 | • [Savjetnik za klijente (m/ž)](https://www.mojposao.ba/posao/598d62da-d914-11f1-a8c0-42010a9c001a/savjetnik-za-klijente-mz) | MojPosao IT |
 | 10.11. 02:26 | • [Account Manager / Sales representative (m/ž)](https://www.mojposao.ba/posao/1c2a31e3-d906-11f1-a8c0-42010a9c001a/account-manager--sales-representative-mz) | MojPosao IT |
 | 10.11. 02:26 | • [Marketing koordinator (m/ž)](https://www.mojposao.ba/posao/4b71387b-d92a-11f1-a8c0-42010a9c001a/marketing-koordinator-mz) | MojPosao IT |
@@ -1501,6 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Odluka o utvrdivanju liste pitanja za pismeni i usmeni ispiti i liste propisa i literature za ispite za radno mjesto RADNIK NA ODRZAVANJU JAVNE RASVJETE U KJKP PARK doo Sarajevo](https://www.park.ba/wp-content/uploads/2025/11/Odluka-o-utvrdivanju-liste-pitanja-za-pismeni-i-usmeni-ispiti-i-liste-propisa-i-literature-za-ispite-za-radno-mjesto-RADNIK-NA-ODRZAVANJU-JAVNE-RASVJETE-U-KJKP-PARK-doo-Sarajevo.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [KONKURS ZA IZBOR I IMENOVANJE CLANOVA NADZORNOG ODBORA KJKP PARK doo SARAJEVO](https://www.park.ba/wp-content/uploads/2025/11/KONKURS-ZA-IZBOR-I-IMENOVANJE-CLANOVA-NADZORNOG-ODBORA-KJKP-PARK-doo-SARAJEVO.pdf) | KJKP Park |
 | 02.11. 00:13 | •⏺ [Odluka o kriterijima i opcim i posebnim uslovima za izbor i imenovanje clanova Nadzornog odbora KJKP Park doo Sarajevo](https://www.park.ba/wp-content/uploads/2025/11/Odluka-o-kriterijima-i-opcim-i-posebnim-uslovima-za-izbor-i-imenovanje-clanova-Nadzornog-odbora-KJKP-Park-doo-Sarajevo.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Odluka o raspisivanju Konkursa za izbor i imenovanje clanova Nadzornog odbora KJKP Park doo Sarajevo](https://www.park.ba/wp-content/uploads/2025/11/Odluka-o-raspisivanju-Konkursa-za-izbor-i-imenovanje-clanova-Nadzornog-odbora-KJKP-Park-doo-Sarajevo.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Javni oglas za prikupljanje ponuda za prodaju zaliha otpadnog zeljeza ( rashodovani materijal, vozilo Kombi Dukato, cisterne i masine) po popisu na dan 31 12 2024 godine i OBRAZAC ZA CIJENU PONUDE](https://www.park.ba/wp-content/uploads/2025/11/Javni-oglas-za-prikupljanje-ponuda-za-prodaju-zaliha-otpadnog-zeljeza-rashodovani-materijal-vozilo-Kombi-Dukato-cisterne-i-masine-po-popisu-na-dan-31-12-2024-godine-i-OBRAZAC-ZA-CIJENU-PONUDE.pdf) | KJKP Park |
-| 02.11. 00:13 | •⏺ [Poslovnik o radu komisijie za provođenje javnog oglasa, Avgust 2025](https://www.park.ba/wp-content/uploads/2025/08/Poslovnik-o-radu-komisijie-za-provođenje-javnog-oglasa-Avgust-2025.pdf) | KJKP Park |

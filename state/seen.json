@@ -66,7 +66,8 @@
    "b10299d7-dc13-11f1-a8c0-42010a9c001a",
    "598d62da-d914-11f1-a8c0-42010a9c001a",
    "1c2a31e3-d906-11f1-a8c0-42010a9c001a",
-   "4b71387b-d92a-11f1-a8c0-42010a9c001a"
+   "4b71387b-d92a-11f1-a8c0-42010a9c001a",
+   "bc374abc-cd47-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -561,7 +562,8 @@
    "https://www.linkedin.com/jobs/view/4487933899",
    "https://www.linkedin.com/jobs/view/4487953061",
    "https://www.linkedin.com/jobs/view/4472776059",
-   "https://www.linkedin.com/jobs/view/4489145310"
+   "https://www.linkedin.com/jobs/view/4489145310",
+   "https://www.linkedin.com/jobs/view/4489141980"
   ]
  },
  "glassrpske_konkursi": {
@@ -660,7 +662,8 @@
    "https://szks.ba/posao/free-style-166-frizer-2",
    "https://szks.ba/posao/poliklinika-estiva-110-laboratorijski-tehnicar",
    "https://szks.ba/posao/radnik-za-servisno-tehnicku-podrsku-9",
-   "https://szks.ba/posao/nastavnik-ica-njemackog-jezika-4"
+   "https://szks.ba/posao/nastavnik-ica-njemackog-jezika-4",
+   "https://szks.ba/posao/javni-oglas-za-prijem-radnika-u-radni-odnos-odredjeno-vrijeme-do-godinu-dana-sa-probnim-radom-do-3-tri-mjeseca"
   ]
  },
  "zdk_szz": {
@@ -2260,7 +2263,6 @@
  },
  "atos": {
   "keys": [
-   "hash:b46c56d52ab0a698",
    "hash:21663866b94a96db",
    "hash:3077fc1159e2d62c",
    "hash:2a555bbc4d9770d0",
@@ -2309,7 +2311,8 @@
    "hash:3b5edf19742d5a65",
    "hash:17e3afdbdb4b6f48",
    "hash:b9dee12b6cb9746d",
-   "hash:b20c1f8ba5dfd3b4"
+   "hash:b20c1f8ba5dfd3b4",
+   "hash:d5b978a32baa8e71"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2403,17 +2406,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5253,13 +5256,14 @@
    "hash:b86a87818d926836",
    "hash:d17581876715d73f",
    "hash:66cf0dde9573ada4",
-   "hash:6d6fb57c00cc8a6e"
+   "hash:6d6fb57c00cc8a6e",
+   "hash:bc612863732660fa"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.85a5dc17.1794274118.28e79072",
-   "https://errors.edgesuite.net/18.85a5dc17.1794274118.28e79072"
+   "Reference #18.2ca7cb17.1794290986.8488227",
+   "https://errors.edgesuite.net/18.2ca7cb17.1794290986.8488227"
   ]
  },
  "asa_grupa": {
@@ -7060,7 +7064,8 @@
    "hash:5f4253be4b77ed58",
    "hash:07000ef647fb68a3",
    "hash:cc783a946ee6da56",
-   "hash:df0da0cc735df421"
+   "hash:df0da0cc735df421",
+   "hash:e495eb5099569914"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7068,7 +7073,7 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 147",
+   "1-20 od 144",
    "Stavki po stranici",
    "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Poslastičar i pekar",
@@ -7138,10 +7143,6 @@
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
-   "ВОЗАЧ ВИЉУШКАРА -„ РАПИЋ“ доо ГРАДИШКА",
-   "Градишка",
-   "Одређено време",
-   "4. nov - 9. nov 2026.",
    "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
    "професор разредне наставе, хемије, српског језика",
    "JU Osnovna škola \"VUK KARADŽIĆ\" Baraći, Mrkonjić Grad",
@@ -7174,6 +7175,10 @@
    "4. nov - 12. nov 2026.",
    "Исправка конкурса ЈУ ОШ „Дринић“ Дринић, Петровац",
    "Бања Лука, Петровац",
+   "Одређено време",
+   "4. nov - 12. nov 2026.",
+   "ЈУ ОШ ,,Вук Караџић“ Бараћи, Мркоњић Град",
+   "Мркоњић Град",
    "Одређено време",
    "4. nov - 12. nov 2026."
   ]
