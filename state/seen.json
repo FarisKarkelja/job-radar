@@ -351,7 +351,12 @@
    "335aee85-dc46-11f1-a8c0-42010a9c001a",
    "e7be7c6f-dc29-11f1-a8c0-42010a9c001a",
    "079a67fe-dc3d-11f1-a8c0-42010a9c001a",
-   "43fee283-d205-11f1-a8c0-42010a9c001a"
+   "43fee283-d205-11f1-a8c0-42010a9c001a",
+   "db6473c7-dcdc-11f1-a8c0-42010a9c001a",
+   "39603953-dcdc-11f1-a8c0-42010a9c001a",
+   "ab979034-dcdb-11f1-a8c0-42010a9c001a",
+   "3aa1189e-dce2-11f1-a8c0-42010a9c001a",
+   "fd84343f-dce1-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -563,7 +568,9 @@
    "https://www.linkedin.com/jobs/view/4487953061",
    "https://www.linkedin.com/jobs/view/4472776059",
    "https://www.linkedin.com/jobs/view/4489145310",
-   "https://www.linkedin.com/jobs/view/4489141980"
+   "https://www.linkedin.com/jobs/view/4489141980",
+   "https://www.linkedin.com/jobs/view/4487153777",
+   "https://www.linkedin.com/jobs/view/4488877092"
   ]
  },
  "glassrpske_konkursi": {
@@ -663,7 +670,11 @@
    "https://szks.ba/posao/poliklinika-estiva-110-laboratorijski-tehnicar",
    "https://szks.ba/posao/radnik-za-servisno-tehnicku-podrsku-9",
    "https://szks.ba/posao/nastavnik-ica-njemackog-jezika-4",
-   "https://szks.ba/posao/javni-oglas-za-prijem-radnika-u-radni-odnos-odredjeno-vrijeme-do-godinu-dana-sa-probnim-radom-do-3-tri-mjeseca"
+   "https://szks.ba/posao/javni-oglas-za-prijem-radnika-u-radni-odnos-odredjeno-vrijeme-do-godinu-dana-sa-probnim-radom-do-3-tri-mjeseca",
+   "https://szks.ba/posao/psiholog-18",
+   "https://szks.ba/posao/zara-iz-duvara-110-pomocni-radnik-u-kuhinji",
+   "https://szks.ba/posao/basics-166-majstor-za-proizvodnju-i-montazu-plocastog-namjestaja",
+   "https://szks.ba/posao/zara-iz-duvara-110-konobar"
   ]
  },
  "zdk_szz": {
@@ -2263,7 +2274,6 @@
  },
  "atos": {
   "keys": [
-   "hash:21663866b94a96db",
    "hash:3077fc1159e2d62c",
    "hash:2a555bbc4d9770d0",
    "hash:9e1a471988d9299f",
@@ -2312,7 +2322,8 @@
    "hash:17e3afdbdb4b6f48",
    "hash:b9dee12b6cb9746d",
    "hash:b20c1f8ba5dfd3b4",
-   "hash:d5b978a32baa8e71"
+   "hash:d5b978a32baa8e71",
+   "hash:ee89a510a78eb888"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2406,17 +2417,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
+   "Detaljnije",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Oročena štednja",
    "Ulažite u budućnost",
-   "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
-   "Detaljnije",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -3019,7 +3030,8 @@
  },
  "supernova": {
   "keys": [
-   "hash:acb324fafa988727"
+   "hash:acb324fafa988727",
+   "hash:37b25fc99df038ea"
   ],
   "lines": [
    "Naša snaga leži u ljudima",
@@ -3048,10 +3060,10 @@
    "Forma za prijavu",
    "Saznaj sve o nama i našem timu",
    "Pročitaj vijesti i priče o našim zaposlenima – od timbildinga, edukacija, događaja, pa sve do oglasa i poziva za praksu.",
+   "UIGRAN TIM: Dejan Novaković – Sa korisnicima gradi povjerenje, sa kolegama uspjehe",
    "Uigran tim: Dragan Bundalo, od podrške korisnicima i kolegama do ključnih IT sistema",
    "Nova generacija praktikanata u Doboju",
    "Telekomijada 2026 u znaku sporta, znanja i druženja",
-   "Uigran tim: Bogdan Filipović znanjem i strpljenjem kroz tehničke izazove",
    "Sve vijesti"
   ]
  },
@@ -4230,7 +4242,8 @@
    "https://szz-zzh.ba/2026/11/09/ktm-brina-trazi-vise-bagerista-evo-sto-nude-buducim-zaposlenicima",
    "https://szz-zzh.ba/2026/11/09/ktm-brina-raspisala-natjecaj-za-posao-evo-koga-traze-i-sto-nude",
    "https://szz-zzh.ba/2026/11/09/javna-ustanova-u-zzh-trazi-novog-ravnatelja-kandidat-ne-smije-biti-na-polozaju-u-stranci",
-   "https://szz-zzh.ba/2026/11/09/sjemenarna-zaposljava-trgovca-u-agrocentru-u-sirokom-brijegu"
+   "https://szz-zzh.ba/2026/11/09/sjemenarna-zaposljava-trgovca-u-agrocentru-u-sirokom-brijegu",
+   "https://szz-zzh.ba/2026/11/10/vokel-do-o-cistacica"
   ]
  },
  "szz_tk": {
@@ -5257,13 +5270,14 @@
    "hash:d17581876715d73f",
    "hash:66cf0dde9573ada4",
    "hash:6d6fb57c00cc8a6e",
-   "hash:bc612863732660fa"
+   "hash:bc612863732660fa",
+   "hash:fdcae6574e20e351"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.2ca7cb17.1794290986.8488227",
-   "https://errors.edgesuite.net/18.2ca7cb17.1794290986.8488227"
+   "Reference #18.556bdc17.1794302009.1468ab1",
+   "https://errors.edgesuite.net/18.556bdc17.1794302009.1468ab1"
   ]
  },
  "asa_grupa": {
@@ -6951,7 +6965,8 @@
    "https://poslovnioglasi.ba/company-ad-details/940",
    "https://poslovnioglasi.ba/company-ad-details/939",
    "https://poslovnioglasi.ba/company-ad-details/941",
-   "https://poslovnioglasi.ba/company-ad-details/942"
+   "https://poslovnioglasi.ba/company-ad-details/942",
+   "https://poslovnioglasi.ba/company-ad-details/943"
   ]
  },
  "ads_bih": {
@@ -6964,7 +6979,8 @@
    "https://www.ads.gov.ba/vacancies/3514/javni-oglas-za-popunjavanje-radnih-mjesta-rukovodecih-drzavnih-sluzbenika-u-ministarstvu-pravde-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3512/javni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-sigurnosti-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3511/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-komunikacija-i-prometa-bosne-i-hercegovine",
-   "https://www.ads.gov.ba/vacancies/3510/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-agenciji-za-lijekove-i-medicinska-sredstva-bosne-i-hercegovine"
+   "https://www.ads.gov.ba/vacancies/3510/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-agenciji-za-lijekove-i-medicinska-sredstva-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3520/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-agenciji-za-identifikacione-dokumente-evidenciju-i-razmjenu-podataka-bosne-i-hercegovine"
   ]
  },
  "ads_fbih": {
