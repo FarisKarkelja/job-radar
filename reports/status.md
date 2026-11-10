@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **10.11.2026 22:07** (Sarajevo)  
+Zadnje pokretanje: **10.11.2026 22:15** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -54,7 +54,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 48 | 1 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 48 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -101,7 +101,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [UniCredit Bank Banja Luka (karijera)](https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 3 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
 | [Univerzitet u Tuzli (konkursi)](https://untz.ba/konkursi) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
@@ -566,8 +566,8 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 <details><summary>mojposao_it (34)</summary>
 
 - [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
-- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
 - [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
+- [Audio, video, light tehničar](https://www.mojposao.ba/posao/9696c119-c7d3-11f1-a8c0-42010a9c001a/audio-video-light-tehnicar)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
 - [Embedded Software Test Engineer](https://www.mojposao.ba/posao/bc9d78e0-d84f-11f1-a8c0-42010a9c001a/embedded-software-test-engineer)
@@ -642,11 +642,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [SALES ASSISTANT PRODAVAČ (m/ž) LPP BH d.o.o. - Sinsay Tomislavgrad Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/944)
 - [Magacioner X express d.o.o. Banja Luka, Zvornik, Vitez Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/943)
 - [Magacioner (samo muškarci) Hoše-komerc d.o.o. Sarajevo-Butile Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/942)
