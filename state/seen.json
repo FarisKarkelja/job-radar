@@ -356,7 +356,12 @@
    "39603953-dcdc-11f1-a8c0-42010a9c001a",
    "ab979034-dcdb-11f1-a8c0-42010a9c001a",
    "3aa1189e-dce2-11f1-a8c0-42010a9c001a",
-   "fd84343f-dce1-11f1-a8c0-42010a9c001a"
+   "fd84343f-dce1-11f1-a8c0-42010a9c001a",
+   "c83d5eae-dceb-11f1-a8c0-42010a9c001a",
+   "373a4ed2-dcf5-11f1-a8c0-42010a9c001a",
+   "46dfbeb3-dce5-11f1-a8c0-42010a9c001a",
+   "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a",
+   "7bd56d60-ce12-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -393,7 +398,8 @@
    "https://posao.klix.ba/oglasi/prodavac-mz-at-store/11032",
    "https://posao.klix.ba/oglasi/agent-telefonske-prodaje-telekom-usluga-mz-smak-solutions/11027",
    "https://posao.klix.ba/oglasi/kundenberater-in-der-automobilindustrie-mw-tp/11043",
-   "https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-danskom-jeziku-mz-mplus-bih/11046"
+   "https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-danskom-jeziku-mz-mplus-bih/11046",
+   "https://posao.klix.ba/oglasi/home-office-kundenberaterin-mwd-fur-ein-fuhrendes-unternehmen-im-bereich-tee-teemaschinen-und-zubehor-telus-digital/11053"
   ]
  },
  "itbase": {
@@ -570,7 +576,11 @@
    "https://www.linkedin.com/jobs/view/4489145310",
    "https://www.linkedin.com/jobs/view/4489141980",
    "https://www.linkedin.com/jobs/view/4487153777",
-   "https://www.linkedin.com/jobs/view/4488877092"
+   "https://www.linkedin.com/jobs/view/4488877092",
+   "https://www.linkedin.com/jobs/view/4487487148",
+   "https://www.linkedin.com/jobs/view/4487473713",
+   "https://www.linkedin.com/jobs/view/4487477592",
+   "https://www.linkedin.com/jobs/view/4487457935"
   ]
  },
  "glassrpske_konkursi": {
@@ -674,7 +684,9 @@
    "https://szks.ba/posao/psiholog-18",
    "https://szks.ba/posao/zara-iz-duvara-110-pomocni-radnik-u-kuhinji",
    "https://szks.ba/posao/basics-166-majstor-za-proizvodnju-i-montazu-plocastog-namjestaja",
-   "https://szks.ba/posao/zara-iz-duvara-110-konobar"
+   "https://szks.ba/posao/zara-iz-duvara-110-konobar",
+   "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-kuhar-m-z",
+   "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-medicinska-sestra-tehnicar"
   ]
  },
  "zdk_szz": {
@@ -2274,7 +2286,6 @@
  },
  "atos": {
   "keys": [
-   "hash:3077fc1159e2d62c",
    "hash:2a555bbc4d9770d0",
    "hash:9e1a471988d9299f",
    "hash:497facf58805f2a5",
@@ -2323,7 +2334,8 @@
    "hash:b9dee12b6cb9746d",
    "hash:b20c1f8ba5dfd3b4",
    "hash:d5b978a32baa8e71",
-   "hash:ee89a510a78eb888"
+   "hash:ee89a510a78eb888",
+   "hash:76c297231f0a7dae"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2417,17 +2429,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -3285,7 +3297,8 @@
    "hash:0eb2917fa97b18a6",
    "hash:43ec2b842ef54b0e",
    "hash:5aad3f37b0a3c4d9",
-   "hash:70188dc26b4eabf5"
+   "hash:70188dc26b4eabf5",
+   "hash:d5dfc65865169b73"
   ],
   "lines": [
    "07 Mart 2017",
@@ -3293,6 +3306,9 @@
    "E-mail",
    "Oglasi J.U. \"Opće bolnice Prim.dr. Abdulah Nakaš\" Sarajevo",
    "DOKUMENTACIJA KOJA JE POTREBNA ZA OBAVLJANJE STAŽA/VOLONTIRANJE",
+   "Ispitna pitanja i literatura za radno mjesto Radnica na poslovima vešeraja u Odsjeku higijene i održavanja – 1 (jedan) izvršilac",
+   "Ispitna pitanja i literatura za radno mjesto Radnica na održavanju čistoće u Odsjeku higijene i održavanja – 1 (jedan) izvršilac",
+   "Ispitna pitanja i literatura za radno mjesto Servirka u Odsjeku za pripremu i distribuciju hrane – 2 (dva) izvršioca",
    "Obavještenje o terminu polaganja pismenog i usmenog ispita- Medicinski tehničar - 5 izvršilaca",
    "Obavještenje kandidatima o održavanju ispita - Medicinska sestra – tehničar u Odjeljenju za palijativnu njegu",
    "Poslovnik o radu Komisije za izbor kandidata za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Službenik za javne nabavke - administrator- 1 (jedan) izvršilac“ (05.11.2026. godine)",
@@ -3684,10 +3700,7 @@
    "Obavijest za kandidate vezano za posredovanje putem Službe za zapošljavanje KS",
    "Obavještenje kandidatima o održavanju ispita – šef Elektro odsjeka",
    "Obavijest za kandidate za radno mjesto spec. plastične i rekonstruktivne hirurgije",
-   "Poslovnik o radu Komisije za prijem u radni odnos 1. Radnik za zaštitu na radu- 1 (jedan) izvršilac (26.10.2024. godine)",
-   "Javni oglas za prijem u radni odnos na neodređeno vrijeme za poziciju: 1. Radnik za zaštitu na radu– 1 (jedan) izvršilac (25.10.2024. godina do 04.11.2024. godine)",
-   "Pitanja i literatura za poziciju Radnik za zaštitu na radu - 1 (jedan) izvršilac na neodređeno vrijeme (24.10.2024.godine)",
-   "Poslovnik o radu Komisije za prijem u radni odnos"
+   "Poslovnik o radu Komisije za prijem u radni odnos 1. Radnik za zaštitu na radu- 1 (jedan) izvršilac (26.10.2024. godine)"
   ]
  },
  "viksa": {
@@ -4376,7 +4389,17 @@
    "https://www.unsa.ba/index.php/konkursi/odluka-o-ponistenju-javnog-oglasa-objavljenog-13-11-2025-godine-univerzitet-u-sarajevu",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-pravni-fakultet-18",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-zvanje-univerzitet-u-sarajevu-farmaceutski-fakultet-1",
-   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-u-akademsko-zvanje-univerzitet-u-sarajevu-8"
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-u-akademsko-zvanje-univerzitet-u-sarajevu-8",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-akademija-scenskih-umjetnosti",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-medicinski-fakultet",
+   "https://www.unsa.ba/index.php/konkursi/natjecaj-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-katolickom-bogoslovnom-2",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pedagoski-fakultet-17",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-farmaceutski-fakultet-0",
+   "https://www.unsa.ba/konkursi/konkursnatjecaj-za-izbor-nastavnika-na-univerzitetu-u-sarajevu-prirodno-matematickom-19",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-akademija-likovnih-umjetnosti-1",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-saradnicko-zvanje-univerzitet-u-sarajevu-filozofski-3",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-i-prijem-u-radni-odnos-sa-punim-radnim-vremenom-21",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-i-prijem-u-radni-odnos-sa-punim-radnim-vremenom-20"
   ]
  },
  "untz_konkursi": {
@@ -5271,13 +5294,14 @@
    "hash:66cf0dde9573ada4",
    "hash:6d6fb57c00cc8a6e",
    "hash:bc612863732660fa",
-   "hash:fdcae6574e20e351"
+   "hash:fdcae6574e20e351",
+   "hash:49deb8b3f4197871"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.556bdc17.1794302009.1468ab1",
-   "https://errors.edgesuite.net/18.556bdc17.1794302009.1468ab1"
+   "Reference #18.9751c317.1794312569.147479cc",
+   "https://errors.edgesuite.net/18.9751c317.1794312569.147479cc"
   ]
  },
  "asa_grupa": {
@@ -5579,7 +5603,8 @@
    "hash:40024db387f29f26",
    "hash:a8d207f3ef3285b8",
    "hash:771b9b047d7406de",
-   "hash:875b5846b1146252"
+   "hash:875b5846b1146252",
+   "hash:8882187c645cff11"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5647,7 +5672,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -6738,7 +6763,8 @@
  "walter_code": {
   "keys": [
    "https://www.galeyo.com/open-positions/general-application",
-   "https://www.galeyo.com/open-positions/internship"
+   "https://www.galeyo.com/open-positions/internship",
+   "https://www.galeyo.com/open-positions/devops-engineer"
   ]
  },
  "rtrk": {
@@ -7081,7 +7107,8 @@
    "hash:07000ef647fb68a3",
    "hash:cc783a946ee6da56",
    "hash:df0da0cc735df421",
-   "hash:e495eb5099569914"
+   "hash:e495eb5099569914",
+   "hash:a9cf51e92390fee5"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7089,8 +7116,26 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 144",
+   "1-20 od 147",
    "Stavki po stranici",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "„Дворник“ д.о.о. Бања Лука",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Бања Лука",
+   "Одређено време",
+   "10. nov - 17. nov 2026.",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "SECOND HAND BOUTIQUE FAMILY",
+   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Лакташи",
+   "Одређено време",
+   "10. nov - 25. nov 2026.",
+   "\"Trebava-ekspres\" d.o.o.Doboj",
+   "VODITELJ STANICE TEHNIČKOG PREGLEDA",
+   "\"Trebava-ekspres\" d.o.o.Doboj",
+   "Добој",
+   "Одређено време",
+   "10. nov - 27. nov 2026.",
    "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Poslastičar i pekar",
    "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
@@ -7155,7 +7200,9 @@
    "Бања Лука",
    "Неодређено време",
    "4. nov - 4. dec 2026.",
+   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "ШИВАЧ-„OX Europe“ ДОО ГРАДИШКА",
+   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -7165,7 +7212,9 @@
    "Мркоњић Град",
    "Одређено време",
    "4. nov - 12. nov 2026.",
+   "JU OŠ \"Kozarska djeca\" Gradiška",
    "ЈУ Гимназија „Филип Вишњић“ Бијељина",
+   "JU OŠ \"Kozarska djeca\" Gradiška",
    "Бијељина",
    "Одређено време",
    "4. nov - 12. nov 2026.",
@@ -7184,19 +7233,7 @@
    "JU OŠ \"Kozarska djeca\" Gradiška",
    "Градишка",
    "Одређено време",
-   "4. nov - 19. nov 2026.",
-   "ЈУ ОШ „Десанка Максимовић“ Горњи Рибни",
-   "Рибник",
-   "Одређено време",
-   "4. nov - 12. nov 2026.",
-   "Исправка конкурса ЈУ ОШ „Дринић“ Дринић, Петровац",
-   "Бања Лука, Петровац",
-   "Одређено време",
-   "4. nov - 12. nov 2026.",
-   "ЈУ ОШ ,,Вук Караџић“ Бараћи, Мркоњић Град",
-   "Мркоњић Град",
-   "Одређено време",
-   "4. nov - 12. nov 2026."
+   "4. nov - 19. nov 2026."
   ]
  },
  "arz_bih": {
