@@ -2296,7 +2296,6 @@
  },
  "atos": {
   "keys": [
-   "hash:9e1a471988d9299f",
    "hash:497facf58805f2a5",
    "hash:0823a689ca518ce0",
    "hash:dcc4eeb4aa317304",
@@ -2345,7 +2344,8 @@
    "hash:d5b978a32baa8e71",
    "hash:ee89a510a78eb888",
    "hash:76c297231f0a7dae",
-   "hash:e904bbf33321a2ce"
+   "hash:e904bbf33321a2ce",
+   "hash:7c6f97389a0b2aca"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2439,17 +2439,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5317,13 +5317,14 @@
    "hash:bc612863732660fa",
    "hash:fdcae6574e20e351",
    "hash:49deb8b3f4197871",
-   "hash:81166e55266ce7dd"
+   "hash:81166e55266ce7dd",
+   "hash:63c21dfd7e3feef4"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.b7c83017.1794322030.1e14882e",
-   "https://errors.edgesuite.net/18.b7c83017.1794322030.1e14882e"
+   "Reference #18.9367cd17.1794323371.1f61265d",
+   "https://errors.edgesuite.net/18.9367cd17.1794323371.1f61265d"
   ]
  },
  "asa_grupa": {
@@ -7133,7 +7134,8 @@
    "hash:cc783a946ee6da56",
    "hash:df0da0cc735df421",
    "hash:e495eb5099569914",
-   "hash:a9cf51e92390fee5"
+   "hash:a9cf51e92390fee5",
+   "hash:76c24b9eeebaa91f"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7141,17 +7143,17 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 147",
+   "1-20 od 148",
    "Stavki po stranici",
-   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
+   "Ложач-Творница обуће БЕМА д.о.о.",
+   "Бања Лука",
+   "Одређено време",
+   "10. nov - 10. dec 2026.",
    "„Дворник“ д.о.о. Бања Лука",
-   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Бања Лука",
    "Одређено време",
    "10. nov - 17. nov 2026.",
-   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "SECOND HAND BOUTIQUE FAMILY",
-   "Ресторан \"РИБАРСКА ПРИЧА\" Nebojša Dujaković с.п. Буковица Мала",
    "Лакташи",
    "Одређено време",
    "10. nov - 25. nov 2026.",
@@ -7225,9 +7227,7 @@
    "Бања Лука",
    "Неодређено време",
    "4. nov - 4. dec 2026.",
-   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "ШИВАЧ-„OX Europe“ ДОО ГРАДИШКА",
-   "PU KLUB ZA DJECU \"KOCKALONE\" ISTOČNA ILIDŽA",
    "Градишка",
    "Одређено време",
    "4. nov - 4. dec 2026.",
@@ -7237,9 +7237,7 @@
    "Мркоњић Град",
    "Одређено време",
    "4. nov - 12. nov 2026.",
-   "JU OŠ \"Kozarska djeca\" Gradiška",
    "ЈУ Гимназија „Филип Вишњић“ Бијељина",
-   "JU OŠ \"Kozarska djeca\" Gradiška",
    "Бијељина",
    "Одређено време",
    "4. nov - 12. nov 2026.",
@@ -7252,13 +7250,7 @@
    "ПУ Клуб за дјецу „Звјездица“ Бања Лука",
    "Бања Лука",
    "Одређено време",
-   "4. nov - 4. dec 2026.",
-   "JU OŠ \"Kozarska djeca\" Gradiška",
-   "Direktor",
-   "JU OŠ \"Kozarska djeca\" Gradiška",
-   "Градишка",
-   "Одређено време",
-   "4. nov - 19. nov 2026."
+   "4. nov - 4. dec 2026."
   ]
  },
  "arz_bih": {
