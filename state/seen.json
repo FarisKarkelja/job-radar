@@ -67,7 +67,8 @@
    "598d62da-d914-11f1-a8c0-42010a9c001a",
    "1c2a31e3-d906-11f1-a8c0-42010a9c001a",
    "4b71387b-d92a-11f1-a8c0-42010a9c001a",
-   "bc374abc-cd47-11f1-a8c0-42010a9c001a"
+   "bc374abc-cd47-11f1-a8c0-42010a9c001a",
+   "64d5dc1a-dc40-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -361,7 +362,13 @@
    "373a4ed2-dcf5-11f1-a8c0-42010a9c001a",
    "46dfbeb3-dce5-11f1-a8c0-42010a9c001a",
    "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a",
-   "7bd56d60-ce12-11f1-a8c0-42010a9c001a"
+   "7bd56d60-ce12-11f1-a8c0-42010a9c001a",
+   "aea31240-dd0b-11f1-a8c0-42010a9c001a",
+   "9bc830b4-dd05-11f1-a8c0-42010a9c001a",
+   "d5f31349-dd0a-11f1-a8c0-42010a9c001a",
+   "8ca71b30-dd10-11f1-a8c0-42010a9c001a",
+   "36a318e9-dd0c-11f1-a8c0-42010a9c001a",
+   "726cec4e-dd07-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -399,7 +406,8 @@
    "https://posao.klix.ba/oglasi/agent-telefonske-prodaje-telekom-usluga-mz-smak-solutions/11027",
    "https://posao.klix.ba/oglasi/kundenberater-in-der-automobilindustrie-mw-tp/11043",
    "https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-danskom-jeziku-mz-mplus-bih/11046",
-   "https://posao.klix.ba/oglasi/home-office-kundenberaterin-mwd-fur-ein-fuhrendes-unternehmen-im-bereich-tee-teemaschinen-und-zubehor-telus-digital/11053"
+   "https://posao.klix.ba/oglasi/home-office-kundenberaterin-mwd-fur-ein-fuhrendes-unternehmen-im-bereich-tee-teemaschinen-und-zubehor-telus-digital/11053",
+   "https://posao.klix.ba/oglasi/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima-mz-telemach/11055"
   ]
  },
  "itbase": {
@@ -580,7 +588,8 @@
    "https://www.linkedin.com/jobs/view/4487487148",
    "https://www.linkedin.com/jobs/view/4487473713",
    "https://www.linkedin.com/jobs/view/4487477592",
-   "https://www.linkedin.com/jobs/view/4487457935"
+   "https://www.linkedin.com/jobs/view/4487457935",
+   "https://www.linkedin.com/jobs/view/4481551992"
   ]
  },
  "glassrpske_konkursi": {
@@ -686,7 +695,8 @@
    "https://szks.ba/posao/basics-166-majstor-za-proizvodnju-i-montazu-plocastog-namjestaja",
    "https://szks.ba/posao/zara-iz-duvara-110-konobar",
    "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-kuhar-m-z",
-   "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-medicinska-sestra-tehnicar"
+   "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-medicinska-sestra-tehnicar",
+   "https://szks.ba/posao/dom-mirsen-166-radnica-u-kuhinji"
   ]
  },
  "zdk_szz": {
@@ -2286,7 +2296,6 @@
  },
  "atos": {
   "keys": [
-   "hash:2a555bbc4d9770d0",
    "hash:9e1a471988d9299f",
    "hash:497facf58805f2a5",
    "hash:0823a689ca518ce0",
@@ -2335,7 +2344,8 @@
    "hash:b20c1f8ba5dfd3b4",
    "hash:d5b978a32baa8e71",
    "hash:ee89a510a78eb888",
-   "hash:76c297231f0a7dae"
+   "hash:76c297231f0a7dae",
+   "hash:e904bbf33321a2ce"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2429,17 +2439,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
+   "Detaljnije",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4292,7 +4302,9 @@
    "https://szztk.ba/posao/36935/koala-automotive-tuzla-dekorater-igracaka",
    "https://szztk.ba/posao/36936/jp-sume-tk-dd-kladanj-javni-oglas-za-prijem-u-radani-odnos",
    "https://szztk.ba/posao/36954/ingrat-gracanica-operater-za-opsluzivanje-pogona-plastifikacije-i-finalizacije-proizvoda-u-farbaoni-metalnih-konstrukcija",
-   "https://szztk.ba/posao/36952/kantonalno-tuzilastvo-tk-javni-oglas-za-prijem-pripravnika-volontera"
+   "https://szztk.ba/posao/36952/kantonalno-tuzilastvo-tk-javni-oglas-za-prijem-pripravnika-volontera",
+   "https://szztk.ba/posao/36968/tuzla-kvarc-tuzla-oglas-za-prijem-radnika",
+   "https://szztk.ba/posao/36966/malisic-export-import-citluk-vozac-dostavljac-regija-tuzla"
   ]
  },
  "szz_bpk": {
@@ -4399,7 +4411,16 @@
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-akademija-likovnih-umjetnosti-1",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-akademsko-saradnicko-zvanje-univerzitet-u-sarajevu-filozofski-3",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-i-prijem-u-radni-odnos-sa-punim-radnim-vremenom-21",
-   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-i-prijem-u-radni-odnos-sa-punim-radnim-vremenom-20"
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-i-prijem-u-radni-odnos-sa-punim-radnim-vremenom-20",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-elektrotehnicki-fakultet-46",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-15",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-akademija-scenskih-umjetnosti",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-medicinski-fakultet",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pedagoski-fakultet-17",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-farmaceutski-fakultet-0",
+   "https://www.unsa.ba/index.php/konkursi/konkursnatjecaj-za-izbor-nastavnika-na-univerzitetu-u-sarajevu-prirodno-matematickom-19"
   ]
  },
  "untz_konkursi": {
@@ -5295,13 +5316,14 @@
    "hash:6d6fb57c00cc8a6e",
    "hash:bc612863732660fa",
    "hash:fdcae6574e20e351",
-   "hash:49deb8b3f4197871"
+   "hash:49deb8b3f4197871",
+   "hash:81166e55266ce7dd"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.9751c317.1794312569.147479cc",
-   "https://errors.edgesuite.net/18.9751c317.1794312569.147479cc"
+   "Reference #18.b7c83017.1794322030.1e14882e",
+   "https://errors.edgesuite.net/18.b7c83017.1794322030.1e14882e"
   ]
  },
  "asa_grupa": {
@@ -6764,7 +6786,9 @@
   "keys": [
    "https://www.galeyo.com/open-positions/general-application",
    "https://www.galeyo.com/open-positions/internship",
-   "https://www.galeyo.com/open-positions/devops-engineer"
+   "https://www.galeyo.com/open-positions/devops-engineer",
+   "https://www.galeyo.com/open-positions/data-engineer",
+   "https://www.galeyo.com/open-positions/backend-developer"
   ]
  },
  "rtrk": {
@@ -6992,7 +7016,8 @@
    "https://poslovnioglasi.ba/company-ad-details/939",
    "https://poslovnioglasi.ba/company-ad-details/941",
    "https://poslovnioglasi.ba/company-ad-details/942",
-   "https://poslovnioglasi.ba/company-ad-details/943"
+   "https://poslovnioglasi.ba/company-ad-details/943",
+   "https://poslovnioglasi.ba/company-ad-details/944"
   ]
  },
  "ads_bih": {
