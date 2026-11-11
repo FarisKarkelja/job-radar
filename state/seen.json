@@ -71,7 +71,8 @@
    "64d5dc1a-dc40-11f1-a8c0-42010a9c001a",
    "d29df0c8-dd1a-11f1-a8c0-42010a9c001a",
    "4846c87e-dc3c-11f1-a8c0-42010a9c001a",
-   "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a"
+   "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a",
+   "716baded-dde0-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -2335,7 +2336,6 @@
  },
  "atos": {
   "keys": [
-   "hash:9cee5e08d0bff673",
    "hash:796accade328ffe4",
    "hash:955f6fc2b0f56d98",
    "hash:8eb0325f604f0582",
@@ -2384,7 +2384,8 @@
    "hash:14d95e1e7b2dbfed",
    "hash:3cce071f487b4485",
    "hash:3d386c1b9b4990d5",
-   "hash:feb5b2c3c450bd37"
+   "hash:feb5b2c3c450bd37",
+   "hash:efb928f8e0dd7395"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2478,17 +2479,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
    "Western Union",
    "Brz i siguran transfer novca",
    "Detaljnije",
    "Oročena štednja",
    "Ulažite u budućnost",
    "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
-   "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4493,7 +4494,8 @@
    "https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet",
-   "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17"
+   "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet"
   ]
  },
  "untz_konkursi": {
@@ -5355,7 +5357,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:34f6da7c8357053a",
    "hash:90856daba5656eb1",
    "hash:792930405e77f247",
    "hash:1dec9b49b42e6ca4",
@@ -5404,13 +5405,14 @@
    "hash:45d4680fb2e122dd",
    "hash:ac471003f8773bbe",
    "hash:c5c8a6e16c99c19e",
-   "hash:7564a1656770060b"
+   "hash:7564a1656770060b",
+   "hash:dcc4f6998b466363"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.acf50f17.1794420574.1d6c01a2",
-   "https://errors.edgesuite.net/18.acf50f17.1794420574.1d6c01a2"
+   "Reference #18.ead11102.1794431377.28ac4638",
+   "https://errors.edgesuite.net/18.ead11102.1794431377.28ac4638"
   ]
  },
  "asa_grupa": {
@@ -5716,7 +5718,8 @@
    "hash:8882187c645cff11",
    "hash:5018b4ea86dc47de",
    "hash:e700a507d4b47765",
-   "hash:46b4c30c8eb23a94"
+   "hash:46b4c30c8eb23a94",
+   "hash:b93e50ac5403444c"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5784,55 +5787,55 @@
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "System Infrastructure Engineer Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Data Science Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Software Engineering Intern – Rijeka",
    "Location:",
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Solutions Engineer Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 21 hours ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",

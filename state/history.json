@@ -25484,5 +25484,29 @@
   "url": "https://www.infobip.com/internship",
   "it": false,
   "priority": 3
+ },
+ {
+  "ts": "2026-11-11T21:07:46+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Agent za podršku korisnicima (m/ž)",
+  "url": "https://www.mojposao.ba/posao/716baded-dde0-11f1-a8c0-42010a9c001a/agent-za-podrsku-korisnicima-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-11T21:07:46+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet",
+  "url": "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

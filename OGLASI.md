@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 11.11. 22:07 | • [Agent za podršku korisnicima (m/ž)](https://www.mojposao.ba/posao/716baded-dde0-11f1-a8c0-42010a9c001a/agent-za-podrsku-korisnicima-mz) | MojPosao IT |
+| 11.11. 22:07 | • [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet) | Univerzitet u Sarajevu (konkursi) |
 | 11.11. 19:07 | • [Agent za podršku korisnicima (m/ž)](https://www.mojposao.ba/posao/716baded-dde0-11f1-a8c0-42010a9c001a/agent-za-podrsku-korisnicima-mz) | MojPosao Kanton Sarajevo |
 | 11.11. 19:07 | • [Trgovac-prodavač](https://www.mojposao.ba/posao/823a4cee-ddd9-11f1-a8c0-42010a9c001a/trgovac-prodavac) | MojPosao Kanton Sarajevo |
 | 11.11. 19:07 | • [Promotions and Sponsorship Manager](https://www.mojposao.ba/posao/fe71f101-daaf-11f1-a8c0-42010a9c001a/promotions-and-sponsorship-manager) | MojPosao Kanton Sarajevo |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Lista-med-sestra-akuserka.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Lista-med-sestra-pedijatrijska.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O-G-L-A-S-za-prikupljanju-ponuda-za-izbor-najpovoljnijeg-ponudjaca-za-otkup-i-odvoz-sekundarnih-sirovina.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [PREDMET JAVNOG POZIVA:OTKUP I ODVOZ SEKUNDARNIH SIROVINA](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/TD-30.9.2025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O243092025.pdf) | UKC Tuzla (konkursi) |
