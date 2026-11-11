@@ -374,7 +374,12 @@
    "726cec4e-dd07-11f1-a8c0-42010a9c001a",
    "d29df0c8-dd1a-11f1-a8c0-42010a9c001a",
    "0d636d87-ddaa-11f1-a8c0-42010a9c001a",
-   "410cb365-dda4-11f1-a8c0-42010a9c001a"
+   "410cb365-dda4-11f1-a8c0-42010a9c001a",
+   "dfce24ad-ddaf-11f1-a8c0-42010a9c001a",
+   "4a12805e-ddb7-11f1-a8c0-42010a9c001a",
+   "c45f5f9a-ddb5-11f1-a8c0-42010a9c001a",
+   "65738c3a-ddb1-11f1-a8c0-42010a9c001a",
+   "8bb5846c-dd9d-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -598,7 +603,10 @@
    "https://www.linkedin.com/jobs/view/4481551992",
    "https://www.linkedin.com/jobs/view/4487489772",
    "https://www.linkedin.com/jobs/view/4487800302",
-   "https://www.linkedin.com/jobs/view/4488636313"
+   "https://www.linkedin.com/jobs/view/4488636313",
+   "https://www.linkedin.com/jobs/view/4406701423",
+   "https://www.linkedin.com/jobs/view/4471919872",
+   "https://www.linkedin.com/jobs/view/4488207353"
   ]
  },
  "glassrpske_konkursi": {
@@ -711,7 +719,10 @@
    "https://szks.ba/posao/javni-oglas-zavod-zdravstvenog-osiguranja-i-reosiguranja-federacije-bosne-i-hercegovine-4",
    "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-kuhar-m-z-2",
    "https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-medicinska-sestra-tehnicar-2",
-   "https://szks.ba/posao/hilfswerk-kuca-podrske-direktor-166-njegovatelj-starijih-lica"
+   "https://szks.ba/posao/hilfswerk-kuca-podrske-direktor-166-njegovatelj-starijih-lica",
+   "https://szks.ba/posao/radnica-na-usluzivanju",
+   "https://szks.ba/posao/nastavnik-njemackog-jezika-45",
+   "https://szks.ba/posao/dom-mirsen-166-njegovateljica"
   ]
  },
  "zdk_szz": {
@@ -2311,7 +2322,6 @@
  },
  "atos": {
   "keys": [
-   "hash:67be644bc964507c",
    "hash:e117bb6a20ec1193",
    "hash:9cee5e08d0bff673",
    "hash:796accade328ffe4",
@@ -2360,7 +2370,8 @@
    "hash:9375650109a93f7b",
    "hash:5eacf164fbdb91cf",
    "hash:14d95e1e7b2dbfed",
-   "hash:3cce071f487b4485"
+   "hash:3cce071f487b4485",
+   "hash:3d386c1b9b4990d5"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2454,17 +2465,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Western Union",
-   "Brz i siguran transfer novca",
-   "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Optimum paket",
    "Plaćajte manje, koristite više!",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -2599,7 +2610,8 @@
  },
  "sunrise": {
   "keys": [
-   "hash:dcd81b3ff801b23e"
+   "hash:dcd81b3ff801b23e",
+   "hash:b3e24f471227b5ee"
   ],
   "lines": [
    "Ovdje možete pronaći informacije o trenutno otvorenim pozicijama, prednostima rada u MKF SUNRISE i procesu prijave.",
@@ -2608,6 +2620,30 @@
    "Dobrodošli u MKF SUNRISE!",
    "Mi pravimo prilike!",
    "Otvorene pozicije",
+   "Kreditni službenik",
+   "Matuzići",
+   "Kreditno odjeljenje",
+   "PRIDRUŽI NAM SE",
+   "Kreditni službenik",
+   "Ključ",
+   "Kreditno odjeljenje",
+   "PRIDRUŽI NAM SE",
+   "Kreditni službenik",
+   "Sarajevo",
+   "Kreditno odjeljenje",
+   "PRIDRUŽI NAM SE",
+   "Kreditni službenik",
+   "Velika Kladuša",
+   "Kreditno odjeljenje",
+   "PRIDRUŽI NAM SE",
+   "Kreditni službenik",
+   "Doboj",
+   "Kreditno odjeljenje",
+   "PRIDRUŽI NAM SE",
+   "Kreditni službenik",
+   "Žepče",
+   "Kreditno odjeljenje",
+   "PRIDRUŽI NAM SE",
    "Samoinicijativna prijava za posao",
    "PRIDRUŽI NAM SE",
    "Mikrokreditna fondacija SUNRISE već 29 godina poslujući širom Bosne i Hercegovine u 45 poslovnica pruža podršku stanovništvu i osigurava dostupnost usluga širom zemlje. Postanite dio naše priče i podržite razvoj zajednice uz nas! Ako ste zainteresovani za više informacija o našoj kompaniji, pozivamo Vas da istražite našu web stranicu!",
@@ -4437,7 +4473,11 @@
    "https://www.unsa.ba/index.php/konkursi/konkursnatjecaj-za-izbor-nastavnika-na-univerzitetu-u-sarajevu-prirodno-matematickom-19",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-elektrotehnicki-fakultet-46",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-15",
-   "https://www.unsa.ba/konkursi/natjecaj-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-katolickom-bogoslovnom-2"
+   "https://www.unsa.ba/konkursi/natjecaj-za-izbor-akademskog-osoblja-na-univerzitetu-u-sarajevu-katolickom-bogoslovnom-2",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet",
+   "https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet"
   ]
  },
  "untz_konkursi": {
@@ -4494,7 +4534,9 @@
    "https://dzobs.com/posao/imperea-405010/uxui-designer-982926",
    "https://dzobs.com/posao/ogo-sense-193132/devops-engineer-fintech-saas-291943",
    "https://dzobs.com/posao/crossvallia-336512/eventproject-organizer-marketing-team-378913",
-   "https://dzobs.com/posao/crossvallia-336512/systems-administrator-386402"
+   "https://dzobs.com/posao/crossvallia-336512/systems-administrator-386402",
+   "https://dzobs.com/posao/bay42-370553/mlai-data-analyst-788422",
+   "https://dzobs.com/posao/rollee-851986/senior-backend-engineer-351313"
   ]
  },
  "dzobs_praksa": {
@@ -5343,13 +5385,14 @@
    "hash:1da4a83f74725d71",
    "hash:17b1f1a507214fb6",
    "hash:45d4680fb2e122dd",
-   "hash:ac471003f8773bbe"
+   "hash:ac471003f8773bbe",
+   "hash:c5c8a6e16c99c19e"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.951c2117.1794388157.b2688f1e",
-   "https://errors.edgesuite.net/18.951c2117.1794388157.b2688f1e"
+   "Reference #18.d5ab3717.1794398981.258fabb7",
+   "https://errors.edgesuite.net/18.d5ab3717.1794398981.258fabb7"
   ]
  },
  "asa_grupa": {
@@ -5653,7 +5696,8 @@
    "hash:771b9b047d7406de",
    "hash:875b5846b1146252",
    "hash:8882187c645cff11",
-   "hash:5018b4ea86dc47de"
+   "hash:5018b4ea86dc47de",
+   "hash:e700a507d4b47765"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5716,12 +5760,6 @@
    "If this sounds like you, embrace the fun of learning, collaborate with diverse minds, and let your potential shine bright as an intern in Infobip. We are looking for graduate and final year undergraduate students of technical and business faculties. All of our internship programs are held live in our campuses and offices.",
    "Become an intern",
    "Open internships",
-   "Product Success Intern",
-   "Location:",
-   "Zagreb (Croatia)",
-   "Job type:",
-   "Onsite",
-   "Posted 1 week ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
