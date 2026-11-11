@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **10.11.2026 22:15** (Sarajevo)  
+Zadnje pokretanje: **11.11.2026 07:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -27,7 +27,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 3 | 0 |  |
 | [BH Telecom](https://www.bhtelecom.ba/category/javni-oglasi-za-posao/) | ✅ | 10 | 0 |  |
 | [Bingo (oglasi)](https://www.bingotuzla.ba/bingooglasi) | ✅ | 7 | 0 |  |
-| [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 0 |  |
+| [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 1 |  |
 | [Centralna banka BiH (karijera)](https://www.cbbh.ba/career) | ✅ | 1 | 0 |  |
 | [D-ploy](https://apply.workable.com/d-ploy/) | ✅ | 1 | 0 |  |
 | [dzobs (IT poslovi)](https://dzobs.com/poslovi/1) | ✅ | 12 | 0 |  |
@@ -39,7 +39,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 1 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 2 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -54,15 +54,15 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 48 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 44 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 1 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 185 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ✅ | 1 | 0 |  |
@@ -312,14 +312,14 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>dzobs (12)</summary>
 
-- [premium Senior Fullstack Developer Craskod Banja Luka Senior jo š 36 dana Remote](https://dzobs.com/posao/craskod-146957/senior-fullstack-developer-961595)
-- [premium Senior Mobile Developer Craskod Banja Luka jo š 36 dana Remote](https://dzobs.com/posao/craskod-146957/senior-mobile-developer-646850)
-- [Senior Python Engineer Valens Senior jo š 35 dana Remote](https://dzobs.com/posao/valens-494341/senior-python-engineer-475563)
-- [SEO copywriter ItMedia Bijeljina Junior, Medior, Senior jo š 34 dana Remote](https://dzobs.com/posao/itmedia-569053/seo-copywriter-362831)
-- [Content Writers Zentury Media Junior, Medior, Senior jo š 34 dana Remote](https://dzobs.com/posao/zentury-media-794544/content-writers-623079)
-- [DevOps Engineer Crossvallia Sarajevo Medior, Senior jo š 32 dana Remote](https://dzobs.com/posao/crossvallia-336512/devops-engineer-789459)
-- [C Developer Crossvallia Sarajevo Senior jo š 32 dana Remote](https://dzobs.com/posao/crossvallia-336512/c-developer-639546)
-- [UX/UI Designer Imperea Zenica Junior, Medior, Senior jo š 32 dana Remote](https://dzobs.com/posao/imperea-405010/uxui-designer-982926)
+- [premium Senior Fullstack Developer Craskod Banja Luka Senior jo š 35 dana Remote](https://dzobs.com/posao/craskod-146957/senior-fullstack-developer-961595)
+- [premium Senior Mobile Developer Craskod Banja Luka jo š 35 dana Remote](https://dzobs.com/posao/craskod-146957/senior-mobile-developer-646850)
+- [Senior Python Engineer Valens Senior jo š 34 dana Remote](https://dzobs.com/posao/valens-494341/senior-python-engineer-475563)
+- [SEO copywriter ItMedia Bijeljina Junior, Medior, Senior jo š 33 dana Remote](https://dzobs.com/posao/itmedia-569053/seo-copywriter-362831)
+- [Content Writers Zentury Media Junior, Medior, Senior jo š 33 dana Remote](https://dzobs.com/posao/zentury-media-794544/content-writers-623079)
+- [DevOps Engineer Crossvallia Sarajevo Medior, Senior jo š 31 dana Remote](https://dzobs.com/posao/crossvallia-336512/devops-engineer-789459)
+- [C Developer Crossvallia Sarajevo Senior jo š 31 dana Remote](https://dzobs.com/posao/crossvallia-336512/c-developer-639546)
+- [UX/UI Designer Imperea Zenica Junior, Medior, Senior jo š 31 dana Remote](https://dzobs.com/posao/imperea-405010/uxui-designer-982926)
 
 </details>
 
@@ -507,16 +507,16 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (48)</summary>
+<details><summary>linkedin_bih (44)</summary>
 
 - [Senior Application Developer](https://www.linkedin.com/jobs/view/4477712584)
 - [Senior C++ Engineer](https://www.linkedin.com/jobs/view/4478436256)
-- [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478856785)
+- [Senior Developer Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4478136025)
 - [Senior Backend Engineer (FIX & Identity)](https://www.linkedin.com/jobs/view/4488101712)
 - [Mid/Senior Software Engineer](https://www.linkedin.com/jobs/view/4486589857)
 - [Staff Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4478198871)
+- [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4488636313)
 - [Backend Developer](https://www.linkedin.com/jobs/view/4487487148)
-- [Junior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487489772)
 
 </details>
 
@@ -576,7 +576,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 </details>
 
-<details><summary>mojposao_ks (198)</summary>
+<details><summary>mojposao_ks (185)</summary>
 
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [Savjetnik za korisničku podršku na njemačkom jeziku (m/ž)](https://www.mojposao.ba/posao/0c288ef4-c3db-11f1-a8c0-42010a9c001a/savjetnik-za-korisnicku-podrsku-na-njemackom-jeziku-mz)
@@ -642,11 +642,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [SALES ASSISTANT PRODAVAČ (m/ž) LPP BH d.o.o. - Sinsay Tomislavgrad Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/944)
 - [Magacioner X express d.o.o. Banja Luka, Zvornik, Vitez Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/943)
 - [Magacioner (samo muškarci) Hoše-komerc d.o.o. Sarajevo-Butile Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/942)
@@ -753,13 +753,13 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 <details><summary>szks (10)</summary>
 
 - [RADNICA U KUHINJI](https://szks.ba/posao/dom-mirsen-166-radnica-u-kuhinji)
-- [KUHAR M/Ž](https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-kuhar-m-z)
-- [MEDICINSKA SESTRA-TEHNIČAR](https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-medicinska-sestra-tehnicar)
 - [PSIHOLOG](https://szks.ba/posao/psiholog-18)
 - [JAVNI OGLAS ZA PRIJEM RADNIKA U RADNI ODNOS ODREĐENO VRIJEME DO GODINU DANA SA PROBNIM RADOM DO 3 (TRI) MJESECA](https://szks.ba/posao/javni-oglas-za-prijem-radnika-u-radni-odnos-odredjeno-vrijeme-do-godinu-dana-sa-probnim-radom-do-3-tri-mjeseca)
 - [POMOĆNI RADNIK U KUHINJI](https://szks.ba/posao/zara-iz-duvara-110-pomocni-radnik-u-kuhinji)
 - [MAJSTOR ZA PROIZVODNJU I MONTAŽU PLOČASTOG NAMJEŠTAJA](https://szks.ba/posao/basics-166-majstor-za-proizvodnju-i-montazu-plocastog-namjestaja)
 - [KONOBAR](https://szks.ba/posao/zara-iz-duvara-110-konobar)
+- [RADNIK ZA SERVISNO-TEHNIČKU PODRŠKU](https://szks.ba/posao/radnik-za-servisno-tehnicku-podrsku-9)
+- [NASTAVNIK/ICA NJEMAČKOG JEZIKA](https://szks.ba/posao/nastavnik-ica-njemackog-jezika-4)
 
 </details>
 

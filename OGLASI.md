@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 11.11. 07:07 | • [Agent u službi za korisnike / Customer Support Specialist (m/ž)](https://www.mojposao.ba/posao/4846c87e-dc3c-11f1-a8c0-42010a9c001a/agent-u-sluzbi-za-korisnike--customer-support-specialist-mz) | MojPosao IT |
+| 11.11. 07:07 | 💻 [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4488636313) · Toptal | LinkedIn BiH |
 | 10.11. 22:07 | • [Senior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487800302) · Brookstone Partners | LinkedIn BiH |
 | 10.11. 22:07 | 💻 [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Elektrotehnički fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-elektrotehnicki-fakultet-46) | Univerzitet u Sarajevu (konkursi) |
 | 10.11. 22:07 | • [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Arhitektonski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-15) | Univerzitet u Sarajevu (konkursi) |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Tenderska dokumentacija](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/03/TD-26032025.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-1-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-2-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-3-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-4-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |

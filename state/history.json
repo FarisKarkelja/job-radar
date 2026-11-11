@@ -24854,5 +24854,29 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-11T06:07:42+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Agent u službi za korisnike / Customer Support Specialist (m/ž)",
+  "url": "https://www.mojposao.ba/posao/4846c87e-dc3c-11f1-a8c0-42010a9c001a/agent-u-sluzbi-za-korisnike--customer-support-specialist-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-11T06:07:42+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Senior Fullstack Engineer",
+  "url": "https://www.linkedin.com/jobs/view/4488636313",
+  "company": "Toptal",
+  "it": true,
+  "priority": 4,
+  "match": "fullstack",
+  "snippet": ""
  }
 ]

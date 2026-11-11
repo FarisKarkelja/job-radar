@@ -69,7 +69,8 @@
    "4b71387b-d92a-11f1-a8c0-42010a9c001a",
    "bc374abc-cd47-11f1-a8c0-42010a9c001a",
    "64d5dc1a-dc40-11f1-a8c0-42010a9c001a",
-   "d29df0c8-dd1a-11f1-a8c0-42010a9c001a"
+   "d29df0c8-dd1a-11f1-a8c0-42010a9c001a",
+   "4846c87e-dc3c-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -593,7 +594,8 @@
    "https://www.linkedin.com/jobs/view/4487457935",
    "https://www.linkedin.com/jobs/view/4481551992",
    "https://www.linkedin.com/jobs/view/4487489772",
-   "https://www.linkedin.com/jobs/view/4487800302"
+   "https://www.linkedin.com/jobs/view/4487800302",
+   "https://www.linkedin.com/jobs/view/4488636313"
   ]
  },
  "glassrpske_konkursi": {
@@ -2300,7 +2302,6 @@
  },
  "atos": {
   "keys": [
-   "hash:078f76b8270c7a4e",
    "hash:8cf8629844d6ec7d",
    "hash:67be644bc964507c",
    "hash:e117bb6a20ec1193",
@@ -2349,7 +2350,8 @@
    "hash:7c6f97389a0b2aca",
    "hash:59e797b6ad580269",
    "hash:9375650109a93f7b",
-   "hash:5eacf164fbdb91cf"
+   "hash:5eacf164fbdb91cf",
+   "hash:14d95e1e7b2dbfed"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2443,17 +2445,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
+   "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
-   "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5034,7 +5036,8 @@
    "hash:a3bad9c7054fdb72",
    "hash:fb291a0c6a23a98b",
    "hash:cc9858b8e61ffa6c",
-   "hash:8748f7e18b5c5178"
+   "hash:8748f7e18b5c5178",
+   "hash:6d78e552f8e38130"
   ],
   "lines": [
    "O nama",
@@ -5150,7 +5153,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 10. 2026",
+   "novembar 11. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5328,13 +5331,14 @@
    "hash:63c21dfd7e3feef4",
    "hash:b4cba13d4672db4e",
    "hash:1da4a83f74725d71",
-   "hash:17b1f1a507214fb6"
+   "hash:17b1f1a507214fb6",
+   "hash:45d4680fb2e122dd"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.596ccd17.1794345495.2f9f5315",
-   "https://errors.edgesuite.net/18.596ccd17.1794345495.2f9f5315"
+   "Reference #18.93551702.1794377365.3e5914ca",
+   "https://errors.edgesuite.net/18.93551702.1794377365.3e5914ca"
   ]
  },
  "asa_grupa": {
@@ -5637,7 +5641,8 @@
    "hash:a8d207f3ef3285b8",
    "hash:771b9b047d7406de",
    "hash:875b5846b1146252",
-   "hash:8882187c645cff11"
+   "hash:8882187c645cff11",
+   "hash:5018b4ea86dc47de"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5705,7 +5710,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
