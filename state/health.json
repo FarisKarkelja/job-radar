@@ -2,37 +2,37 @@
  "mojposao_it": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 34
  },
  "mojposao_ks": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 198
  },
  "klix_it": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 20
  },
  "itbase": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 20
  },
  "workable_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 2
  },
  "linkedin_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 41
  },
  "mojkonkurs": {
@@ -43,427 +43,427 @@
  "poslovnioglasi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 13
  },
  "glassrpske_konkursi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 12
  },
  "ads_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 5
  },
  "ads_fbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 15
  },
  "adu_rs": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 19
  },
  "szks": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "zzzrs": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "zdk_szz": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 8
  },
  "judzks": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "bhtelecom": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "epbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 4
  },
  "sparkasse": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "unicredit_ba": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "unicredit_bl": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "raiffeisen": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "intesa_oglasi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "intesa_zaposlenje": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "nlb_bl": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "procredit": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "procredit_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "addiko_bl": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "addiko_bl_karijere": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "asabanka": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "bbi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "unionbank": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "unionbank_oglasi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "ziraat": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "mfbanka": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "atos": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "rbfbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 3
  },
  "cbbh": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "monri": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "mikra": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "partner_mkf": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "lok": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "sunrise": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "mibospo": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "triglav": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "wiener": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "grawe": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "asa_osiguranje": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "raiffeisen_leasing": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "telemach": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "mtel": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 3
  },
  "supernova": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "bhposta": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 3
  },
  "jpceste": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "bhgas": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 2
  },
  "sarajevogas": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "energoinvest": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 6
  },
  "aerodrom_sarajevo": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 4
  },
  "rtvfbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "kcus": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "ukc_tuzla": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 115
  },
  "obs": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "viksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "kjkp_rad": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 4
  },
  "toplane": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "kjkp_park": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 266
  },
  "kjkp_pokop": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "vlada_ks": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 20
  },
  "szz_hnk": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 40
  },
  "szz_zhk": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 119
  },
  "szz_tk": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 12
  },
  "szz_bpk": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 17
  },
  "arz_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "unsa_konkursi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 10
  },
  "untz_konkursi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 0
  },
  "nezavisne_posao": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "dzobs": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 12
  },
  "dzobs_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 0
  },
  "eeas_bih": {
@@ -475,193 +475,193 @@
  "us_embassy": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "ohr": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "bingo": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 7
  },
  "robot": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 6
  },
  "amko": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "bosnalijek": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "hemofarm": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "asa_grupa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "ina_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "aluminij": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 20
  },
  "kpmg_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "atlantbh": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "atlantbh_internship": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "infobip_internship": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "ministry_of_programming": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "htec_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 2
  },
  "symphony": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "dploy": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "authority_partners": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "klika": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "lanaco": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "lanaco_studenti": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "zira": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "zira_academy": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "twoam": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "saga": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "saga_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "walter_code": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 5
  },
  "rtrk": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "tacta": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "mibo": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  },
  "atia": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-11T21:07:46+00:00",
+  "last_ok": "2026-11-11T21:51:07+00:00",
   "last_count": 1
  }
 }

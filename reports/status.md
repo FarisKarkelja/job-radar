@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **11.11.2026 22:07** (Sarajevo)  
+Zadnje pokretanje: **11.11.2026 22:51** (Sarajevo)  
 Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -39,7 +39,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Hemofarm BiH (karijera)](https://www.hemofarm.ba/srb/karijera) | ✅ | 1 | 1 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 2 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -61,7 +61,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 1 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 0 |  |
 | [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
@@ -101,7 +101,7 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 | [UniCredit Bank Banja Luka (karijera)](https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
 | [Univerzitet u Tuzli (konkursi)](https://untz.ba/konkursi) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
@@ -643,11 +643,11 @@ Izvora: **109**, ispravnih: **109**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Unitrade](https://poslovnioglasi.ba/company/125/unitrade)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Skladištar (M) ZEKA-COMERC d.o.o. Srebrenik Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/946)
 - [Radnik na dostavi i distribuciji (m/ž) R&S d.o.o. Vogošća Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/945)
 - [SALES ASSISTANT PRODAVAČ (m/ž) LPP BH d.o.o. - Sinsay Tomislavgrad Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/944)
