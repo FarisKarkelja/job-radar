@@ -4,6 +4,19 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 11.11. 10:07 | • [Product Marketing & Content Specialist (m/f)](https://www.mojposao.ba/posao/2af7cf9d-dcf2-11f1-a8c0-42010a9c001a/product-marketing--content-specialist-mf) | MojPosao IT |
+| 11.11. 10:07 | • [Radnik na dostavi i distribuciji (m/ž)](https://www.mojposao.ba/posao/0d636d87-ddaa-11f1-a8c0-42010a9c001a/radnik-na-dostavi-i-distribuciji-mz) | MojPosao Kanton Sarajevo |
+| 11.11. 10:07 | • [Univerzalni bankar](https://www.mojposao.ba/posao/410cb365-dda4-11f1-a8c0-42010a9c001a/univerzalni-bankar) | MojPosao Kanton Sarajevo |
+| 11.11. 10:07 | • [Javni oglas za popunjavanje radnih mjesta državnih službenika u Ministarstvu za ljudska prava i izbjeglice Bosne i Hercegovine Datum objave: 11.11.2026. Krajnji rok za prijave: 01.12.2026. 1/01 Stručni savjetnik za pravne poslove 1/02 Struč](https://www.ads.gov.ba/vacancies/3521/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-za-ljudska-prava-i-izbjeglice-bosne-i-hercegovine) | ADS BiH |
+| 11.11. 10:07 | • [JAVNI KONKURS za popunu radnog mjesta državnog službenika u Zavodu za planiranje razvoja Kantona Sarajevo](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7052) | ADS FBiH eKonkurs |
+| 11.11. 10:07 | • [Javni natječaj za prijem vježbenika u Općini Glamoč](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7094) | ADS FBiH eKonkurs |
+| 11.11. 10:07 | • [JAVNI OGLAS](https://szks.ba/posao/javni-oglas-389) · KJU “Dom za socijalno zdravstveno zbrinjavanje osoba sa invaliditetom i drugih osoba” | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 10:07 | • [JAVNI OGLAS](https://szks.ba/posao/javni-oglas-388) · Javna ustanova Opća bolnica „Prim.dr. Abdulah Nakaš“ | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 10:07 | • [JAVNI OGLAS -Zavod zdravstvenog osiguranja i reosiguranja Federacije Bosne i Hercegovine](https://szks.ba/posao/javni-oglas-zavod-zdravstvenog-osiguranja-i-reosiguranja-federacije-bosne-i-hercegovine-4) · Zavod zdravstvenog osiguranja i reosiguranja Federacije Bosne i Hercegovine | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 10:07 | • [KUHAR M/Ž](https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-kuhar-m-z-2) · Ustanova socijalne zaštite &quot;Dom Villa Filis&quot; - Dom za stara i nezbrinuta lica | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 10:07 | • [MEDICINSKA SESTRA -TEHNIČAR](https://szks.ba/posao/ustanova-socijalne-zastite-dom-villa-filis-dom-za-stara-i-nezbrinuta-lica-166-medicinska-sestra-tehnicar-2) · Ustanova socijalne zaštite &quot;Dom Villa Filis&quot; - Dom za stara i nezbrinuta lica | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 10:07 | • [NJEGOVATELJ STARIH LICA](https://szks.ba/posao/hilfswerk-kuca-podrske-direktor-166-njegovatelj-starijih-lica) · Hilfswerk Kuća podrške, direktor | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 10:07 | • [JU Centar za socijalni rad Živinice: Konkurs za izbor i imenovanje direktora](https://szztk.ba/posao/36969/ju-centar-za-socijalni-rad-zivinice-konkurs-za-izbor-i-imenovanje-direktora) | SZZ Tuzlanski kanton (oglasi) |
 | 11.11. 07:07 | • [Agent u službi za korisnike / Customer Support Specialist (m/ž)](https://www.mojposao.ba/posao/4846c87e-dc3c-11f1-a8c0-42010a9c001a/agent-u-sluzbi-za-korisnike--customer-support-specialist-mz) | MojPosao IT |
 | 11.11. 07:07 | 💻 [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4488636313) · Toptal | LinkedIn BiH |
 | 10.11. 22:07 | • [Senior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487800302) · Brookstone Partners | LinkedIn BiH |
@@ -1491,16 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/06/Odluka-o-ponistenju-postupka-18.6.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/06/Javni-oglas-za-prijem-Pomocnika-obducenta-i-spremacice-06-25.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/06/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/06/Javni-oglas-za-prijem-doktora-medicine-specijalista-na-neodredjeno-vrijeme-06-25.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/05/OGLAS-otkup-i-odvoz-sekundarnih-sirovina.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Dokumentacija – otkup i odvoz sekundarnih sirovina](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/05/Dokumentacija-otkup-i-odvoz-sekundarnih-sirovina.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/05/Konkurs-MST-PED.-FARM.TEH-I-VOD.MED_.-DOK.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/05/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/05/KONKURS-2025-pravnici-i-ostalo-i-lab.teh_.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/05/Oglas-SUBSPECIJALIZACIJE-MAJ-2025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/04/KONKURS-drugi.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/04/Konkursa-za-izbor-kandidata-za-dodjelu-specijalizacija.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/03/26032025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Tenderska dokumentacija](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/03/TD-26032025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-1-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/02/Lista-uspjesnih-kandidata-za-radno-mjesto-2-Doktor-medicine.pdf) | UKC Tuzla (konkursi) |
