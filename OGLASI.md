@@ -4,6 +4,27 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 11.11. 19:07 | • [Agent za podršku korisnicima (m/ž)](https://www.mojposao.ba/posao/716baded-dde0-11f1-a8c0-42010a9c001a/agent-za-podrsku-korisnicima-mz) | MojPosao Kanton Sarajevo |
+| 11.11. 19:07 | • [Trgovac-prodavač](https://www.mojposao.ba/posao/823a4cee-ddd9-11f1-a8c0-42010a9c001a/trgovac-prodavac) | MojPosao Kanton Sarajevo |
+| 11.11. 19:07 | • [Promotions and Sponsorship Manager](https://www.mojposao.ba/posao/fe71f101-daaf-11f1-a8c0-42010a9c001a/promotions-and-sponsorship-manager) | MojPosao Kanton Sarajevo |
+| 11.11. 19:07 | • [Ai automation specialist mz aurum nova](https://posao.klix.ba/oglasi/ai-automation-specialist-mz-aurum-nova/11054) | Klix Posao IT |
+| 11.11. 19:07 | • [Senior Data Platform Engineer](https://www.linkedin.com/jobs/view/4481558496) · Personify Health | LinkedIn BiH |
+| 11.11. 19:07 | 🚨 [AI Engineering Intern - Sarajevo](https://www.linkedin.com/jobs/view/4489025106) · Infobip | LinkedIn BiH |
+| 11.11. 19:07 | • [Support Specialist](https://www.linkedin.com/jobs/view/4489929915) · Monri Payments | LinkedIn BiH |
+| 11.11. 19:07 | • [Home Office Kundenberater (m/w/d) für Vattenfall](https://www.linkedin.com/jobs/view/4418950883) · TELUS Digital | LinkedIn BiH |
+| 11.11. 19:07 | • [Home Office Kundenberater (m/w/d) für Technischen Support](https://www.linkedin.com/jobs/view/4482081042) · TELUS Digital | LinkedIn BiH |
+| 11.11. 19:07 | • [Business Analyst](https://www.linkedin.com/jobs/view/4488134657) · STARBYTE d.o.o. | LinkedIn BiH |
+| 11.11. 19:07 | 💻 [TECHNICAL SUPPORT ANALYST](https://www.linkedin.com/jobs/view/4487151050) · Marvelsoft | LinkedIn BiH |
+| 11.11. 19:07 | • [Skladištar (M) ZEKA-COMERC d.o.o. Srebrenik Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/946) | Poslovni oglasi |
+| 11.11. 19:07 | • [Radnik na dostavi i distribuciji (m/ž) R&S d.o.o. Vogošća Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/945) | Poslovni oglasi |
+| 11.11. 19:07 | • [Javni konkurs za popunu radnog mjesta državnog službenika u Gradu Zenica](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7096) | ADS FBiH eKonkurs |
+| 11.11. 19:07 | • [RADNIK NA POSLUŽIVANJU OBROKA](https://szks.ba/posao/radnik-na-posluzivanju-obroka-4) · JU OŠ &quot;MUSTAFA BUSULADŽIĆ&quot; | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 19:07 | • [SPECIJALISTA GINEKOLOGIJE I AKUŠERSTVA (m/ž)](https://szks.ba/posao/poliklinika-estiva-166-specijalista-ginekologije-i-akuserstva-m-z) · Poliklinika Estiva | SZKS (Služba za zapošljavanje KS) |
+| 11.11. 19:07 | • [Promjena na stranici: Javni oglas za prijem u radni odnos na neodređeno vrijeme : I - Servirka u Odsjeku za pripremu i dis](https://www.obs.ba/index.php/oglasi.html) | Opća bolnica Sarajevo (oglasi) |
+| 11.11. 19:07 | • [PU Dom za starija lica “Starački mir” Bukinje: Medicinska sestra/tehničar – 2 izvršioca](https://szztk.ba/posao/36971/pu-dom-za-starija-lica-staracki-mir-bukinje-medicinska-sestra-tehnicar-2-izvrsioca) | SZZ Tuzlanski kanton (oglasi) |
+| 11.11. 19:07 | • [Javni konkurs za izbor akademskog osoblja u akademsko naučno-nastavno zvanje na Univerzitetu u Sarajevu - Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17) | Univerzitet u Sarajevu (konkursi) |
+| 11.11. 19:07 | 💻 [SysAdmin / DevOps More Screens Mostar, Zagreb Senior jo š 31 dana Remote](https://dzobs.com/posao/more-screens-710818/devops-sysadmin-849359) | dzobs (IT poslovi) |
+| 11.11. 19:07 | • [Promjena na stranici: Customer Support Intern](https://www.infobip.com/internship) | Infobip praksa |
 | 11.11. 13:07 | • [Kasirka (m/ž)](https://www.mojposao.ba/posao/dfce24ad-ddaf-11f1-a8c0-42010a9c001a/kasirka-mz) | MojPosao Kanton Sarajevo |
 | 11.11. 13:07 | • [Medicinski predstavnik / stručni saradnik (m/ž)](https://www.mojposao.ba/posao/4a12805e-ddb7-11f1-a8c0-42010a9c001a/medicinski-predstavnik--strucni-saradnik-mz) | MojPosao Kanton Sarajevo |
 | 11.11. 13:07 | • [Radnik u doradi u štampariji (m/ž)](https://www.mojposao.ba/posao/c45f5f9a-ddb5-11f1-a8c0-42010a9c001a/radnik-u-doradi-u-stampariji-mz) | MojPosao Kanton Sarajevo |
@@ -1483,24 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O-G-L-A-S-za-prikupljanju-ponuda-za-izbor-najpovoljnijeg-ponudjaca-za-otkup-i-odvoz-sekundarnih-sirovina.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [PREDMET JAVNOG POZIVA:OTKUP I ODVOZ SEKUNDARNIH SIROVINA](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/TD-30.9.2025.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O243092025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O242092025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O241092025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/092092025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/091092025.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Odluka-o-ponistenju-dijela-postupka-nabavke-transfuzija.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Odluka-o-izboru-ponudjaca-nabavka-potrosnog-materijala-transfuzija.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/urologija-ponistenje-ok.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/urologija.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Odluka-o-ponistenju-dijela-postupka-nabavka-teh-pot-materijala-iz-oblasti-masinstva.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Odluka-o-izboru-ponudjaca-UNICCELL-DXH900.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Odluka-o-izboru-ponudjaca-nabavka-reagenasa-i-potrosnog-materijala-BD-FACS-CANTO.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/TEHNICKA-SLUZBA-KONKURS.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Oglas-za-prijem-NK-radnika.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/Oglas-SSS-zdravstveni-radnici.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/JAVNI-OGLAS-ZDRAVSTVENIH-RADNIKA-SA-VSS.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/08/Konkurs-za-prijem-doktora-medicine-specijalisti.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/08/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/08/Listu-uspjesnih-kandidata-Medicinska-sestra.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/08/Listu-uspjesnih-kandidata-Farmaceutski-tehnicar.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/08/Listu-uspjesnih-kandidata-Voditelj-medicinske-dokumentacije.pdf) | UKC Tuzla (konkursi) |
