@@ -4,6 +4,11 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 12.11. 10:07 | • [Rukovodilac skladišta](https://www.mojposao.ba/posao/60f5f00b-de74-11f1-8233-42010a9c001b/rukovodilac--skladista) | MojPosao Kanton Sarajevo |
+| 12.11. 10:07 | 💻 [DevOps Engineer](https://www.linkedin.com/jobs/view/4488290644) · Galeyo | LinkedIn BiH |
+| 12.11. 10:07 | • [Automehaničar (m) AC Quattro d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/947) | Poslovni oglasi |
+| 12.11. 10:07 | • [Interni oglas za popunjavanje radnog mjesta državnog službenika u Sekretarijatu Parlamentarne skupštine Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za pripremu sjednica Predstavni](https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine) | ADS BiH |
+| 12.11. 10:07 | • [Interni oglas za popunjavanje radnog mjesta državnog službenika u Мinistarstvu vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za unapređenje i pr](https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine) | ADS BiH |
 | 12.11. 07:08 | • [Kreditni službenik (m/ž)](https://www.mojposao.ba/posao/079a67fe-dc3d-11f1-a8c0-42010a9c001a/kreditni-sluzbenik-mz) | MojPosao IT |
 | 12.11. 07:08 | • [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/5982d294-dd06-11f1-a8c0-42010a9c001a/kundenberater-mwd) | MojPosao Kanton Sarajevo |
 | 12.11. 07:08 | • [Lead Data Platform Engineer](https://www.linkedin.com/jobs/view/4481563365) · Personify Health | LinkedIn BiH |
@@ -1499,8 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Spremacice-1.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Zidar-u-Sektoru-za-tehnicke-poslove.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Moler-u-Sektoru-za-tehnicke-poslove.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Mehanicar-za-rukovanje-i-odrzavanje-sistema-klimatizacije-i-ventilacije.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Keramicar-u-Sektoru-za-tehnicke-poslove.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Dezurni-elektricar.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Fizioterapeutski-tehnicar-na-Klinici-za-fizikainu-medicinu-i-rehabilitaciju.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Doktor-medicine-specijalista-Klinika-za-invazivnu-kardiologiju.pdf) | UKC Tuzla (konkursi) |

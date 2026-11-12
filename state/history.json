@@ -25544,5 +25544,65 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T09:07:42+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Rukovodilac skladišta",
+  "url": "https://www.mojposao.ba/posao/60f5f00b-de74-11f1-8233-42010a9c001b/rukovodilac--skladista",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T09:07:42+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "DevOps Engineer",
+  "url": "https://www.linkedin.com/jobs/view/4488290644",
+  "company": "Galeyo",
+  "it": true,
+  "priority": 4,
+  "match": "devops",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T09:07:42+00:00",
+  "source": "poslovnioglasi",
+  "source_name": "Poslovni oglasi",
+  "title": "Automehaničar (m) AC Quattro d.o.o. Sarajevo Pogledaj oglas",
+  "url": "https://poslovnioglasi.ba/company-ad-details/947",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T09:07:42+00:00",
+  "source": "ads_bih",
+  "source_name": "ADS BiH",
+  "title": "Interni oglas za popunjavanje radnog mjesta državnog službenika u Sekretarijatu Parlamentarne skupštine Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za pripremu sjednica Predstavni",
+  "url": "https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T09:07:42+00:00",
+  "source": "ads_bih",
+  "source_name": "ADS BiH",
+  "title": "Interni oglas za popunjavanje radnog mjesta državnog službenika u Мinistarstvu vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za unapređenje i pr",
+  "url": "https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

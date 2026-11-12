@@ -385,7 +385,8 @@
    "716baded-dde0-11f1-a8c0-42010a9c001a",
    "823a4cee-ddd9-11f1-a8c0-42010a9c001a",
    "fe71f101-daaf-11f1-a8c0-42010a9c001a",
-   "5982d294-dd06-11f1-a8c0-42010a9c001a"
+   "5982d294-dd06-11f1-a8c0-42010a9c001a",
+   "60f5f00b-de74-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -621,7 +622,8 @@
    "https://www.linkedin.com/jobs/view/4482081042",
    "https://www.linkedin.com/jobs/view/4488134657",
    "https://www.linkedin.com/jobs/view/4487151050",
-   "https://www.linkedin.com/jobs/view/4481563365"
+   "https://www.linkedin.com/jobs/view/4481563365",
+   "https://www.linkedin.com/jobs/view/4488290644"
   ]
  },
  "glassrpske_konkursi": {
@@ -2339,7 +2341,6 @@
  },
  "atos": {
   "keys": [
-   "hash:8eb0325f604f0582",
    "hash:7af66d568b7848b9",
    "hash:f64666accb30f226",
    "hash:dec9153f2a2a34d7",
@@ -2388,7 +2389,8 @@
    "hash:feb5b2c3c450bd37",
    "hash:efb928f8e0dd7395",
    "hash:c7771fe5d1d23f85",
-   "hash:2f56160d7fa46f88"
+   "hash:2f56160d7fa46f88",
+   "hash:ee95b0f3d6df35f4"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2482,17 +2484,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Western Union",
-   "Brz i siguran transfer novca",
-   "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
-   "Detaljnije",
    "Mastercard Gold kreditna kartica",
    "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5361,7 +5363,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:1dec9b49b42e6ca4",
    "hash:137f2a6a49530f4c",
    "hash:e9949c34dcb2f8be",
    "hash:a48d3996d62b3d9d",
@@ -5410,13 +5411,14 @@
    "hash:7564a1656770060b",
    "hash:dcc4f6998b466363",
    "hash:25fb3257990674e5",
-   "hash:cbfbe6e74c4772d9"
+   "hash:cbfbe6e74c4772d9",
+   "hash:aa0ae61a4a35f288"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.9751c317.1794463804.3c76ec5f",
-   "https://errors.edgesuite.net/18.9751c317.1794463804.3c76ec5f"
+   "Reference #18.4b532217.1794474574.1a331583",
+   "https://errors.edgesuite.net/18.4b532217.1794474574.1a331583"
   ]
  },
  "asa_grupa": {
@@ -7165,7 +7167,8 @@
    "https://poslovnioglasi.ba/company-ad-details/943",
    "https://poslovnioglasi.ba/company-ad-details/944",
    "https://poslovnioglasi.ba/company-ad-details/946",
-   "https://poslovnioglasi.ba/company-ad-details/945"
+   "https://poslovnioglasi.ba/company-ad-details/945",
+   "https://poslovnioglasi.ba/company-ad-details/947"
   ]
  },
  "ads_bih": {
@@ -7180,7 +7183,9 @@
    "https://www.ads.gov.ba/vacancies/3511/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-komunikacija-i-prometa-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3510/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-agenciji-za-lijekove-i-medicinska-sredstva-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3520/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-agenciji-za-identifikacione-dokumente-evidenciju-i-razmjenu-podataka-bosne-i-hercegovine",
-   "https://www.ads.gov.ba/vacancies/3521/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-za-ljudska-prava-i-izbjeglice-bosne-i-hercegovine"
+   "https://www.ads.gov.ba/vacancies/3521/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-za-ljudska-prava-i-izbjeglice-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine"
   ]
  },
  "ads_fbih": {
@@ -7291,7 +7296,8 @@
    "hash:76c24b9eeebaa91f",
    "hash:770f68377a6df87d",
    "hash:cd4dba1442094f10",
-   "hash:8abc3ee8059e2c9e"
+   "hash:8abc3ee8059e2c9e",
+   "hash:bb25647982fc1217"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7299,8 +7305,18 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 186",
+   "1-20 od 188",
    "Stavki po stranici",
+   "Магистар фармације-ЗУ Апотека „Нова Пхарм“",
+   "Модрича",
+   "Неодређено време",
+   "12. nov - 12. dec 2026.",
+   "\"FIESTA\" d.o.o.",
+   "KNJIGOVOĐA",
+   "\"FIESTA\" d.o.o.",
+   "Источна Илиџа",
+   "Неодређено време",
+   "11. nov - 27. nov 2026.",
    "„Тимбер траде“ Модрича",
    "Модрича",
    "Одређено време",
@@ -7363,11 +7379,15 @@
    "Бања Лука",
    "Одређено време",
    "10. nov - 10. dec 2026.",
+   "\"Trebava-ekspres\" d.o.o.Doboj",
    "„Дворник“ д.о.о. Бања Лука",
+   "\"Trebava-ekspres\" d.o.o.Doboj",
    "Бања Лука",
    "Одређено време",
    "10. nov - 17. nov 2026.",
+   "\"GVOZDEN M\" d.o.o Novi Grad",
    "SECOND HAND BOUTIQUE FAMILY",
+   "\"GVOZDEN M\" d.o.o Novi Grad",
    "Лакташи",
    "Одређено време",
    "10. nov - 25. nov 2026.",
@@ -7376,17 +7396,7 @@
    "\"Trebava-ekspres\" d.o.o.Doboj",
    "Добој",
    "Одређено време",
-   "10. nov - 27. nov 2026.",
-   "\"GVOZDEN M\" d.o.o Novi Grad",
-   "Токар, Бравар",
-   "\"GVOZDEN M\" d.o.o Novi Grad",
-   "Нови Град",
-   "Неодређено време",
-   "11. nov - 18. nov 2026.",
-   "ЈУ ОШ „Веселин Маслеша“ Фоча",
-   "Фоча",
-   "Одређено време",
-   "11. nov - 19. nov 2026."
+   "10. nov - 27. nov 2026."
   ]
  },
  "arz_bih": {
