@@ -72,7 +72,8 @@
    "d29df0c8-dd1a-11f1-a8c0-42010a9c001a",
    "4846c87e-dc3c-11f1-a8c0-42010a9c001a",
    "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a",
-   "716baded-dde0-11f1-a8c0-42010a9c001a"
+   "716baded-dde0-11f1-a8c0-42010a9c001a",
+   "079a67fe-dc3d-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -383,7 +384,8 @@
    "8bb5846c-dd9d-11f1-a8c0-42010a9c001a",
    "716baded-dde0-11f1-a8c0-42010a9c001a",
    "823a4cee-ddd9-11f1-a8c0-42010a9c001a",
-   "fe71f101-daaf-11f1-a8c0-42010a9c001a"
+   "fe71f101-daaf-11f1-a8c0-42010a9c001a",
+   "5982d294-dd06-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -618,7 +620,8 @@
    "https://www.linkedin.com/jobs/view/4418950883",
    "https://www.linkedin.com/jobs/view/4482081042",
    "https://www.linkedin.com/jobs/view/4488134657",
-   "https://www.linkedin.com/jobs/view/4487151050"
+   "https://www.linkedin.com/jobs/view/4487151050",
+   "https://www.linkedin.com/jobs/view/4481563365"
   ]
  },
  "glassrpske_konkursi": {
@@ -2336,7 +2339,6 @@
  },
  "atos": {
   "keys": [
-   "hash:955f6fc2b0f56d98",
    "hash:8eb0325f604f0582",
    "hash:7af66d568b7848b9",
    "hash:f64666accb30f226",
@@ -2385,7 +2387,8 @@
    "hash:3d386c1b9b4990d5",
    "hash:feb5b2c3c450bd37",
    "hash:efb928f8e0dd7395",
-   "hash:c7771fe5d1d23f85"
+   "hash:c7771fe5d1d23f85",
+   "hash:2f56160d7fa46f88"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2479,17 +2482,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5107,7 +5110,8 @@
    "hash:cc9858b8e61ffa6c",
    "hash:8748f7e18b5c5178",
    "hash:6d78e552f8e38130",
-   "hash:0ebaf5fe0eed4a8e"
+   "hash:0ebaf5fe0eed4a8e",
+   "hash:c9c3f23899bca107"
   ],
   "lines": [
    "O nama",
@@ -5224,7 +5228,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 11. 2026",
+   "novembar 12. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5357,7 +5361,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:792930405e77f247",
    "hash:1dec9b49b42e6ca4",
    "hash:137f2a6a49530f4c",
    "hash:e9949c34dcb2f8be",
@@ -5406,13 +5409,14 @@
    "hash:c5c8a6e16c99c19e",
    "hash:7564a1656770060b",
    "hash:dcc4f6998b466363",
-   "hash:25fb3257990674e5"
+   "hash:25fb3257990674e5",
+   "hash:cbfbe6e74c4772d9"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.280c3417.1794433977.4b0ee5a0",
-   "https://errors.edgesuite.net/18.280c3417.1794433977.4b0ee5a0"
+   "Reference #18.9751c317.1794463804.3c76ec5f",
+   "https://errors.edgesuite.net/18.9751c317.1794463804.3c76ec5f"
   ]
  },
  "asa_grupa": {
@@ -5719,7 +5723,8 @@
    "hash:5018b4ea86dc47de",
    "hash:e700a507d4b47765",
    "hash:46b4c30c8eb23a94",
-   "hash:b93e50ac5403444c"
+   "hash:b93e50ac5403444c",
+   "hash:aeb2bb56dedc386f"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5787,55 +5792,55 @@
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "System Infrastructure Engineer Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Data Science Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Software Engineering Intern – Rijeka",
    "Location:",
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Solutions Engineer Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 21 hours ago",
+   "Posted 1 day ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",

@@ -4,6 +4,9 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 12.11. 07:08 | • [Kreditni službenik (m/ž)](https://www.mojposao.ba/posao/079a67fe-dc3d-11f1-a8c0-42010a9c001a/kreditni-sluzbenik-mz) | MojPosao IT |
+| 12.11. 07:08 | • [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/5982d294-dd06-11f1-a8c0-42010a9c001a/kundenberater-mwd) | MojPosao Kanton Sarajevo |
+| 12.11. 07:08 | • [Lead Data Platform Engineer](https://www.linkedin.com/jobs/view/4481563365) · Personify Health | LinkedIn BiH |
 | 11.11. 22:07 | • [Agent za podršku korisnicima (m/ž)](https://www.mojposao.ba/posao/716baded-dde0-11f1-a8c0-42010a9c001a/agent-za-podrsku-korisnicima-mz) | MojPosao IT |
 | 11.11. 22:07 | • [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet) | Univerzitet u Sarajevu (konkursi) |
 | 11.11. 19:07 | • [Agent za podršku korisnicima (m/ž)](https://www.mojposao.ba/posao/716baded-dde0-11f1-a8c0-42010a9c001a/agent-za-podrsku-korisnicima-mz) | MojPosao Kanton Sarajevo |
@@ -1501,6 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Dezurni-elektricar.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Fizioterapeutski-tehnicar-na-Klinici-za-fizikainu-medicinu-i-rehabilitaciju.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Doktor-medicine-specijalista-Klinika-za-invazivnu-kardiologiju.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Lista-med-sestra-akuserka.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Lista-med-sestra-pedijatrijska.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/09/O-G-L-A-S-za-prikupljanju-ponuda-za-izbor-najpovoljnijeg-ponudjaca-za-otkup-i-odvoz-sekundarnih-sirovina.pdf) | UKC Tuzla (konkursi) |
