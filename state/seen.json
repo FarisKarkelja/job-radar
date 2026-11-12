@@ -5385,7 +5385,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:a48d3996d62b3d9d",
    "hash:b83e2a0bd245ff7a",
    "hash:64610d98ee327cbc",
    "hash:68de4038478fae06",
@@ -5434,13 +5433,14 @@
    "hash:cbfbe6e74c4772d9",
    "hash:aa0ae61a4a35f288",
    "hash:c4e6d511bb029bef",
-   "hash:633dfab87c82f515"
+   "hash:633dfab87c82f515",
+   "hash:0bb2512be34382b6"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.edd11102.1794495754.5dbc215e",
-   "https://errors.edgesuite.net/18.edd11102.1794495754.5dbc215e"
+   "Reference #18.bac83017.1794496161.41a9ffb2",
+   "https://errors.edgesuite.net/18.bac83017.1794496161.41a9ffb2"
   ]
  },
  "asa_grupa": {
@@ -5750,7 +5750,8 @@
    "hash:b93e50ac5403444c",
    "hash:aeb2bb56dedc386f",
    "hash:b4eaa360f006640a",
-   "hash:bd435e8fdd37df36"
+   "hash:bd435e8fdd37df36",
+   "hash:38b9f31092c4e54e"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5824,7 +5825,7 @@
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 15 hours ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -5878,19 +5879,19 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 15 hours ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 15 hours ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 15 hours ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5902,7 +5903,7 @@
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 15 hours ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -7360,7 +7361,8 @@
    "hash:8abc3ee8059e2c9e",
    "hash:bb25647982fc1217",
    "hash:b283dc772bce9890",
-   "hash:8feed2e654646421"
+   "hash:8feed2e654646421",
+   "hash:0cbcd48b1964ec37"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7378,9 +7380,7 @@
    "Градишка",
    "Одређено време",
    "12. nov - 12. dec 2026.",
-   "\"FIESTA\" d.o.o.",
    "Магистар фармације-ЗУ Апотека „Нова Пхарм“",
-   "\"FIESTA\" d.o.o.",
    "Модрича",
    "Неодређено време",
    "12. nov - 12. dec 2026.",
@@ -7390,9 +7390,7 @@
    "Источна Илиџа",
    "Неодређено време",
    "11. nov - 27. nov 2026.",
-   "JU Srednjoškolski centar \"NIKOLA TESLA\"Kozarska Dubica",
    "„Тимбер траде“ Модрича",
-   "JU Srednjoškolski centar \"NIKOLA TESLA\"Kozarska Dubica",
    "Модрича",
    "Одређено време",
    "11. nov - 11. dec 2026.",
