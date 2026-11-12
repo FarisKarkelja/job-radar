@@ -4,6 +4,17 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 12.11. 19:07 | • [Marketing specijalista](https://www.mojposao.ba/posao/c5e4dd50-dc3d-11f1-a8c0-42010a9c001a/marketing-specijalista) | MojPosao IT |
+| 12.11. 19:07 | 💻 [Mid/Senior Software Engineer](https://www.linkedin.com/jobs/view/4471596888) · Infobip | LinkedIn BiH |
+| 12.11. 19:07 | 🚨 [Junior Software Engineer](https://www.linkedin.com/jobs/view/4471914291) · Infobip | LinkedIn BiH |
+| 12.11. 19:07 | • [Solution Engineer Associate (German Speaker)](https://www.linkedin.com/jobs/view/4465763726) · Infobip | LinkedIn BiH |
+| 12.11. 19:07 | 💻 [Senior SAP Consultant (f/m/x)](https://www.linkedin.com/jobs/view/4488537383) · Sii Poland | LinkedIn BiH |
+| 12.11. 19:07 | 🚨 [Junior Telecom Specialist, CPaaS Registrations](https://www.linkedin.com/jobs/view/4472573066) · Infobip | LinkedIn BiH |
+| 12.11. 19:07 | 💻 [D365 Finance & Operations Specialist (ERP specialist)](https://www.linkedin.com/jobs/view/4474688522) · Infobip | LinkedIn BiH |
+| 12.11. 19:07 | 💻 [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4482709824) · Personify Health | LinkedIn BiH |
+| 12.11. 19:07 | 💻 [DevOps Engineer I](https://www.linkedin.com/jobs/view/4482711686) · Personify Health | LinkedIn BiH |
+| 12.11. 19:07 | • [Robni terminal d.o.o. Tuzla: Vozač/dostavljač – 5 izvršilaca](https://szztk.ba/posao/36987/robni-terminal-d-o-o-tuzla-vozac-dostavljac-5-izvrsilaca) | SZZ Tuzlanski kanton (oglasi) |
+| 12.11. 19:07 | 💻 [Preliminarna rang-lista prijavljenih i primljenih kandidata i kandidatkinja za upis na III (treći) ciklus studija - doktorski studij na Univerzitetu u Sarajevu - Elektrotehničkom fakultetu u studijskoj 2026/2027. godini](https://www.unsa.ba/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii) | Univerzitet u Sarajevu (konkursi) |
 | 12.11. 16:00 | • [Menadžer za biznis prodaju malim i srednjim preduzećima](https://www.mojposao.ba/posao/373a4ed2-dcf5-11f1-a8c0-42010a9c001a/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima) | MojPosao IT |
 | 12.11. 16:00 | • [Skladištar](https://www.mojposao.ba/posao/11964bdf-d2c1-11f1-a8c0-42010a9c001a/skladistar) | MojPosao Kanton Sarajevo |
 | 12.11. 16:00 | • [Prodavač (ž/m)](https://www.mojposao.ba/posao/788a640d-de9e-11f1-8233-42010a9c001b/prodavac-zm) | MojPosao Kanton Sarajevo |
@@ -1493,14 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-zdravstvenih-radnika-sa-SSS.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/07/Konkur-za-prijem-radnika-na-neodredjeno-vrijeme-JUNI.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/07/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/06/Listu-uspjesnih-kandidata-za-radno-mjesto-Doktor-medicine–specijalista-na-Klinici-za-neurohirurgiju.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/06/Listu-uspjesnih-kandidata-za-radno-mjesto-Doktor-medicine–specijalista-na-Klinici-za-zarazne-bolesti.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/05/DOPUNA-OGLASA.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/05/JAVNI-OGLAS-za-prijem-doktora-medicine-specijalista.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/05/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/05/INTERNI-OGLAS-ZA-DODJELU-SUBSPECIJALIZACIJA.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Farmaceutski-tehnicar-u-Bolnickoj-apoteci.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Vozac-u-Sektoru-za-tehnicke-poslove.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Pomocni-radnik-Sluzba-za-investicije.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Spremacica-HES.pdf) | UKC Tuzla (konkursi) |

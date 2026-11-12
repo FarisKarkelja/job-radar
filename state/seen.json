@@ -74,7 +74,8 @@
    "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a",
    "716baded-dde0-11f1-a8c0-42010a9c001a",
    "079a67fe-dc3d-11f1-a8c0-42010a9c001a",
-   "373a4ed2-dcf5-11f1-a8c0-42010a9c001a"
+   "373a4ed2-dcf5-11f1-a8c0-42010a9c001a",
+   "c5e4dd50-dc3d-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -633,7 +634,15 @@
    "https://www.linkedin.com/jobs/view/4472542410",
    "https://www.linkedin.com/jobs/view/4490363092",
    "https://www.linkedin.com/jobs/view/4490356159",
-   "https://www.linkedin.com/jobs/view/4431593671"
+   "https://www.linkedin.com/jobs/view/4431593671",
+   "https://www.linkedin.com/jobs/view/4471596888",
+   "https://www.linkedin.com/jobs/view/4471914291",
+   "https://www.linkedin.com/jobs/view/4465763726",
+   "https://www.linkedin.com/jobs/view/4488537383",
+   "https://www.linkedin.com/jobs/view/4472573066",
+   "https://www.linkedin.com/jobs/view/4474688522",
+   "https://www.linkedin.com/jobs/view/4482709824",
+   "https://www.linkedin.com/jobs/view/4482711686"
   ]
  },
  "glassrpske_konkursi": {
@@ -2354,7 +2363,6 @@
  },
  "atos": {
   "keys": [
-   "hash:dec9153f2a2a34d7",
    "hash:6c4b07e470d9fc11",
    "hash:e3833ed38c478cec",
    "hash:81f48e1c91dc8776",
@@ -2403,7 +2411,8 @@
    "hash:2f56160d7fa46f88",
    "hash:ee95b0f3d6df35f4",
    "hash:fb9620a6ae9d9130",
-   "hash:1f4d6fbdc006ce5f"
+   "hash:1f4d6fbdc006ce5f",
+   "hash:f2a376078813e8ca"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2497,17 +2506,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
-   "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4394,7 +4403,8 @@
    "https://szztk.ba/posao/36971/pu-dom-za-starija-lica-staracki-mir-bukinje-medicinska-sestra-tehnicar-2-izvrsioca",
    "https://szztk.ba/posao/36983/jzu-dom-zdravlja-velika-kladusa-doktor-medicine-2-izvrsioca",
    "https://szztk.ba/posao/36986/termal-int-d-o-o-lopare-vozac-kamiona",
-   "https://szztk.ba/posao/36985/as-logistics-d-o-o-sarajevo-pj-tuzla-sef-skladista-1-izvrsilac"
+   "https://szztk.ba/posao/36985/as-logistics-d-o-o-sarajevo-pj-tuzla-sef-skladista-1-izvrsilac",
+   "https://szztk.ba/posao/36987/robni-terminal-d-o-o-tuzla-vozac-dostavljac-5-izvrsilaca"
   ]
  },
  "szz_bpk": {
@@ -4522,7 +4532,8 @@
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet",
    "https://www.unsa.ba/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10",
-   "https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii"
+   "https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii",
+   "https://www.unsa.ba/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii"
   ]
  },
  "untz_konkursi": {
@@ -5385,7 +5396,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:b83e2a0bd245ff7a",
    "hash:64610d98ee327cbc",
    "hash:68de4038478fae06",
    "hash:6d14d2b6d0cea582",
@@ -5434,13 +5444,14 @@
    "hash:aa0ae61a4a35f288",
    "hash:c4e6d511bb029bef",
    "hash:633dfab87c82f515",
-   "hash:0bb2512be34382b6"
+   "hash:0bb2512be34382b6",
+   "hash:f44c28aaf9c68c8a"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.bac83017.1794496161.41a9ffb2",
-   "https://errors.edgesuite.net/18.bac83017.1794496161.41a9ffb2"
+   "Reference #18.b017dd17.1794506977.21f30a3",
+   "https://errors.edgesuite.net/18.b017dd17.1794506977.21f30a3"
   ]
  },
  "asa_grupa": {
@@ -5751,7 +5762,8 @@
    "hash:aeb2bb56dedc386f",
    "hash:b4eaa360f006640a",
    "hash:bd435e8fdd37df36",
-   "hash:38b9f31092c4e54e"
+   "hash:38b9f31092c4e54e",
+   "hash:8d29f95f4375509d"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5825,7 +5837,7 @@
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 15 hours ago",
+   "Posted 17 hours ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -5879,19 +5891,19 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 15 hours ago",
+   "Posted 17 hours ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 15 hours ago",
+   "Posted 17 hours ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 15 hours ago",
+   "Posted 17 hours ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5903,7 +5915,7 @@
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 15 hours ago",
+   "Posted 17 hours ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
