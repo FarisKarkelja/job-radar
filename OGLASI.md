@@ -4,6 +4,18 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 12.11. 16:00 | • [Menadžer za biznis prodaju malim i srednjim preduzećima](https://www.mojposao.ba/posao/373a4ed2-dcf5-11f1-a8c0-42010a9c001a/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima) | MojPosao IT |
+| 12.11. 16:00 | • [Skladištar](https://www.mojposao.ba/posao/11964bdf-d2c1-11f1-a8c0-42010a9c001a/skladistar) | MojPosao Kanton Sarajevo |
+| 12.11. 16:00 | • [Prodavač (ž/m)](https://www.mojposao.ba/posao/788a640d-de9e-11f1-8233-42010a9c001b/prodavac-zm) | MojPosao Kanton Sarajevo |
+| 12.11. 16:00 | 💻 [.NET Developer - Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4490363092) · ekvip automation GmbH | LinkedIn BiH |
+| 12.11. 16:00 | 💻 [Senior C#/.NET / WPF, Winforms, WinUI](https://www.linkedin.com/jobs/view/4490356159) · TNation | LinkedIn BiH |
+| 12.11. 16:00 | • [Graphic Design Intern/Associate](https://www.linkedin.com/jobs/view/4431593671) · Infobip | LinkedIn BiH |
+| 12.11. 16:00 | • [RADNIK NA ODRŽAVANJU HIGIJENE](https://szks.ba/posao/radnik-na-odrzavanju-higijene-10) · JU Gimnazija Dobrinja - Sarajevo | SZKS (Služba za zapošljavanje KS) |
+| 12.11. 16:00 | • [NASTAVNIK RAZREDNE NASTAVE](https://szks.ba/posao/nastavnik-razredne-nastave-66) · JU OŠ Grbavica I | SZKS (Služba za zapošljavanje KS) |
+| 12.11. 16:00 | • [Specijalista/specijalistkinja za kontrolu tržišnog i rizika likvidnosti Banja Luka, Bosna i Hercegovina](https://addiko-bank-bl.talentlyft.com/jobs/specijalistaspecijalistkinja-za-kontrolu-trzisnog-i-rizika-likvidnosti-cme2) | Addiko Bank Banja Luka |
+| 12.11. 16:00 | • [Termal Int d.o.o. Lopare: Vozač kamiona](https://szztk.ba/posao/36986/termal-int-d-o-o-lopare-vozac-kamiona) | SZZ Tuzlanski kanton (oglasi) |
+| 12.11. 16:00 | • [AS Logistics d.o.o. Sarajevo, PJ Tuzla: Šef skladišta – 1 izvršilac](https://szztk.ba/posao/36985/as-logistics-d-o-o-sarajevo-pj-tuzla-sef-skladista-1-izvrsilac) | SZZ Tuzlanski kanton (oglasi) |
+| 12.11. 16:00 | 💻 [Preliminarna rang-lista prijavljenih i primljenih kandidata i kandidatkinja za upis na III (treći) ciklus studija - doktorski studij na Univerzitetu u Sarajevu - Elektrotehničkom fakultetu u studijskoj 2026/2027. godini](https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii) | Univerzitet u Sarajevu (konkursi) |
 | 12.11. 13:07 | • [Graphic Designer](https://www.mojposao.ba/posao/218e5436-de8a-11f1-8233-42010a9c001b/graphic-designer) | MojPosao Kanton Sarajevo |
 | 12.11. 13:07 | • [Brend menadžer (m/ž)](https://www.mojposao.ba/posao/7502bf4f-de85-11f1-8233-42010a9c001b/brend-menadzer-mz) | MojPosao Kanton Sarajevo |
 | 12.11. 13:07 | 💻 [Data Engineer](https://www.linkedin.com/jobs/view/4488510700) · Mentor Talent Acquisition | LinkedIn BiH |
@@ -1492,15 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Vozac-u-Sektoru-za-tehnicke-poslove.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Pomocni-radnik-Sluzba-za-investicije.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Spremacica-HES.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/04/Lista-uspjesnih-Pomocni-gradevinski-radnik-Sluzba-za-investicije.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/03/Lista-uspjesnih-kandidata-4-03-2026.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Lista-uspjesnih-kandidata-za-radno-mjesto-Poliklinika.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Lista-uspjesnih-kandidata-za-radno-mjesto-Bolnicka-apoteka.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Lista-uspjesnih-kandidata-za-radno-mjesto-Klinika-za-radiologiju.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Lista-uspjesnih-kandidata-za-radno-mjesto-Medicinska-sestra-–-tehnicar.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Lista-uspjesnih-kandidata-za-radno-mjesto-Voditelj-medicinske-dokumentacije.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Javni-oglas-za-prijem-doktora-medicine-specijalista-na-neodredjeno-vrijeme-11-25-2.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/01/Javni-oglas-za-prijem-SSSSSS-KV-NK-radnika-radnike.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/Izmjena-i-dopuna-Internog-oglasa.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2025/11/KONKURS-ZA-DODJELU-SPECIJALIZACIJA-.pdf) | UKC Tuzla (konkursi) |

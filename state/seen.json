@@ -73,7 +73,8 @@
    "4846c87e-dc3c-11f1-a8c0-42010a9c001a",
    "2af7cf9d-dcf2-11f1-a8c0-42010a9c001a",
    "716baded-dde0-11f1-a8c0-42010a9c001a",
-   "079a67fe-dc3d-11f1-a8c0-42010a9c001a"
+   "079a67fe-dc3d-11f1-a8c0-42010a9c001a",
+   "373a4ed2-dcf5-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -388,7 +389,9 @@
    "5982d294-dd06-11f1-a8c0-42010a9c001a",
    "60f5f00b-de74-11f1-8233-42010a9c001b",
    "218e5436-de8a-11f1-8233-42010a9c001b",
-   "7502bf4f-de85-11f1-8233-42010a9c001b"
+   "7502bf4f-de85-11f1-8233-42010a9c001b",
+   "11964bdf-d2c1-11f1-a8c0-42010a9c001a",
+   "788a640d-de9e-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -627,7 +630,10 @@
    "https://www.linkedin.com/jobs/view/4481563365",
    "https://www.linkedin.com/jobs/view/4488290644",
    "https://www.linkedin.com/jobs/view/4488510700",
-   "https://www.linkedin.com/jobs/view/4472542410"
+   "https://www.linkedin.com/jobs/view/4472542410",
+   "https://www.linkedin.com/jobs/view/4490363092",
+   "https://www.linkedin.com/jobs/view/4490356159",
+   "https://www.linkedin.com/jobs/view/4431593671"
   ]
  },
  "glassrpske_konkursi": {
@@ -745,7 +751,9 @@
    "https://szks.ba/posao/nastavnik-njemackog-jezika-45",
    "https://szks.ba/posao/dom-mirsen-166-njegovateljica",
    "https://szks.ba/posao/radnik-na-posluzivanju-obroka-4",
-   "https://szks.ba/posao/poliklinika-estiva-166-specijalista-ginekologije-i-akuserstva-m-z"
+   "https://szks.ba/posao/poliklinika-estiva-166-specijalista-ginekologije-i-akuserstva-m-z",
+   "https://szks.ba/posao/radnik-na-odrzavanju-higijene-10",
+   "https://szks.ba/posao/nastavnik-razredne-nastave-66"
   ]
  },
  "zdk_szz": {
@@ -2041,7 +2049,8 @@
  },
  "addiko_bl": {
   "keys": [
-   "https://addiko-bank-bl.talentlyft.com/jobs/otvorena-prijava-7U"
+   "https://addiko-bank-bl.talentlyft.com/jobs/otvorena-prijava-7U",
+   "https://addiko-bank-bl.talentlyft.com/jobs/specijalistaspecijalistkinja-za-kontrolu-trzisnog-i-rizika-likvidnosti-cme2"
   ]
  },
  "addiko_bl_karijere": {
@@ -2345,7 +2354,6 @@
  },
  "atos": {
   "keys": [
-   "hash:f64666accb30f226",
    "hash:dec9153f2a2a34d7",
    "hash:6c4b07e470d9fc11",
    "hash:e3833ed38c478cec",
@@ -2394,7 +2402,8 @@
    "hash:c7771fe5d1d23f85",
    "hash:2f56160d7fa46f88",
    "hash:ee95b0f3d6df35f4",
-   "hash:fb9620a6ae9d9130"
+   "hash:fb9620a6ae9d9130",
+   "hash:1f4d6fbdc006ce5f"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2488,14 +2497,14 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
+   "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
@@ -2880,7 +2889,8 @@
  "asa_osiguranje": {
   "keys": [
    "hash:ea93b6b8cfdc94c2",
-   "hash:8930eab021f06173"
+   "hash:8930eab021f06173",
+   "hash:f9fdb4aed3c52f5a"
   ],
   "lines": [
    "Kupi online",
@@ -2989,6 +2999,7 @@
    "U toku trajanja cjelokupnog procesa selekcije sa kandidatima konstantno surađuju zaposleni iz sektora za ljudske resurse, kao i zaposleni iz sektora kojem pripada radna pozicija, iskusni, elokventni i objektivni eksperti iz sfere svog djelovanja.",
    "Trenutno otvorene pozicije",
    "Direktor sektora općih poslova, nabavki i investicija/Sarajevo",
+   "Saradnik za centralni protokol i arhivu",
    "Ime i prezime",
    "Email adresa",
    "Kontakt telefon",
@@ -4381,7 +4392,9 @@
    "https://szztk.ba/posao/36966/malisic-export-import-citluk-vozac-dostavljac-regija-tuzla",
    "https://szztk.ba/posao/36969/ju-centar-za-socijalni-rad-zivinice-konkurs-za-izbor-i-imenovanje-direktora",
    "https://szztk.ba/posao/36971/pu-dom-za-starija-lica-staracki-mir-bukinje-medicinska-sestra-tehnicar-2-izvrsioca",
-   "https://szztk.ba/posao/36983/jzu-dom-zdravlja-velika-kladusa-doktor-medicine-2-izvrsioca"
+   "https://szztk.ba/posao/36983/jzu-dom-zdravlja-velika-kladusa-doktor-medicine-2-izvrsioca",
+   "https://szztk.ba/posao/36986/termal-int-d-o-o-lopare-vozac-kamiona",
+   "https://szztk.ba/posao/36985/as-logistics-d-o-o-sarajevo-pj-tuzla-sef-skladista-1-izvrsilac"
   ]
  },
  "szz_bpk": {
@@ -4508,7 +4521,8 @@
    "https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet",
    "https://www.unsa.ba/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas",
-   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10"
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10",
+   "https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii"
   ]
  },
  "untz_konkursi": {
@@ -5371,7 +5385,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:e9949c34dcb2f8be",
    "hash:a48d3996d62b3d9d",
    "hash:b83e2a0bd245ff7a",
    "hash:64610d98ee327cbc",
@@ -5420,13 +5433,14 @@
    "hash:25fb3257990674e5",
    "hash:cbfbe6e74c4772d9",
    "hash:aa0ae61a4a35f288",
-   "hash:c4e6d511bb029bef"
+   "hash:c4e6d511bb029bef",
+   "hash:633dfab87c82f515"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.22c1ce17.1794485363.10b28282",
-   "https://errors.edgesuite.net/18.22c1ce17.1794485363.10b28282"
+   "Reference #18.edd11102.1794495754.5dbc215e",
+   "https://errors.edgesuite.net/18.edd11102.1794495754.5dbc215e"
   ]
  },
  "asa_grupa": {
@@ -5735,7 +5749,8 @@
    "hash:46b4c30c8eb23a94",
    "hash:b93e50ac5403444c",
    "hash:aeb2bb56dedc386f",
-   "hash:b4eaa360f006640a"
+   "hash:b4eaa360f006640a",
+   "hash:bd435e8fdd37df36"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5803,91 +5818,91 @@
    "Sarajevo (BiH)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "AI Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 10 hours ago",
+   "Posted 14 hours ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "DevOps Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "AI Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "Product Solution Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "Customer Support Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "System Infrastructure Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "Data Science Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "Software Engineering Intern – Rijeka",
    "Location:",
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 10 hours ago",
+   "Posted 14 hours ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 10 hours ago",
+   "Posted 14 hours ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 10 hours ago",
+   "Posted 14 hours ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 1 day ago",
+   "Posted 2 days ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 10 hours ago",
+   "Posted 14 hours ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -7344,7 +7359,8 @@
    "hash:cd4dba1442094f10",
    "hash:8abc3ee8059e2c9e",
    "hash:bb25647982fc1217",
-   "hash:b283dc772bce9890"
+   "hash:b283dc772bce9890",
+   "hash:8feed2e654646421"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7352,9 +7368,19 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 188",
+   "1-20 od 190",
    "Stavki po stranici",
+   "ЈУ ОШ „Младен Стојановић“, Бања Лука",
+   "Бања Лука",
+   "Одређено време",
+   "11. nov - 19. nov 2026.",
+   "КОТЛОВНИЧАР-„СТОЈНИЋ“ ДОО ГРАДИШКА",
+   "Градишка",
+   "Одређено време",
+   "12. nov - 12. dec 2026.",
+   "\"FIESTA\" d.o.o.",
    "Магистар фармације-ЗУ Апотека „Нова Пхарм“",
+   "\"FIESTA\" d.o.o.",
    "Модрича",
    "Неодређено време",
    "12. nov - 12. dec 2026.",
@@ -7364,9 +7390,9 @@
    "Источна Илиџа",
    "Неодређено време",
    "11. nov - 27. nov 2026.",
-   "\"FIESTA\" d.o.o.",
+   "JU Srednjoškolski centar \"NIKOLA TESLA\"Kozarska Dubica",
    "„Тимбер траде“ Модрича",
-   "\"FIESTA\" d.o.o.",
+   "JU Srednjoškolski centar \"NIKOLA TESLA\"Kozarska Dubica",
    "Модрича",
    "Одређено време",
    "11. nov - 11. dec 2026.",
@@ -7376,9 +7402,7 @@
    "Козарска Дубица",
    "Одређено време",
    "11. nov - 19. nov 2026.",
-   "JU Srednjoškolski centar \"NIKOLA TESLA\"Kozarska Dubica",
    "Избор директора ЈУ Туристичка организација општине Србац",
-   "JU Srednjoškolski centar \"NIKOLA TESLA\"Kozarska Dubica",
    "Србац",
    "Одређено време",
    "11. nov - 26. nov 2026.",
@@ -7433,17 +7457,7 @@
    "„Дворник“ д.о.о. Бања Лука",
    "Бања Лука",
    "Одређено време",
-   "10. nov - 17. nov 2026.",
-   "SECOND HAND BOUTIQUE FAMILY",
-   "Лакташи",
-   "Одређено време",
-   "10. nov - 25. nov 2026.",
-   "\"Trebava-ekspres\" d.o.o.Doboj",
-   "VODITELJ STANICE TEHNIČKOG PREGLEDA",
-   "\"Trebava-ekspres\" d.o.o.Doboj",
-   "Добој",
-   "Одређено време",
-   "10. nov - 27. nov 2026."
+   "10. nov - 17. nov 2026."
   ]
  },
  "arz_bih": {
