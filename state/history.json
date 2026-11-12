@@ -26114,5 +26114,41 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T21:49:05+00:00",
+  "source": "glassrpske_konkursi",
+  "source_name": "Glas Srpske konkursi",
+  "title": "Oglasi 12. 11. 2026 22:27 JU ZZZ RS – Banjaluka: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju \"Glasa Srpske\" od 11.11.2026. godine.",
+  "url": "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-banjaluka-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661958",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T21:49:05+00:00",
+  "source": "glassrpske_konkursi",
+  "source_name": "Glas Srpske konkursi",
+  "title": "Oglasi 12. 11. 2026 22:16 JU ZZZ RS – Prijedor: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju \"Glasa Srpske\" od 11.11.2026. godine.",
+  "url": "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-prijedor-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661956",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-12T21:49:05+00:00",
+  "source": "glassrpske_konkursi",
+  "source_name": "Glas Srpske konkursi",
+  "title": "Oglasi 12. 11. 2026 22:06 JU ZZZ RS – Doboj: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju \"Glasa Srpske\" od 11.11.2026. godine.",
+  "url": "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-doboj-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661953",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

@@ -677,7 +677,10 @@
    "https://www.glassrpske.com/lat/najcitanije_vijesti",
    "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-bijeljina-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661952",
    "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-zvornik-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661951",
-   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-trebinje-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661950"
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-trebinje-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661950",
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-banjaluka-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661958",
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-prijedor-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661956",
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-doboj-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661953"
   ]
  },
  "szks": {
@@ -2371,7 +2374,6 @@
  },
  "atos": {
   "keys": [
-   "hash:e3833ed38c478cec",
    "hash:81f48e1c91dc8776",
    "hash:e371b69ec7d7f1d3",
    "hash:2ca7ede31e819d52",
@@ -2420,7 +2422,8 @@
    "hash:fb9620a6ae9d9130",
    "hash:1f4d6fbdc006ce5f",
    "hash:f2a376078813e8ca",
-   "hash:753aab69c0fee2e8"
+   "hash:753aab69c0fee2e8",
+   "hash:0455d24fa19fb45f"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2514,17 +2517,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
-   "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
+   "Detaljnije",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5406,7 +5409,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:68de4038478fae06",
    "hash:6d14d2b6d0cea582",
    "hash:49dd84225fea8d0e",
    "hash:91ea3f3a66bc994b",
@@ -5455,13 +5457,14 @@
    "hash:633dfab87c82f515",
    "hash:0bb2512be34382b6",
    "hash:f44c28aaf9c68c8a",
-   "hash:777158905a50aca5"
+   "hash:777158905a50aca5",
+   "hash:b9dde73bd3aadac6"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.4c6ccd17.1794517767.b7d23",
-   "https://errors.edgesuite.net/18.4c6ccd17.1794517767.b7d23"
+   "Reference #18.c5cf5868.1794520398.643741b",
+   "https://errors.edgesuite.net/18.c5cf5868.1794520398.643741b"
   ]
  },
  "asa_grupa": {
@@ -5774,7 +5777,8 @@
    "hash:bd435e8fdd37df36",
    "hash:38b9f31092c4e54e",
    "hash:8d29f95f4375509d",
-   "hash:f4b3bc5567173987"
+   "hash:f4b3bc5567173987",
+   "hash:1788e3ba3a2194b7"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5848,7 +5852,7 @@
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 20 hours ago",
+   "Posted 22 hours ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -5902,19 +5906,19 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 20 hours ago",
+   "Posted 22 hours ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 20 hours ago",
+   "Posted 22 hours ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 20 hours ago",
+   "Posted 22 hours ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5926,7 +5930,7 @@
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 20 hours ago",
+   "Posted 22 hours ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",

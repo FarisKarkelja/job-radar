@@ -4,6 +4,9 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 12.11. 22:49 | • [Oglasi 12. 11. 2026 22:27 JU ZZZ RS – Banjaluka: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-banjaluka-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661958) | Glas Srpske konkursi |
+| 12.11. 22:49 | • [Oglasi 12. 11. 2026 22:16 JU ZZZ RS – Prijedor: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-prijedor-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661956) | Glas Srpske konkursi |
+| 12.11. 22:49 | • [Oglasi 12. 11. 2026 22:06 JU ZZZ RS – Doboj: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-doboj-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661953) | Glas Srpske konkursi |
 | 12.11. 22:07 | • [Prodavač](https://www.mojposao.ba/posao/41f6bf51-dea4-11f1-8233-42010a9c001b/prodavac) | MojPosao Kanton Sarajevo |
 | 12.11. 22:07 | • [Medicinska sestra/Medicinski tehničar](https://www.mojposao.ba/posao/41558cd9-deae-11f1-8233-42010a9c001b/medicinska-sestramedicinski-tehnicar) | MojPosao Kanton Sarajevo |
 | 12.11. 22:07 | • [Kundenbetreuer (m/w/d) – Inbound / Deutsch](https://www.linkedin.com/jobs/view/4488565031) · ORATIO d.o.o. | LinkedIn BiH |
@@ -1501,6 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Javni konkurs 14.10.2026](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1588/Javni konkurs) | Aerodrom Sarajevo (oglasna ploča) |
 | 02.11. 00:13 | •⏺ [Lista zabranjenih predmeta 28.07.2025](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/2159/Lista zabranjenih predmeta) | Aerodrom Sarajevo (oglasna ploča) |
 | 02.11. 00:13 | •⏺ [Prijava vrijednosnog iznosa carinskom organu 21.03.2019](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1494/Prijava vrijednosnog iznosa carinskom organu) | Aerodrom Sarajevo (oglasna ploča) |
-| 02.11. 00:13 | •⏺ [Tečnosti (aerosoli i gelovi ) koje se u ručnom prtljagu mogu unijeti u zrakoplov 20.03.2019](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1495/Tečnosti (aerosoli i gelovi ) koje se u ručnom prtljagu mogu unijeti u zrakoplov) | Aerodrom Sarajevo (oglasna ploča) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-dr.med-specijalista-1.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica-3.pdf) | UKC Tuzla (konkursi) |
