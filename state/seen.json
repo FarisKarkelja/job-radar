@@ -392,7 +392,9 @@
    "218e5436-de8a-11f1-8233-42010a9c001b",
    "7502bf4f-de85-11f1-8233-42010a9c001b",
    "11964bdf-d2c1-11f1-a8c0-42010a9c001a",
-   "788a640d-de9e-11f1-8233-42010a9c001b"
+   "788a640d-de9e-11f1-8233-42010a9c001b",
+   "41f6bf51-dea4-11f1-8233-42010a9c001b",
+   "41558cd9-deae-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -642,7 +644,10 @@
    "https://www.linkedin.com/jobs/view/4472573066",
    "https://www.linkedin.com/jobs/view/4474688522",
    "https://www.linkedin.com/jobs/view/4482709824",
-   "https://www.linkedin.com/jobs/view/4482711686"
+   "https://www.linkedin.com/jobs/view/4482711686",
+   "https://www.linkedin.com/jobs/view/4488565031",
+   "https://www.linkedin.com/jobs/view/4472555901",
+   "https://www.linkedin.com/jobs/view/4474254439"
   ]
  },
  "glassrpske_konkursi": {
@@ -669,7 +674,10 @@
    "https://www.glassrpske.com/lat/zabava/zanimljivosti/vic-crko-bojler/660057",
    "https://www.glassrpske.com/lat/najnovije_vijesti",
    "https://www.glassrpske.com/lat/novosti/region/ustaski-simboli-u-srpskom-selu-otisic-u-hrvatsko/660046",
-   "https://www.glassrpske.com/lat/najcitanije_vijesti"
+   "https://www.glassrpske.com/lat/najcitanije_vijesti",
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-bijeljina-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661952",
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-zvornik-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661951",
+   "https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-trebinje-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661950"
   ]
  },
  "szks": {
@@ -2363,7 +2371,6 @@
  },
  "atos": {
   "keys": [
-   "hash:6c4b07e470d9fc11",
    "hash:e3833ed38c478cec",
    "hash:81f48e1c91dc8776",
    "hash:e371b69ec7d7f1d3",
@@ -2412,7 +2419,8 @@
    "hash:ee95b0f3d6df35f4",
    "hash:fb9620a6ae9d9130",
    "hash:1f4d6fbdc006ce5f",
-   "hash:f2a376078813e8ca"
+   "hash:f2a376078813e8ca",
+   "hash:753aab69c0fee2e8"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2506,17 +2514,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Western Union",
    "Brz i siguran transfer novca",
-   "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4533,7 +4541,9 @@
    "https://www.unsa.ba/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10",
    "https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii",
-   "https://www.unsa.ba/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii"
+   "https://www.unsa.ba/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii",
+   "https://www.unsa.ba/index.php/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10"
   ]
  },
  "untz_konkursi": {
@@ -5396,7 +5406,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:64610d98ee327cbc",
    "hash:68de4038478fae06",
    "hash:6d14d2b6d0cea582",
    "hash:49dd84225fea8d0e",
@@ -5445,13 +5454,14 @@
    "hash:c4e6d511bb029bef",
    "hash:633dfab87c82f515",
    "hash:0bb2512be34382b6",
-   "hash:f44c28aaf9c68c8a"
+   "hash:f44c28aaf9c68c8a",
+   "hash:777158905a50aca5"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.b017dd17.1794506977.21f30a3",
-   "https://errors.edgesuite.net/18.b017dd17.1794506977.21f30a3"
+   "Reference #18.4c6ccd17.1794517767.b7d23",
+   "https://errors.edgesuite.net/18.4c6ccd17.1794517767.b7d23"
   ]
  },
  "asa_grupa": {
@@ -5763,7 +5773,8 @@
    "hash:b4eaa360f006640a",
    "hash:bd435e8fdd37df36",
    "hash:38b9f31092c4e54e",
-   "hash:8d29f95f4375509d"
+   "hash:8d29f95f4375509d",
+   "hash:f4b3bc5567173987"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5837,7 +5848,7 @@
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 20 hours ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -5891,19 +5902,19 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 20 hours ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 20 hours ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 20 hours ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5915,7 +5926,7 @@
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 17 hours ago",
+   "Posted 20 hours ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",

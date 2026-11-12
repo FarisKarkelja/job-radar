@@ -4,6 +4,16 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 12.11. 22:07 | • [Prodavač](https://www.mojposao.ba/posao/41f6bf51-dea4-11f1-8233-42010a9c001b/prodavac) | MojPosao Kanton Sarajevo |
+| 12.11. 22:07 | • [Medicinska sestra/Medicinski tehničar](https://www.mojposao.ba/posao/41558cd9-deae-11f1-8233-42010a9c001b/medicinska-sestramedicinski-tehnicar) | MojPosao Kanton Sarajevo |
+| 12.11. 22:07 | • [Kundenbetreuer (m/w/d) – Inbound / Deutsch](https://www.linkedin.com/jobs/view/4488565031) · ORATIO d.o.o. | LinkedIn BiH |
+| 12.11. 22:07 | • [Commercial Analytics Specialist](https://www.linkedin.com/jobs/view/4472555901) · Infobip | LinkedIn BiH |
+| 12.11. 22:07 | • [Commercial Analytics Senior Specialist](https://www.linkedin.com/jobs/view/4474254439) · Infobip | LinkedIn BiH |
+| 12.11. 22:07 | • [Oglasi 12. 11. 2026 22:04 JU ZZZ RS – Bijeljina: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-bijeljina-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661952) | Glas Srpske konkursi |
+| 12.11. 22:07 | • [Oglasi 12. 11. 2026 21:48 JU ZZZ RS – Zvornik: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-zvornik-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661951) | Glas Srpske konkursi |
+| 12.11. 22:07 | • [Oglasi 12. 11. 2026 21:46 JU ZZZ RS – Trebinje: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-trebinje-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661950) | Glas Srpske konkursi |
+| 12.11. 22:07 | • [Obavještenje o održavanju usmenog ispita za kandidate koji su aplicirali na Javni oglas / Univerzitet u Sarajevu - Muzička akademija](https://www.unsa.ba/index.php/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas) | Univerzitet u Sarajevu (konkursi) |
+| 12.11. 22:07 | • [Konkurs za izbor akademskog osoblja / Univerzitet u Sarajevu - Fakultet sporta i tjelesnog odgoja](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10) | Univerzitet u Sarajevu (konkursi) |
 | 12.11. 19:07 | • [Marketing specijalista](https://www.mojposao.ba/posao/c5e4dd50-dc3d-11f1-a8c0-42010a9c001a/marketing-specijalista) | MojPosao IT |
 | 12.11. 19:07 | 💻 [Mid/Senior Software Engineer](https://www.linkedin.com/jobs/view/4471596888) · Infobip | LinkedIn BiH |
 | 12.11. 19:07 | 🚨 [Junior Software Engineer](https://www.linkedin.com/jobs/view/4471914291) · Infobip | LinkedIn BiH |
@@ -1494,13 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Tečnosti (aerosoli i gelovi ) koje se u ručnom prtljagu mogu unijeti u zrakoplov 20.03.2019](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1495/Tečnosti (aerosoli i gelovi ) koje se u ručnom prtljagu mogu unijeti u zrakoplov) | Aerodrom Sarajevo (oglasna ploča) |
 | 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-dr.med-specijalista-1.pdf) | UKC Tuzla (konkursi) |
 | 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica-3.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-radnikau-radni-odnos-na-neodredjeno-vrijeme.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica-2.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Lista-uspjesnih-kandidata-Doktor-medicine_specijalista-na-Klinici-za-invazivnu-kardiologiju.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Lista-uspjesnih-kandidata-Laboratorijski-tehnicar-na-Poliklinici-za-laboratorijsku-dijagnostiku.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-dr.med-specijalista.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica-1.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/OGLAS-07-09-2026.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Javni-oglas-za-prijem-zdravstvenih-radnika-sa-SSS.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Popis dokumentacije kojom se dokazuje status branilaca i članova njihovih porodica](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/09/Popis-dokumentacije-kojom-se-dokazuje-status-branilaca-i-clanova-njihovih-porodica.pdf) | UKC Tuzla (konkursi) |
-| 02.11. 00:13 | •⏺ [Klinikni na link za pregled](https://www.ukctuzla.ba/ukctuzla/wp-content/uploads/2026/07/Konkur-za-prijem-radnika-na-neodredjeno-vrijeme-JUNI.pdf) | UKC Tuzla (konkursi) |
