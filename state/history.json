@@ -26624,5 +26624,89 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Stručni saradnik za upravljanje podacima (m/ž)",
+  "url": "https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Stručni saradnik za upravljanje podacima (m/ž)",
+  "url": "https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Prodavač (m/ž)",
+  "url": "https://www.mojposao.ba/posao/dfa8e069-df70-11f1-8233-42010a9c001b/prodavac--mz",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "klix_it",
+  "source_name": "Klix Posao IT",
+  "title": "Marketing manager mf forework",
+  "url": "https://posao.klix.ba/oglasi/marketing-manager-mf-forework/11084",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "klix_it",
+  "source_name": "Klix Posao IT",
+  "title": "Internal finance and bookkeeping specialist fm forework",
+  "url": "https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "bingo",
+  "source_name": "Bingo (oglasi)",
+  "title": "Bingo d.o.o. Tuzla raspisuje konkurs za poziciju:",
+  "url": "https://www.bingotuzla.ba/2026/11/13/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-8",
+  "company": "",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T15:08:23+00:00",
+  "source": "htec_bih",
+  "source_name": "HTEC BiH",
+  "title": "SAP Integration Engineer (ABAP) – Financial Services Bosnia and Herzegovina, North Macedonia, Hungary, Croatia, Spain, Czech Republic, Serbia (Hybrid)",
+  "url": "https://careers.htecgroup.com/jobs/sap-integration-engineer-abap-financial-services-cmiH",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "sap",
+  "snippet": ""
  }
 ]

@@ -76,7 +76,8 @@
    "079a67fe-dc3d-11f1-a8c0-42010a9c001a",
    "373a4ed2-dcf5-11f1-a8c0-42010a9c001a",
    "c5e4dd50-dc3d-11f1-a8c0-42010a9c001a",
-   "8395fa6b-dcf2-11f1-a8c0-42010a9c001a"
+   "8395fa6b-dcf2-11f1-a8c0-42010a9c001a",
+   "293f4210-df70-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -401,7 +402,9 @@
    "b933c203-df4c-11f1-8233-42010a9c001b",
    "c5958206-df57-11f1-8233-42010a9c001b",
    "99202ee8-df6b-11f1-8233-42010a9c001b",
-   "c8af856b-dd07-11f1-a8c0-42010a9c001a"
+   "c8af856b-dd07-11f1-a8c0-42010a9c001a",
+   "293f4210-df70-11f1-8233-42010a9c001b",
+   "dfa8e069-df70-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -441,7 +444,9 @@
    "https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-danskom-jeziku-mz-mplus-bih/11046",
    "https://posao.klix.ba/oglasi/home-office-kundenberaterin-mwd-fur-ein-fuhrendes-unternehmen-im-bereich-tee-teemaschinen-und-zubehor-telus-digital/11053",
    "https://posao.klix.ba/oglasi/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima-mz-telemach/11055",
-   "https://posao.klix.ba/oglasi/ai-automation-specialist-mz-aurum-nova/11054"
+   "https://posao.klix.ba/oglasi/ai-automation-specialist-mz-aurum-nova/11054",
+   "https://posao.klix.ba/oglasi/marketing-manager-mf-forework/11084",
+   "https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094"
   ]
  },
  "itbase": {
@@ -2400,7 +2405,6 @@
  },
  "atos": {
   "keys": [
-   "hash:dc8a087b49647790",
    "hash:be9e32425c9ee1f2",
    "hash:a729f52530d028c1",
    "hash:1079f11b5ae13b8b",
@@ -2449,7 +2453,8 @@
    "hash:0459e23f883a4113",
    "hash:8ad478ee3e336b84",
    "hash:50362fc3d640df19",
-   "hash:9bb1ec50497c0a5d"
+   "hash:9bb1ec50497c0a5d",
+   "hash:e6f2e09d94815611"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2546,14 +2551,14 @@
    "Brzi kredit",
    "Sa nama ste najbrži!",
    "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5159,7 +5164,8 @@
    "https://www.bingotuzla.ba/2026/10/01/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-2",
    "https://www.bingotuzla.ba/2026/10/01/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju",
    "https://www.bingotuzla.ba/2026/11/03/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-5",
-   "https://www.bingotuzla.ba/2026/11/05/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-6"
+   "https://www.bingotuzla.ba/2026/11/05/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-6",
+   "https://www.bingotuzla.ba/2026/11/13/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-8"
   ]
  },
  "robot": {
@@ -5447,7 +5453,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:1d942d9096105e25",
    "hash:c340832b1acd8cdc",
    "hash:f6adaa19ace0cce1",
    "hash:bc9096c23fed681e",
@@ -5496,13 +5501,14 @@
    "hash:a4b5f036760c559b",
    "hash:54b9be79ec47ccdc",
    "hash:a40a65be62f477cf",
-   "hash:a66f3d75e56da012"
+   "hash:a66f3d75e56da012",
+   "hash:0e99caf8bd93f1e1"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.8d1c1602.1794580192.42d9f60",
-   "https://errors.edgesuite.net/18.8d1c1602.1794580192.42d9f60"
+   "Reference #18.716c3817.1794582660.6ab449a",
+   "https://errors.edgesuite.net/18.716c3817.1794582660.6ab449a"
   ]
  },
  "asa_grupa": {
@@ -6055,7 +6061,8 @@
    "https://careers.htecgroup.com/jobs/ai-inference-engineer-Idz",
    "https://careers.htecgroup.com/jobs/data-ai-architect-chOd",
    "https://careers.htecgroup.com/jobs/senior-data-engineer-databricks-ciSd",
-   "https://careers.htecgroup.com/jobs/robotics-engineer-ceif"
+   "https://careers.htecgroup.com/jobs/robotics-engineer-ceif",
+   "https://careers.htecgroup.com/jobs/sap-integration-engineer-abap-financial-services-cmiH"
   ]
  },
  "symphony": {

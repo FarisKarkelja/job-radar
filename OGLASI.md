@@ -4,6 +4,13 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 13.11. 16:08 | • [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz) | MojPosao IT |
+| 13.11. 16:08 | • [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz) | MojPosao Kanton Sarajevo |
+| 13.11. 16:08 | • [Prodavač (m/ž)](https://www.mojposao.ba/posao/dfa8e069-df70-11f1-8233-42010a9c001b/prodavac--mz) | MojPosao Kanton Sarajevo |
+| 13.11. 16:08 | • [Marketing manager mf forework](https://posao.klix.ba/oglasi/marketing-manager-mf-forework/11084) | Klix Posao IT |
+| 13.11. 16:08 | • [Internal finance and bookkeeping specialist fm forework](https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094) | Klix Posao IT |
+| 13.11. 16:08 | • [Bingo d.o.o. Tuzla raspisuje konkurs za poziciju:](https://www.bingotuzla.ba/2026/11/13/bingo-d-o-o-tuzla-raspisuje-konkurs-za-poziciju-8) | Bingo (oglasi) |
+| 13.11. 16:08 | 💻 [SAP Integration Engineer (ABAP) – Financial Services Bosnia and Herzegovina, North Macedonia, Hungary, Croatia, Spain, Czech Republic, Serbia (Hybrid)](https://careers.htecgroup.com/jobs/sap-integration-engineer-abap-financial-services-cmiH) | HTEC BiH |
 | 13.11. 15:28 | • [Kurir / Dostavljač](https://www.mojposao.ba/posao/c5958206-df57-11f1-8233-42010a9c001b/kurir--dostavljac) | MojPosao Kanton Sarajevo |
 | 13.11. 15:28 | • [Skladišni radnik (m/ž)](https://www.mojposao.ba/posao/99202ee8-df6b-11f1-8233-42010a9c001b/skladisni-radnik-mz) | MojPosao Kanton Sarajevo |
 | 13.11. 15:28 | • [Key Account Manager](https://www.mojposao.ba/posao/c8af856b-dd07-11f1-a8c0-42010a9c001a/key-account-manager) | MojPosao Kanton Sarajevo |
@@ -1497,10 +1504,3 @@
 | 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE- Tehničar](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/04/javni-oglas-za-zaposljavanje-tehnicar) · Indira Mešinović | BH Telecom |
 | 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE- Šalterski radnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/04/137744) · Indira Mešinović | BH Telecom |
 | 02.11. 00:13 | •⏺ [Politika ljudskih resursa](https://www.epbih.ba/upload/documents/Ljudski%20resursi/Politika%20upravljanja%20ljudskim%20resursima.pdf) | Elektroprivreda BiH |
-| 02.11. 00:13 | •⏺ [Oglas za zapošljavanje radnika na neodređeno vrijeme](https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20zaposljavanje%20radnika%20na%20neodredjeno%20vrijeme_TE%20Kakanj.pdf) | Elektroprivreda BiH |
-| 02.11. 00:13 | •⏺ [Oglas za zapošljavanje novih radnika na neodređeno, određeno vrijeme i pripravnika](https://www.epbih.ba/upload/documents/Ljudski%20resursi/Oglasi/Oglasi%20za%20zaposljavanje%20WEB/Oglas%20za%20prijem%20novih%20radnika%20na%20neodredjeno_odredjeno%20vrijeme%20i%20pripravnika_ED%20Tuzla.pdf) | Elektroprivreda BiH |
-| 02.11. 00:13 | •⏺ [zahtjeva za obavljanje prakse u Direkciji Društva](https://www.epbih.ba/upload/documents/Zahtjev%20za%20obavljenje%20studetske%20prakse%20Direkcija.pdf) | Elektroprivreda BiH |
-| 02.11. 00:13 | •⏺ [zahtjeva za obavljanje prakse u podružnicama Društva.](https://www.epbih.ba/upload/documents/Zahtjev%20za%20obavljenje%20studetske%20prakse%20Podruznice%20Drustva.pdf) | Elektroprivreda BiH |
-| 02.11. 00:13 | •⏺ [Politiku kolačića](https://www.epbih.ba/upload/documents/politike/Politika_kolacica_EPBIH.pdf) | Elektroprivreda BiH |
-| 02.11. 00:13 | •⏺ [OTVORENA PRIJAVA Svi gradovi, Bosna i Hercegovina](https://addiko-bank-bl.talentlyft.com/jobs/otvorena-prijava-7U) | Addiko Bank Banja Luka |
-| 02.11. 00:13 | •⏺ [Blagajnik – 1 izvršilac, Visoko](https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-visoko) | MF banka |
