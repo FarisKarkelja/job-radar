@@ -4,6 +4,21 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 13.11. 15:28 | • [Kurir / Dostavljač](https://www.mojposao.ba/posao/c5958206-df57-11f1-8233-42010a9c001b/kurir--dostavljac) | MojPosao Kanton Sarajevo |
+| 13.11. 15:28 | • [Skladišni radnik (m/ž)](https://www.mojposao.ba/posao/99202ee8-df6b-11f1-8233-42010a9c001b/skladisni-radnik-mz) | MojPosao Kanton Sarajevo |
+| 13.11. 15:28 | • [Key Account Manager](https://www.mojposao.ba/posao/c8af856b-dd07-11f1-a8c0-42010a9c001a/key-account-manager) | MojPosao Kanton Sarajevo |
+| 13.11. 15:28 | 💻 [Senior Backend Engineer (Go)](https://www.linkedin.com/jobs/view/4325008702) · Block Labs | LinkedIn BiH |
+| 13.11. 15:28 | • [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4489569804) · RWS | LinkedIn BiH |
+| 13.11. 15:28 | • [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4489560962) · RWS | LinkedIn BiH |
+| 13.11. 15:28 | • [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4489561953) · RWS | LinkedIn BiH |
+| 13.11. 15:28 | • [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4489570746) · RWS | LinkedIn BiH |
+| 13.11. 15:28 | • [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4489565857) · RWS | LinkedIn BiH |
+| 13.11. 15:28 | • [AI Conversation Recording Contributor - Bosnian](https://www.linkedin.com/jobs/view/4489576555) · RWS | LinkedIn BiH |
+| 13.11. 15:28 | • [Menadžer/ica za 3PL klijente i razvoj poslovanja Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/952) | Poslovni oglasi |
+| 13.11. 15:28 | • [Asistent u nabavci (m/ž) Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/951) | Poslovni oglasi |
+| 13.11. 15:28 | • [JAVNI OGLAS](https://szks.ba/posao/javni-oglas-392) · KJKP „SARAJEVOGAS” D.O.O. SARAJEVO | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 15:28 | • [NASTAVNIK RAZREDNE NASTAVE](https://szks.ba/posao/nastavnik-razredne-nastave-67) · JU OŠ „6. mart&quot; | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 15:28 | • [Ispravka Konkursa za izbor akademskog osoblja - saradnika / Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu) | Univerzitet u Sarajevu (konkursi) |
 | 13.11. 13:07 | 💻 [Head of information and communications technology (ICT) section](https://www.mojposao.ba/posao/8395fa6b-dcf2-11f1-a8c0-42010a9c001a/head-of-information-and-communications-technology-ict-section) | MojPosao IT |
 | 13.11. 13:07 | • [Montažer pločastog namještaja](https://www.mojposao.ba/posao/573730a4-df4d-11f1-8233-42010a9c001b/montazer-plocastog-namjestaja) | MojPosao Kanton Sarajevo |
 | 13.11. 13:07 | 💻 [Head of information and communications technology (ICT) section](https://www.mojposao.ba/posao/8395fa6b-dcf2-11f1-a8c0-42010a9c001a/head-of-information-and-communications-technology-ict-section) | MojPosao Kanton Sarajevo |
@@ -1489,18 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Politiku kolačića](https://www.epbih.ba/upload/documents/politike/Politika_kolacica_EPBIH.pdf) | Elektroprivreda BiH |
 | 02.11. 00:13 | •⏺ [OTVORENA PRIJAVA Svi gradovi, Bosna i Hercegovina](https://addiko-bank-bl.talentlyft.com/jobs/otvorena-prijava-7U) | Addiko Bank Banja Luka |
 | 02.11. 00:13 | •⏺ [Blagajnik – 1 izvršilac, Visoko](https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-visoko) | MF banka |
-| 02.11. 00:13 | •⏺ [Blagajnik – 1 izvršilac, Novi Grad](https://mfbanka.com/index.php/karijera/blagajnik-1-izvrsilac-novi-grad) | MF banka |
-| 02.11. 00:13 | •⏺ [Blagajnik – više izvršilaca – Mostar , Zenica](https://mfbanka.com/index.php/karijera/blagajnik-vise-izvrsilaca-mostar-zenica) | MF banka |
-| 02.11. 00:13 | •⏺ [Saradnik za procjenu kreditnog rizika, Banja Luka](https://mfbanka.com/index.php/karijera/saradnik-za-procjenu-kreditnog-rizika-banja-luka) | MF banka |
-| 02.11. 00:13 | •⏺ [Oglas za posao – Blagajnik, Sarajevo, Trebinje](https://mfbanka.com/index.php/karijera/oglas-za-posao-blagajnik-sarajevo) | MF banka |
-| 02.11. 00:13 | •⏺ [Oglas za posao – Saradnik za razvoj digitalnih kanala, Banja Luka](https://mfbanka.com/index.php/karijera/oglas-za-posao-saradnik-za-razvoj-digitalnih-kanala-banja-luka) | MF banka |
-| 02.11. 00:13 | •⏺ [Oglas za posao – Saradnik za podršku kreditnom procesu, Banja Luka](https://mfbanka.com/index.php/karijera/oglas-za-posao-saradnik-za-podrsku-kreditnom-procesu-banja-luka) | MF banka |
-| 02.11. 00:13 | •⏺ [Oglas za posao – blagajnik, Velika Kladuša](https://mfbanka.com/index.php/karijera/oglas-za-posao-blagajnik-velika-kladusa) | MF banka |
-| 02.11. 00:13 | •⏺ [Oglas za posao – lični bankar, Bugojno](https://mfbanka.com/index.php/karijera/oglas-za-posao-licni-bankar-bugojno) | MF banka |
-| 02.11. 00:13 | •⏺ [Oglas za posao – lični bankar, Cazin](https://mfbanka.com/index.php/karijera/oglas-za-posao-licni-bankar-cazin-2) | MF banka |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federacije Bosne i Hercegovine](https://rbfbih.ba/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-federacije-bosne-i-hercegovine-9) | Razvojna banka FBiH (oglasi) |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federacije Bosne i Hercegovine](https://rbfbih.ba/javni-oglas-za-prijem-radnika-u-radni-odnos-u-razvojnoj-banci-federacije-bosne-i-hercegovine-8) | Razvojna banka FBiH (oglasi) |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem radnika u radni odnos u Razvojnoj banci Federacije Bosne i Hercegovine](https://rbfbih.ba/wp-content/uploads/2026/10/oglas-za-prijem-radnika-poslovnica-Bihac-puni-1.pdf) | Razvojna banka FBiH (oglasi) |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Prnjavor](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-prnjavor) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Bijeljina](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-bijeljina) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Koordinator za finansijske izvore – 1 izvršilac, Tuzla](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-koordinator-za-finansijske-izvore-1-izvrsilac-tuzla) | Partner mikrokreditna |
