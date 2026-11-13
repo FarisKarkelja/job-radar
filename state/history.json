@@ -26708,5 +26708,101 @@
   "priority": 4,
   "match": "sap",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Kundenbetreuer",
+  "url": "https://www.mojposao.ba/posao/53332a1b-df75-11f1-8233-42010a9c001b/kundenbetreuer",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Šef službe za računovodstvo i finansije",
+  "url": "https://www.mojposao.ba/posao/df949902-df75-11f1-8233-42010a9c001b/sef-sluzbe-za-racunovodstvo-i-finansije",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "AWS DevOps Engineer",
+  "url": "https://www.linkedin.com/jobs/view/4482178299",
+  "company": "Avenga",
+  "it": true,
+  "priority": 4,
+  "match": "devops",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Support Specialist",
+  "url": "https://www.linkedin.com/jobs/view/4489583402",
+  "company": "Monri Payments",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Kundenberater im gigantischen Möbelunternehmen",
+  "url": "https://www.linkedin.com/jobs/view/4463980241",
+  "company": "Concentrix",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "poslovnioglasi",
+  "source_name": "Poslovni oglasi",
+  "title": "Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas",
+  "url": "https://poslovnioglasi.ba/company-ad-details/953",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "vlada_ks",
+  "source_name": "Kanton Sarajevo (konkursi)",
+  "title": "Obavijest za kandidate po Javnom konkursu za popunu slobodnih radnih mjesta policijskih službenika u Upravi policije MUP-a KS u početnom činu \"POLICAJAC\" od 30.09.2025. - rješenja o izvršenim sigurnosnim provjerama",
+  "url": "https://mup.ks.gov.ba/aktuelno/konkursi/obavijest-za-kandidate-po-javnom-konkursu-za-popunu-slobodnih-radnih-mjesta-0",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-13T18:07:41+00:00",
+  "source": "dzobs",
+  "source_name": "dzobs (IT poslovi)",
+  "title": "premium DevOps Engineer ElevateBits Banja Luka Medior, Senior jo š 30 dana",
+  "url": "https://dzobs.com/posao/elevatebits-125252/devops-engineer-815189",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "devops",
+  "snippet": ""
  }
 ]

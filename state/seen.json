@@ -404,7 +404,9 @@
    "99202ee8-df6b-11f1-8233-42010a9c001b",
    "c8af856b-dd07-11f1-a8c0-42010a9c001a",
    "293f4210-df70-11f1-8233-42010a9c001b",
-   "dfa8e069-df70-11f1-8233-42010a9c001b"
+   "dfa8e069-df70-11f1-8233-42010a9c001b",
+   "53332a1b-df75-11f1-8233-42010a9c001b",
+   "df949902-df75-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -667,7 +669,10 @@
    "https://www.linkedin.com/jobs/view/4489561953",
    "https://www.linkedin.com/jobs/view/4489570746",
    "https://www.linkedin.com/jobs/view/4489565857",
-   "https://www.linkedin.com/jobs/view/4489576555"
+   "https://www.linkedin.com/jobs/view/4489576555",
+   "https://www.linkedin.com/jobs/view/4482178299",
+   "https://www.linkedin.com/jobs/view/4489583402",
+   "https://www.linkedin.com/jobs/view/4463980241"
   ]
  },
  "glassrpske_konkursi": {
@@ -2405,7 +2410,6 @@
  },
  "atos": {
   "keys": [
-   "hash:be9e32425c9ee1f2",
    "hash:a729f52530d028c1",
    "hash:1079f11b5ae13b8b",
    "hash:65cf4a364b58d7e8",
@@ -2454,7 +2458,8 @@
    "hash:8ad478ee3e336b84",
    "hash:50362fc3d640df19",
    "hash:9bb1ec50497c0a5d",
-   "hash:e6f2e09d94815611"
+   "hash:e6f2e09d94815611",
+   "hash:b19c6d5a098d9423"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2548,17 +2553,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Brzi kredit",
-   "Sa nama ste najbrži!",
-   "Detaljnije",
-   "Trajni nalog",
-   "Mi štedimo Vaše vrijeme",
-   "Detaljnije",
    "ATOS BANK Mobile",
    "Nova mobilna aplikacija",
    "Detaljnije",
-   "Western Union",
-   "Brz i siguran transfer novca",
+   "Stambeni krediti",
+   "Ostvarite san o vlastitom domu",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -4194,7 +4199,8 @@
    "https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-mula-mustafa-baseskija",
    "https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-osnovna-skola-vrhbosna",
    "https://mup.ks.gov.ba/aktuelno/konkursi/javni-oglas-za-popunu-upraznjenih-radnih-mjesta-namjestenika-na-neodredeno-18",
-   "https://mo.ks.gov.ba/javni-oglasi-pozivi/ispravka-teksta-javnog-oglasa-za-izbor-i-imenovanje-na-pozicije-predsjednika-i"
+   "https://mo.ks.gov.ba/javni-oglasi-pozivi/ispravka-teksta-javnog-oglasa-za-izbor-i-imenovanje-na-pozicije-predsjednika-i",
+   "https://mup.ks.gov.ba/aktuelno/konkursi/obavijest-za-kandidate-po-javnom-konkursu-za-popunu-slobodnih-radnih-mjesta-0"
   ]
  },
  "szz_hnk": {
@@ -4643,7 +4649,8 @@
    "https://dzobs.com/posao/crossvallia-336512/systems-administrator-386402",
    "https://dzobs.com/posao/bay42-370553/mlai-data-analyst-788422",
    "https://dzobs.com/posao/rollee-851986/senior-backend-engineer-351313",
-   "https://dzobs.com/posao/more-screens-710818/devops-sysadmin-849359"
+   "https://dzobs.com/posao/more-screens-710818/devops-sysadmin-849359",
+   "https://dzobs.com/posao/elevatebits-125252/devops-engineer-815189"
   ]
  },
  "dzobs_praksa": {
@@ -5453,7 +5460,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:c340832b1acd8cdc",
    "hash:f6adaa19ace0cce1",
    "hash:bc9096c23fed681e",
    "hash:a09b67dcc142c114",
@@ -5502,13 +5508,14 @@
    "hash:54b9be79ec47ccdc",
    "hash:a40a65be62f477cf",
    "hash:a66f3d75e56da012",
-   "hash:0e99caf8bd93f1e1"
+   "hash:0e99caf8bd93f1e1",
+   "hash:50bec3062d3086d8"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.716c3817.1794582660.6ab449a",
-   "https://errors.edgesuite.net/18.716c3817.1794582660.6ab449a"
+   "Reference #18.bac83017.1794593363.128fc701",
+   "https://errors.edgesuite.net/18.bac83017.1794593363.128fc701"
   ]
  },
  "asa_grupa": {
@@ -5824,7 +5831,8 @@
    "hash:f4b3bc5567173987",
    "hash:1788e3ba3a2194b7",
    "hash:c4d1b89e981c7271",
-   "hash:b2d6e58505a5327c"
+   "hash:b2d6e58505a5327c",
+   "hash:8592c0f0e3ca436d"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5904,13 +5912,13 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 18 hours ago",
    "DevOps Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 18 hours ago",
    "AI Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -5922,19 +5930,19 @@
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 18 hours ago",
    "Customer Support Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 18 hours ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 18 hours ago",
    "System Infrastructure Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5970,7 +5978,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 14 hours ago",
+   "Posted 18 hours ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
@@ -7308,7 +7316,8 @@
    "https://poslovnioglasi.ba/company-ad-details/950",
    "https://poslovnioglasi.ba/company-ad-details/949",
    "https://poslovnioglasi.ba/company-ad-details/952",
-   "https://poslovnioglasi.ba/company-ad-details/951"
+   "https://poslovnioglasi.ba/company-ad-details/951",
+   "https://poslovnioglasi.ba/company-ad-details/953"
   ]
  },
  "ads_bih": {

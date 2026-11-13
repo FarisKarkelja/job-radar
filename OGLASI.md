@@ -4,6 +4,14 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 13.11. 19:07 | • [Kundenbetreuer](https://www.mojposao.ba/posao/53332a1b-df75-11f1-8233-42010a9c001b/kundenbetreuer) | MojPosao Kanton Sarajevo |
+| 13.11. 19:07 | • [Šef službe za računovodstvo i finansije](https://www.mojposao.ba/posao/df949902-df75-11f1-8233-42010a9c001b/sef-sluzbe-za-racunovodstvo-i-finansije) | MojPosao Kanton Sarajevo |
+| 13.11. 19:07 | 💻 [AWS DevOps Engineer](https://www.linkedin.com/jobs/view/4482178299) · Avenga | LinkedIn BiH |
+| 13.11. 19:07 | • [Support Specialist](https://www.linkedin.com/jobs/view/4489583402) · Monri Payments | LinkedIn BiH |
+| 13.11. 19:07 | • [Kundenberater im gigantischen Möbelunternehmen](https://www.linkedin.com/jobs/view/4463980241) · Concentrix | LinkedIn BiH |
+| 13.11. 19:07 | • [Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/953) | Poslovni oglasi |
+| 13.11. 19:07 | • [Obavijest za kandidate po Javnom konkursu za popunu slobodnih radnih mjesta policijskih službenika u Upravi policije MUP-a KS u početnom činu "POLICAJAC" od 30.09.2025. - rješenja o izvršenim sigurnosnim provjerama](https://mup.ks.gov.ba/aktuelno/konkursi/obavijest-za-kandidate-po-javnom-konkursu-za-popunu-slobodnih-radnih-mjesta-0) | Kanton Sarajevo (konkursi) |
+| 13.11. 19:07 | 💻 [premium DevOps Engineer ElevateBits Banja Luka Medior, Senior jo š 30 dana](https://dzobs.com/posao/elevatebits-125252/devops-engineer-815189) | dzobs (IT poslovi) |
 | 13.11. 16:08 | • [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz) | MojPosao IT |
 | 13.11. 16:08 | • [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz) | MojPosao Kanton Sarajevo |
 | 13.11. 16:08 | • [Prodavač (m/ž)](https://www.mojposao.ba/posao/dfa8e069-df70-11f1-8233-42010a9c001b/prodavac--mz) | MojPosao Kanton Sarajevo |
@@ -1496,11 +1504,3 @@
 | 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – VIŠE POZICIJA](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/10/javni-oglas-za-zaposljavanje-vise-pozicija) · Benjamin Pecar | BH Telecom |
 | 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – STRUČNI SARADNIK](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/08/javni-oglas-za-zaposljavanje-strucni-saradnik-2) · Indira Mešinović | BH Telecom |
 | 02.11. 00:13 | •⏺ [ISPRAVKA DIJELA JAVNOG OGLASA – Šalterski radnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/06/ispravka-dijela-javnog-oglasa-salterski-radnik) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [PONIŠTAVA SE JAVNI OGLAS TE PONOVO OBJAVLJUJE JAVNI OGLAS ZA ZAPOŠLJAVANJE – Šalterski radnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/06/ponistava-se-javni-oglas-te-ponovo-objavljuje-javni-oglas-za-zaposljavanje-salterski-radnik) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – Šalterski radnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/06/javni-oglas-za-zaposljavanje-salterski-radnik) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [PONIŠTAVA SE DIO JAVNOG OGLASA TE PONOVO OBJAVLJUJE JAVNI OGLAS ZA ZAPOŠLJAVANJE – Tehničar i Stručni saradnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/06/ponistava-dio-javnog-oglasa-te-ponovo-objavljuje-javni-oglas-tehnicar-i-strucni-saradnik) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – STRUČNI SARADNIK](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/05/javni-oglas-za-zaposljavanje-strucni-saradnik) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – TEHNIČAR](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/05/javni-oglas-za-zaposljavanje-tehnicar-2) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE- Tehničar](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/04/javni-oglas-za-zaposljavanje-tehnicar) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE- Šalterski radnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/04/137744) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [Politika ljudskih resursa](https://www.epbih.ba/upload/documents/Ljudski%20resursi/Politika%20upravljanja%20ljudskim%20resursima.pdf) | Elektroprivreda BiH |
