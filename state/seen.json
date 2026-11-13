@@ -2374,7 +2374,6 @@
  },
  "atos": {
   "keys": [
-   "hash:81f48e1c91dc8776",
    "hash:e371b69ec7d7f1d3",
    "hash:2ca7ede31e819d52",
    "hash:8f8c03b488023752",
@@ -2423,7 +2422,8 @@
    "hash:1f4d6fbdc006ce5f",
    "hash:f2a376078813e8ca",
    "hash:753aab69c0fee2e8",
-   "hash:0455d24fa19fb45f"
+   "hash:0455d24fa19fb45f",
+   "hash:0459e23f883a4113"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2517,14 +2517,14 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
+   "Oročena štednja",
+   "Ulažite u budućnost",
+   "Detaljnije",
    "KREDIT ZA SVE",
    "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
-   "Detaljnije",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Optimum paket",
+   "Plaćajte manje, koristite više!",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
@@ -5159,7 +5159,8 @@
    "hash:8748f7e18b5c5178",
    "hash:6d78e552f8e38130",
    "hash:0ebaf5fe0eed4a8e",
-   "hash:c9c3f23899bca107"
+   "hash:c9c3f23899bca107",
+   "hash:3a5e239875b1fb20"
   ],
   "lines": [
    "O nama",
@@ -5276,7 +5277,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 12. 2026",
+   "novembar 13. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5409,7 +5410,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:6d14d2b6d0cea582",
    "hash:49dd84225fea8d0e",
    "hash:91ea3f3a66bc994b",
    "hash:7dea515e8be994e8",
@@ -5458,13 +5458,14 @@
    "hash:0bb2512be34382b6",
    "hash:f44c28aaf9c68c8a",
    "hash:777158905a50aca5",
-   "hash:b9dde73bd3aadac6"
+   "hash:b9dde73bd3aadac6",
+   "hash:a4b5f036760c559b"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.c5cf5868.1794520398.643741b",
-   "https://errors.edgesuite.net/18.c5cf5868.1794520398.643741b"
+   "Reference #18.666c3817.1794550176.645daa39",
+   "https://errors.edgesuite.net/18.666c3817.1794550176.645daa39"
   ]
  },
  "asa_grupa": {
@@ -5778,7 +5779,8 @@
    "hash:38b9f31092c4e54e",
    "hash:8d29f95f4375509d",
    "hash:f4b3bc5567173987",
-   "hash:1788e3ba3a2194b7"
+   "hash:1788e3ba3a2194b7",
+   "hash:c4d1b89e981c7271"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -5852,7 +5854,7 @@
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 22 hours ago",
+   "Posted 1 day ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -5906,19 +5908,19 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 22 hours ago",
+   "Posted 1 day ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 22 hours ago",
+   "Posted 1 day ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 22 hours ago",
+   "Posted 1 day ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -5930,7 +5932,7 @@
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 22 hours ago",
+   "Posted 1 day ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -7389,7 +7391,8 @@
    "hash:bb25647982fc1217",
    "hash:b283dc772bce9890",
    "hash:8feed2e654646421",
-   "hash:0cbcd48b1964ec37"
+   "hash:0cbcd48b1964ec37",
+   "hash:bd14132c6728caa1"
   ],
   "lines": [
    "Pređi na glavni sadržaj",
@@ -7397,7 +7400,7 @@
    "Filteri",
    "Rezultati pretrage",
    "20 Rezultati",
-   "1-20 od 190",
+   "1-20 od 144",
    "Stavki po stranici",
    "ЈУ ОШ „Младен Стојановић“, Бања Лука",
    "Бања Лука",
