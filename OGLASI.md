@@ -4,6 +4,21 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 13.11. 13:07 | 💻 [Head of information and communications technology (ICT) section](https://www.mojposao.ba/posao/8395fa6b-dcf2-11f1-a8c0-42010a9c001a/head-of-information-and-communications-technology-ict-section) | MojPosao IT |
+| 13.11. 13:07 | • [Montažer pločastog namještaja](https://www.mojposao.ba/posao/573730a4-df4d-11f1-8233-42010a9c001b/montazer-plocastog-namjestaja) | MojPosao Kanton Sarajevo |
+| 13.11. 13:07 | 💻 [Head of information and communications technology (ICT) section](https://www.mojposao.ba/posao/8395fa6b-dcf2-11f1-a8c0-42010a9c001a/head-of-information-and-communications-technology-ict-section) | MojPosao Kanton Sarajevo |
+| 13.11. 13:07 | • [Radnik u skladištu (Skladištar)](https://www.mojposao.ba/posao/b933c203-df4c-11f1-8233-42010a9c001b/radnik-u-skladistu-skladistar) | MojPosao Kanton Sarajevo |
+| 13.11. 13:07 | • [Brend Menadžer - HoReCa (m/ž) Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/950) | Poslovni oglasi |
+| 13.11. 13:07 | • [Robno-materijalni knjigovođa (m/ž) AC Quattro d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/949) | Poslovni oglasi |
+| 13.11. 13:07 | • [JAVNI OGLAS](https://szks.ba/posao/javni-oglas-391) · KJKP „Gradski saobraćaj&quot; d.o.o. Sarajevo | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 13:07 | • [KUHAR/ KUHARICA](https://szks.ba/posao/kuhar-kuharica) · PRIVATNA PREDŠKOLSKA USTANOVA -&quot;MALI PRINC&quot; | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 13:07 | • [DIREKTOR/DIREKTORICA](https://szks.ba/posao/mali-princ-110-direktor-direktorica) · mali.princ | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 13:07 | • [Najava Javnog poziva po Projektu sufinansiranja zapošljavanja i samozapošljavanja djece šehida/poginulih branitelja u 2026. godini](https://zdk-szz.ba/wordpress/5046) | Služba za zapošljavanje ZDK |
+| 13.11. 13:07 | • [Promjena na stranici: Prijem za novu generaciju praktikanata u Banjaluci](https://www.supernovabih.ba/karijera) | Supernova (karijera) |
+| 13.11. 13:07 | • [IVERNEA d.o.o. Grude zapošljava više djelatnika, pogledajte detalje](https://szz-zzh.ba/2026/11/13/ivernea-d-o-o-grude-zaposljava-vise-djelatnika-pogledajte-detalje) | SZZ ZHK (natječaji) |
+| 13.11. 13:07 | • [Široki Brijeg: Bimaco raspisuje natječaj za marketing menadžera](https://szz-zzh.ba/2026/11/13/siroki-brijeg-bimaco-raspisuje-natjecaj-za-marketing-menadzera) | SZZ ZHK (natječaji) |
+| 13.11. 13:07 | • [JU Dom penzionera Tuzla: Javni oglas za prijem radnika u radni odnos](https://szztk.ba/posao/36989/ju-dom-penzionera-tuzla-javni-oglas-za-prijem-radnika-u-radni-odnos) | SZZ Tuzlanski kanton (oglasi) |
+| 13.11. 13:07 | 💻 [Promjena na stranici: Vacancy](https://www.ohr.int/vacancies) | OHR (vacancies) |
 | 13.11. 10:07 | 💻 [Pre-Sales Consultant - HPE Hybrid IT](https://www.linkedin.com/jobs/view/4488910471) · Hewlett Packard Enterprise operated by Selectium | LinkedIn BiH |
 | 13.11. 10:07 | • [AUTOELEKTRIČAR Centrotrans d.d. Kanton Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/948) | Poslovni oglasi |
 | 13.11. 10:07 | • [Javni oglas za prijem pripravnika visoke stručne spreme u direkciji za civilno zrakoplovstvo Bosne i Hercegovine Datum objave: 13.11.2026. Krajnji rok za prijave: 22.11.2026. 1/01 Pripravnik – sa završenim saobraćajnim fakultetom ili fakult](https://www.ads.gov.ba/vacancies/3525/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine) | ADS BiH |
@@ -1489,18 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Prnjavor](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-prnjavor) | Partner mikrokreditna |
 | 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Bijeljina](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-bijeljina) | Partner mikrokreditna |
 | 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Koordinator za finansijske izvore – 1 izvršilac, Tuzla](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-koordinator-za-finansijske-izvore-1-izvrsilac-tuzla) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Jelah](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-jelah) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Žepče](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-zepce) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 2 izvršioca, opština Modriča, Grad Mostar](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-2-izvrsioca-opstina-modrica-grad-mostar) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Doboj](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-doboj) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Administrativni asistent za kreditne poslove – 1 izvršilac, opština Jajce](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-administrativni-asistent-za-kreditne-poslove-1-izvrsilac-opstina-jajce) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Poziv za stručno osposobljavanje mladih](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-prilika-za-profesionalno-osposobljavanje) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [Oglas za prijem u radni odnos – Kreditni službenik – 1 izvršilac, opština Vogošća](https://www.partner.ba/oglas-za-prijem-u-radni-odnos-kreditni-sluzbenik-1-izvrsilac-opstina-vogosca) | Partner mikrokreditna |
-| 02.11. 00:13 | •⏺ [OTVORENI KONKURSI](https://wiener.ba/wp-content/uploads/2026/10/Wiener-osiguranje_Oglas_Rukovodilac-odjeljenja-analitickog-racunovodstva_29.-oktobar-2026.pdf) | Wiener osiguranje |
-| 02.11. 00:13 | •⏺ [Prednosti rada u m:tel-u 27. oktobar 2020](https://mtel.ba/Karijera/a16827-Prednosti-rada-u-m-tel-u.html) | m:tel karijera |
-| 02.11. 00:13 | •⏺ [Razvoj zaposlenih 23. mart 2018](https://mtel.ba/Karijera/a2795-Razvoj-zaposlenih.html) | m:tel karijera |
-| 02.11. 00:13 | •⏺ [Stipendije i praksa 23. mart 2018](https://mtel.ba/Karijera/a2797-Stipendije-i-praksa.html) | m:tel karijera |
-| 02.11. 00:13 | •⏺ [Konkurs za izbor i imenovanje direktora odjela za internu reviziju](https://www.posta.ba/wp-content/uploads/2026/10/konkurs-za-izbor-i-imenovanje-direktora-odjela-za-internu-reviziju.pdf) | BH Pošta (oglasi) |
-| 02.11. 00:13 | •⏺ [JAVNI POZIV za pružanje usluge pravnog zastupanja u 2026. godini](https://www.posta.ba/wp-content/uploads/2026/02/javni-poziv-za-pruzanje-usluge-pravnog-zastupanja-u-2026-godini.pdf) | BH Pošta (oglasi) |
-| 02.11. 00:13 | •⏺ [POZIV KANDIDATIMA – 2026](https://www.posta.ba/wp-content/uploads/2026/01/poziv-kandidatima-20261docx.pdf) | BH Pošta (oglasi) |
-| 02.11. 00:13 | •⏺ [04.04.2025. JAVNI OGLAS za popunjavanje upražnjenih radnih mjesta i prijem radnika na neodređeno vrijeme](https://www.bh-gas.ba/2025/04/04/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme) | BH Gas (javni oglasi) |
