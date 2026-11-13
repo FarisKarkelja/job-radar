@@ -647,7 +647,8 @@
    "https://www.linkedin.com/jobs/view/4482711686",
    "https://www.linkedin.com/jobs/view/4488565031",
    "https://www.linkedin.com/jobs/view/4472555901",
-   "https://www.linkedin.com/jobs/view/4474254439"
+   "https://www.linkedin.com/jobs/view/4474254439",
+   "https://www.linkedin.com/jobs/view/4488910471"
   ]
  },
  "glassrpske_konkursi": {
@@ -773,7 +774,11 @@
    "https://szks.ba/posao/radnik-na-posluzivanju-obroka-4",
    "https://szks.ba/posao/poliklinika-estiva-166-specijalista-ginekologije-i-akuserstva-m-z",
    "https://szks.ba/posao/radnik-na-odrzavanju-higijene-10",
-   "https://szks.ba/posao/nastavnik-razredne-nastave-66"
+   "https://szks.ba/posao/nastavnik-razredne-nastave-66",
+   "https://szks.ba/posao/autoelektricar-4",
+   "https://szks.ba/posao/javni-oglas-390",
+   "https://szks.ba/posao/old-track-d-o-o-110-nocni-cuvar",
+   "https://szks.ba/posao/old-track-d-o-o-110-higijenicarka"
   ]
  },
  "zdk_szz": {
@@ -1207,7 +1212,8 @@
    "https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/05/javni-oglas-za-zaposljavanje-tehnicar-2",
    "https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/04/javni-oglas-za-zaposljavanje-tehnicar",
    "https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/04/137744",
-   "https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/11/javni-oglas-za-zaposljavanje-senior-project-engineer-i-administrator"
+   "https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/11/javni-oglas-za-zaposljavanje-senior-project-engineer-i-administrator",
+   "https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/11/javni-oglassalterski-radniktehnicar-za-odrzavanje-i-eksploataciju-pristupnih-mreza"
   ]
  },
  "epbih": {
@@ -2374,7 +2380,6 @@
  },
  "atos": {
   "keys": [
-   "hash:e371b69ec7d7f1d3",
    "hash:2ca7ede31e819d52",
    "hash:8f8c03b488023752",
    "hash:dc8a087b49647790",
@@ -2423,7 +2428,8 @@
    "hash:f2a376078813e8ca",
    "hash:753aab69c0fee2e8",
    "hash:0455d24fa19fb45f",
-   "hash:0459e23f883a4113"
+   "hash:0459e23f883a4113",
+   "hash:8ad478ee3e336b84"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2517,17 +2523,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Oročena štednja",
-   "Ulažite u budućnost",
-   "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
-   "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "SMS i e-mail servis",
    "Informacije o računu bilo gdje i bilo kad",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
+   "Detaljnije",
+   "Oročena štednja",
+   "Ulažite u budućnost",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5410,7 +5416,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:49dd84225fea8d0e",
    "hash:91ea3f3a66bc994b",
    "hash:7dea515e8be994e8",
    "hash:1d942d9096105e25",
@@ -5459,13 +5464,14 @@
    "hash:f44c28aaf9c68c8a",
    "hash:777158905a50aca5",
    "hash:b9dde73bd3aadac6",
-   "hash:a4b5f036760c559b"
+   "hash:a4b5f036760c559b",
+   "hash:54b9be79ec47ccdc"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.666c3817.1794550176.645daa39",
-   "https://errors.edgesuite.net/18.666c3817.1794550176.645daa39"
+   "Reference #18.8e51c317.1794560981.7922480",
+   "https://errors.edgesuite.net/18.8e51c317.1794560981.7922480"
   ]
  },
  "asa_grupa": {
@@ -7258,7 +7264,8 @@
    "https://poslovnioglasi.ba/company-ad-details/944",
    "https://poslovnioglasi.ba/company-ad-details/946",
    "https://poslovnioglasi.ba/company-ad-details/945",
-   "https://poslovnioglasi.ba/company-ad-details/947"
+   "https://poslovnioglasi.ba/company-ad-details/947",
+   "https://poslovnioglasi.ba/company-ad-details/948"
   ]
  },
  "ads_bih": {
@@ -7275,7 +7282,9 @@
    "https://www.ads.gov.ba/vacancies/3520/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-agenciji-za-identifikacione-dokumente-evidenciju-i-razmjenu-podataka-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3521/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-za-ljudska-prava-i-izbjeglice-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine",
-   "https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine"
+   "https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3525/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu"
   ]
  },
  "ads_fbih": {
@@ -7313,7 +7322,8 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7052",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7094",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7096",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8102"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8102",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8113"
   ]
  },
  "cbbh": {

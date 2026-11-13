@@ -4,6 +4,16 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 13.11. 10:07 | 💻 [Pre-Sales Consultant - HPE Hybrid IT](https://www.linkedin.com/jobs/view/4488910471) · Hewlett Packard Enterprise operated by Selectium | LinkedIn BiH |
+| 13.11. 10:07 | • [AUTOELEKTRIČAR Centrotrans d.d. Kanton Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/948) | Poslovni oglasi |
+| 13.11. 10:07 | • [Javni oglas za prijem pripravnika visoke stručne spreme u direkciji za civilno zrakoplovstvo Bosne i Hercegovine Datum objave: 13.11.2026. Krajnji rok za prijave: 22.11.2026. 1/01 Pripravnik – sa završenim saobraćajnim fakultetom ili fakult](https://www.ads.gov.ba/vacancies/3525/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine) | ADS BiH |
+| 13.11. 10:07 | • [Javni oglas za popunjavanje radnog mjesta rukovodećeg državnog službenika u Državnoj agenciji za istrage i zaštitu Datum objave: 13.11.2026. Krajnji rok za prijave: 03.12.2026. 1/01 Načelnik Sektora za administraciju i unutrašnju podršku](https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu) | ADS BiH |
+| 13.11. 10:07 | • [JAVNI KONKURS za popunu radnog mjesta državnog službenika u Ministarstvu privrede Kantona Sarajevo](https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8113) | ADS FBiH eKonkurs |
+| 13.11. 10:07 | • [AUTOELEKTRIČAR](https://szks.ba/posao/autoelektricar-4) · Centrotrans d.d. Sarajevo | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 10:07 | • [JAVNI OGLAS-Prodavač karata](https://szks.ba/posao/javni-oglas-390) · JP „LOKOM“ d.o.o. Sarajevo | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 10:07 | • [NOĆNI ČUVAR](https://szks.ba/posao/old-track-d-o-o-110-nocni-cuvar) · OLD TRACK D.O.O. | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 10:07 | • [HIGIJENIČARKA](https://szks.ba/posao/old-track-d-o-o-110-higijenicarka) · OLD TRACK D.O.O. | SZKS (Služba za zapošljavanje KS) |
+| 13.11. 10:07 | • [JAVNI OGLAS: Šalterski radnik i Tehničar za održavanje i eksploataciju pristupnih mreža](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/11/javni-oglassalterski-radniktehnicar-za-odrzavanje-i-eksploataciju-pristupnih-mreza) · Indira Mešinović | BH Telecom |
 | 12.11. 22:49 | • [Oglasi 12. 11. 2026 22:27 JU ZZZ RS – Banjaluka: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-banjaluka-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661958) | Glas Srpske konkursi |
 | 12.11. 22:49 | • [Oglasi 12. 11. 2026 22:16 JU ZZZ RS – Prijedor: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-prijedor-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661956) | Glas Srpske konkursi |
 | 12.11. 22:49 | • [Oglasi 12. 11. 2026 22:06 JU ZZZ RS – Doboj: Oglašava slobodna radna mjesta na dan 11.11.2026. godine Oglasi za slobodna radna mjesta objavljeni su u štampanom izdanju "Glasa Srpske" od 11.11.2026. godine.](https://www.glassrpske.com/lat/ekonomija/konkursi/ju-zzz-rs-doboj-oglasava-slobodna-radna-mjesta-na-dan-11112026-godine/661953) | Glas Srpske konkursi |
@@ -1494,13 +1504,3 @@
 | 02.11. 00:13 | •⏺ [JAVNI POZIV za pružanje usluge pravnog zastupanja u 2026. godini](https://www.posta.ba/wp-content/uploads/2026/02/javni-poziv-za-pruzanje-usluge-pravnog-zastupanja-u-2026-godini.pdf) | BH Pošta (oglasi) |
 | 02.11. 00:13 | •⏺ [POZIV KANDIDATIMA – 2026](https://www.posta.ba/wp-content/uploads/2026/01/poziv-kandidatima-20261docx.pdf) | BH Pošta (oglasi) |
 | 02.11. 00:13 | •⏺ [04.04.2025. JAVNI OGLAS za popunjavanje upražnjenih radnih mjesta i prijem radnika na neodređeno vrijeme](https://www.bh-gas.ba/2025/04/04/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme) | BH Gas (javni oglasi) |
-| 02.11. 00:13 | •⏺ [22.5.2026. JAVNI OGLAS za popunjavanje upražnjenih radnih mjesta i prijem radnika na neodređeno vrijeme](https://www.bh-gas.ba/2026/05/22/javni-oglas-za-popunjavanje-upraznjenih-radnih-mjesta-i-prijem-radnika-na-neodredjeno-vrijeme-2) | BH Gas (javni oglasi) |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem u radni odnos 23.09.2026](https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-23-09-2026) | Energoinvest |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem u radni odnos 27.04.2026](https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-27-04-2026) | Energoinvest |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem u radni odnos 4.12.2025](https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-4-12-2025) | Energoinvest |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem u radni odnos 27.8.2025](https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-27-8-2025) | Energoinvest |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem u radni odnos 30.1.2025](https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-31-1-2025) | Energoinvest |
-| 02.11. 00:13 | •⏺ [Javni oglas za prijem u radni odnos 11.10.2024](https://energoinvest.ba/poslovi/javni-oglas-za-prijem-u-radni-odnos-4) | Energoinvest |
-| 02.11. 00:13 | •⏺ [Javni konkurs 14.10.2026](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1588/Javni konkurs) | Aerodrom Sarajevo (oglasna ploča) |
-| 02.11. 00:13 | •⏺ [Lista zabranjenih predmeta 28.07.2025](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/2159/Lista zabranjenih predmeta) | Aerodrom Sarajevo (oglasna ploča) |
-| 02.11. 00:13 | •⏺ [Prijava vrijednosnog iznosa carinskom organu 21.03.2019](https://sarajevo-airport.ba/List/Oglasna-ploca/Read/1494/Prijava vrijednosnog iznosa carinskom organu) | Aerodrom Sarajevo (oglasna ploča) |
