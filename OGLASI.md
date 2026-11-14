@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 14.11. 16:07 | • [Prodavač (m/ž)](https://www.mojposao.ba/posao/dfa8e069-df70-11f1-8233-42010a9c001b/prodavac--mz) | MojPosao IT |
+| 14.11. 16:07 | • [Operater specijalista](https://www.linkedin.com/jobs/view/4489889566) · UNIQA osiguranje u BiH | LinkedIn BiH |
 | 14.11. 13:07 | 💻 [Back End Developer](https://www.linkedin.com/jobs/view/4489324942) · ITO | LinkedIn BiH |
 | 14.11. 13:07 | • [Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/954) | Poslovni oglasi |
 | 14.11. 10:07 | • [Operateri u automat klubovima](https://www.mojposao.ba/posao/d1710f98-df5f-11f1-8233-42010a9c001b/operateri-u-automat-klubovima) | MojPosao Kanton Sarajevo |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Preuzmi](http://judzks.ba/wp-content/uploads/2021/07/javni-oglas-za-izbor-i-imenovanje-generalnog-direktora-judzks-juni-2021.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Ispravka rezultata pismenog ispita JO 3 objavljen dana 17.06.2021. – pozicija ‘Diplomirani inžinjer medicinske radiologije’ (objavljeno 28.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/12-REZULTATI-PISMENOG-ISPITA-NAKON-UVIDA.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Raspored polaganja usmenog dijela ispita za JO 3 objavljen dana 17.06.2021. (objavljeno 23.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/13-raspored-polaganja-usmenog.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Rezultati pismenog ispita za JO 3 objavljen 17.06.2021. godine (objavljeno 23.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/12-REZULTATI-PISMENOG-ISPITA-OBJAVA.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Raspored polaganja pismenog dijela ispita za JO 3 od 17.06.2021.(objavljeno 16.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/JO3-RASPORED-POLAGANJA-PISMENOG-ISPITA-16-7-21.pdf) | Dom zdravlja KS |
