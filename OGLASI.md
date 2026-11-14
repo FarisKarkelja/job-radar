@@ -4,6 +4,10 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 14.11. 07:07 | • [ODLUKA o poništenju javnog oglasa](https://szks.ba/posao/odluka-o-ponistenju-javnog-oglasa-15) · USTANOVA ZA SOCIJALNO ZBRINJAVANJE, ODGOJ I OBRAZOVANJE-SARAJEVO | SZKS (Služba za zapošljavanje KS) |
+| 14.11. 07:07 | • [Promjena na stranici: Nisu pronađeni oglasi za posao](https://zzzrs.net/lat/oglasi/search) | Zavod za zapošljavanje RS |
+| 14.11. 07:07 | • [Javni konkurs za izbor direktora/direktorice JU OŠ "Meša Selimović"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-os-mesa-selimovic) | Kanton Sarajevo (konkursi) |
+| 14.11. 07:07 | • [Ispravka Konkursa za izbor akademskog osoblja - saradnika / Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/index.php/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu) | Univerzitet u Sarajevu (konkursi) |
 | 13.11. 19:07 | • [Kundenbetreuer](https://www.mojposao.ba/posao/53332a1b-df75-11f1-8233-42010a9c001b/kundenbetreuer) | MojPosao Kanton Sarajevo |
 | 13.11. 19:07 | • [Šef službe za računovodstvo i finansije](https://www.mojposao.ba/posao/df949902-df75-11f1-8233-42010a9c001b/sef-sluzbe-za-racunovodstvo-i-finansije) | MojPosao Kanton Sarajevo |
 | 13.11. 19:07 | 💻 [AWS DevOps Engineer](https://www.linkedin.com/jobs/view/4482178299) · Avenga | LinkedIn BiH |
@@ -1500,7 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Spisak kandidata čija dokumentacija nije ispravna JO 3 (objavljeno 06.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/JO3-SPISAK-KANDIDATA-CIJA-DOKUMENTACIJA-NIJE-ISPRAVNA.pdf%22) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Doktor medicine i diplomirani inžinjer medicinske radiologije (objavljeno 17.06.2021.)](http://judzks.ba/wp-content/uploads/2021/06/JAVNI-OGLAS-3-DOKTORI-I-INZINJERI-06_2021.pdf%22) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Javni oglas 3 – Poslovnik (objavljeno 17.06.2021.)](http://judzks.ba/wp-content/uploads/2021/06/JAVNI-OGLAS-3-POSLOVNIK-17_06.pdf%22) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Termin polaganja usmenog dijela ispita po JO 2 objavljenog dana 17.06.2021. – pozicija ‘Radnik na održavanju higijene’ (objavljeno 23.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/Termini-polaganja-usmenog-dijela-ispita-JO-2-radnik-na-odrzavanju-higijene.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – VIŠE POZICIJA](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/10/javni-oglas-za-zaposljavanje-vise-pozicija) · Benjamin Pecar | BH Telecom |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS ZA ZAPOŠLJAVANJE – STRUČNI SARADNIK](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/08/javni-oglas-za-zaposljavanje-strucni-saradnik-2) · Indira Mešinović | BH Telecom |
-| 02.11. 00:13 | •⏺ [ISPRAVKA DIJELA JAVNOG OGLASA – Šalterski radnik](https://www.bhtelecom.ba/javni-oglasi-za-posao/2026/06/ispravka-dijela-javnog-oglasa-salterski-radnik) · Indira Mešinović | BH Telecom |

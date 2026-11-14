@@ -26804,5 +26804,50 @@
   "priority": 4,
   "match": "devops",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T06:07:42+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "ODLUKA o poništenju javnog oglasa",
+  "url": "https://szks.ba/posao/odluka-o-ponistenju-javnog-oglasa-15",
+  "company": "USTANOVA ZA SOCIJALNO ZBRINJAVANJE, ODGOJ I OBRAZOVANJE-SARAJEVO",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T06:07:42+00:00",
+  "source": "zzzrs",
+  "source_name": "Zavod za zapošljavanje RS",
+  "title": "Promjena na stranici: Nisu pronađeni oglasi za posao",
+  "url": "https://zzzrs.net/lat/oglasi/search",
+  "it": false,
+  "priority": 3
+ },
+ {
+  "ts": "2026-11-14T06:07:42+00:00",
+  "source": "vlada_ks",
+  "source_name": "Kanton Sarajevo (konkursi)",
+  "title": "Javni konkurs za izbor direktora/direktorice JU OŠ \"Meša Selimović\"",
+  "url": "https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-os-mesa-selimovic",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T06:07:42+00:00",
+  "source": "unsa_konkursi",
+  "source_name": "Univerzitet u Sarajevu (konkursi)",
+  "title": "Ispravka Konkursa za izbor akademskog osoblja - saradnika | Univerzitet u Sarajevu - Farmaceutski fakultet",
+  "url": "https://www.unsa.ba/index.php/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]
