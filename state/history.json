@@ -26849,5 +26849,29 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T09:07:48+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Operateri u automat klubovima",
+  "url": "https://www.mojposao.ba/posao/d1710f98-df5f-11f1-8233-42010a9c001b/operateri-u-automat-klubovima",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T09:07:48+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Mehaničar",
+  "url": "https://www.linkedin.com/jobs/view/4489863907",
+  "company": "AS Holding",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

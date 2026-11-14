@@ -4,6 +4,8 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 14.11. 10:07 | • [Operateri u automat klubovima](https://www.mojposao.ba/posao/d1710f98-df5f-11f1-8233-42010a9c001b/operateri-u-automat-klubovima) | MojPosao Kanton Sarajevo |
+| 14.11. 10:07 | • [Mehaničar](https://www.linkedin.com/jobs/view/4489863907) · AS Holding | LinkedIn BiH |
 | 14.11. 07:07 | • [ODLUKA o poništenju javnog oglasa](https://szks.ba/posao/odluka-o-ponistenju-javnog-oglasa-15) · USTANOVA ZA SOCIJALNO ZBRINJAVANJE, ODGOJ I OBRAZOVANJE-SARAJEVO | SZKS (Služba za zapošljavanje KS) |
 | 14.11. 07:07 | • [Promjena na stranici: Nisu pronađeni oglasi za posao](https://zzzrs.net/lat/oglasi/search) | Zavod za zapošljavanje RS |
 | 14.11. 07:07 | • [Javni konkurs za izbor direktora/direktorice JU OŠ "Meša Selimović"](https://mo.ks.gov.ba/konkursi/javni-konkurs-za-izbor-direktoradirektorice-ju-os-mesa-selimovic) | Kanton Sarajevo (konkursi) |
@@ -1502,5 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Raspored polaganja pismenog dijela ispita za JO 3 od 17.06.2021.(objavljeno 16.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/JO3-RASPORED-POLAGANJA-PISMENOG-ISPITA-16-7-21.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Spisak kandidata među kojima se provodi izborni postupak JO 3 (objavljeno 06.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/JO3-SPISAK-KANDIDATA-MEDU-KOJIMA-SE-PROVODI-IZBORNI-POSTUPAK.pdf%22) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Spisak kandidata čija dokumentacija nije ispravna JO 3 (objavljeno 06.07.2021.)](http://judzks.ba/wp-content/uploads/2021/07/JO3-SPISAK-KANDIDATA-CIJA-DOKUMENTACIJA-NIJE-ISPRAVNA.pdf%22) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Doktor medicine i diplomirani inžinjer medicinske radiologije (objavljeno 17.06.2021.)](http://judzks.ba/wp-content/uploads/2021/06/JAVNI-OGLAS-3-DOKTORI-I-INZINJERI-06_2021.pdf%22) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Javni oglas 3 – Poslovnik (objavljeno 17.06.2021.)](http://judzks.ba/wp-content/uploads/2021/06/JAVNI-OGLAS-3-POSLOVNIK-17_06.pdf%22) | Dom zdravlja KS |
