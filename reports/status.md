@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **14.11.2026 13:07** (Sarajevo)  
+Zadnje pokretanje: **14.11.2026 14:23** (Sarajevo)  
 Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -55,7 +55,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
 | [Lanaco (otvorene pozicije)](https://www.lanaco.com/en/otvorene-pozicije) | ✅ | 1 | 0 |  |
 | [Lanaco (studenti i prakse)](https://www.lanaco.com/en/studenti) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 44 | 1 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 44 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [MF banka](https://mfbanka.com/index.php/category/karijera) | ✅ | 10 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
@@ -63,14 +63,14 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 99 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
 | [NLB Banka Banja Luka (karijera)](https://www.nlb-rs.ba/o-banci/karijera) | ✅ | 1 | 0 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Partner mikrokreditna](https://www.partner.ba/oglasi) | ✅ | 10 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 1 |  |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
 | [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
@@ -583,7 +583,7 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 </details>
 
-<details><summary>mojposao_ks (198)</summary>
+<details><summary>mojposao_ks (99)</summary>
 
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/28faa831-c966-11f1-a8c0-42010a9c001a/reisekaufmann--reisekauffrau-mwd)
 - [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/5982d294-dd06-11f1-a8c0-42010a9c001a/kundenberater-mwd)
@@ -648,11 +648,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
 - [Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/954)
 - [Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/953)
 - [Menadžer/ica za 3PL klijente i razvoj poslovanja Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/952)
