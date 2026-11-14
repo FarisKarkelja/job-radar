@@ -78,7 +78,8 @@
    "c5e4dd50-dc3d-11f1-a8c0-42010a9c001a",
    "8395fa6b-dcf2-11f1-a8c0-42010a9c001a",
    "293f4210-df70-11f1-8233-42010a9c001b",
-   "dfa8e069-df70-11f1-8233-42010a9c001b"
+   "dfa8e069-df70-11f1-8233-42010a9c001b",
+   "197b03e8-df72-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -677,7 +678,8 @@
    "https://www.linkedin.com/jobs/view/4463980241",
    "https://www.linkedin.com/jobs/view/4489863907",
    "https://www.linkedin.com/jobs/view/4489324942",
-   "https://www.linkedin.com/jobs/view/4489889566"
+   "https://www.linkedin.com/jobs/view/4489889566",
+   "https://www.linkedin.com/jobs/view/4446732942"
   ]
  },
  "glassrpske_konkursi": {
@@ -2416,7 +2418,6 @@
  },
  "atos": {
   "keys": [
-   "hash:a69f420281e9255e",
    "hash:2e73c8ee01a81852",
    "hash:9595a7663b850ba7",
    "hash:8b9ae5bf75658ce9",
@@ -2465,7 +2466,8 @@
    "hash:bf4295e14c19ca5a",
    "hash:f4b9f7fd8901f537",
    "hash:65335d5feb9a6ff0",
-   "hash:8aecb3ced38eb4c0"
+   "hash:8aecb3ced38eb4c0",
+   "hash:4abfdbcb080983ce"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2559,17 +2561,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Mastercard Gold kreditna kartica",
-   "Dobro došli u svijet pogodnosti!",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
    "Oročena štednja",
    "Ulažite u budućnost",
    "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
+   "Western Union",
+   "Brz i siguran transfer novca",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5469,7 +5471,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:484fd3714924d903",
    "hash:949ffdcf1e3b17bb",
    "hash:f1b9f786f1b67aae",
    "hash:daecff01bb4ed380",
@@ -5518,13 +5519,14 @@
    "hash:820160e73166fc0f",
    "hash:91cda81374d6f87c",
    "hash:87dde6ed93c576ae",
-   "hash:469325a1c3bfe889"
+   "hash:469325a1c3bfe889",
+   "hash:70b7c91c78a85bc2"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.9767cd17.1794668984.31efcb38",
-   "https://errors.edgesuite.net/18.9767cd17.1794668984.31efcb38"
+   "Reference #18.b7c83017.1794679762.9a0fc11e",
+   "https://errors.edgesuite.net/18.b7c83017.1794679762.9a0fc11e"
   ]
  },
  "asa_grupa": {
