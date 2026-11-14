@@ -674,7 +674,8 @@
    "https://www.linkedin.com/jobs/view/4482178299",
    "https://www.linkedin.com/jobs/view/4489583402",
    "https://www.linkedin.com/jobs/view/4463980241",
-   "https://www.linkedin.com/jobs/view/4489863907"
+   "https://www.linkedin.com/jobs/view/4489863907",
+   "https://www.linkedin.com/jobs/view/4489324942"
   ]
  },
  "glassrpske_konkursi": {
@@ -2413,7 +2414,6 @@
  },
  "atos": {
   "keys": [
-   "hash:8a13cb0582649915",
    "hash:92cfdeb6dfbcf54f",
    "hash:3d1898fa95b11c0d",
    "hash:a69f420281e9255e",
@@ -2462,7 +2462,8 @@
    "hash:c257736ddb6bff35",
    "hash:0c99a0eba66591ca",
    "hash:e144623fc3489c13",
-   "hash:bf4295e14c19ca5a"
+   "hash:bf4295e14c19ca5a",
+   "hash:f4b9f7fd8901f537"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2556,17 +2557,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
-   "Detaljnije",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
-   "Detaljnije",
-   "ATOS BANK Mobile",
-   "Nova mobilna aplikacija",
+   "Mastercard Gold kreditna kartica",
+   "Dobro došli u svijet pogodnosti!",
    "Detaljnije",
    "Trajni nalog",
    "Mi štedimo Vaše vrijeme",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
+   "Detaljnije",
+   "Brzi kredit",
+   "Sa nama ste najbrži!",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5466,7 +5467,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:280e0e2822bad7dc",
    "hash:3402b20f90fbbecd",
    "hash:fb01439edebe8b12",
    "hash:484fd3714924d903",
@@ -5515,13 +5515,14 @@
    "hash:6160395d3f5c71ab",
    "hash:f6c148fe14217aaf",
    "hash:c688e79ad16eaae3",
-   "hash:820160e73166fc0f"
+   "hash:820160e73166fc0f",
+   "hash:91cda81374d6f87c"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.8bd02e17.1794647377.1f665316",
-   "https://errors.edgesuite.net/18.8bd02e17.1794647377.1f665316"
+   "Reference #18.9751c317.1794658174.6dd244bb",
+   "https://errors.edgesuite.net/18.9751c317.1794658174.6dd244bb"
   ]
  },
  "asa_grupa": {
@@ -7325,7 +7326,8 @@
    "https://poslovnioglasi.ba/company-ad-details/949",
    "https://poslovnioglasi.ba/company-ad-details/952",
    "https://poslovnioglasi.ba/company-ad-details/951",
-   "https://poslovnioglasi.ba/company-ad-details/953"
+   "https://poslovnioglasi.ba/company-ad-details/953",
+   "https://poslovnioglasi.ba/company-ad-details/954"
   ]
  },
  "ads_bih": {

@@ -26873,5 +26873,29 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T12:07:43+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Back End Developer",
+  "url": "https://www.linkedin.com/jobs/view/4489324942",
+  "company": "ITO",
+  "it": true,
+  "priority": 4,
+  "match": "developer",
+  "snippet": ""
+ },
+ {
+  "ts": "2026-11-14T12:07:43+00:00",
+  "source": "poslovnioglasi",
+  "source_name": "Poslovni oglasi",
+  "title": "Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas",
+  "url": "https://poslovnioglasi.ba/company-ad-details/954",
+  "company": "",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]
