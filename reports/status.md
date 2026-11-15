@@ -1,16 +1,16 @@
 # Status izvora
 
-Zadnje pokretanje: **15.11.2026 07:08** (Sarajevo)  
-Izvora: **109**, ispravnih: **107**, s greškom: **2**
+Zadnje pokretanje: **15.11.2026 10:07** (Sarajevo)  
+Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
-| [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ❌ | 0 | 0 | HTTP 429 |
 | [Nezavisne novine (oglasi za posao)](https://www.nezavisne.com/oglasi/posao) | ❌ | 0 | 0 | 0 oglasa: stranica je možda promijenila dizajn ili je prazna |
 | [Addiko Bank Banja Luka](https://addiko-bank-bl.talentlyft.com/) | ✅ | 2 | 0 |  |
 | [Addiko Bank Banja Luka (posao u banci)](https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci) | ✅ | 1 | 0 |  |
 | [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 8 | 0 |  |
 | [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
+| [ADU RS konkursi (preko javi.ba)](https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi) | ✅ | 18 | 0 |  |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
 | [Aluminij Mostar (careers)](https://aluminij.com/careers) | ✅ | 20 | 0 |  |
 | [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 0 |  |
@@ -62,7 +62,7 @@ Izvora: **109**, ispravnih: **107**, s greškom: **2**
 | [Mi-Bospo (oglasi za posao)](https://www.mi-bospo.org/oglasi-za-posao) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 1 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 0 |  |
 | [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [m:tel karijera](https://mtel.ba/Karijera) | ✅ | 3 | 0 |  |
@@ -156,8 +156,16 @@ Izvora: **109**, ispravnih: **107**, s greškom: **2**
 
 </details>
 
-<details><summary>adu_rs (0)</summary>
+<details><summary>adu_rs (18)</summary>
 
+- [Исправка јавног конкурса: Републичка управа за инспекцијске послове Објављено: 16.10.2026 Датум затварања: 02.11.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/34852)
+- [Резултати конкурса: Републичка дирекција за обнову и изградњу Објављено: 04.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/30826)
+- [Јавни конкурс: Републичка управа за инспекцијске послове Објављено: 20.08.2026 Датум затварања: 04.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29805)
+- [Јавни конкурс: Пореска управа; Министарство пољопривреде, шумарства и водопривреде; Министарство за научнотехнолошки развој и високо образовање Објављено: 18.08.2026 Датум затварања: 02.09.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29803)
+- [Резултати конкурса](https://adu.vladars.rs/Podkategorija/5)
+- [Термини полагања стручних испита](https://adu.vladars.rs/Podkategorija/10)
+- [Пријава на јавни конкурс](https://adu.vladars.rs/SadrzajDokument/GetDocument/2128)
+- [Јавни конкурс: Републички завод за стандардизацију и метрологију; Републичка управа цивилне заштите; Министарство саобраћаја и веза Објављено: 07.08.2026 Датум затварања: 24.08.2026 Опширније »](https://adu.vladars.rs/Sadrzaj/29801)
 
 </details>
 
@@ -640,11 +648,11 @@ Izvora: **109**, ispravnih: **107**, s greškom: **2**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/954)
 - [Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/953)
 - [Menadžer/ica za 3PL klijente i razvoj poslovanja Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/952)
@@ -887,9 +895,9 @@ Izvora: **109**, ispravnih: **107**, s greškom: **2**
 - [Obavještenje o održavanju usmenog ispita za kandidate koji su aplicirali na Javni oglas | Univerzitet u Sarajevu - Muzička akademija](https://www.unsa.ba/index.php/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet sporta i tjelesnog odgoja](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet)
-- [Javni konkurs za izbor akademskog osoblja u akademsko naučno-nastavno zvanje na Univerzitetu u Sarajevu - Mašinskom fakultetu](https://www.unsa.ba/index.php/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet)
+- [Javni konkurs za izbor akademskog osoblja u akademsko naučno-nastavno zvanje na Univerzitetu u Sarajevu - Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17)
+- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0)
+- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet)
 
 </details>
 
