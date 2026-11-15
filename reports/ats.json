@@ -1,0 +1,694 @@
+[
+ [
+  "atlantbh",
+  [
+   {
+    "ats": "workable",
+    "slug": "atlantbh",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/atlantbh",
+    "jobs": 1,
+    "sample": [
+     "Atlantbh Talent Pool @ Sarajevo"
+    ]
+   }
+  ]
+ ],
+ [
+  "povio",
+  [
+   {
+    "ats": "workable",
+    "slug": "povio",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/povio",
+    "jobs": 15,
+    "sample": [
+     "Account Executive @ Ljubljana",
+     "Account Executive @ Maribor",
+     "Account Executive @ Celje",
+     "AI Product Engineer @ Maribor",
+     "AI Product Engineer @ Ljubljana",
+     "AI Product Engineer @ Celje"
+    ]
+   }
+  ]
+ ],
+ [
+  "d-ploy",
+  [
+   {
+    "ats": "workable",
+    "slug": "d-ploy",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/d-ploy",
+    "jobs": 107,
+    "sample": [
+     "AI & Finance Intern (University Student) @ Prague",
+     "Application Support Specialist (Strykow, Onsite, English+Polish, GxP) @ Stryków",
+     "B2B Account Manager (Hybrid, English + Slovenian) @ Prague",
+     "Business Analyst - Secure Sharing & Data Classification @ Ghent",
+     "Cloud Engineer (Ghent) @ Ghent",
+     "Customer Support Advisor (Remote, Hungarian Native, Shifts) @ "
+    ]
+   }
+  ]
+ ],
+ [
+  "symphony",
+  [
+   {
+    "ats": "workable",
+    "slug": "symphony",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/symphony",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "lever_eu",
+    "slug": "symphony",
+    "url": "https://api.eu.lever.co/v0/postings/symphony?mode=json",
+    "jobs": 9,
+    "sample": [
+     "Data Architect @ Bosnia & Herzegovina, Serbia, North Macedonia, Colombia, Brazil",
+     "Data Engineer @ Bosnia & Herzegovina, Serbia, North Macedonia, Colombia, Brazil",
+     "Delivery Director @ Belgrade",
+     "Delivery Manager @ Bosnia & Herzegovina, Serbia, North Macedonia",
+     "Full-Stack AI Engineer @ Bosnia & Herzegovina, Serbia, North Macedonia",
+     "Product Designer @ Bosnia & Herzegovina, Serbia, North Macedonia"
+    ]
+   },
+   {
+    "ats": "breezy",
+    "slug": "symphony",
+    "url": "https://symphony.breezy.hr/json",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "greenhouse",
+    "slug": "symphony",
+    "url": "https://boards-api.greenhouse.io/v1/boards/symphony/jobs",
+    "jobs": 17,
+    "sample": [
+     "Account Manager @ London",
+     "Account Manager @ New York",
+     "Associate Director, Business Development @ New York",
+     "Business Development Manager @ Hong Kong",
+     "Business Development Senior Specialist @ New York",
+     "Business Development Senior Specialist @ London"
+    ]
+   }
+  ]
+ ],
+ [
+  "klika",
+  [
+   {
+    "ats": "workable",
+    "slug": "klika",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/klika",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "zira",
+  [
+   {
+    "ats": "recruitee",
+    "slug": "zira",
+    "url": "https://zira.recruitee.com/api/offers/",
+    "jobs": 2,
+    "sample": [
+     "Governance, Risk, Compliance & Quality (Senior) Specialist @ Sarajevo, Federacija Bosne i Hercegovine, Bosnia and Herzegovina",
+     "General Application @ Sarajevo, Federacija Bosne i Hercegovine, Bosnia and Herzegovina"
+    ]
+   }
+  ]
+ ],
+ [
+  "ministry-of-programming",
+  [
+   {
+    "ats": "workable",
+    "slug": "ministry-of-programming",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/ministry-of-programming",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "htec",
+  [
+   {
+    "ats": "workable",
+    "slug": "htec",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/htec",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "endava",
+  [
+   {
+    "ats": "workable",
+    "slug": "endava",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/endava",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "logosoft",
+  [
+   {
+    "ats": "workable",
+    "slug": "logosoft",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/logosoft",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "prosoft",
+  [
+   {
+    "ats": "workable",
+    "slug": "prosoft",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/prosoft",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "breezy",
+    "slug": "prosoft",
+    "url": "https://prosoft.breezy.hr/json",
+    "jobs": 4,
+    "sample": [
+     "Management Analyst - Manpower RO/ADMIN @ Norfolk, VA",
+     "Management Analyst - Train/ADMIN/Security @ Norfolk, VA",
+     "Management Analyst - UUV AO/RO & Security @ Norfolk, VA",
+     "Senior Budget Analyst @ Norfolk, VA"
+    ]
+   }
+  ]
+ ],
+ [
+  "itineris",
+  [
+   {
+    "ats": "workable",
+    "slug": "itineris",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/itineris",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "ergomed",
+  [
+   {
+    "ats": "workable",
+    "slug": "ergomed",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/ergomed",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "speechify",
+  [
+   {
+    "ats": "workable",
+    "slug": "speechify",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/speechify",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "greenhouse",
+    "slug": "speechify",
+    "url": "https://boards-api.greenhouse.io/v1/boards/speechify/jobs",
+    "jobs": 738,
+    "sample": [
+     "Software Engineer, AI Data @ Remote",
+     "Software Engineer, AI Data @ Remote",
+     "Software Engineer, AI Data - Aarhus, Denmark @ Remote",
+     "Software Engineer, AI Data - Ahmedabad, India @ Remote",
+     "Software Engineer, AI Data - Albuquerque, NM, USA @ Remote",
+     "Software Engineer, AI Data - Alexandria, VA, USA @ Remote"
+    ]
+   }
+  ]
+ ],
+ [
+  "skyline",
+  [
+   {
+    "ats": "workable",
+    "slug": "skyline",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/skyline",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "sportradar",
+  [
+   {
+    "ats": "workable",
+    "slug": "sportradar",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/sportradar",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "breezy",
+    "slug": "sportradar",
+    "url": "https://sportradar.breezy.hr/json",
+    "jobs": 7,
+    "sample": [
+     "Sports Data Operator @ New Orleans, LA",
+     "Sports Data Operator @ Kansas City, MO",
+     "Sports Data Operator @ Philadelphia, PA",
+     "Sports Data Operator @ Honolulu, HI",
+     "Sports Data Operator @ Detroit, MI",
+     "Sports Data Operator @ Miami, FL"
+    ]
+   }
+  ]
+ ],
+ [
+  "hexis",
+  [
+   {
+    "ats": "workable",
+    "slug": "hexis",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/hexis",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "civitta",
+  [
+   {
+    "ats": "workable",
+    "slug": "civitta",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/civitta",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "saga",
+  [
+   {
+    "ats": "workable",
+    "slug": "saga",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/saga",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "2amtech",
+  [
+   {
+    "ats": "workable",
+    "slug": "2amtech",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/2amtech",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "2am",
+  [
+   {
+    "ats": "workable",
+    "slug": "2am",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/2am",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "personify-health",
+  [
+   {
+    "ats": "workable",
+    "slug": "personify-health",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/personify-health",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "httpool",
+  [
+   {
+    "ats": "workable",
+    "slug": "httpool",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/httpool",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "devoteam",
+  [
+   {
+    "ats": "workable",
+    "slug": "devoteam",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/devoteam",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "comtrade",
+  [
+   {
+    "ats": "workable",
+    "slug": "comtrade",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/comtrade",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "nsoft",
+  [
+   {
+    "ats": "workable",
+    "slug": "nsoft",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/nsoft",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "oradian",
+  [
+   {
+    "ats": "workable",
+    "slug": "oradian",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/oradian",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "infinum",
+  [
+   {
+    "ats": "workable",
+    "slug": "infinum",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/infinum",
+    "jobs": 3,
+    "sample": [
+     "Business Development Manager (US) @ ",
+     "Cybersecurity Consultant @ Zagreb",
+     "Open job applications @ Zagreb"
+    ]
+   }
+  ]
+ ],
+ [
+  "ankora",
+  [
+   {
+    "ats": "workable",
+    "slug": "ankora",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/ankora",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "gradient",
+  [
+   {
+    "ats": "workable",
+    "slug": "gradient",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/gradient",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "ashby",
+    "slug": "gradient",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/gradient",
+    "jobs": 5,
+    "sample": [
+     "Gradient Ascent Program 🚀 @ Anywhere",
+     "Growth & BD @ Anywhere",
+     "AI Research Engineer @ Anywhere",
+     "AI Researcher @ Anywhere",
+     "Head of BD @ Anywhere"
+    ]
+   }
+  ]
+ ],
+ [
+  "dash",
+  [
+   {
+    "ats": "teamtailor",
+    "slug": "dash",
+    "url": "https://dash.teamtailor.com/jobs.rss",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "glovo",
+  [
+   {
+    "ats": "breezy",
+    "slug": "glovo",
+    "url": "https://glovo.breezy.hr/json",
+    "jobs": 0,
+    "sample": []
+   }
+  ]
+ ],
+ [
+  "wolt",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "wolt",
+    "url": "https://boards-api.greenhouse.io/v1/boards/wolt/jobs",
+    "jobs": 191,
+    "sample": [
+     "Account Development Manager @ Nur-Sultan, Kazakhstan",
+     "Account Management Executive @ Frankfurt am Main, Germany; Mainz, Germany; Offenbach, Germany; Wiesbaden, Germany",
+     "Account Manager @ Krakow, Poland; Remote",
+     "Account Manager @ Limassol, Cyprus",
+     "Account Manager, Restaurant @ Copenhagen, Denmark",
+     "Account Manager, Restaurant @ Budapest, Hungary"
+    ]
+   }
+  ]
+ ],
+ [
+  "toptal",
+  [
+   {
+    "ats": "lever",
+    "slug": "toptal",
+    "url": "https://api.lever.co/v0/postings/toptal?mode=json",
+    "jobs": 32,
+    "sample": [
+     "CEO, AI Services - US-Based @ United States",
+     "Chief Technology Officer @ Canada, Europe, Central America, South America",
+     "Chief Technology Officer - US-Based @ United States",
+     "Client Advisor @ Canada, Central America, South America",
+     "Client Partner, Consumer Products & Services @ Canada",
+     "Client Partner, Consumer Products & Services - US-Based @ Anywhere in the United States"
+    ]
+   }
+  ]
+ ],
+ [
+  "turing",
+  [
+   {
+    "ats": "breezy",
+    "slug": "turing",
+    "url": "https://turing.breezy.hr/json",
+    "jobs": 0,
+    "sample": []
+   },
+   {
+    "ats": "greenhouse",
+    "slug": "turing",
+    "url": "https://boards-api.greenhouse.io/v1/boards/turing/jobs",
+    "jobs": 45,
+    "sample": [
+     "Account Director, Enterprise AI - Consumer Packaged Goods @ Dallas, Texas, United States",
+     "AI Engagement Lead @ New York, New York, United States",
+     "Client Director, Financial Services (BFSI) @ New York, New York, United States",
+     "Client Engagement Lead - Pharma & Life Sciences @ New York, New York, United States",
+     "Design Manager @ Brazil; Colombia, Huila, Colombia",
+     "Engagement Manager @ New York, New York, United States"
+    ]
+   }
+  ]
+ ],
+ [
+  "gitlab",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "gitlab",
+    "url": "https://boards-api.greenhouse.io/v1/boards/gitlab/jobs",
+    "jobs": 254,
+    "sample": [
+     "AI Transformation Owner, CRO @ Remote, United States",
+     "Associate Renewals Manager, SMB @ Remote, Canada; Remote, United States",
+     "Backend Engineer, GitLab Orbit @ Remote, Canada; Remote, United States",
+     "Backend Engineer (Python),AI Engineering: Agent Foundations @ Remote, Canada; Remote, Poland; Remote, United Kingdom",
+     "Backend Engineer (Ruby), Plan: Spec-Driven Development @ Remote, United Kingdom",
+     "Backend Engineer (Ruby), Plan: Spec-Driven Development @ Remote, Poland"
+    ]
+   }
+  ]
+ ],
+ [
+  "canonical",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "canonical",
+    "url": "https://boards-api.greenhouse.io/v1/boards/canonical/jobs",
+    "jobs": 316,
+    "sample": [
+     "Accountant @ Home based - EMEA",
+     "Accounts Payable Clerk @ Home based - EMEA; Office Based - London, UK",
+     "Accounts Receivable Clerk @ Home based - EMEA",
+     "Alliances & Channels Leader @ Home Based - Americas; Home based - EMEA; Home based - Worldwide",
+     "Alliances Field Engineer @ Home based - Worldwide",
+     "Associate Linux Support Engineer @ Home based - Worldwide"
+    ]
+   }
+  ]
+ ],
+ [
+  "jetbrains",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "jetbrains",
+    "url": "https://boards-api.greenhouse.io/v1/boards/jetbrains/jobs",
+    "jobs": 30,
+    "sample": [
+     "Account Manager (B2B Segment - Global Accounts without KAM coverage) @ Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Munich, Germany; Prague, Czech Republic",
+     "Campus Ambassador (Universities in Europe) @ Remote",
+     "Customer Success Engineer - Americas @ Marlton, New Jersey; Remote, United States",
+     "Customer Success Engineer (China) @ Shanghai, China",
+     "Customer Success Engineer - LATAM @ Remote, United States",
+     "Customer Support Specialist  @ Marlton, New Jersey"
+    ]
+   }
+  ]
+ ],
+ [
+  "imc",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "imc",
+    "url": "https://boards-api.greenhouse.io/v1/boards/imc/jobs",
+    "jobs": 156,
+    "sample": [
+     "2027 EU Campus Programme Talent Community @ Europe",
+     "2027 EU Chess Academy - Expression of Interest @ Europe",
+     "2027 US Chess Academy Interest Form @ Chicago, United States",
+     "Aarhus Networking event | IMC Trading  @ Aarhus, Central Denmark Region, Denmark",
+     "Accounts Payable Officer @ Sydney,  Australia",
+     "ASIC Implementation Specialist @ Amsterdam, Netherlands"
+    ]
+   }
+  ]
+ ],
+ [
+  "janestreet",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "janestreet",
+    "url": "https://boards-api.greenhouse.io/v1/boards/janestreet/jobs",
+    "jobs": 217,
+    "sample": [
+     "Accounting Coordinator @ New York, New York, United States",
+     "AML Onboarding Analyst @ London, England, United Kingdom",
+     "Architect  @ New York, New York, United States",
+     "ASIC Engineer @ London, England, United Kingdom",
+     "ASIC Engineer @ New York, New York, United States",
+     "ASIC Physical Design Engineer @ London, England, United Kingdom"
+    ]
+   }
+  ]
+ ],
+ [
+  "flowtraders",
+  [
+   {
+    "ats": "greenhouse",
+    "slug": "flowtraders",
+    "url": "https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs",
+    "jobs": 44,
+    "sample": [
+     "AI Engineering Manager @ Amsterdam",
+     "Core Data Engineer @ Amsterdam",
+     "Core Data Engineer @ New York",
+     "Corporate Receptionist @ New York",
+     "Delta One Trader  @ Hong Kong",
+     "Digital Assets Trader @ Amsterdam"
+    ]
+   }
+  ]
+ ],
+ [
+  "sonarsource",
+  [
+   {
+    "ats": "lever",
+    "slug": "sonarsource",
+    "url": "https://api.lever.co/v0/postings/sonarsource?mode=json",
+    "jobs": 109,
+    "sample": [
+     "Account Executive - EMEA East @ Geneva",
+     "Account Executive (Spanish and Italian speaker) @ Geneva",
+     "Account Executive, Agentic Code Review (Gitar.ai) @ San Mateo, CA",
+     "Account Executive, Federal US Government @ Alexandria",
+     "Agentic Code Review Product Manager @ San Mateo, CA",
+     "AI Researcher - Post-Training @ Geneva"
+    ]
+   }
+  ]
+ ]
+]
