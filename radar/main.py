@@ -90,7 +90,9 @@ def deep_text(item, src) -> str:
         href = a["href"]
         if ".pdf" in href.lower() and href not in pdfs:
             pdfs.append(href)
-    text = "\n".join(page_text(r.text))
+    for el in soup.select("a, aside, nav, footer, header, [class*=sidebar], [class*=widget], [id*=sidebar]"):
+        el.decompose()   # sporedni blokovi i linkovi na druge objave nisu dio ovog oglasa
+    text = "\n".join(page_text(str(soup), src.get("deep_selector")))
     from urllib.parse import urljoin
     for href in pdfs[:3]:
         try:
@@ -155,8 +157,8 @@ def fingerprint(item, src) -> str:
     if company:
         return f"{title}|{company}"
     if GENERIC_TITLE.match(title) or len(title) < 12:
-        return f"{title}|{src['id']}|{item['key']}"   # "JAVNI OGLAS": svaki je drugačiji
-    return f"{title}|{src['id']}"
+        return f"{title}|{src.get('dedupe_group', src['id'])}|{item['key']}"   # "JAVNI OGLAS": svaki je drugačiji
+    return f"{title}|{src.get('dedupe_group', src['id'])}"
 
 
 # ---------------------------------------------------------------- poruke

@@ -40,6 +40,13 @@ OTHER_CITY = re.compile(
 )
 
 
+FOREIGN = re.compile(
+    r"\b(zagreb\w*|(?<=- )split|split,? croat\w*|rijek\w*|vodnjan\w*|osijek\w*|zadar\w*|beograd\w*|belgrade|novi sad\w*|"
+    r"nis\b|kragujevac\w*|ljubljan\w*|maribor\w*|celje|skopj\w*|skopje|podgoric\w*|tiran\w*|pristin\w*|"
+    r"vienna|wien|bec\w*|budapest\w*|prague|prag\w*|warsaw|krakow|bucharest|sofia|munich|berlin|"
+    r"london|amsterdam|dublin|paris|madrid|lisbon|milan\w*|zurich|geneva|croatia|hrvatsk\w*|serbia|srbij\w*|"
+    r"slovenia|sloven\w*|north macedonia|montenegro|crn\w* gor\w*|germany|njemack\w*|austria|austrij\w*)\b"
+)
 BIH = re.compile(r"\b(bosn\w*|bih|herceg\w*|federacij\w*|republik\w* srpsk\w*)\b")
 VAGUE = re.compile(r"(lokacij|location|multiple|vise|više|\d+ (locations|lokacij))")
 
@@ -62,6 +69,9 @@ def decide(src: dict, item: dict, body: str = "") -> tuple:
         return True, "remote/hybrid"
     if OTHER_CITY.search(head):
         return False, "onsite van Sarajeva"
+    tl = normalize(" ".join(x for x in [item.get("title"), item.get("location")] if x))
+    if FOREIGN.search(tl) and not BIH.search(tl):
+        return False, "van BiH"
     # 2) tekst oglasa (prvih ~4000 znakova, tu je obično lokacija)
     text = normalize(body[:4000]) if body else ""
     if text:

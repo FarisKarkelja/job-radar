@@ -706,6 +706,7 @@ sources:
 
   # ------------------------------------------------------------ v2: novi izvori (proba 15.11.2026)
   - id: star_praksa
+    dedupe_group: star
     name: STAR.study prakse
     location: abroad
     scope: program
@@ -714,6 +715,7 @@ sources:
     deep: true
 
   - id: star_posao
+    dedupe_group: star
     name: STAR.study poslovi
     location: bih
     scope: broad
@@ -722,6 +724,7 @@ sources:
     deep: true
 
   - id: star_edukacija
+    dedupe_group: star
     name: STAR.study edukacije i akademije
     location: bih
     scope: broad
@@ -783,7 +786,7 @@ sources:
   - id: canonical
     name: Canonical (remote, junior/graduate)
     location: abroad
-    scope: it
+    scope: broad
     type: greenhouse
     board: canonical
     url: https://canonical.com/careers
@@ -813,29 +816,29 @@ sources:
   - id: imc
     name: IMC (prakse Evropa)
     location: abroad
-    scope: it
+    scope: broad
     type: greenhouse
     board: imc
     url: https://www.imc.com/eu/careers
-    include: '(intern|graduate|student|campus)'
+    include: '(intern|graduate|student|working student)'
     loc_include: '(amsterdam|london|zug|dublin|munich|europe)'
     min_items: 0
 
   - id: janestreet
     name: Jane Street (prakse Evropa)
     location: abroad
-    scope: it
+    scope: broad
     type: greenhouse
     board: janestreet
     url: https://www.janestreet.com/join-jane-street/open-roles/
-    include: '(intern|graduate|student|campus)'
+    include: '(intern|graduate|student)'
     loc_include: '(london|amsterdam|europe)'
     min_items: 0
 
   - id: flowtraders
     name: Flow Traders (prakse Evropa)
     location: abroad
-    scope: it
+    scope: broad
     type: greenhouse
     board: flowtraders
     url: https://www.flowtraders.com/careers
@@ -846,7 +849,7 @@ sources:
   - id: jetbrains
     name: JetBrains (studenti i prakse)
     location: abroad
-    scope: it
+    scope: broad
     type: greenhouse
     board: jetbrains
     url: https://www.jetbrains.com/careers/jobs/
@@ -892,4 +895,72 @@ sources:
     scope: company
     type: page_hash
     url: https://www.rcc.int/vacancies
+
+  # ------------------------------------------------------------ v2: proba runda 2
+  - id: itkarijera_prakse
+    name: itkarijera.ba prakse
+    location: bih
+    scope: it
+    url: https://itkarijera.ba/prakse
+    js: true
+    pattern: 'itkarijera\.ba/prakse/\d+'
+
+  - id: rolify
+    name: Rolify prilike
+    location: bih
+    scope: company
+    url: https://rolify.com/prilike/
+    pattern: 'rolify\.com/prilike/[^/]+/?$'
+    deep: true
+
+  - id: etf_sarajevo
+    name: ETF Sarajevo (obavještenja)
+    location: sarajevo
+    scope: company
+    url: https://www.etf.unsa.ba/
+    exclude: '(odluk|ponu|nabav|sazetak|lot \d|uploads/.*(odluka|izbor))'
+
+  - id: optiver
+    name: Optiver (prakse Evropa)
+    location: abroad
+    scope: broad
+    type: greenhouse
+    board: optiverus
+    url: https://optiver.com/working-at-optiver/career-opportunities/
+    include: '(intern|graduate|student)'
+    loc_include: '(amsterdam|london|europe)'
+    min_items: 0
+
+  - id: nato_sarajevo
+    name: NATO HQ Sarajevo (lokalne pozicije)
+    location: sarajevo
+    scope: company
+    type: page_hash
+    js: true
+    url: https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx
+
+  - id: osce
+    name: OSCE (BiH i prakse)
+    location: abroad
+    scope: program
+    url: https://jobs.osce.org/vacancies
+    js: true
+    include: '(\bintern(ship)?s?\b|sarajevo|bosnia)'
+    min_items: 0
+
+  - id: ibu_career
+    name: IBU Career Center
+    location: sarajevo
+    scope: company
+    type: page_hash
+    js: true
+    url: https://www.ibu.edu.ba/career-center/
+
+  - id: ssst_career
+    name: SSST karijere
+    location: sarajevo
+    scope: company
+    type: page_hash
+    js: true
+    url: https://ssst.edu.ba/careers
 

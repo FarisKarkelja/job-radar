@@ -308,7 +308,7 @@ def handle_workable(src, browser):
         if j.get("telecommuting"):
             loc += " (remote)"
         items.append({"key": link, "title": _txt(j.get("title")), "url": link,
-                      "company": data.get("name") or src["name"], "location": loc})
+                      "company": data.get("name") or _company(src), "location": loc})
     return items
 
 
@@ -360,6 +360,10 @@ def handle_linkedin(src, browser):
 
 # ---------------------------------------------------------------- ATS sistemi (JSON API)
 
+def _company(src):
+    return src.get("company") or re.sub(r"\s*\(.*?\)\s*$", "", src["name"])
+
+
 def _job(link, title, company, location=""):
     link = clean_url(link)
     return {"key": link, "title": _txt(title)[:240], "url": link,
@@ -369,7 +373,7 @@ def _job(link, title, company, location=""):
 def handle_greenhouse(src, browser):
     b = src["board"]
     data = get(f"https://boards-api.greenhouse.io/v1/boards/{b}/jobs", accept_json=True).json()
-    return [_job(j["absolute_url"], j["title"], src.get("company", src["name"]),
+    return [_job(j["absolute_url"], j["title"], _company(src),
                  (j.get("location") or {}).get("name", "")) for j in data.get("jobs", [])]
 
 
@@ -381,7 +385,7 @@ def handle_lever(src, browser):
     for j in data:
         cat = j.get("categories") or {}
         loc = ", ".join(x for x in [cat.get("location"), j.get("workplaceType")] if x)
-        out.append(_job(j["hostedUrl"], j["text"], src.get("company", src["name"]), loc))
+        out.append(_job(j["hostedUrl"], j["text"], _company(src), loc))
     return out
 
 
@@ -394,7 +398,7 @@ def handle_ashby(src, browser):
         if j.get("isRemote"):
             loc += " (remote)"
         out.append(_job(j.get("jobUrl") or j.get("applyUrl"), j["title"],
-                        src.get("company", src["name"]), loc))
+                        _company(src), loc))
     return out
 
 
@@ -409,7 +413,7 @@ def handle_smartrecruiters(src, browser):
         if loc.get("remote"):
             where += " (remote)"
         url = f"https://jobs.smartrecruiters.com/{c}/{j['id']}"
-        out.append(_job(url, j["name"], (j.get("company") or {}).get("name") or src["name"], where))
+        out.append(_job(url, j["name"], (j.get("company") or {}).get("name") or _company(src), where))
     return out
 
 
@@ -422,7 +426,7 @@ def handle_recruitee(src, browser):
         if j.get("remote"):
             loc += " (remote)"
         out.append(_job(j.get("careers_url") or j.get("url"), j["title"],
-                        j.get("company_name") or src["name"], loc))
+                        j.get("company_name") or _company(src), loc))
     return out
 
 
@@ -436,7 +440,7 @@ def handle_personio(src, browser):
         pid = p.find("id").get_text() if p.find("id") else ""
         name = p.find("name").get_text() if p.find("name") else ""
         office = p.find("office").get_text() if p.find("office") else ""
-        out.append(_job(f"https://{c}.jobs.personio.{dom}/job/{pid}", name, src["name"], office))
+        out.append(_job(f"https://{c}.jobs.personio.{dom}/job/{pid}", name, _company(src), office))
     return out
 
 
@@ -450,7 +454,7 @@ def handle_breezy(src, browser):
         if (isinstance(loc, dict) and loc.get("is_remote")) or "remote" in str(j.get("type", "")).lower():
             where += " (remote)"
         out.append(_job(j.get("url") or f"https://{c}.breezy.hr/p/{j.get('friendly_id')}",
-                        j.get("name", ""), (j.get("company") or {}).get("name") or src["name"], where))
+                        j.get("name", ""), (j.get("company") or {}).get("name") or _company(src), where))
     return out
 
 
@@ -466,7 +470,7 @@ def handle_workday(src, browser):
         data = post_json(api, {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": search})
         for j in data.get("jobPostings", []):
             url = f"{host}/en-US/{board}{j.get('externalPath', '')}"
-            out[url] = _job(url, j.get("title", ""), src.get("company", src["name"]),
+            out[url] = _job(url, j.get("title", ""), _company(src),
                             j.get("locationsText", ""))
     return list(out.values())
 
@@ -481,7 +485,7 @@ def handle_teamtailor(src, browser):
             if e.get(key):
                 loc = str(e.get(key))
                 break
-        out.append(_job(e.get("link", ""), e.get("title", ""), src["name"], loc))
+        out.append(_job(e.get("link", ""), e.get("title", ""), _company(src), loc))
     return out
 
 
@@ -539,12 +543,12 @@ def extract(src: dict, browser) -> list:
         items = [i for i in items if lrx.search(i.get("location", ""))]
     if src.get("include") and src.get("type") != "page_hash":
         rx = re.compile(src["include"], re.I)
-        items = [i for i in items if rx.search(" ".join(
-            [i.get("title", ""), i.get("company", ""), i.get("location", "")]))]
+        items = [i for i in items if rx.search(i.get("title", ""))]
     return items
 
 
 _TRAIL_DATE = re.compile(r"\s*\d{1,2}\.\s?\d{1,2}\.\s?\d{4}\.?\s*$")
+_LEAD_DATE = re.compile(r"^\d{1,2}\.\s?\d{1,2}\.\s+")
 
 
 def _merge(items: list) -> list:
@@ -552,7 +556,7 @@ def _merge(items: list) -> list:
     out = {}
     for i in items:
         if i.get("title"):
-            i["title"] = _TRAIL_DATE.sub("", i["title"]).strip() or i["title"]
+            i["title"] = _LEAD_DATE.sub("", _TRAIL_DATE.sub("", i["title"])).strip() or i["title"]
         prev = out.get(i["key"])
         if prev is None:
             out[i["key"]] = i
