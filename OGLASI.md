@@ -6,306 +6,95 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
-| 15.11. 17:50 | 🚨⏺ [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Otvoren je poziv za asistentice i asistente u programu Mozaik Omladinske banke!](https://star.study/bs/novost/otvoren-je-poziv-za-asistentice-i-asistente-u-programu-mozaik-omladinske-banke/8454) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Growth Marketing (Paid Channels) - Internship](https://star.study/bs/novost/growth-marketing-paid-channels-internship/8374) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Logistička i komercijalna praksa u Francuskoj!](https://star.study/bs/novost/logisticka-i-komercijalna-praksa-u-francuskoj/8238) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [💼 Pripravništvo u Investicijskoj fondaciji Impakt](https://star.study/bs/novost/pripravnistvo-u-investicijskoj-fondaciji-impakt/8162) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Poziv studentima ekonomije: studentska praksa u Istočnom Sarajevu!](https://star.study/bs/novost/poziv-studentima-ekonomije-studentska-praksa-u-istocnom-sarajevu/8049) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Prijavite se za UNICEF praksu](https://star.study/bs/novost/prijavite-se-za-unicef-praksu/8014) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [QA ZIRA Talent Academy 2026](https://star.study/bs/novost/qa-zira-talent-academy-2026/7990) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Plaćena studentska praksa u reviziji – Deloitte BiH](https://star.study/bs/novost/placena-studentska-praksa-u-reviziji-deloitte-bih/7986) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Plaćena praksa u Francuskoj uz platu od 1.200 eura](https://star.study/bs/novost/placena-praksa-u-francuskoj-uz-platu-od-1200-eura/7957) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [EPFL E3: Plaćena ljetna istraživačka praksa u Švicarskoj](https://star.study/bs/novost/epfl-e3-placena-ljetna-istrazivacka-praksa-u-svicarskoj/7930) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Zdrav početak - plaćena praksa za srednjoškolce](https://star.study/bs/novost/zdrav-pocetak-placena-praksa-za-srednjoskolce/7801) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [EY Sarajevo Audit Internship](https://star.study/bs/novost/ey-sarajevo-audit-internship/7838) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [📣 Marketing praksa u Power Commerceu – Sarajevo](https://star.study/bs/novost/marketing-praksa-u-power-commerceu-sarajevo/7842) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Praksa u Živinicama za arhitekturu i mašinstvo](https://star.study/bs/novost/praksa-u-zivinicama-za-arhitekturu-i-masinstvo/7770) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Poziv za redovne studente Odsjeka sigurnosnih i mirovnih studija za obavljanje studentske prakse](https://star.study/bs/novost/poziv-za-redovne-studente-odsjeka-sigurnosnih-i-mirovnih-studija-za-obavljanje-studentske-prakse/7687) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Prvi korak u Sales karijeri: Plaćena praksa u StorsenDigitalu](https://star.study/bs/novost/prvi-korak-u-sales-karijeri-placena-praksa-u-storsendigitalu/7557) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Atlantbh Internship](https://star.study/bs/novost/atlantbh-internship/7451) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [Arhitektonska praksu u Švajcarskoj](https://star.study/bs/novost/arhitektonska-praksu-u-svajcarskoj/7424) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [STARinternship XVII generacija](https://star.study/bs/novost/starinternship-xvii-generacija/6965) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [16.11. Savremeni izazovi i nove perspektive društvenog razvoja](https://star.study/bs/novost/savremeni-izazovi-i-nove-perspektive-drustvenog-razvoja/8581) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [16.11. Digitalni marketing, umjetna inteligencija u marketingu i poslovne vještine](https://star.study/bs/novost/digitalni-marketing-umjetna-inteligencija-u-marketingu-i-poslovne-vjestine/8291) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [20.11. Poziv organizacijama za podršku privredi za učešće u programu izgradnje kapaciteta u okviru GREENSME](https://star.study/bs/novost/poziv-organizacijama-za-podrsku-privredi-za-ucesce-u-programu-izgradnje-kapaciteta-u-okviru-greensme/8415) | STAR.study prakse |
-| 15.11. 17:50 | 🚨⏺ [29.11. Skladišni radnik u skladištu informatičke opreme (m/ž)](https://star.study/bs/novost/skladisni-radnik-u-skladistu-informaticke-opreme-mz/8310) | STAR.study prakse |
-| 15.11. 17:50 | 💻⏺ [Skladišni radnik u skladištu informatičke opreme (m/ž)](https://star.study/bs/novost/skladisni-radnik-u-skladistu-informaticke-opreme-mz/8310) | STAR.study poslovi |
-| 15.11. 17:50 | 💻⏺ [16.11. Digitalni marketing, umjetna inteligencija u marketingu i poslovne vještine](https://star.study/bs/novost/digitalni-marketing-umjetna-inteligencija-u-marketingu-i-poslovne-vjestine/8291) | STAR.study poslovi |
-| 15.11. 17:50 | 🚨⏺ [26.11. Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study poslovi |
-| 15.11. 17:50 | 💻⏺ [Besplatna Help Desk sesija za poduzetnike](https://star.study/bs/novost/besplatna-help-desk-sesija-za-poduzetnike/8568) | STAR.study edukacije i akademije |
-| 15.11. 17:50 | 💻⏺ [16.11. Digitalni marketing, umjetna inteligencija u marketingu i poslovne vještine](https://star.study/bs/novost/digitalni-marketing-umjetna-inteligencija-u-marketingu-i-poslovne-vjestine/8291) | STAR.study edukacije i akademije |
-| 15.11. 17:50 | 🚨⏺ [26.11. Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study edukacije i akademije |
-| 15.11. 17:50 | 💻⏺ [29.11. Skladišni radnik u skladištu informatičke opreme (m/ž)](https://star.study/bs/novost/skladisni-radnik-u-skladistu-informaticke-opreme-mz/8310) | STAR.study edukacije i akademije |
+| 15.11. 17:59 | 🚨⏺ [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [Prijavite se za UNICEF praksu](https://star.study/bs/novost/prijavite-se-za-unicef-praksu/8014) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [QA ZIRA Talent Academy 2026](https://star.study/bs/novost/qa-zira-talent-academy-2026/7990) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [EPFL E3: Plaćena ljetna istraživačka praksa u Švicarskoj](https://star.study/bs/novost/epfl-e3-placena-ljetna-istrazivacka-praksa-u-svicarskoj/7930) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [Atlantbh Internship](https://star.study/bs/novost/atlantbh-internship/7451) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [Savremeni izazovi i nove perspektive društvenog razvoja](https://star.study/bs/novost/savremeni-izazovi-i-nove-perspektive-drustvenog-razvoja/8581) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [Digitalni marketing, umjetna inteligencija u marketingu i poslovne vještine](https://star.study/bs/novost/digitalni-marketing-umjetna-inteligencija-u-marketingu-i-poslovne-vjestine/8291) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [Poziv organizacijama za podršku privredi za učešće u programu izgradnje kapaciteta u okviru GREENSME](https://star.study/bs/novost/poziv-organizacijama-za-podrsku-privredi-za-ucesce-u-programu-izgradnje-kapaciteta-u-okviru-greensme/8415) | STAR.study prakse |
+| 15.11. 17:59 | 🚨⏺ [Skladišni radnik u skladištu informatičke opreme (m/ž)](https://star.study/bs/novost/skladisni-radnik-u-skladistu-informaticke-opreme-mz/8310) | STAR.study prakse |
+| 15.11. 17:59 | 💻⏺ [Skladišni radnik u skladištu informatičke opreme (m/ž)](https://star.study/bs/novost/skladisni-radnik-u-skladistu-informaticke-opreme-mz/8310) | STAR.study poslovi |
+| 15.11. 17:59 | 💻⏺ [Digitalni marketing, umjetna inteligencija u marketingu i poslovne vještine](https://star.study/bs/novost/digitalni-marketing-umjetna-inteligencija-u-marketingu-i-poslovne-vjestine/8291) | STAR.study poslovi |
+| 15.11. 17:59 | 🚨⏺ [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study poslovi |
+| 15.11. 17:59 | 💻⏺ [Besplatna Help Desk sesija za poduzetnike](https://star.study/bs/novost/besplatna-help-desk-sesija-za-poduzetnike/8568) | STAR.study edukacije i akademije |
+| 15.11. 17:59 | 💻⏺ [Digitalni marketing, umjetna inteligencija u marketingu i poslovne vještine](https://star.study/bs/novost/digitalni-marketing-umjetna-inteligencija-u-marketingu-i-poslovne-vjestine/8291) | STAR.study edukacije i akademije |
+| 15.11. 17:59 | 🚨⏺ [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study edukacije i akademije |
+| 15.11. 17:59 | 💻⏺ [Skladišni radnik u skladištu informatičke opreme (m/ž)](https://star.study/bs/novost/skladisni-radnik-u-skladistu-informaticke-opreme-mz/8310) | STAR.study edukacije i akademije |
+| 15.11. 17:59 | 💻⏺ [Account Executive](https://apply.workable.com/j/C56D28CA0C) · Povio | Povio |
+| 15.11. 17:59 | 💻⏺ [AI Product Engineer](https://apply.workable.com/j/160ED7A98D) · Povio | Povio |
+| 15.11. 17:59 | 💻⏺ [Povio](https://apply.workable.com/j/A16FCE9C43) · Povio | Povio |
+| 15.11. 17:59 | 💻⏺ [Senior Python Engineer](https://apply.workable.com/j/7D2B18D8A3) · Povio | Povio |
+| 15.11. 17:59 | 💻⏺ [Solution Architect](https://apply.workable.com/j/FBE4CDE36A) · Povio | Povio |
+| 15.11. 17:59 | 🚨⏺ [AI Engineering Intern - Sarajevo](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/AI-Engineering-Intern---Sarajevo_JR105185) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Graphic Design Intern/Associate](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Marketing-Design-Intern_JR104646) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Junior Telecom Specialist, CPaaS Registrations](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/CPaaS-Registrations-Junior-Engineer_JR105066) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Mid/Senior Software Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Mid-Senior-Software-Engineer_JR105108) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [D365 Finance & Operations Specialist (ERP specialist)](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/D365-Finance---Operations-Specialist--ERP-specialist-_JR104973) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Mid/Senior Software Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Tuzla-BiH/Software-Engineer_JR105001) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Junior Software Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Tuzla-BiH/Junior-Software-Engineer_JR104999) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Network Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Asuncion-Paraguay/Network-Engineer_JR104955) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Business Development Representative](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Buenos-Aires-Argentina/Business-Development-Representative_JR104605) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Product Solution Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Product-Solution-Intern_JR105211) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Data Science Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Data-Science-Intern_JR105173) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Business Analytics Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Business-Analytics-Intern_JR105171) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Customer Support Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Rijeka-Croatia/Customer-Support-Intern_JR105159) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [AI Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/AI-Engineering-Intern---Zagreb_JR105180) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Software Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Software-Engineering-Intern---Zagreb_JR105157) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Software Engineering Intern - Vodnjan](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Vodnjan-Croatia/Software-Engineering-Intern---Vodnjan_JR105163) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Software Engineering Intern - Rijeka](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Rijeka-Croatia/Software-Engineering-Intern---Rijeka_JR105167) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [DevOps Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Split-Croatia/DevOps-Engineering-Intern---Split_JR105210) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [DevOps Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/DevOps-Engineering-Intern---Zagreb_JR105162) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [AI Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Split-Croatia/AI-Engineering-Intern---Split_JR105223) · Infobip | Infobip |
+| 15.11. 17:59 | 🚨⏺ [Business Internship Program – Product, Marketing & Telecom Partnerships](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Business-Internship-Program---Product--Marketing---Telecom-Partnerships_JR105177) · Infobip | Infobip |
+| 15.11. 17:59 | 💻⏺ [Associate Linux Support Engineer](https://job-boards.greenhouse.io/canonical/jobs/6448444) · Canonical | Canonical (remote, junior/graduate) |
+| 15.11. 17:59 | 🚨⏺ [Graduate Sales Development Representative](https://job-boards.greenhouse.io/canonical/jobs/5915299) · Canonical | Canonical (remote, junior/graduate) |
+| 15.11. 17:59 | 🚨⏺ [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/8249005) · Canonical | Canonical (remote, junior/graduate) |
+| 15.11. 17:59 | 🚨⏺ [Junior Linux Kernel Engineer - Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/5370815) · Canonical | Canonical (remote, junior/graduate) |
+| 15.11. 17:59 | 🚨⏺ [Junior Ubuntu Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/6707669) · Canonical | Canonical (remote, junior/graduate) |
+| 15.11. 17:59 | 💻⏺ [Organisational Development Associate](https://job-boards.greenhouse.io/canonical/jobs/8160237) · Canonical | Canonical (remote, junior/graduate) |
+| 15.11. 17:59 | 🚨⏺ [Deep Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) · IMC | IMC (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Graduate Deep Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) · IMC | IMC (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101) · IMC | IMC (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) · IMC | IMC (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) · IMC | IMC (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [PhD Graduate Quantitative Researcher](https://job-boards.greenhouse.io/flowtraders/jobs/8266897) · Flow Traders | Flow Traders (prakse Evropa) |
+| 15.11. 17:59 | 💻⏺ [AP Lab: Center for Talent and Innovation – Shaping Innovators. Building the Future. Rok za prijavu:](https://itkarijera.ba/prakse/119) | itkarijera.ba prakse |
+| 15.11. 17:59 | 🚨⏺ [Internship @Atlantbh - Experience life on top. Rok za prijavu:](https://itkarijera.ba/prakse/118) | itkarijera.ba prakse |
+| 15.11. 17:59 | 🚨⏺ [RUBICON’s 2025 Internship Program Rok za prijavu:](https://itkarijera.ba/prakse/117) | itkarijera.ba prakse |
+| 15.11. 17:59 | 💻⏺ [LANACO Next Generation 2025 Rok za prijavu:](https://itkarijera.ba/prakse/116) | itkarijera.ba prakse |
+| 15.11. 17:59 | 🚨⏺ [Atlantbh Internship: Novi ciklus prakse – prijave su otvorene Rok za prijavu:](https://itkarijera.ba/prakse/115) | itkarijera.ba prakse |
+| 15.11. 17:59 | 💻⏺ [ZIRA Talent Academy: Prilika za ulazak u svijet tehnologije Rok za prijavu:](https://itkarijera.ba/prakse/114) | itkarijera.ba prakse |
+| 15.11. 17:59 | 💻⏺ [ZIRA Scholarships Fond Zijah Rašidagić Rok za prijavu:](https://itkarijera.ba/prakse/113) | itkarijera.ba prakse |
+| 15.11. 17:59 | 💻⏺ [AP Lab: Centar za Talente i Inovacije – Tvoja Prilika za Uspjeh u IT-u Rok za prijavu:](https://itkarijera.ba/prakse/112) | itkarijera.ba prakse |
+| 15.11. 17:59 | 🚨⏺ [Atlantbh Internship Rok za prijavu:](https://itkarijera.ba/prakse/111) | itkarijera.ba prakse |
+| 15.11. 17:59 | 💻⏺ [ZIRA Talent Academy 2024 Rok za prijavu:](https://itkarijera.ba/prakse/109) | itkarijera.ba prakse |
+| 15.11. 17:59 | 💻⏺ [Opcina centar sarajevo dodjeljuje stipendije za akademsku   godinu](https://rolify.com/prilike/opcina-centar-sarajevo-dodjeljuje-stipendije-za-akademsku-2026-2027-godinu) | Rolify prilike |
+| 15.11. 17:59 | 💻⏺ [Fondacija fonss dodjeljuje stipendije za akademsku   godinu](https://rolify.com/prilike/fondacija-fonss-dodjeljuje-stipendije-za-akademsku-2026-2027-godinu) | Rolify prilike |
+| 15.11. 17:59 | 💻⏺ [Fondacija granoff dodjeljuje stipendije studentima i studenticama i i ii ciklusa studija](https://rolify.com/prilike/fondacija-granoff-dodjeljuje-stipendije-studentima-i-studenticama-i-i-ii-ciklusa-studija) | Rolify prilike |
+| 15.11. 17:59 | 💻⏺ [Odbrana Naučnoistraživačkog seminara 1.1. studenta Kenana Saračevića](https://www.etf.unsa.ba/904ecfc6-71ec-4c0b-a257-6171bafd8b97) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [Stavljanje na uvid javnosti korigirane radne verzije doktorske disertacije studenta Emira Derviše...](https://www.etf.unsa.ba/8b783327-acd0-4c8e-96b8-90ccb7cc4796) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [Odbrana Naučnoistraživačkog seminara 2.1. studenta Vahidina Hasića](https://www.etf.unsa.ba/d93010bc-c3d3-4b47-81a7-20947d5f3613) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [Odbrana Naučnoistraživačkog seminara 1.2. studenta Ajdina Fejzića](https://www.etf.unsa.ba/b45938e0-53b4-4af6-96d7-d9091cf7c516) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [INSTRUKCIJE ZA UPLATU Elektrotehnički fakultet Univerziteta u Sarajevu.pdf](https://www.etf.unsa.ba/uploads/INSTRUKCIJE_ZA_UPLATU_Elektrotehnicki_fakultet_Univerziteta_u_Sarajevu_02022fe2d7.pdf) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [Ovjera ljetnog i upis zimskog semestra u akademskoj 2026/2027. godini za studente Trećeg ciklusa ...](https://www.etf.unsa.ba/bc220af9-0659-4e22-8387-231445663777) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [19.10.2026 Odbrana Naučnoistraživačkog seminara 1.1. studentice Azre Smajić](https://www.etf.unsa.ba/e2699462-c33a-4d2a-8226-f744ffbd6aaf) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [13.10.2026 Odbrana Naučnoistraživačkih seminara 1.1. i 1.2. studenta Nermina ČOLE](https://www.etf.unsa.ba/f550efcb-3d7f-469b-9b82-08812a98fd3d) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [12.10.2026 Korekcija termina odbrane projekta doktorske disertacije studentice Amine Mević](https://www.etf.unsa.ba/1fe5d3b9-bf14-40a7-bd38-2acde405ba14) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [Odsjek za računarstvo i informatiku Odsjek za računarstvo i informatiku pruža vrhunsko obrazovanje u oblasti teorije, strukture i projektovanja sistema...](https://www.etf.unsa.ba/odsjek-za-racunarstvo-i-informatiku) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 💻⏺ [Odsjek za telekomunikacije Odsjek za telekomunikacije pruža vrhunsko obrazovanje u oblasti teorije, strukture i projektovanja sistema...](https://www.etf.unsa.ba/odsjek-za-telekomunikacije) | ETF Sarajevo (obavještenja) |
+| 15.11. 17:59 | 🚨⏺ [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713775002?gh_jid=8713775002) · Optiver | Optiver (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002) · Optiver | Optiver (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002) · Optiver | Optiver (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002) · Optiver | Optiver (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002) · Optiver | Optiver (prakse Evropa) |
+| 15.11. 17:59 | 🚨⏺ [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002) · Optiver | Optiver (prakse Evropa) |
 | 15.11. 17:50 | 💻⏺ [Atlantbh Talent Pool](https://apply.workable.com/j/B414653AE9) · Atlantbh | Atlantbh (oglasi) |
-| 15.11. 17:50 | 💻⏺ [Account Executive](https://apply.workable.com/j/C56D28CA0C) · Povio | Povio |
-| 15.11. 17:50 | 💻⏺ [AI Product Engineer](https://apply.workable.com/j/160ED7A98D) · Povio | Povio |
-| 15.11. 17:50 | 💻⏺ [Povio](https://apply.workable.com/j/A16FCE9C43) · Povio | Povio |
-| 15.11. 17:50 | 💻⏺ [Senior Python Engineer](https://apply.workable.com/j/7D2B18D8A3) · Povio | Povio |
-| 15.11. 17:50 | 💻⏺ [Solution Architect](https://apply.workable.com/j/FBE4CDE36A) · Povio | Povio |
 | 15.11. 17:50 | 💻⏺ [Data Engineer](https://jobs.eu.lever.co/symphony/14e05d18-2678-400b-b3fb-a67f2b08f649) · Symphony (oglasi) | Symphony (oglasi) |
 | 15.11. 17:50 | 💻⏺ [Full-Stack AI Engineer](https://jobs.eu.lever.co/symphony/e4d48886-50a7-411c-8b0d-8319a7209256) · Symphony (oglasi) | Symphony (oglasi) |
-| 15.11. 17:50 | 🚨⏺ [AI Engineering Intern - Sarajevo](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/AI-Engineering-Intern---Sarajevo_JR105185) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Graphic Design Intern/Associate](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Marketing-Design-Intern_JR104646) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Junior Telecom Specialist, CPaaS Registrations](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/CPaaS-Registrations-Junior-Engineer_JR105066) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Mid/Senior Software Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Mid-Senior-Software-Engineer_JR105108) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [D365 Finance & Operations Specialist (ERP specialist)](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/D365-Finance---Operations-Specialist--ERP-specialist-_JR104973) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Mid/Senior Software Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Tuzla-BiH/Software-Engineer_JR105001) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Junior Software Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Tuzla-BiH/Junior-Software-Engineer_JR104999) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Network Engineer](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Asuncion-Paraguay/Network-Engineer_JR104955) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Business Development Representative](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Buenos-Aires-Argentina/Business-Development-Representative_JR104605) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Product Solution Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Product-Solution-Intern_JR105211) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Data Science Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Data-Science-Intern_JR105173) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Business Analytics Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Business-Analytics-Intern_JR105171) · Infobip | Infobip |
-| 15.11. 17:50 | 💻⏺ [Customer Support Intern](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Rijeka-Croatia/Customer-Support-Intern_JR105159) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [AI Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/AI-Engineering-Intern---Zagreb_JR105180) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Software Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Software-Engineering-Intern---Zagreb_JR105157) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Software Engineering Intern - Vodnjan](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Vodnjan-Croatia/Software-Engineering-Intern---Vodnjan_JR105163) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Software Engineering Intern - Rijeka](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Rijeka-Croatia/Software-Engineering-Intern---Rijeka_JR105167) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [DevOps Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Split-Croatia/DevOps-Engineering-Intern---Split_JR105210) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [DevOps Engineering Intern - Zagreb](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/DevOps-Engineering-Intern---Zagreb_JR105162) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [AI Engineering Intern - Split](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Split-Croatia/AI-Engineering-Intern---Split_JR105223) · Infobip | Infobip |
-| 15.11. 17:50 | 🚨⏺ [Business Internship Program – Product, Marketing & Telecom Partnerships](https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Zagreb-Croatia/Business-Internship-Program---Product--Marketing---Telecom-Partnerships_JR105177) · Infobip | Infobip |
 | 15.11. 17:50 | 💻⏺ [Business Development Manager (US)](https://apply.workable.com/j/649801716C) · Infinum | Infinum |
 | 15.11. 17:50 | 💻⏺ [Cybersecurity Consultant](https://apply.workable.com/j/F0922A58A9) · Infinum | Infinum |
-| 15.11. 17:50 | 🚨⏺ [Accountant](https://job-boards.greenhouse.io/canonical/jobs/5569916) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Accounts Payable Clerk](https://job-boards.greenhouse.io/canonical/jobs/7971310) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Accounts Receivable Clerk](https://job-boards.greenhouse.io/canonical/jobs/5243483) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Alliances & Channels Leader](https://job-boards.greenhouse.io/canonical/jobs/8002334) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Alliances Field Engineer](https://job-boards.greenhouse.io/canonical/jobs/3433732) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Associate Linux Support Engineer](https://job-boards.greenhouse.io/canonical/jobs/6448444) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Business Development Representative](https://job-boards.greenhouse.io/canonical/jobs/6713184) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Business Services Team Manager](https://job-boards.greenhouse.io/canonical/jobs/5798264) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [C, Golang Software Engineer working on dqlite, a Raft extension for SQLite](https://job-boards.greenhouse.io/canonical/jobs/4124053) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Channel Partner Sales Executive](https://job-boards.greenhouse.io/canonical/jobs/7982278) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Channel Partner Sales Executive, UKI](https://job-boards.greenhouse.io/canonical/jobs/8001736) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cloud Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/4676649) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cloud Field Engineer](https://job-boards.greenhouse.io/canonical/jobs/6132532) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cloud Field Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/7410479) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cloud Professional Services Manager](https://job-boards.greenhouse.io/canonical/jobs/6283017) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cloud Solutions Architect - Alliances](https://job-boards.greenhouse.io/canonical/jobs/5915936) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cloud Support Engineer](https://job-boards.greenhouse.io/canonical/jobs/2456563) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Community Engineer (multiple roles and seniority levels)](https://job-boards.greenhouse.io/canonical/jobs/3275433) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Containerization & Virtualisation Engineer](https://job-boards.greenhouse.io/canonical/jobs/5172247) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Content marketing lead](https://job-boards.greenhouse.io/canonical/jobs/6943565) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Content Marketing Manager](https://job-boards.greenhouse.io/canonical/jobs/8046372) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Cost Accounting Manager](https://job-boards.greenhouse.io/canonical/jobs/7980589) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [C++/Rust Graphics and Windowing System Software Engineer - Mir](https://job-boards.greenhouse.io/canonical/jobs/4439935) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Design Manager (Visual)](https://job-boards.greenhouse.io/canonical/jobs/7566317) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Developer Relations Engineer](https://job-boards.greenhouse.io/canonical/jobs/5143011) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Devices & IOT Field Engineering Manager (Americas)](https://job-boards.greenhouse.io/canonical/jobs/3756791) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Director, Talent Analytics](https://job-boards.greenhouse.io/canonical/jobs/6460571) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Distributed Systems Engineer](https://job-boards.greenhouse.io/canonical/jobs/4581200) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Distributed Systems Testing Software Engineer, Python / Go](https://job-boards.greenhouse.io/canonical/jobs/2969042) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Embedded & Desktop Linux Systems Engineer - Optimisation](https://job-boards.greenhouse.io/canonical/jobs/3821346) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Embedded Devices Software Solution Sales Account Manager](https://job-boards.greenhouse.io/canonical/jobs/7911753) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Embedded Devices Software Solution Sales - All Roles](https://job-boards.greenhouse.io/canonical/jobs/5823852) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Embedded Linux Field Engineer for Devices/IoT](https://job-boards.greenhouse.io/canonical/jobs/3362765) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Embedded Linux Senior Software Engineer - Optimisation](https://job-boards.greenhouse.io/canonical/jobs/6189337) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Director - Business Data](https://job-boards.greenhouse.io/canonical/jobs/7646448) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Director - Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/7646454) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/5188002) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - AppArmor](https://job-boards.greenhouse.io/canonical/jobs/6215502) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - App Stores](https://job-boards.greenhouse.io/canonical/jobs/5127399) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager- Ceph & Distributed Storage](https://job-boards.greenhouse.io/canonical/jobs/4175808) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager, Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/3657756) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Data Platform](https://job-boards.greenhouse.io/canonical/jobs/5667860) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Distributed Systems, Python / Go](https://job-boards.greenhouse.io/canonical/jobs/8179506) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager for IAM (Identity and Access Management)](https://job-boards.greenhouse.io/canonical/jobs/5869156) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Linux Hardware Enablement](https://job-boards.greenhouse.io/canonical/jobs/3666345) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager, Managed Services](https://job-boards.greenhouse.io/canonical/jobs/4676823) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - MLOps & Analytics](https://job-boards.greenhouse.io/canonical/jobs/4810491) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Public Cloud, Python, Golang](https://job-boards.greenhouse.io/canonical/jobs/4144793) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Python and K8s](https://job-boards.greenhouse.io/canonical/jobs/3740499) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Security Standards and Hardening](https://job-boards.greenhouse.io/canonical/jobs/6215514) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Solutions Engineering](https://job-boards.greenhouse.io/canonical/jobs/3313558) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Ubuntu Core](https://job-boards.greenhouse.io/canonical/jobs/5612564) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Ubuntu Linux Kernel](https://job-boards.greenhouse.io/canonical/jobs/3542384) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Ubuntu Security](https://job-boards.greenhouse.io/canonical/jobs/4192903) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Engineering Manager - Web](https://job-boards.greenhouse.io/canonical/jobs/4754075) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Enterprise Account Executive](https://job-boards.greenhouse.io/canonical/jobs/7124193) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Enterprise Customer Success Manager](https://job-boards.greenhouse.io/canonical/jobs/6856788) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Enterprise Customer Success Manager (French speaker)](https://job-boards.greenhouse.io/canonical/jobs/7084000) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Enterprise Project Manager](https://job-boards.greenhouse.io/canonical/jobs/3256589) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Entry-level communications specialist](https://job-boards.greenhouse.io/canonical/jobs/5152303) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Executive Search Lead - Technology](https://job-boards.greenhouse.io/canonical/jobs/7064135) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Financial Planning & Analysis Manager](https://job-boards.greenhouse.io/canonical/jobs/8318769) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [General Counsel (remote)](https://job-boards.greenhouse.io/canonical/jobs/8249298) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [GitOps Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/5894889) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Global Payroll Manager](https://job-boards.greenhouse.io/canonical/jobs/8081579) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Golang Engineer](https://job-boards.greenhouse.io/canonical/jobs/5146709) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Golang Engineering Manager, Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/5692058) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Golang Software Engineer, Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/4827747) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Golang System Software Engineer - Containers / Virtualisation](https://job-boards.greenhouse.io/canonical/jobs/4960407) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Customer Success Manager](https://job-boards.greenhouse.io/canonical/jobs/6103331) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Sales Development Representative](https://job-boards.greenhouse.io/canonical/jobs/5915299) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/8249005) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Talent Scientist](https://job-boards.greenhouse.io/canonical/jobs/6464146) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Group Financial Controller](https://job-boards.greenhouse.io/canonical/jobs/7962419) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Head of Financial Planning & Analysis](https://job-boards.greenhouse.io/canonical/jobs/8142970) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Head of Security Operations](https://job-boards.greenhouse.io/canonical/jobs/4209375) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [HR Generalist](https://job-boards.greenhouse.io/canonical/jobs/7055576) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Information Systems - Open Source Technical Architect](https://job-boards.greenhouse.io/canonical/jobs/4551832) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Internal Auditor](https://job-boards.greenhouse.io/canonical/jobs/8008666) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [IoT Solutions Architecture Manager (Americas only)](https://job-boards.greenhouse.io/canonical/jobs/6587365) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [ISV Technical Alliance Manager](https://job-boards.greenhouse.io/canonical/jobs/7607749) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Juju Software Engineer (Go)](https://job-boards.greenhouse.io/canonical/jobs/6426388) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Junior Ads Specialist](https://job-boards.greenhouse.io/canonical/jobs/6642933) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Junior Campaign Manager](https://job-boards.greenhouse.io/canonical/jobs/6492597) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Junior Linux Kernel Engineer - Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/5370815) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Junior Product Manager](https://job-boards.greenhouse.io/canonical/jobs/6980706) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Junior Ubuntu Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/6707669) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Kernel Build Automation Engineer - Ubuntu Linux](https://job-boards.greenhouse.io/canonical/jobs/7334725) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Lead Data Governance Engineer](https://job-boards.greenhouse.io/canonical/jobs/6394147) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Lead Linux Kernel Engineer - Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/6010955) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Legal Counsel – Commercial & Technology Transactions](https://job-boards.greenhouse.io/canonical/jobs/8311130) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Legal Counsel - Regulatory Compliance, Product and Privacy](https://job-boards.greenhouse.io/canonical/jobs/7946932) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Linux Cryptography and Security Engineer](https://job-boards.greenhouse.io/canonical/jobs/4717512) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Linux Devices Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/5140562) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Linux devices software engineer - snapd](https://job-boards.greenhouse.io/canonical/jobs/4394058) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Linux Kernel Engineer](https://job-boards.greenhouse.io/canonical/jobs/5151903) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Linux Platform Integration - Ubuntu Systems Senior Engineer](https://job-boards.greenhouse.io/canonical/jobs/6062471) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)](https://job-boards.greenhouse.io/canonical/jobs/7432750) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Manager of Enterprise Open Source Sales Team](https://job-boards.greenhouse.io/canonical/jobs/7267884) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Manager, People Analytics](https://job-boards.greenhouse.io/canonical/jobs/7836561) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Manager, Product Manager](https://job-boards.greenhouse.io/canonical/jobs/6458166) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Marketing Associate](https://job-boards.greenhouse.io/canonical/jobs/4981245) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Marketing Manager](https://job-boards.greenhouse.io/canonical/jobs/6110691) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Marketing Team Lead](https://job-boards.greenhouse.io/canonical/jobs/7953864) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Microservices Engineer](https://job-boards.greenhouse.io/canonical/jobs/5191982) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [MLOps Field Engineer](https://job-boards.greenhouse.io/canonical/jobs/6783943) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [NetSuite Administrator](https://job-boards.greenhouse.io/canonical/jobs/6391434) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Observability Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/5739500) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Open Source Enterprise Sales / Alliances](https://job-boards.greenhouse.io/canonical/jobs/6633605) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [OpenStack Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/4676858) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Organisational Development Associate](https://job-boards.greenhouse.io/canonical/jobs/8160237) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Partner Sales Director - Global System Integrator (GSI)](https://job-boards.greenhouse.io/canonical/jobs/3572118) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Partner Sales Director - IHV Alliances](https://job-boards.greenhouse.io/canonical/jobs/4126502) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Partner Sales Manager - IHV Alliances](https://job-boards.greenhouse.io/canonical/jobs/6950219) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Performance Engineer - Open Source](https://job-boards.greenhouse.io/canonical/jobs/5792361) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Manager](https://job-boards.greenhouse.io/canonical/jobs/5029257) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Manager - AI](https://job-boards.greenhouse.io/canonical/jobs/6643476) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Manager - Cloud](https://job-boards.greenhouse.io/canonical/jobs/6643965) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Manager - Data](https://job-boards.greenhouse.io/canonical/jobs/6643484) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Manager - Security](https://job-boards.greenhouse.io/canonical/jobs/6643483) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Manager - Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/6643481) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Product Marketing Lead](https://job-boards.greenhouse.io/canonical/jobs/8200686) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Project Manager - Ubuntu Embedded Systems](https://job-boards.greenhouse.io/canonical/jobs/2808065) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics](https://job-boards.greenhouse.io/canonical/jobs/5703396) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Python Engineer](https://job-boards.greenhouse.io/canonical/jobs/5143074) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Python Engineering Manager, Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/5692059) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Python Software Engineer, Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/6401160) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Python Software Engineer - Ubuntu Hardware Certification Team](https://job-boards.greenhouse.io/canonical/jobs/3658005) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Regional BDR Team Manager](https://job-boards.greenhouse.io/canonical/jobs/4633682) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Regional HR Manager - EMEA](https://job-boards.greenhouse.io/canonical/jobs/6180909) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Regional SDR Director](https://job-boards.greenhouse.io/canonical/jobs/8094035) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Représentant du Développement des Ventes](https://job-boards.greenhouse.io/canonical/jobs/5906505) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Representante de Desarrollo de Ventas](https://job-boards.greenhouse.io/canonical/jobs/5906490) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Revenue Accountant](https://job-boards.greenhouse.io/canonical/jobs/3830645) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Revenue Accounting Manager](https://job-boards.greenhouse.io/canonical/jobs/5830044) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Rust Engineering Lead - Linux and Open Source](https://job-boards.greenhouse.io/canonical/jobs/5833620) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sales Development Representative (Arabic Speaker)](https://job-boards.greenhouse.io/canonical/jobs/7668160) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sales Development Representative (Dutch Speaker)](https://job-boards.greenhouse.io/canonical/jobs/5906452) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sales Development Representative (German Speaker)](https://job-boards.greenhouse.io/canonical/jobs/5906460) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sales Development Representative (Italian Speaker)](https://job-boards.greenhouse.io/canonical/jobs/5906498) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sales Enablement Manager](https://job-boards.greenhouse.io/canonical/jobs/7963009) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Salesforce Administrator](https://job-boards.greenhouse.io/canonical/jobs/6371231) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Salesforce/NetSuite Engineering Manager, Commercial Systems](https://job-boards.greenhouse.io/canonical/jobs/4582078) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sales Operations Analyst](https://job-boards.greenhouse.io/canonical/jobs/5924435) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Security Risk Management Specialist](https://job-boards.greenhouse.io/canonical/jobs/5422575) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Security Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/5146620) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Communications Manager - Analyst Relations](https://job-boards.greenhouse.io/canonical/jobs/7303629) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior communications specialist - social media](https://job-boards.greenhouse.io/canonical/jobs/7771226) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Design Manager (Infrastructure)](https://job-boards.greenhouse.io/canonical/jobs/5995321) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Design Researcher - User Science](https://job-boards.greenhouse.io/canonical/jobs/7528950) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior HR Generalist - EMEA](https://job-boards.greenhouse.io/canonical/jobs/6762650) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Jira Administrator](https://job-boards.greenhouse.io/canonical/jobs/5920689) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Juju Software Engineer (Go)](https://job-boards.greenhouse.io/canonical/jobs/5566674) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Marketing Automation Manager](https://job-boards.greenhouse.io/canonical/jobs/5223805) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Organisational Development Practitioner](https://job-boards.greenhouse.io/canonical/jobs/8090587) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Partner Sales Manager - Global System Integrator (GSI)](https://job-boards.greenhouse.io/canonical/jobs/7086483) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Product Marketing Manager](https://job-boards.greenhouse.io/canonical/jobs/7601064) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Sales Operations Analyst](https://job-boards.greenhouse.io/canonical/jobs/4122239) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Security Operations Engineer](https://job-boards.greenhouse.io/canonical/jobs/5391149) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/canonical/jobs/3029798) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Site Reliability / Gitops Engineer](https://job-boards.greenhouse.io/canonical/jobs/5517891) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Software Engineer (Backend)](https://job-boards.greenhouse.io/canonical/jobs/3142044) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Software Engineer - Digital Workplace](https://job-boards.greenhouse.io/canonical/jobs/5169621) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Software Engineer - MAAS](https://job-boards.greenhouse.io/canonical/jobs/3003389) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Software Engineer - Python/Golang - Kubernetes](https://job-boards.greenhouse.io/canonical/jobs/7774649) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Software Engineer - Python/MongoDB](https://job-boards.greenhouse.io/canonical/jobs/5937947) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior/Staff/Principal Engineer](https://job-boards.greenhouse.io/canonical/jobs/5142887) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Ubuntu Embedded IoT System Engineer](https://job-boards.greenhouse.io/canonical/jobs/4706463) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Senior Web Engineer](https://job-boards.greenhouse.io/canonical/jobs/4417916) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Silicon Alliances Ecosystem Development Manager](https://job-boards.greenhouse.io/canonical/jobs/5359697) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Site Reliability Engineer](https://job-boards.greenhouse.io/canonical/jobs/4468036) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Site Reliability Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/5535122) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Site Reliability / Gitops Engineer](https://job-boards.greenhouse.io/canonical/jobs/1747487) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Alliance Ecosystem Manager](https://job-boards.greenhouse.io/canonical/jobs/6397940) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Alliances Director, EMEA](https://job-boards.greenhouse.io/canonical/jobs/6300377) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Architect - Containers / Virtualisation](https://job-boards.greenhouse.io/canonical/jobs/5881447) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Developer in Observability](https://job-boards.greenhouse.io/canonical/jobs/2166631) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - App Stores](https://job-boards.greenhouse.io/canonical/jobs/3159992) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer, Automotive and Industrial Architecture](https://job-boards.greenhouse.io/canonical/jobs/7785136) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer, Ceph & Distributed Storage](https://job-boards.greenhouse.io/canonical/jobs/1861978) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Cloud Images](https://job-boards.greenhouse.io/canonical/jobs/4398031) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer, Cloud - Sustaining Engineering](https://job-boards.greenhouse.io/canonical/jobs/3062022) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Cross-platform C++ - Multipass](https://job-boards.greenhouse.io/canonical/jobs/4348657) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Data Infrastructure](https://job-boards.greenhouse.io/canonical/jobs/3014391) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Data Infrastructure - Kafka](https://job-boards.greenhouse.io/canonical/jobs/5218601) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch](https://job-boards.greenhouse.io/canonical/jobs/5002072) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Edge AI](https://job-boards.greenhouse.io/canonical/jobs/2614095) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineering Director](https://job-boards.greenhouse.io/canonical/jobs/5211861) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineering Manager - Container and Virtualisation Infrastructure](https://job-boards.greenhouse.io/canonical/jobs/4086684) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - L3 Support](https://job-boards.greenhouse.io/canonical/jobs/6635671) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - OpenStack](https://job-boards.greenhouse.io/canonical/jobs/2579550) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Python and K8s](https://job-boards.greenhouse.io/canonical/jobs/3752633) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Python - Container Images](https://job-boards.greenhouse.io/canonical/jobs/6222476) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Python/Golang - Kubernetes](https://job-boards.greenhouse.io/canonical/jobs/2928962) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Secure Container Images](https://job-boards.greenhouse.io/canonical/jobs/8130859) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer - Solutions Engineering](https://job-boards.greenhouse.io/canonical/jobs/3290946) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer, Sustaining Engineering](https://job-boards.greenhouse.io/canonical/jobs/3326693) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Maintenance Engineer](https://job-boards.greenhouse.io/canonical/jobs/6635681) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Software Support Engineer](https://job-boards.greenhouse.io/canonical/jobs/6635593) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Solution Architecture Manager](https://job-boards.greenhouse.io/canonical/jobs/5516858) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Solutions Architect for Automotive](https://job-boards.greenhouse.io/canonical/jobs/6292448) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Staff Design Engineer - Cloud Networking UX](https://job-boards.greenhouse.io/canonical/jobs/7574469) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Staff Engineer, Development Lifecycle](https://job-boards.greenhouse.io/canonical/jobs/5103218) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Staff Security Operations Engineer](https://job-boards.greenhouse.io/canonical/jobs/6485081) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Staff Software Engineer for Identity Management (Go/Golang)](https://job-boards.greenhouse.io/canonical/jobs/3880952) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Storytelling and narrative lead](https://job-boards.greenhouse.io/canonical/jobs/8288908) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Support Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/6854119) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Sustaining Operations Engineer](https://job-boards.greenhouse.io/canonical/jobs/3737190) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Talent Acquisition Strategist](https://job-boards.greenhouse.io/canonical/jobs/8105144) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Talent Scientist](https://job-boards.greenhouse.io/canonical/jobs/3137607) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Talent Scientist - Graduate Lead](https://job-boards.greenhouse.io/canonical/jobs/7214510) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Tax Associate](https://job-boards.greenhouse.io/canonical/jobs/8186466) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Tax Senior Associate](https://job-boards.greenhouse.io/canonical/jobs/7568354) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Technical Author (multiple roles and seniority levels)](https://job-boards.greenhouse.io/canonical/jobs/3798310) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Technical Manager - Automotive and Industrial](https://job-boards.greenhouse.io/canonical/jobs/4541445) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Technical Product Manager](https://job-boards.greenhouse.io/canonical/jobs/6980703) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Technical Product Marketing Manager - Cybersecurity](https://job-boards.greenhouse.io/canonical/jobs/6793868) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Technical & Reporting Accountant](https://job-boards.greenhouse.io/canonical/jobs/7906560) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Telco Cloud Field Engineer](https://job-boards.greenhouse.io/canonical/jobs/3748266) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Telco Field Engineering Director](https://job-boards.greenhouse.io/canonical/jobs/7778744) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Telecom Account Executive](https://job-boards.greenhouse.io/canonical/jobs/7440248) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Threat Intelligence Lead](https://job-boards.greenhouse.io/canonical/jobs/5144666) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Travel Operations Specialist](https://job-boards.greenhouse.io/canonical/jobs/5075146) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Core Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/3182672) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Engineering Lead](https://job-boards.greenhouse.io/canonical/jobs/6707885) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/7521220) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Linux Kernel Engineer - Silicon Enablement](https://job-boards.greenhouse.io/canonical/jobs/6076909) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Package Management - Engineering Manager](https://job-boards.greenhouse.io/canonical/jobs/7732724) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Sales Engineer (Entry-Level)](https://job-boards.greenhouse.io/canonical/jobs/5643282) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Security Engineer](https://job-boards.greenhouse.io/canonical/jobs/2925180) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Ubuntu Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/6707824) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Usability Engineer - User Science](https://job-boards.greenhouse.io/canonical/jobs/7528952) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [UX Designer - Design systems](https://job-boards.greenhouse.io/canonical/jobs/7043028) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [UX Designer - Developer experience](https://job-boards.greenhouse.io/canonical/jobs/7043026) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [UX Designer - Infrastructure](https://job-boards.greenhouse.io/canonical/jobs/6072086) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Visual Designer](https://job-boards.greenhouse.io/canonical/jobs/5326986) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Web Developer](https://job-boards.greenhouse.io/canonical/jobs/2804965) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
-| 15.11. 17:50 | 🚨⏺ [Web Frontend Engineer - JS, CSS, React, Flutter](https://job-boards.greenhouse.io/canonical/jobs/5150422) · Canonical (remote, junior/graduate) | Canonical (remote, junior/graduate) |
 | 15.11. 17:50 | 🚨⏺ [Short Term Internship 2027 - Information Technologies](https://jobs.smartrecruiters.com/CERN/744000159634239) · CERN | CERN studentski programi |
 | 15.11. 17:50 | 🚨⏺ [Short Term Internship 2027 - Data Science, AI & Analytics](https://jobs.smartrecruiters.com/CERN/744000159629244) · CERN | CERN studentski programi |
 | 15.11. 17:50 | 🚨⏺ [CERN Summer Student Programme 2027 (Member and Non-Member State)](https://jobs.smartrecruiters.com/CERN/744000159603499) · CERN | CERN studentski programi |
@@ -354,48 +143,6 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 | 15.11. 17:50 | 🚨⏺ [Internship - AI Engineer - AI in Enterprise Java Application Frameworks](https://www.iagora.com/work/en/offer/internship-switzerland-it/6439418) | iAgora IT prakse (Švicarska) |
 | 15.11. 17:50 | 🚨⏺ [Internship - AI Engineer - AI-Powered Software Migration Factory](https://www.iagora.com/work/en/offer/internship-switzerland-it/6439416) | iAgora IT prakse (Švicarska) |
 | 15.11. 17:50 | 🚨⏺ [Delivery AI Data Engineer​ing Intern](https://www.iagora.com/work/en/offer/internship-morocco-logistics/6482212) | iAgora IT prakse (Švicarska) |
-| 15.11. 17:50 | 🚨⏺ [2027 EU Campus Programme Talent Community](https://job-boards.eu.greenhouse.io/imc/jobs/4940448101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Deep Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Deep Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Risk Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/5035003101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Senior Campus Recruiter](https://job-boards.eu.greenhouse.io/imc/jobs/4997096101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Trader Assistant (Working Student)](https://job-boards.eu.greenhouse.io/imc/jobs/4753890101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) · IMC (prakse Evropa) | IMC (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [PhD Graduate Quantitative Researcher](https://job-boards.greenhouse.io/flowtraders/jobs/8266897) · Flow Traders (prakse Evropa) | Flow Traders (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) · Flow Traders (prakse Evropa) | Flow Traders (prakse Evropa) |
-| 15.11. 17:50 | 🚨⏺ [Account Manager (B2B Segment - Global Accounts without KAM coverage)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4753222101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Campus Ambassador (Universities in Europe)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696941101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Customer Success Engineer - Americas](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4976225101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Customer Success Engineer (China)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4828073101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Customer Success Engineer - LATAM](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4991149101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Customer Support Specialist](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4991146101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Developer Advocate (Database)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4918398101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Ecosystem QA Lead](https://job-boards.eu.greenhouse.io/jetbrains/jobs/5003095101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Entrepreneur in Residence/Product Lead](https://job-boards.eu.greenhouse.io/jetbrains/jobs/5011030101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Founding Tech Lead (GrowthBricks)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4977893101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Global Indirect Tax Manager](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4927313101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Growth Marketer (AI-Powered QA Automation)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4970724101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Head of Data Science and Analytics (JetBrains Air)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4888300101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Head of JS/TS Ecosystem](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4764092101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Lead Product Designer (FlySto)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4790552101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Lead Product Designer (YouTrack)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4907838101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Regional Field Marketing Manager (US)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4996662101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Release Engineer](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4966818101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Senior Legal Counsel (Employment Law)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4862914101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [(Senior) Machine Learning Developer (Junie)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4937092101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Senior Product Manager – JetBrains Air (Agentic Development in IDEs)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/5005323101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Senior Software Developer (JCP Core Foundation Licensing and Quotation)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4963986101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Senior Technical Program Manager (IDE Department)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4791653101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Senior Test Automation Engineer (TeamCity)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Software Developer Java/ Node.JS (Web Development Team)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4866608101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Staff Software Developer (IAM)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4963991101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Support Engineer (TeamCity)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4979567101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Team Lead Kotlin Infrastructure](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4937064101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [Technical Product Marketing Manager (.NET Developer Tools)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4956003101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
-| 15.11. 17:50 | 🚨⏺ [VP of PR/External Communications Lead](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4968633101) · JetBrains (studenti i prakse) | JetBrains (studenti i prakse) |
 | 15.11. 17:50 | 🚨⏺ [New job: Project Management Assistant (LS2) ICMPD - International Centre for Migration Policy Development Tripoli LS2, Local Support 2 - Locally recruited position - Administrative support](https://www.impactpool.org/jobs/1247998) | Impactpool (prakse) |
 | 15.11. 17:50 | 🚨⏺ [New job: Project Officer (LP2) ICMPD - International Centre for Migration Policy Development Tripoli LP2, Local Professional 2 - Locally recruited position - Junior level](https://www.impactpool.org/jobs/1247997) | Impactpool (prakse) |
 | 15.11. 17:50 | 🚨⏺ [New job: Project Manager (IP3) ICMPD - International Centre for Migration Policy Development Tripoli IP3, International Professional 3 - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1247996) | Impactpool (prakse) |
