@@ -711,6 +711,7 @@ sources:
     location: abroad
     scope: program
     url: https://star.study/bs/novosti/praksa
+    exclude: '^\d{1,2}\.\d{1,2}\.\s'
     pattern: 'star\.study/bs/novost/.+/\d+'
     deep: true
 
@@ -720,6 +721,7 @@ sources:
     location: bih
     scope: broad
     url: https://star.study/bs/novosti/posao
+    exclude: '^\d{1,2}\.\d{1,2}\.\s'
     pattern: 'star\.study/bs/novost/.+/\d+'
     deep: true
 
@@ -729,6 +731,7 @@ sources:
     location: bih
     scope: broad
     url: https://star.study/bs/novosti/edukacija
+    exclude: '^\d{1,2}\.\d{1,2}\.\s'
     pattern: 'star\.study/bs/novost/.+/\d+'
     deep: true
 
@@ -743,7 +746,7 @@ sources:
   - id: povio
     name: Povio
     location: bih
-    scope: it
+    scope: company
     type: workable
     account: povio
     url: https://apply.workable.com/povio/
@@ -768,7 +771,7 @@ sources:
   - id: infobip_workday
     name: Infobip
     location: bih
-    scope: company
+    scope: broad
     type: workday
     site: https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers
     searches: [Sarajevo, Bosnia, Remote, Intern]
@@ -908,12 +911,13 @@ sources:
   - id: rolify
     name: Rolify prilike
     location: bih
-    scope: company
+    scope: broad
     url: https://rolify.com/prilike/
     pattern: 'rolify\.com/prilike/[^/]+/?$'
     deep: true
 
   - id: etf_sarajevo
+    enabled: false   # većinom obavijesti o odbranama i upisu, ne poslovi
     name: ETF Sarajevo (obavještenja)
     location: sarajevo
     scope: company

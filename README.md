@@ -4,13 +4,16 @@ Automatski prati oglase za posao u Bosni i Hercegovini (IT firme, banke, telekom
 javna preduzeća, zavodi za zapošljavanje, ADS, portali) i šalje push notifikaciju
 na Android preko [ntfy](https://ntfy.sh) čim se pojavi nešto novo.
 
-- **Šest provjera dnevno** (07, 10, 13, 16, 19 i 22h po sarajevskom vremenu), na GitHub Actions, besplatno.
-- **Svaki novi oglas** iz svakog izvora, bez filtriranja po senioritetu.
-- **IT oglasi su glasni**, a IT + pripravnik/praksa/junior najglasniji (🚨).
-- **Dubinska pretraga:** kod javnih oglasa otvara i PDF i traži IT pozicije zakopane u tekstu
-  (npr. "Viši stručni saradnik za informatizaciju" na 3. strani).
-- **Alarm kad monitor pukne** (sajt promijeni dizajn) i **dnevni izvještaj** svako jutro.
-- Sve što je pronađeno je u [OGLASI.md](OGLASI.md), a stanje svakog izvora u [reports/status.md](reports/status.md).
+- **Šest provjera dnevno** (07:07, 10:07, 13:07, 16:07, 19:07, 22:07), pokreće ih cron-job.org preko GitHub API-ja.
+- **Šalju se samo IT/tech poslovi i prakse.** Prakse i pripravnički programi kod poslodavaca koje pratiš stižu i kad nisu čisto IT.
+- **Lokacija:** Sarajevo bilo kako (onsite, hybrid, remote); ostatak BiH samo remote ili hybrid; van BiH samo
+  studentski programi i prakse otvoreni za studente iz BiH (STAR.study, CERN, iAgora, quant/tech prakse u Evropi...).
+  Kad lokacija nije jasna, radar otvori oglas i pročita je.
+- **Bez ponavljanja:** isti naslov iste firme se ne šalje ponovo 60 dana (LinkedIn repostovi, isti oglas na više portala).
+- **Dubinska pretraga:** kod javnih oglasa otvara i PDF i traži IT pozicije zakopane u tekstu.
+- **Novi izvor** pošalje jednu poruku sa onim što je trenutno otvoreno, a poslije samo nove oglase.
+- **Alarm kad monitor pukne** i **dnevni izvještaj** (koliko je poslano i koliko preskočeno i zašto).
+- Sve poslano je u [OGLASI.md](OGLASI.md), a stanje svakog izvora u [reports/status.md](reports/status.md).
 
 ## Notifikacije
 
@@ -18,8 +21,8 @@ na Android preko [ntfy](https://ntfy.sh) čim se pojavi nešto novo.
 |---|---|---|
 | 🚨 | 5 (max) | IT pozicija za početnike (pripravnik, praksa, junior, student...) |
 | 💻 | 4 | IT pozicija |
-| 💼 | 3 | Novi oglas firme koju pratiš (nije IT po naslovu) |
-| 🗂️ | 2 (tiho) | Grupa ne-IT oglasa sa velikih javnih izvora (SZKS, ADS...) |
+| 🎓 | 3 | Praksa/pripravnički program poslodavca koji pratiš (nije IT po naslovu) |
+| 📋 | 3 | Novi izvor: šta je trenutno otvoreno |
 | 🔄 | 3-4 | Promijenila se stranica karijera koja nema listu oglasa |
 | ⚠️ | 3 | Neki izvor ne radi dvije provjere zaredom |
 
@@ -34,7 +37,9 @@ na Android preko [ntfy](https://ntfy.sh) čim se pojavi nešto novo.
 
 ## Dodavanje izvora
 
-Sve je u [`sources.yaml`](sources.yaml), opis polja je na vrhu fajla. Za nove firme bez poznate
+Sve je u [`sources.yaml`](sources.yaml), opis polja je na vrhu fajla. Nove izvore prvo testiraj u
+[`probe.yaml`](probe.yaml): workflow **Proba izvora** ih pokrene bez notifikacija i napiše
+[`reports/probe.md`](reports/probe.md) (može i ATS sonda za listu imena firmi). Za nove firme bez poznate
 stranice karijera dodaj ih u [`candidates.yaml`](candidates.yaml): **Detektiv** workflow ih
 automatski obiđe i u [`reports/discovery.md`](reports/discovery.md) napiše gdje su im oglasi.
 

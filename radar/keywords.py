@@ -48,7 +48,7 @@ ENTRY_PATTERNS = [
     r"pripravni\w*", r"\bpraks[aeiou]\w*", r"\bintern(ship|s)?\b", r"\bjunior\w*",
     r"\btrainee\w*", r"\bstudent\w*", r"\bvolonter\w*", r"\bstazist\w*",
     r"\bpocetni\w*", r"\bgraduate\b", r"entry[- ]level", r"\bapsolvent\w*",
-    r"stipendij\w*", r"bez (radnog )?iskustva",
+    r"bez (radnog )?iskustva",
 ]
 
 # U TEKSTU oglasa (PDF, opis) tražimo samo nazive IT radnih mjesta, jer se riječi
@@ -112,10 +112,26 @@ _BODY_NOISE = re.compile(
 )
 
 
+# Naslovi koji spominju IT riječ, a nisu IT posao ("skladište informatičke opreme",
+# "digitalni marketing i umjetna inteligencija"), osim kad uz to stoji pravi IT naziv.
+_NOT_IT_TITLE = re.compile(
+    r"(skladis\w*|prodava\w*|vozac\w*|komercijalist\w*|racunovodj\w*|kuhar\w*|konobar\w*|"
+    r"cistac\w*|marketing\w*|sales|prodaj\w*|recepcioner\w*|magacioner\w*)"
+)
+_STRONG_IT = re.compile(
+    r"(developer|engineer|inzenjer|programer|software|softver|data |devops|\bit (podrsk|support|administrator)|"
+    r"sistem administrator|system administrator|qa\b|tester)"
+)
+
+
 def find_it_match(text: str, is_title: bool = False):
     """Vrati pronađeni IT pojam (kako piše u tekstu) ili None."""
     if not text:
         return None
+    if is_title:
+        nt = normalize(text)
+        if _NOT_IT_TITLE.search(nt) and not _STRONG_IT.search(nt):
+            return None
     if not is_title:
         text = _BODY_NOISE.sub(" ", normalize(text))
     if _IT_UPPER.search(text):
