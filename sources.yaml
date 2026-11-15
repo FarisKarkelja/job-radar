@@ -3,25 +3,27 @@
 # Polja:
 #   id        jedinstven naziv (bez razmaka)
 #   name      naziv koji se vidi u notifikaciji
-#   category  portal | javni | telekom | banka | it | ostalo
-#   type      links (default) | rss | jsonld | workable | linkedin | page_hash
-#             - links: linkovi na stranici koji liče na oglase
-#             - page_hash: stranica bez liste, javlja kad se tekst promijeni
+#   location  sarajevo = izvor objavljuje samo poslove u Sarajevu (sve prolazi)
+#             bih      = cijela BiH: prolazi Sarajevo, remote/hybrid ili nepoznato;
+#                        onsite u drugom gradu ili van BiH se ne šalje
+#             abroad   = prakse/programi vani otvoreni za studente iz BiH (bez filtera lokacije)
+#   scope     it       = svi oglasi su IT (IT firma, IT kategorija portala)
+#             company  = poslodavac: IT oglasi + prakse/pripravnici
+#             broad    = mješovit izvor: samo IT oglasi
+#             program  = prakse vani: samo IT/tech (naslov ili tekst objave)
+#   type      links (default) | rss | jsonld | page_hash | linkedin | workable | lever |
+#             greenhouse | ashby | smartrecruiters | recruitee | personio | teamtailor |
+#             breezy | workday
 #   url       stranica sa oglasima
-#   link      (opcionalno) šta otvara klik na grupnu notifikaciju
-#   pattern   (opcionalno) regex koji URL oglasa mora sadržavati
-#   exclude   (opcionalno) regex za linkove koje treba preskočiti
-#   selector  (opcionalno) CSS selektor dijela stranice sa oglasima
-#   js        true ako se stranica učitava JavaScriptom (koristi Chromium)
-#   scope     it      = svi oglasi su IT (IT kategorija portala) -> glasno
-#             company = javi svaki oglas, IT oglase glasnije (default)
-#             broad   = puno ne-IT oglasa: IT pojedinačno i glasno, ostalo
-#                       jedna tiha grupna poruka po provjeri
+#   pattern   regex koji URL oglasa mora sadržavati
+#   exclude   regex za linkove koje treba preskočiti
+#   include   regex nad naslovom/firmom/lokacijom koji oglas mora zadovoljiti
+#   loc_include  regex nad lokacijom (npr. samo evropski gradovi)
+#   always    regex nad naslovom: takav oglas se uvijek šalje (npr. CERN Summer Student)
+#   js        true ako se stranica učitava JavaScriptom (Chromium)
 #   deep      true = otvori svaki novi oglas (i PDF) i traži IT pozicije u tekstu
 #   min_items koliko oglasa mora biti nađeno da izvor važi kao ispravan (default 1)
-#   fallback  druga konfiguracija ako prva ne uspije
 #   enabled   false da privremeno isključiš izvor
-
 sources:
 
   # ------------------------------------------------------------ portali
@@ -701,3 +703,193 @@ sources:
     category: it
     type: page_hash
     url: https://atia.ba/open-positions
+
+  # ------------------------------------------------------------ v2: novi izvori (proba 15.11.2026)
+  - id: star_praksa
+    name: STAR.study prakse
+    location: abroad
+    scope: program
+    url: https://star.study/bs/novosti/praksa
+    pattern: 'star\.study/bs/novost/.+/\d+'
+    deep: true
+
+  - id: star_posao
+    name: STAR.study poslovi
+    location: bih
+    scope: broad
+    url: https://star.study/bs/novosti/posao
+    pattern: 'star\.study/bs/novost/.+/\d+'
+    deep: true
+
+  - id: star_edukacija
+    name: STAR.study edukacije i akademije
+    location: bih
+    scope: broad
+    url: https://star.study/bs/novosti/edukacija
+    pattern: 'star\.study/bs/novost/.+/\d+'
+    deep: true
+
+  - id: atlantbh_workable
+    name: Atlantbh (oglasi)
+    location: sarajevo
+    scope: it
+    type: workable
+    account: atlantbh
+    url: https://apply.workable.com/atlantbh/
+
+  - id: povio
+    name: Povio
+    location: bih
+    scope: it
+    type: workable
+    account: povio
+    url: https://apply.workable.com/povio/
+
+  - id: symphony_lever
+    name: Symphony (oglasi)
+    location: bih
+    scope: company
+    type: lever
+    company_id: symphony
+    eu: true
+    url: https://jobs.eu.lever.co/symphony
+
+  - id: zira_recruitee
+    name: ZIRA (oglasi)
+    location: sarajevo
+    scope: company
+    type: recruitee
+    company_id: zira
+    url: https://zira.recruitee.com/
+
+  - id: infobip_workday
+    name: Infobip
+    location: bih
+    scope: company
+    type: workday
+    site: https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers
+    searches: [Sarajevo, Bosnia, Remote, Intern]
+    url: https://www.infobip.com/jobs-at-infobip
+
+  - id: infinum
+    name: Infinum
+    location: bih
+    scope: company
+    type: workable
+    account: infinum
+    url: https://apply.workable.com/infinum/
+    min_items: 0
+
+  - id: canonical
+    name: Canonical (remote, junior/graduate)
+    location: abroad
+    scope: it
+    type: greenhouse
+    board: canonical
+    url: https://canonical.com/careers
+    include: '(graduate|junior|intern|associate|entry)'
+    loc_include: '(home based - (emea|worldwide)|remote)'
+    min_items: 0
+
+  - id: cern
+    name: CERN studentski programi
+    location: abroad
+    scope: program
+    type: smartrecruiters
+    company_id: CERN
+    url: https://careers.cern/students
+    include: '(student|intern|summer|openlab|graduate|trainee|doctoral)'
+    always: '(summer student|openlab|technical student)'
+    min_items: 0
+
+  - id: iagora_ch
+    name: iAgora IT prakse (Švicarska)
+    location: abroad
+    scope: it
+    url: https://www.iagora.com/work/en/internships/it/switzerland
+    pattern: 'iagora\.com/work/en/offer/'
+    include: '(intern|praktik|student|trainee|young talent|graduate)'
+
+  - id: imc
+    name: IMC (prakse Evropa)
+    location: abroad
+    scope: it
+    type: greenhouse
+    board: imc
+    url: https://www.imc.com/eu/careers
+    include: '(intern|graduate|student|campus)'
+    loc_include: '(amsterdam|london|zug|dublin|munich|europe)'
+    min_items: 0
+
+  - id: janestreet
+    name: Jane Street (prakse Evropa)
+    location: abroad
+    scope: it
+    type: greenhouse
+    board: janestreet
+    url: https://www.janestreet.com/join-jane-street/open-roles/
+    include: '(intern|graduate|student|campus)'
+    loc_include: '(london|amsterdam|europe)'
+    min_items: 0
+
+  - id: flowtraders
+    name: Flow Traders (prakse Evropa)
+    location: abroad
+    scope: it
+    type: greenhouse
+    board: flowtraders
+    url: https://www.flowtraders.com/careers
+    include: '(intern|graduate|student|trainee)'
+    loc_include: '(amsterdam|london|cluj|milan|europe)'
+    min_items: 0
+
+  - id: jetbrains
+    name: JetBrains (studenti i prakse)
+    location: abroad
+    scope: it
+    type: greenhouse
+    board: jetbrains
+    url: https://www.jetbrains.com/careers/jobs/
+    include: '(intern|student|graduate|junior|campus)'
+    min_items: 0
+
+  - id: western_balkanship
+    name: Western-BALKANship (prakse u Italiji)
+    location: abroad
+    scope: program
+    type: page_hash
+    url: https://www.uniadrion.net/western-balkanship-create-your-future/
+
+  - id: wise_wb
+    name: WISE prakse Zapadni Balkan
+    location: abroad
+    scope: program
+    type: page_hash
+    url: https://wise.ypn.al/
+
+  - id: untalent
+    name: UN Talent (prakse)
+    location: abroad
+    scope: program
+    url: https://untalent.org/jobs
+    pattern: 'untalent\.org/jobs/[^/]+$'
+    include: '(intern|trainee)'
+    min_items: 0
+
+  - id: impactpool
+    name: Impactpool (prakse)
+    location: abroad
+    scope: program
+    url: https://www.impactpool.org/jobs
+    js: true
+    pattern: 'impactpool\.org/jobs/\d+'
+    include: '(intern|trainee|young professional)'
+    min_items: 0
+
+  - id: rcc
+    name: Regional Cooperation Council (Sarajevo)
+    location: sarajevo
+    scope: company
+    type: page_hash
+    url: https://www.rcc.int/vacancies
+

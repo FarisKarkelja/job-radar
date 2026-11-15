@@ -125,8 +125,6 @@ def classify(item, src, body_text=""):
         item["priority"] = 5
     elif is_it:
         item["priority"] = 4
-    elif scope == "program":
-        item["priority"] = 4      # praksa/program vani koji nije IT po naslovu
     else:
         item["priority"] = 3
     return item
@@ -135,8 +133,14 @@ def classify(item, src, body_text=""):
 def relevant(item, src) -> tuple:
     """Da li oglas uopšte zaslužuje notifikaciju (prije provjere lokacije)."""
     scope = src.get("scope", "company")
-    if scope in ("it", "program"):
+    if src.get("always") and re.search(src["always"], item.get("title", ""), re.I):
+        item["priority"] = 5
         return True, ""
+    if scope == "it":
+        return True, ""
+    if scope == "program":
+        # prakse vani: samo IT/tech (naslov ili tekst objave)
+        return (True, "") if item["it"] else (False, "praksa nije IT")
     if item["it"]:
         return True, ""
     # prakse/pripravnici kod poslodavaca koje pratiš (banke, telekomi, javna preduzeća)
@@ -396,11 +400,35 @@ def main():
             res["seeded"] = True
             seeded_sources += 1
             seeded_items += len(items)
-            for i in items:
-                classify(i, src)
+            open_now = []
+            for n, i in enumerate(items):
+                body = ""
+                if src.get("scope") == "program" and src.get("deep") and n < 40:
+                    try:
+                        body = deep_text(i, src)   # prakse vani: IT se vidi tek u tekstu objave
+                    except FetchError:
+                        pass
+                classify(i, src, body)
+                ok, _ = relevant(i, src)
+                if ok:
+                    ok, i["loc_reason"] = location_decide(src, i)
+                if ok:
+                    open_now.append(i)
+                    notified.setdefault(fingerprint(i, src), ts)
                 history.append({"ts": ts, "source": sid, "source_name": src["name"],
                                 "title": i["title"], "url": i["url"], "company": i.get("company", ""),
-                                "it": i["it"], "priority": i["priority"], "initial": True})
+                                "it": i["it"] or ok, "priority": i["priority"], "initial": True})
+            # novi izvor: jedna poruka sa onim što je trenutno otvoreno
+            if open_now and not first_run and not src.get("quiet_seed"):
+                open_now.sort(key=lambda i: -i["priority"])
+                lines = [f"{'🚨' if i['priority'] == 5 else '💻' if i['it'] else '🎓'} {i['title'][:90]}"
+                         + (f" ({i['company']})" if i.get("company") and i["company"] != src["name"] else "")
+                         for i in open_now[:15]]
+                if len(open_now) > 15:
+                    lines.append(f"... i još {len(open_now) - 15} (vidi OGLASI.md)")
+                health_msgs.append({"title": f"📋 Novi izvor: {src['name']} ({len(open_now)} otvoreno)",
+                                    "message": "\n".join(lines), "priority": 3,
+                                    "tags": ["clipboard"], "click": src.get("link") or src["url"]})
             continue
 
         if src.get("strip_query") and any("?" in k for k in entry["keys"]):

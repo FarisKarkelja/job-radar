@@ -533,12 +533,36 @@ HANDLERS = {
 
 def extract(src: dict, browser) -> list:
     """Pokreni handler i primijeni `include` filter (regex nad naslovom, firmom i lokacijom)."""
-    items = _extract(src, browser)
+    items = _merge(_extract(src, browser))
+    if src.get("loc_include") and src.get("type") != "page_hash":
+        lrx = re.compile(src["loc_include"], re.I)
+        items = [i for i in items if lrx.search(i.get("location", ""))]
     if src.get("include") and src.get("type") != "page_hash":
         rx = re.compile(src["include"], re.I)
         items = [i for i in items if rx.search(" ".join(
             [i.get("title", ""), i.get("company", ""), i.get("location", "")]))]
     return items
+
+
+_TRAIL_DATE = re.compile(r"\s*\d{1,2}\.\s?\d{1,2}\.\s?\d{4}\.?\s*$")
+
+
+def _merge(items: list) -> list:
+    """Isti oglas (isti ključ) više puta, npr. za više gradova: spoji u jedan."""
+    out = {}
+    for i in items:
+        if i.get("title"):
+            i["title"] = _TRAIL_DATE.sub("", i["title"]).strip() or i["title"]
+        prev = out.get(i["key"])
+        if prev is None:
+            out[i["key"]] = i
+            continue
+        locs = [x for x in [prev.get("location"), i.get("location")] if x]
+        if locs:
+            prev["location"] = "; ".join(dict.fromkeys(locs))
+        if i.get("loc_ok"):
+            prev["loc_ok"] = True
+    return list(out.values())
 
 
 def _extract(src: dict, browser) -> list:

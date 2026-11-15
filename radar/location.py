@@ -40,11 +40,19 @@ OTHER_CITY = re.compile(
 )
 
 
+BIH = re.compile(r"\b(bosn\w*|bih|herceg\w*|federacij\w*|republik\w* srpsk\w*)\b")
+VAGUE = re.compile(r"(lokacij|location|multiple|vise|više|\d+ (locations|lokacij))")
+
+
 def decide(src: dict, item: dict, body: str = "") -> tuple:
     """Vrati (prolazi, razlog)."""
     where = src.get("location", "bih")
     if where in ("sarajevo", "abroad") or item.get("loc_ok"):
         return True, where
+    loc = normalize(item.get("location", ""))
+    if loc and not (SARAJEVO.search(loc) or REMOTE.search(loc) or BIH.search(loc)
+                    or OTHER_CITY.search(loc) or VAGUE.search(loc)):
+        return False, "van BiH"
     head = normalize(" ".join(x for x in [item.get("title"), item.get("location"),
                                            item.get("company")] if x))
     # 1) naslov/lokacija sa kartice oglasa su najpouzdaniji

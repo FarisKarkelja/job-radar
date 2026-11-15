@@ -40,7 +40,8 @@ IT_PATTERNS = [
     r"\bangular\b", r"\blinux\b", r"\boracle\b",
     r"information technolog\w*", r"\bsdet\b", r"test engineer", r"\bsalesforce\b",
     r"dynamics 365", r"\bza it\b", r"\bit[- ](sektor|odjel|odjeljenj|sluzb|sistem|infrastruktur|tehnolog|operation|project|sector|department)\w*",
-    r"\bscrum\b", r"product owner", r"\bux\b", r"\bui ?/ ?ux\b", r"\bui designer\b",
+    r"deep learning", r"\bquant\w*", r"\bc\+\+", r"\bfpga\b", r"\basic\b", r"\bembedded\b",
+    r"computer science", r"racunarstv\w*", r"\bscrum\b", r"product owner", r"\bux\b", r"\bui ?/ ?ux\b", r"\bui designer\b",
 ]
 
 ENTRY_PATTERNS = [
@@ -68,6 +69,8 @@ BODY_PATTERNS = [
     r"\bcyber\w*", r"kibernet\w*", r"help ?desk", r"service desk", r"\bqa (engineer|inzenjer\w*|tester\w*)",
     r"tester\w* (softvera|aplikacij\w*)", r"web (developer|programer\w*|dizajner\w*)",
     r"front[- ]?end", r"back[- ]?end", r"full[- ]?stack", r"business intelligence", r"power ?bi\b",
+    r"computer science", r"racunarstv\w*", r"softversk\w*", r"software engineering", r"\bc\+\+",
+    r"\bprogramming\b", r"machine learning", r"deep learning", r"\bembedded\b", r"informatik\b",
 ]
 _BODY_RE = [re.compile(p) for p in BODY_PATTERNS]
 _IT_RE = [re.compile(p) for p in IT_PATTERNS]
