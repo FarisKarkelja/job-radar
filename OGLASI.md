@@ -4,6 +4,7 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 15.11. 07:08 | • [Administrativni radnik za podršku klijentima](https://www.mojposao.ba/posao/2cab2afd-dcde-11f1-a8c0-42010a9c001a/administrativni-radnik-za-podrsku-klijentima) | MojPosao IT |
 | 15.11. 01:58 | • [Radnik na dostavi i distribuciji (m/ž)](https://www.mojposao.ba/posao/0d636d87-ddaa-11f1-a8c0-42010a9c001a/radnik-na-dostavi-i-distribuciji-mz) | MojPosao IT |
 | 15.11. 01:58 | • [Komercijalista](https://www.mojposao.ba/posao/35dfe2ce-dcec-11f1-a8c0-42010a9c001a/komercijalista) | MojPosao IT |
 | 15.11. 01:58 | • [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/8a15ce44-de72-11f1-8233-42010a9c001b/reisekaufmann--reisekauffrau-mwd) | MojPosao Kanton Sarajevo |
@@ -1503,4 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Raspored polaganja usmenog dijela ispita za JO1 – pozicije 1 i 2](https://judzks.ba/wp-content/uploads/2021/12/Raspored-polaganja-usmenog-ispita-jo-1-objavljenog-25.10.2021.godine.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Rezultati pismenog dijela ispita za JO1 – pozicije 1 i 2](https://judzks.ba/wp-content/uploads/2021/12/Rezultati-pismenog-dijela-ispita-za-JO-1-objavljenog-25.10.2021.godine.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Obavijest o izmjeni rasporeda polaganja pismenog dijela ispita za JO1](https://judzks.ba/wp-content/uploads/2021/12/Obavijest-o-izmjeni-termina-polaganja-pismenog-dijela-ispita-za-JO-1.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Obavijest o polaganju pismenog dijela ispita JO1](https://judzks.ba/wp-content/uploads/2021/12/OBAVIJEST-POLAGANJE-PISMENOG.pdf) | Dom zdravlja KS |

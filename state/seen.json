@@ -81,7 +81,8 @@
    "dfa8e069-df70-11f1-8233-42010a9c001b",
    "197b03e8-df72-11f1-8233-42010a9c001b",
    "0d636d87-ddaa-11f1-a8c0-42010a9c001a",
-   "35dfe2ce-dcec-11f1-a8c0-42010a9c001a"
+   "35dfe2ce-dcec-11f1-a8c0-42010a9c001a",
+   "2cab2afd-dcde-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -2427,7 +2428,6 @@
  },
  "atos": {
   "keys": [
-   "hash:3a73761e60cd250d",
    "hash:c98fe7468cf4d281",
    "hash:21df775a17e126cb",
    "hash:7aaeda935714228e",
@@ -2476,7 +2476,8 @@
    "hash:4abfdbcb080983ce",
    "hash:294c6410a4ce5e5a",
    "hash:8cf18e86b8060a96",
-   "hash:859d552d0e9d726a"
+   "hash:859d552d0e9d726a",
+   "hash:8f8c03b488023752"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2570,17 +2571,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Stambeni krediti",
-   "Ostvarite san o vlastitom domu",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
+   "Detaljnije",
+   "ATOS BANK Mobile",
+   "Nova mobilna aplikacija",
    "Detaljnije",
    "Western Union",
    "Brz i siguran transfer novca",
-   "Detaljnije",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5481,7 +5482,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:7a9af597781eb3ea",
    "hash:13675ba35bf84bc7",
    "hash:230d4988af420ef9",
    "hash:9b04b811a9c7bec7",
@@ -5530,13 +5530,14 @@
    "hash:70b7c91c78a85bc2",
    "hash:146e3368fda869a2",
    "hash:e5a4397803379c7e",
-   "hash:5daa5d4f4ea3507c"
+   "hash:5daa5d4f4ea3507c",
+   "hash:ab32971b3284672e"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.cb5ec817.1794704394.333b1ace",
-   "https://errors.edgesuite.net/18.cb5ec817.1794704394.333b1ace"
+   "Reference #18.4b532217.1794723022.391e81ae",
+   "https://errors.edgesuite.net/18.4b532217.1794723022.391e81ae"
   ]
  },
  "asa_grupa": {
