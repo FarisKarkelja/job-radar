@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **15.11.2026 10:07** (Sarajevo)  
+Zadnje pokretanje: **15.11.2026 13:07** (Sarajevo)  
 Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -573,8 +573,8 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 <details><summary>mojposao_it (33)</summary>
 
 - [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
-- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
 - [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
+- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
 - [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
@@ -649,10 +649,10 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 <details><summary>poslovnioglasi (13)</summary>
 
 - [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/954)
 - [Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/953)
 - [Menadžer/ica za 3PL klijente i razvoj poslovanja Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/952)
@@ -890,11 +890,11 @@ Izvora: **109**, ispravnih: **108**, s greškom: **1**
 
 <details><summary>unsa_konkursi (10)</summary>
 
-- [Ispravka Konkursa za izbor akademskog osoblja - saradnika | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/index.php/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu)
-- [Preliminarna rang-lista prijavljenih i primljenih kandidata i kandidatkinja za upis na III (treći) ciklus studija - doktorski studij na Univerzitetu u Sarajevu - Elektrotehničkom fakultetu u studijskoj 2026/2027. godini](https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii)
-- [Obavještenje o održavanju usmenog ispita za kandidate koji su aplicirali na Javni oglas | Univerzitet u Sarajevu - Muzička akademija](https://www.unsa.ba/index.php/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet sporta i tjelesnog odgoja](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet)
+- [Ispravka Konkursa za izbor akademskog osoblja - saradnika | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu)
+- [Preliminarna rang-lista prijavljenih i primljenih kandidata i kandidatkinja za upis na III (treći) ciklus studija - doktorski studij na Univerzitetu u Sarajevu - Elektrotehničkom fakultetu u studijskoj 2026/2027. godini](https://www.unsa.ba/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii)
+- [Obavještenje o održavanju usmenog ispita za kandidate koji su aplicirali na Javni oglas | Univerzitet u Sarajevu - Muzička akademija](https://www.unsa.ba/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas)
+- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet sporta i tjelesnog odgoja](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10)
+- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet)
 - [Javni konkurs za izbor akademskog osoblja u akademsko naučno-nastavno zvanje na Univerzitetu u Sarajevu - Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet)
