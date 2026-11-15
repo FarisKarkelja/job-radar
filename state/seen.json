@@ -7623,7 +7623,8 @@
  "western_balkanship": {
   "keys": [
    "hash:f208e7fadff51379",
-   "hash:6970cc4a2bbf617c"
+   "hash:6970cc4a2bbf617c",
+   "hash:3d314246c3cc93e1"
   ],
   "lines": [
    "Projects",
@@ -7666,10 +7667,12 @@
    "Accreditation & Recognition of Prior Experience & Learning for Entrepreneurship (ARPEL4Entrep)",
    "adm-uniadrion",
    "December 15, 2021",
+   "Calls",
+   "Communication",
    "Projects",
-   "AI-NURECC PLUS Initiative – Newsletter June 2023",
+   "BYTE – Blockchain for Refugees Entrepreneurship",
    "adm-uniadrion",
-   "June 30, 2023",
+   "February 6, 2024",
    "Categories",
    "Administrative meetings",
    "Calls",
@@ -8410,13 +8413,14 @@
  },
  "nato_sarajevo": {
   "keys": [
-   "hash:94f53cecbb80b739"
+   "hash:94f53cecbb80b739",
+   "hash:51b9b793b2fccea3"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.496ccd17.1794762173.14de2655",
-   "https://errors.edgesuite.net/18.496ccd17.1794762173.14de2655"
+   "Reference #18.496ccd17.1794762491.14e7fd60",
+   "https://errors.edgesuite.net/18.496ccd17.1794762491.14e7fd60"
   ]
  },
  "osce": {

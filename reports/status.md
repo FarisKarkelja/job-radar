@@ -1,7 +1,7 @@
 # Status izvora
 
-Zadnje pokretanje: **15.11.2026 17:59** (Sarajevo)  
-Izvora: **111**, ispravnih: **111**, s greškom: **0**
+Zadnje pokretanje: **15.11.2026 18:05** (Sarajevo)  
+Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 3 | 0 |  |
 | [BH Telecom](https://www.bhtelecom.ba/category/javni-oglasi-za-posao/) | ✅ | 10 | 0 |  |
 | [Bosnalijek (zapošljavanje)](https://www.bosnalijek.ba/zaposljavanje) | ✅ | 1 | 0 |  |
-| [Canonical (remote, junior/graduate)](https://canonical.com/careers) | ✅ | 18 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Canonical (remote, junior/graduate)](https://canonical.com/careers) | ✅ | 18 | 0 |  |
 | [Centralna banka BiH (karijera)](https://www.cbbh.ba/career) | ✅ | 1 | 0 |  |
 | [CERN studentski programi](https://careers.cern/students) | ✅ | 21 | 0 |  |
 | [D-ploy](https://apply.workable.com/d-ploy/) | ✅ | 1 | 0 |  |
@@ -31,24 +31,23 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 | [dzobs (prakse)](https://dzobs.com/angazman/internship/1) | ✅ | 0 | 0 |  |
 | [Energoinvest](https://energoinvest.ba/karijere) | ✅ | 6 | 0 |  |
 | [Elektroprivreda BiH](https://www.epbih.ba/stranica/ljudski-resursi) | ✅ | 4 | 0 |  |
-| [ETF Sarajevo (obavještenja)](https://www.etf.unsa.ba/) | ✅ | 22 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [Flow Traders (prakse Evropa)](https://www.flowtraders.com/careers) | ✅ | 2 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Flow Traders (prakse Evropa)](https://www.flowtraders.com/careers) | ✅ | 2 | 0 |  |
 | [Grawe osiguranje (posao)](https://www.grawe.ba/grawe-posao) | ✅ | 1 | 0 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 3 | 0 |  |
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
-| [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
+| [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
 | [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 30 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
-| [Infobip](https://www.infobip.com/jobs-at-infobip) | ✅ | 55 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Infobip](https://www.infobip.com/jobs-at-infobip) | ✅ | 55 | 0 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
-| [itkarijera.ba prakse](https://itkarijera.ba/prakse) | ✅ | 10 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [Jane Street (prakse Evropa)](https://www.janestreet.com/join-jane-street/open-roles/) | ✅ | 0 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [JetBrains (studenti i prakse)](https://www.jetbrains.com/careers/jobs/) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [itkarijera.ba prakse](https://itkarijera.ba/prakse) | ✅ | 10 | 0 |  |
+| [Jane Street (prakse Evropa)](https://www.janestreet.com/join-jane-street/open-roles/) | ✅ | 0 | 0 |  |
+| [JetBrains (studenti i prakse)](https://www.jetbrains.com/careers/jobs/) | ✅ | 1 | 0 |  |
 | [JP Ceste FBiH (oglasi)](https://jpcfbih.ba/bs/oglasi) | ✅ | 1 | 0 |  |
 | [Dom zdravlja KS](https://judzks.ba/zaposljavanje/) | ✅ | 10 | 0 |  |
 | [KCUS (konkursi i oglasi)](https://kcus.ba/konkursi-i-oglasi) | ✅ | 1 | 0 |  |
@@ -58,7 +57,7 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 49 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 59 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -66,13 +65,13 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 0 |  |
 | [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
-| [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 1 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
-| [Optiver (prakse Evropa)](https://optiver.com/working-at-optiver/career-opportunities/) | ✅ | 7 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [OSCE (BiH i prakse)](https://jobs.osce.org/vacancies) | ✅ | 0 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Optiver (prakse Evropa)](https://optiver.com/working-at-optiver/career-opportunities/) | ✅ | 7 | 0 |  |
+| [OSCE (BiH i prakse)](https://jobs.osce.org/vacancies) | ✅ | 0 | 0 |  |
 | [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
-| [Povio](https://apply.workable.com/povio/) | ✅ | 5 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Povio](https://apply.workable.com/povio/) | ✅ | 5 | 0 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
 | [Raiffeisen Bank BiH (karijera)](https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html) | ✅ | 1 | 0 |  |
@@ -80,16 +79,16 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 | [Razvojna banka FBiH (oglasi)](https://rbfbih.ba/category/sluzbene-objave/oglasi) | ✅ | 3 | 0 |  |
 | [Regional Cooperation Council (Sarajevo)](https://www.rcc.int/vacancies) | ✅ | 1 | 0 |  |
 | [Robot (aktivni konkursi)](https://robot.ba/aktivni-konkursi) | ✅ | 6 | 0 |  |
-| [Rolify prilike](https://rolify.com/prilike/) | ✅ | 10 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [Rolify prilike](https://rolify.com/prilike/) | ✅ | 10 | 0 |  |
 | [RTV FBiH (obavijesti i konkursi)](https://rtvfbih.ba/obavijesti) | ✅ | 1 | 0 |  |
 | [Saga (karijera)](https://saga.ba/karijera) | ✅ | 1 | 0 |  |
 | [Saga (praksa)](https://saga.ba/praksa) | ✅ | 1 | 0 |  |
 | [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
 | [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
-| [SSST karijere](https://ssst.edu.ba/careers) | ✅ | 1 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 62 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 58 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
-| [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 69 | 0 | prvo pokretanje (zapamćeno, bez notifikacija) |
+| [SSST karijere](https://ssst.edu.ba/careers) | ✅ | 1 | 0 |  |
+| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 0 |  |
+| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 0 |  |
+| [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 0 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
 | [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
@@ -330,19 +329,6 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 
 </details>
 
-<details><summary>etf_sarajevo (22)</summary>
-
-- [Prijavi se na Instruktivnu nastavu za upis prvu godinu prvog ciklusa studija u akademskoj 2026/2027. godini](https://www.etf.unsa.ba/afe923fe-e84b-45eb-bc07-50cbc9d003e5)
-- [Obavijest o odbrani seminara 1.1. Kenan Saracevic.pdf](https://www.etf.unsa.ba/uploads/Obavijest_o_odbrani_seminara_1_1_Kenan_Saracevic_deebc36760.pdf)
-- [Odbrana Naučnoistraživačkog seminara 1.1. studenta Kenana Saračevića](https://www.etf.unsa.ba/904ecfc6-71ec-4c0b-a257-6171bafd8b97)
-- [3. Obavjestenje UVID Emir Dervisevic.pdf](https://www.etf.unsa.ba/uploads/3_Obavjestenje_UVID_Emir_Dervisevic_cf4fbc9472.pdf)
-- [Stavljanje na uvid javnosti korigirane radne verzije doktorske disertacije studenta Emira Derviše...](https://www.etf.unsa.ba/8b783327-acd0-4c8e-96b8-90ccb7cc4796)
-- [Preliminarna rang-lista III ciklus 26-27.pdf](https://www.etf.unsa.ba/uploads/Preliminarna_rang_lista_III_ciklus_26_27_82b860c940.pdf)
-- [Preliminarna rang lista prijavljenih i primljenih kandidata na treći ciklus studija - doktorski s...](https://www.etf.unsa.ba/e0bfdd0e-712d-4936-9087-c4ceed6e5174)
-- [Tekst Konkursa - asst RI 150+.pdf](https://www.etf.unsa.ba/uploads/Tekst_Konkursa_asst_RI_150_b99726130f.pdf)
-
-</details>
-
 <details><summary>flowtraders (2)</summary>
 
 - [PhD Graduate Quantitative Researcher](https://job-boards.greenhouse.io/flowtraders/jobs/8266897)
@@ -569,7 +555,7 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 
 </details>
 
-<details><summary>linkedin_bih (49)</summary>
+<details><summary>linkedin_bih (59)</summary>
 
 - [.NET Developer - Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4490363092)
 - [Senior AI Solutions Engineer](https://www.linkedin.com/jobs/view/4487800302)
@@ -675,11 +661,11 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/954)
 - [Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/953)
 - [Menadžer/ica za 3PL klijente i razvoj poslovanja Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/952)
@@ -794,7 +780,7 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 
 </details>
 
-<details><summary>star_edukacija (62)</summary>
+<details><summary>star_edukacija (20)</summary>
 
 - [Savremeni izazovi i nove perspektive društvenog razvoja](https://star.study/bs/novost/savremeni-izazovi-i-nove-perspektive-drustvenog-razvoja/8619)
 - [World Impact Forum 2027 – Porto, Portugal | 30 potpuno finansiranih stipendija](https://star.study/bs/novost/world-impact-forum-2027-porto-portugal-30-potpuno-finansiranih-stipendija/8624)
@@ -807,7 +793,7 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 
 </details>
 
-<details><summary>star_posao (58)</summary>
+<details><summary>star_posao (20)</summary>
 
 - [Saradnik u radu s djecom (M/Ž)](https://star.study/bs/novost/saradnik-u-radu-s-djecom-mz/8622)
 - [Fizioterapeut](https://star.study/bs/novost/fizioterapeut/8618)
@@ -820,7 +806,7 @@ Izvora: **111**, ispravnih: **111**, s greškom: **0**
 
 </details>
 
-<details><summary>star_praksa (69)</summary>
+<details><summary>star_praksa (20)</summary>
 
 - [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572)
 - [Otvoren je poziv za asistentice i asistente u programu Mozaik Omladinske banke!](https://star.study/bs/novost/otvoren-je-poziv-za-asistentice-i-asistente-u-programu-mozaik-omladinske-banke/8454)
