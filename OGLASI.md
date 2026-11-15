@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 15.11. 19:07 | 🚨 [New job: Development Specialist IRC - International Rescue Committee Remote Junior - Junior level](https://www.impactpool.org/jobs/1248033) | Impactpool (prakse) |
 | 15.11. 17:59 | 🚨⏺ [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study prakse |
 | 15.11. 17:59 | 🚨⏺ [Prijavite se za UNICEF praksu](https://star.study/bs/novost/prijavite-se-za-unicef-praksu/8014) | STAR.study prakse |
 | 15.11. 17:59 | 🚨⏺ [QA ZIRA Talent Academy 2026](https://star.study/bs/novost/qa-zira-talent-academy-2026/7990) | STAR.study prakse |

@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **15.11.2026 18:05** (Sarajevo)  
+Zadnje pokretanje: **15.11.2026 19:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -37,7 +37,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 30 | 0 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 24 | 9 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -63,7 +63,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 198 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 99 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 1 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
@@ -382,16 +382,16 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 </details>
 
-<details><summary>impactpool (30)</summary>
+<details><summary>impactpool (24)</summary>
 
+- [Program Support Lead CI - Children International Remote | United States Mid/Senior - Mid/Senior level](https://www.impactpool.org/jobs/1246937)
 - [Director, UNRWA Representative Office, Washington, DC UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Washington D.C. D-1, Director - Internationally recruited position - Senior Executive level](https://www.impactpool.org/jobs/1246866)
 - [International Engagement Manager CFG - Centre for Future Generations Remote Senior - Senior level](https://www.impactpool.org/jobs/1245206)
-- [New job: Unit Head (Chemicals, Radiation and Health) WHO - World Health Organization Geneva P-5, International Professional - Internationally recruited position - Senior level](https://www.impactpool.org/jobs/1248014)
-- [New job: Team Lead (Communications) WHO - World Health Organization Geneva P-5, International Professional - Internationally recruited position - Senior level](https://www.impactpool.org/jobs/1248013)
-- [New job: Volunteer Tax Screener IRC - International Rescue Committee Denver | Elizabeth | New York City | Dallas | Salt Lake City Volunteer - Volunteer](https://www.impactpool.org/jobs/1248009)
-- [New job: Grants, Partnerships and Communication Coordinator IRC - International Rescue Committee Bogotá Mid - Mid level](https://www.impactpool.org/jobs/1248008)
-- [New job: Field Engineer IRC - International Rescue Committee Chaman Mid - Mid level](https://www.impactpool.org/jobs/1248007)
-- [New job: Health and Wellness Intern IRC - International Rescue Committee New York City Internship - Internship](https://www.impactpool.org/jobs/1248006)
+- [New job: Development Specialist IRC - International Rescue Committee Remote Junior - Junior level](https://www.impactpool.org/jobs/1248033)
+- [New job: Finance Assistant - Accounting IRC - International Rescue Committee Amman Junior - Junior level](https://www.impactpool.org/jobs/1248032)
+- [New job: MEAL Enumerators IRC - International Rescue Committee Badghis Junior - Junior level](https://www.impactpool.org/jobs/1248031)
+- [New job: Field Assistant (Shelter/NFI) IOM - International Organization for Migration Cox's Bazaar GS-3, General Service - No need for Higher Education - Locally recruited position - Administrative support](https://www.impactpool.org/jobs/1248024)
+- [New job: SVN/2026/046 Project Assistant (IBG), Jakarta IOM - International Organization for Migration Jakarta GS-3, General Service - No need for Higher Education - Locally recruited position - Administrative support](https://www.impactpool.org/jobs/1248023)
 
 </details>
 
@@ -605,7 +605,7 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 </details>
 
-<details><summary>mojposao_ks (198)</summary>
+<details><summary>mojposao_ks (99)</summary>
 
 - [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/8a15ce44-de72-11f1-8233-42010a9c001b/reisekaufmann--reisekauffrau-mwd)
 - [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/5982d294-dd06-11f1-a8c0-42010a9c001a/kundenberater-mwd)
@@ -649,8 +649,8 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 - [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002)
 - [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002)
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002)
-- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002)
+- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 
 </details>
 
@@ -663,9 +663,9 @@ Izvora: **110**, ispravnih: **110**, s greškom: **0**
 
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
 - [Šef poslovnice (m/ž) Ćevabdžinica Zmaj Zenica Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/954)
 - [Operater na uplatnom mjestu RSA Gaming doo - AdmiralBet Trebinje, Zvornik, Srbac Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/953)
 - [Menadžer/ica za 3PL klijente i razvoj poslovanja Megamix Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/952)
