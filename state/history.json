@@ -27065,5 +27065,17 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-15T15:07:50+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "AI Conversation Recording Contributor - Bosnian",
+  "url": "https://www.linkedin.com/jobs/view/4489564917",
+  "company": "RWS",
+  "it": false,
+  "priority": 2,
+  "match": "",
+  "snippet": ""
  }
 ]

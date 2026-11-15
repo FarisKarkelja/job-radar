@@ -689,7 +689,8 @@
    "https://www.linkedin.com/jobs/view/4489863907",
    "https://www.linkedin.com/jobs/view/4489324942",
    "https://www.linkedin.com/jobs/view/4489889566",
-   "https://www.linkedin.com/jobs/view/4446732942"
+   "https://www.linkedin.com/jobs/view/4446732942",
+   "https://www.linkedin.com/jobs/view/4489564917"
   ]
  },
  "glassrpske_konkursi": {
@@ -2428,7 +2429,6 @@
  },
  "atos": {
   "keys": [
-   "hash:1546e2ac18ae170d",
    "hash:33c6e8b63e384420",
    "hash:c029a9142f352b5c",
    "hash:709171d87c48e832",
@@ -2477,7 +2477,8 @@
    "hash:8f8c03b488023752",
    "hash:c8023a6f8d1862d7",
    "hash:8089e2866b6bffa8",
-   "hash:2ba6a11f2fa44cfe"
+   "hash:2ba6a11f2fa44cfe",
+   "hash:23986754657b43b6"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2571,17 +2572,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "KREDIT ZA SVE",
-   "Nenamjenski i zamjenski kredit",
+   "Trajni nalog",
+   "Mi štedimo Vaše vrijeme",
    "Detaljnije",
    "Oročena štednja",
    "Ulažite u budućnost",
    "Detaljnije",
-   "SMS i e-mail servis",
-   "Informacije o računu bilo gdje i bilo kad",
-   "Detaljnije",
    "Western Union",
    "Brz i siguran transfer novca",
+   "Detaljnije",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5482,7 +5483,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:0b89f967b237ab44",
    "hash:6f8757e7ddcbfa6a",
    "hash:4b1232aedaaa4ea9",
    "hash:b86a87818d926836",
@@ -5531,13 +5531,14 @@
    "hash:ab32971b3284672e",
    "hash:9685becee3d0cb41",
    "hash:b634450780539187",
-   "hash:721e0653dc3d0656"
+   "hash:721e0653dc3d0656",
+   "hash:bcf11b2c2952a59f"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.7bcfdb17.1794750724.19061219",
-   "https://errors.edgesuite.net/18.7bcfdb17.1794750724.19061219"
+   "Reference #18.cc0e2017.1794755377.6f2f5d6c",
+   "https://errors.edgesuite.net/18.cc0e2017.1794755377.6f2f5d6c"
   ]
  },
  "asa_grupa": {
