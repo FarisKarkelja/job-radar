@@ -17995,7 +17995,8 @@
   "it": true,
   "priority": 4,
   "match": "system administrator",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:19:12+00:00",
@@ -18007,7 +18008,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:19:12+00:00",
@@ -18019,7 +18021,8 @@
   "it": true,
   "priority": 4,
   "match": "information",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:19:12+00:00",
@@ -18031,7 +18034,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:19:12+00:00",
@@ -18718,7 +18722,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18730,7 +18735,8 @@
   "it": true,
   "priority": 5,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18742,7 +18748,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18754,7 +18761,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18766,7 +18774,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18778,7 +18787,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18790,7 +18800,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18802,7 +18813,8 @@
   "it": true,
   "priority": 5,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18814,7 +18826,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18826,7 +18839,8 @@
   "it": true,
   "priority": 4,
   "match": "qa",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18838,7 +18852,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18850,7 +18865,8 @@
   "it": true,
   "priority": 4,
   "match": "qa",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18862,7 +18878,8 @@
   "it": true,
   "priority": 4,
   "match": "qa",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18874,7 +18891,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18886,7 +18904,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -18898,7 +18917,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-01T23:31:13+00:00",
@@ -19030,7 +19050,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19042,7 +19063,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19054,7 +19076,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19066,7 +19089,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19078,7 +19102,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19090,7 +19115,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19102,7 +19128,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19114,7 +19141,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19186,7 +19214,8 @@
   "it": true,
   "priority": 4,
   "match": "racunaru",
-  "snippet": "...rani inžinjer hemiiske leh Poželjno poznavanje rada na računaru Kontakt email: mspvpsa@mspvpsa.edu.ba Share Post Faceb..."
+  "snippet": "...rani inžinjer hemiiske leh Poželjno poznavanje rada na računaru Kontakt email: mspvpsa@mspvpsa.edu.ba Share Post Faceb...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19198,7 +19227,8 @@
   "it": true,
   "priority": 4,
   "match": "racunaru",
-  "snippet": "...jezika ili drugog stranog jezika, - poznavanje rada na računaru. Opis poslova: - uredno, ažurno i tačno knjiženje svih..."
+  "snippet": "...jezika ili drugog stranog jezika, - poznavanje rada na računaru. Opis poslova: - uredno, ažurno i tačno knjiženje svih...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19210,7 +19240,8 @@
   "it": true,
   "priority": 4,
   "match": "development",
-  "snippet": "...ation for educational work. 2. Individual professional development 3. Cooperation with parents 4. Work within the framewo..."
+  "snippet": "...ation for educational work. 2. Individual professional development 3. Cooperation with parents 4. Work within the framewo...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19222,7 +19253,8 @@
   "it": true,
   "priority": 4,
   "match": "informativnog",
-  "snippet": "...plata: 2.390,00 BAM (Prikazani podaci o netto plati su informativnog karaktera. Elementi koji čine tačan iznos plate su pro..."
+  "snippet": "...plata: 2.390,00 BAM (Prikazani podaci o netto plati su informativnog karaktera. Elementi koji čine tačan iznos plate su pro...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19306,7 +19338,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticke",
-  "snippet": "...lju sigurnosti ličnih podataka primjenjuje se standard informatičke sigurnosti. Preduzete su organizacijske i tehničke mje..."
+  "snippet": "...lju sigurnosti ličnih podataka primjenjuje se standard informatičke sigurnosti. Preduzete su organizacijske i tehničke mje...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19342,7 +19375,8 @@
   "it": true,
   "priority": 4,
   "match": "informacijske",
-  "snippet": "...(jedan) izvršilac, novo zaposlenje 3. „Kompjuterske i informacijske tehnologije“ - 2 (dva) izvršioca, novo zaposlenje 4. „..."
+  "snippet": "...(jedan) izvršilac, novo zaposlenje 3. „Kompjuterske i informacijske tehnologije“ - 2 (dva) izvršioca, novo zaposlenje 4. „...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:24:14+00:00",
@@ -19387,7 +19421,8 @@
   "title": "Promjena na stranici: The European Union Delegation to Kazakhstan is looking for: ACCOUNTS CLERK LOCAL AGENT GROUP III Ref",
   "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia+and+Herzegovina",
   "it": true,
-  "priority": 4
+  "priority": 4,
+  "sent": true
  },
  {
   "ts": "2026-11-02T12:33:43+00:00",
@@ -19507,7 +19542,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19519,7 +19555,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19531,7 +19568,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19543,7 +19581,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19603,7 +19642,8 @@
   "it": true,
   "priority": 4,
   "match": "salesforce",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19699,7 +19739,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19711,7 +19752,8 @@
   "it": true,
   "priority": 5,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-02T23:04:48+00:00",
@@ -19780,7 +19822,8 @@
   "title": "Promjena na stranici: Otvorena je pozicija za",
   "url": "https://mibo.ba/karijera",
   "it": true,
-  "priority": 4
+  "priority": 4,
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -19804,7 +19847,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticke",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -19936,7 +19980,8 @@
   "it": true,
   "priority": 4,
   "match": "quality assurance",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -19972,7 +20017,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -19984,7 +20030,8 @@
   "it": true,
   "priority": 4,
   "match": "administrator baza",
-  "snippet": "....11.2026 (Još 8 Dana) Pozicije Viši stručni suradnik - administrator baza Broj izvršilaca Broj prijava - pošta (naknadno) PRIJAV..."
+  "snippet": "....11.2026 (Još 8 Dana) Pozicije Viši stručni suradnik - administrator baza Broj izvršilaca Broj prijava - pošta (naknadno) PRIJAV...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20008,7 +20055,8 @@
   "it": true,
   "priority": 4,
   "match": "kompjuterska",
-  "snippet": "...ostupak sa mrtvim tijelom - obavljanje dermatoskopije (kompjuterska analiza pigmentnih promjena na koži i lezija suspektni..."
+  "snippet": "...ostupak sa mrtvim tijelom - obavljanje dermatoskopije (kompjuterska analiza pigmentnih promjena na koži i lezija suspektni...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20020,7 +20068,8 @@
   "it": true,
   "priority": 4,
   "match": "racunaru",
-  "snippet": "...ne komore - položen stručni ispit - poznavanje rada na računaru - aktivno znanje jednog od stranih jezika - radno isku..."
+  "snippet": "...ne komore - položen stručni ispit - poznavanje rada na računaru - aktivno znanje jednog od stranih jezika - radno isku...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20032,7 +20081,8 @@
   "it": true,
   "priority": 4,
   "match": "informacione",
-  "snippet": "...odataka sa terena i njihove aplikacije u informacioni sistem Preduzeća , Učestvuje u izradi Katastra; Radi na doznaci stab..."
+  "snippet": "...odataka sa terena i njihove aplikacije u informacioni sistem Preduzeća , Učestvuje u izradi Katastra; Radi na doznaci stab...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20056,7 +20106,8 @@
   "it": true,
   "priority": 4,
   "match": "informatika",
-  "snippet": "...a se: Svjedočanstvo srednje škole o položenom predmetu informatika, certifikat - uvjerenje pravne osobe ovlaštene za ospo..."
+  "snippet": "...a se: Svjedočanstvo srednje škole o položenom predmetu informatika, certifikat - uvjerenje pravne osobe ovlaštene za ospo...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20077,7 +20128,8 @@
   "it": true,
   "priority": 4,
   "match": "informacijski",
-  "snippet": "...vcima; - provodi kontrolu unosa i ažuriranja podataka u informacijski sustav; - zaprima dopise, e-poštu i upite i pristupa..."
+  "snippet": "...vcima; - provodi kontrolu unosa i ažuriranja podataka u informacijski sustav; - zaprima dopise, e-poštu i upite i pristupa...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20089,7 +20141,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20101,7 +20154,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20137,7 +20191,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20149,7 +20204,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20161,7 +20217,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20173,7 +20230,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20185,7 +20243,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20197,7 +20256,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T14:01:00+00:00",
@@ -20293,7 +20353,8 @@
   "it": true,
   "priority": 4,
   "match": "ai specialist",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-03T20:52:20+00:00",
@@ -20449,7 +20510,8 @@
   "it": true,
   "priority": 4,
   "match": "ai engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20461,7 +20523,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20473,7 +20536,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20485,7 +20549,8 @@
   "it": true,
   "priority": 4,
   "match": "security engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20497,7 +20562,8 @@
   "it": true,
   "priority": 4,
   "match": "hardware",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20545,7 +20611,8 @@
   "it": true,
   "priority": 4,
   "match": "ai engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20557,7 +20624,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20569,7 +20637,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20581,7 +20650,8 @@
   "it": true,
   "priority": 4,
   "match": "security engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20593,7 +20663,8 @@
   "it": true,
   "priority": 4,
   "match": "hardware",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20641,7 +20712,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20653,7 +20725,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20665,7 +20738,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20677,7 +20751,8 @@
   "it": true,
   "priority": 4,
   "match": "security engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20689,7 +20764,8 @@
   "it": true,
   "priority": 4,
   "match": "hardware",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20701,7 +20777,8 @@
   "it": true,
   "priority": 4,
   "match": "ai engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20749,7 +20826,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20761,7 +20839,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20773,7 +20852,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20785,7 +20865,8 @@
   "it": true,
   "priority": 4,
   "match": "computer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20797,7 +20878,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20893,7 +20975,8 @@
   "it": true,
   "priority": 4,
   "match": "informacioni",
-  "snippet": "...dsjek za EU integracije,strateške, planske dokumente i informacioni sistem u oblasti upravljanja otpadom-SEKTOR ZA UPRAVLJ..."
+  "snippet": "...dsjek za EU integracije,strateške, planske dokumente i informacioni sistem u oblasti upravljanja otpadom-SEKTOR ZA UPRAVLJ...",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20917,7 +21000,8 @@
   "it": true,
   "priority": 4,
   "match": "informacioni",
-  "snippet": "...це, омладине и спорта Виши стручни сарадник за информациони систем и статистику у спорту 1 извршилац 2 Републичка дирекциј..."
+  "snippet": "...це, омладине и спорта Виши стручни сарадник за информациони систем и статистику у спорту 1 извршилац 2 Републичка дирекциј...",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -20965,7 +21049,8 @@
   "it": true,
   "priority": 4,
   "match": "telecom",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -21001,7 +21086,8 @@
   "it": true,
   "priority": 4,
   "match": "telecom",
-  "snippet": "...rganizacijom i ljudskim resursima Dioničkog društva BH Telecom Sarajevo, na radna mjesta kako slijedi: 1) 117. Senior..."
+  "snippet": "...rganizacijom i ljudskim resursima Dioničkog društva BH Telecom Sarajevo, na radna mjesta kako slijedi: 1) 117. Senior...",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -21022,7 +21108,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-04T14:18:41+00:00",
@@ -21094,7 +21181,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21106,7 +21194,8 @@
   "it": true,
   "priority": 4,
   "match": "ai engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21142,7 +21231,8 @@
   "it": true,
   "priority": 4,
   "match": "data engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21154,7 +21244,8 @@
   "it": true,
   "priority": 4,
   "match": "data engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21178,7 +21269,8 @@
   "it": true,
   "priority": 4,
   "match": "quality assurance",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21190,7 +21282,8 @@
   "it": true,
   "priority": 4,
   "match": "quality assurance",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21214,7 +21307,8 @@
   "it": true,
   "priority": 4,
   "match": "informatiku",
-  "snippet": "...unalni inspektor u Gradskoj službi za opću i e-upravu, informatiku i inspekcijske poslove Broj izvršilaca Broj prijava -..."
+  "snippet": "...unalni inspektor u Gradskoj službi za opću i e-upravu, informatiku i inspekcijske poslove Broj izvršilaca Broj prijava -...",
+  "sent": true
  },
  {
   "ts": "2026-11-04T21:14:40+00:00",
@@ -21310,7 +21404,8 @@
   "it": true,
   "priority": 4,
   "match": "qa",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21490,7 +21585,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21502,7 +21598,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21634,7 +21731,8 @@
   "it": true,
   "priority": 4,
   "match": ".net",
-  "snippet": "...ut Famosa 38, Hrasnica ili na e-mali adresu: greenp@bih.net.ba Za sve informacije možete nas kontaktirati na broje..."
+  "snippet": "...ut Famosa 38, Hrasnica ili na e-mali adresu: greenp@bih.net.ba Za sve informacije možete nas kontaktirati na broje...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21646,7 +21744,8 @@
   "it": true,
   "priority": 4,
   "match": "informatika",
-  "snippet": "...bučavanjem znanja rada na računaru (ocjene iz predmeta informatika i/ili srodnih predmeta iz osnovne i/ili srednje škole,..."
+  "snippet": "...bučavanjem znanja rada na računaru (ocjene iz predmeta informatika i/ili srodnih predmeta iz osnovne i/ili srednje škole,...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21658,7 +21757,8 @@
   "it": true,
   "priority": 4,
   "match": "programskih",
-  "snippet": "...ektričar održavanja – TIM ZA ODRŽAVANJE I KOORDINACIJU PROGRAMSKIH SADRŽAJA- SSS/KV – IV/III – profil zanimanja: elektiča..."
+  "snippet": "...ektričar održavanja – TIM ZA ODRŽAVANJE I KOORDINACIJU PROGRAMSKIH SADRŽAJA- SSS/KV – IV/III – profil zanimanja: elektiča...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21670,7 +21770,8 @@
   "it": true,
   "priority": 4,
   "match": "informatike",
-  "snippet": "...zredu ili obrazovanju gdje je kandidat pohađao predmet informatike za SSS pozicije; - Dokumentacija vezana za tačku V ovo..."
+  "snippet": "...zredu ili obrazovanju gdje je kandidat pohađao predmet informatike za SSS pozicije; - Dokumentacija vezana za tačku V ovo...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21712,7 +21813,8 @@
   "it": true,
   "priority": 4,
   "match": "bazi podataka",
-  "snippet": "...otvrdu Federalnog zavoda MIO/PIO da se iste ne nalaze u bazi podataka matične evidencije aktivnih osiguranika kod Federalno..."
+  "snippet": "...otvrdu Federalnog zavoda MIO/PIO da se iste ne nalaze u bazi podataka matične evidencije aktivnih osiguranika kod Federalno...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21724,7 +21826,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21736,7 +21839,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21748,7 +21852,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21760,7 +21865,8 @@
   "it": true,
   "priority": 4,
   "match": "informaticko",
-  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju..."
+  "snippet": "...nos podataka Vaše lične podatke Služba daje pružaocima informatičko – komunikacijskih i sličnih usluga sa kojima je zaklju...",
+  "sent": true
  },
  {
   "ts": "2026-11-05T14:29:50+00:00",
@@ -21913,7 +22019,8 @@
   "it": true,
   "priority": 4,
   "match": "ai engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T21:26:19+00:00",
@@ -21925,7 +22032,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T21:26:19+00:00",
@@ -21949,7 +22057,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T21:26:19+00:00",
@@ -21961,7 +22070,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T21:26:19+00:00",
@@ -21973,7 +22083,8 @@
   "it": true,
   "priority": 4,
   "match": "hardware",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-05T21:43:56+00:00",
@@ -21997,7 +22108,8 @@
   "it": true,
   "priority": 4,
   "match": "tester",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-06T06:17:59+00:00",
@@ -22021,7 +22133,8 @@
   "it": true,
   "priority": 4,
   "match": "backend",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-06T06:17:59+00:00",
@@ -22234,7 +22347,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-06T12:07:31+00:00",
@@ -22246,7 +22360,8 @@
   "it": true,
   "priority": 4,
   "match": "technical support",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-06T12:07:31+00:00",
@@ -22291,7 +22406,8 @@
   "title": "Promjena na stranici: Uspješnim profesionalnim radom i zalaganjem naših zaposlenih, kao i lojalnošcu naših klijenata, u tr",
   "url": "https://www.atosbank.ba/content/read/karijera",
   "it": true,
-  "priority": 4
+  "priority": 4,
+  "sent": true
  },
  {
   "ts": "2026-11-06T12:07:31+00:00",
@@ -22459,7 +22575,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-06T15:07:47+00:00",
@@ -22648,7 +22765,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-07T15:07:36+00:00",
@@ -22816,7 +22934,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T09:07:43+00:00",
@@ -22960,7 +23079,8 @@
   "it": true,
   "priority": 4,
   "match": "sap",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T12:07:31+00:00",
@@ -22996,7 +23116,8 @@
   "it": true,
   "priority": 4,
   "match": "machine learning",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T12:07:31+00:00",
@@ -23020,7 +23141,8 @@
   "it": true,
   "priority": 4,
   "match": "hardware",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T12:07:31+00:00",
@@ -23452,7 +23574,8 @@
   "it": true,
   "priority": 4,
   "match": "tehnicku podrsku",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23512,7 +23635,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23524,7 +23648,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23536,7 +23661,8 @@
   "it": true,
   "priority": 4,
   "match": "python",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23548,7 +23674,8 @@
   "it": true,
   "priority": 5,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23560,7 +23687,8 @@
   "it": true,
   "priority": 5,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23572,7 +23700,8 @@
   "it": true,
   "priority": 5,
   "match": "qa",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23584,7 +23713,8 @@
   "it": true,
   "priority": 5,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23596,7 +23726,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23608,7 +23739,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23620,7 +23752,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23632,7 +23765,8 @@
   "it": true,
   "priority": 4,
   "match": "backend",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:07:43+00:00",
@@ -23644,7 +23778,8 @@
   "it": true,
   "priority": 4,
   "match": ".net",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:58:31+00:00",
@@ -23656,7 +23791,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:58:31+00:00",
@@ -23668,7 +23804,8 @@
   "it": true,
   "priority": 5,
   "match": "ux",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:58:31+00:00",
@@ -23680,7 +23817,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:58:31+00:00",
@@ -23692,7 +23830,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T15:58:31+00:00",
@@ -23704,7 +23843,8 @@
   "it": true,
   "priority": 4,
   "match": "",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-09T18:07:45+00:00",
@@ -24112,7 +24252,8 @@
   "it": true,
   "priority": 4,
   "match": "data engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T09:10:14+00:00",
@@ -24280,7 +24421,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T12:07:44+00:00",
@@ -24292,7 +24434,8 @@
   "it": true,
   "priority": 4,
   "match": "data engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T12:07:44+00:00",
@@ -24304,7 +24447,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T12:07:44+00:00",
@@ -24481,7 +24625,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T14:45:35+00:00",
@@ -24673,7 +24818,8 @@
   "it": true,
   "priority": 4,
   "match": "elektrotehnicki",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T14:45:35+00:00",
@@ -24757,7 +24903,8 @@
   "it": true,
   "priority": 4,
   "match": "data engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T14:45:35+00:00",
@@ -24769,7 +24916,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T18:08:02+00:00",
@@ -24781,7 +24929,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T18:08:02+00:00",
@@ -24793,7 +24942,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T18:08:02+00:00",
@@ -24829,7 +24979,8 @@
   "it": true,
   "priority": 4,
   "match": "elektrotehnicki",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-10T21:07:44+00:00",
@@ -24877,7 +25028,8 @@
   "it": true,
   "priority": 4,
   "match": "fullstack",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T09:07:38+00:00",
@@ -25105,7 +25257,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T12:07:54+00:00",
@@ -25117,7 +25270,8 @@
   "it": true,
   "priority": 5,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T12:07:54+00:00",
@@ -25225,7 +25379,8 @@
   "it": true,
   "priority": 5,
   "match": "data analyst",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T12:07:54+00:00",
@@ -25237,7 +25392,8 @@
   "it": true,
   "priority": 4,
   "match": "backend",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T18:07:43+00:00",
@@ -25309,7 +25465,8 @@
   "it": true,
   "priority": 5,
   "match": "ai engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T18:07:43+00:00",
@@ -25369,7 +25526,8 @@
   "it": true,
   "priority": 4,
   "match": "technical support",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T18:07:43+00:00",
@@ -25474,7 +25632,8 @@
   "it": true,
   "priority": 4,
   "match": "sysadmin",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-11T18:07:43+00:00",
@@ -25567,7 +25726,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T09:07:42+00:00",
@@ -25639,7 +25799,8 @@
   "it": true,
   "priority": 4,
   "match": "data engineer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T12:07:40+00:00",
@@ -25717,7 +25878,8 @@
   "title": "Promjena na stranici: AI Engineering Intern – Sarajevo",
   "url": "https://www.infobip.com/internship",
   "it": true,
-  "priority": 4
+  "priority": 4,
+  "sent": true
  },
  {
   "ts": "2026-11-12T15:00:56+00:00",
@@ -25765,7 +25927,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T15:00:56+00:00",
@@ -25777,7 +25940,8 @@
   "it": true,
   "priority": 4,
   "match": ".net",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T15:00:56+00:00",
@@ -25861,7 +26025,8 @@
   "it": true,
   "priority": 4,
   "match": "elektrotehnickom",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25885,7 +26050,8 @@
   "it": true,
   "priority": 4,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25897,7 +26063,8 @@
   "it": true,
   "priority": 5,
   "match": "software",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25921,7 +26088,8 @@
   "it": true,
   "priority": 4,
   "match": "sap",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25933,7 +26101,8 @@
   "it": true,
   "priority": 5,
   "match": "telecom",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25945,7 +26114,8 @@
   "it": true,
   "priority": 4,
   "match": "erp",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25957,7 +26127,8 @@
   "it": true,
   "priority": 4,
   "match": "cloud",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25969,7 +26140,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T18:07:52+00:00",
@@ -25993,7 +26165,8 @@
   "it": true,
   "priority": 4,
   "match": "elektrotehnickom",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-12T21:07:40+00:00",
@@ -26161,7 +26334,8 @@
   "it": true,
   "priority": 4,
   "match": "IT",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-13T09:07:52+00:00",
@@ -26281,7 +26455,8 @@
   "it": true,
   "priority": 4,
   "match": "ict",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-13T12:07:43+00:00",
@@ -26305,7 +26480,8 @@
   "it": true,
   "priority": 4,
   "match": "ict",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-13T12:07:43+00:00",
@@ -26443,7 +26619,8 @@
   "title": "Promjena na stranici: Vacancy",
   "url": "https://www.ohr.int/vacancies",
   "it": true,
-  "priority": 4
+  "priority": 4,
+  "sent": true
  },
  {
   "ts": "2026-11-13T14:28:01+00:00",
@@ -26491,7 +26668,8 @@
   "it": true,
   "priority": 4,
   "match": "backend",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-13T14:28:01+00:00",
@@ -26707,7 +26885,8 @@
   "it": true,
   "priority": 4,
   "match": "sap",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-13T18:07:41+00:00",
@@ -26743,7 +26922,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-13T18:07:41+00:00",
@@ -26803,7 +26983,8 @@
   "it": true,
   "priority": 4,
   "match": "devops",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-14T06:07:42+00:00",
@@ -26884,7 +27065,8 @@
   "it": true,
   "priority": 4,
   "match": "developer",
-  "snippet": ""
+  "snippet": "",
+  "sent": true
  },
  {
   "ts": "2026-11-14T12:07:43+00:00",
@@ -27077,5 +27259,170 @@
   "priority": 2,
   "match": "",
   "snippet": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Product Owner for Substation Automation Software (f/m/d)",
+  "url": "https://www.linkedin.com/jobs/view/4456019638",
+  "company": "Siemens Energy",
+  "it": true,
+  "priority": 4,
+  "match": "software",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "bih"
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Engineering Manager",
+  "url": "https://www.linkedin.com/jobs/view/4489489976",
+  "company": "Paymentology",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Grid Control Expert (f/m/d) for SCADA",
+  "url": "https://www.linkedin.com/jobs/view/4426131099",
+  "company": "Siemens Energy",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Pre-Sales Consultant - HPE Hybrid IT",
+  "url": "https://www.linkedin.com/jobs/view/4488936280",
+  "company": "Midis Group",
+  "it": true,
+  "priority": 4,
+  "match": "IT",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "bih"
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Poreski konsultant – oblast transfernih cijena",
+  "url": "https://www.linkedin.com/jobs/view/4487169208",
+  "company": "Unija ETL BiH",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Google Ads Media Buyer / Growth Strategist (Remote)",
+  "url": "https://www.linkedin.com/jobs/view/4491052648",
+  "company": "Sweat Pants Agency",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Support Operator EMEA (m/f/x)",
+  "url": "https://www.linkedin.com/jobs/view/4489658384",
+  "company": "GRID esports",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "New Business Associate",
+  "url": "https://www.linkedin.com/jobs/view/4491203304",
+  "company": "Consultancy Research International For Recruiters 6",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Prodavac - Sinsay Klju&#x10D;",
+  "url": "https://www.linkedin.com/jobs/view/4488535794",
+  "company": "LPP BH",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Prodavač na 30 sati sedmično (m/ž), Zvornik",
+  "url": "https://www.linkedin.com/jobs/view/4490345446",
+  "company": "JYSK",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-15T16:42:06+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Google Ads Media Buyer / Growth Strategist (Remote)",
+  "url": "https://www.linkedin.com/jobs/view/4491083543",
+  "company": "Sweat Pants Agency",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
  }
 ]
