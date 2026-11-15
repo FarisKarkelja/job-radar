@@ -58,6 +58,18 @@ def get(url: str, *, insecure: bool = False, timeout: int = 30, retries: int = 2
     raise last or FetchError("nepoznata greška")
 
 
+def post_json(url: str, payload: dict, timeout: int = 30):
+    """POST sa JSON tijelom (npr. Workday), vrati JSON odgovor."""
+    try:
+        r = _session.post(url, json=payload, timeout=timeout,
+                          headers={"Accept": "application/json", "Content-Type": "application/json"})
+    except requests.exceptions.RequestException as e:
+        raise FetchError(f"{e.__class__.__name__}: {e}")
+    if r.status_code >= 400:
+        raise FetchError(f"HTTP {r.status_code}")
+    return r.json()
+
+
 def pdf_text(content: bytes, max_pages: int = 15) -> str:
     try:
         from pypdf import PdfReader

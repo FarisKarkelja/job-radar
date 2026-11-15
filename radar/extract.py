@@ -12,7 +12,7 @@ from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode, qu
 import feedparser
 from bs4 import BeautifulSoup
 
-from .fetch import get, FetchError
+from .fetch import get, post_json, FetchError
 
 log = logging.getLogger("radar.extract")
 
@@ -440,6 +440,37 @@ def handle_personio(src, browser):
     return out
 
 
+def handle_breezy(src, browser):
+    c = src["company_id"]
+    data = get(f"https://{c}.breezy.hr/json", accept_json=True).json()
+    out = []
+    for j in data:
+        loc = j.get("location") or {}
+        where = loc.get("name", "") if isinstance(loc, dict) else str(loc)
+        if (isinstance(loc, dict) and loc.get("is_remote")) or "remote" in str(j.get("type", "")).lower():
+            where += " (remote)"
+        out.append(_job(j.get("url") or f"https://{c}.breezy.hr/p/{j.get('friendly_id')}",
+                        j.get("name", ""), (j.get("company") or {}).get("name") or src["name"], where))
+    return out
+
+
+def handle_workday(src, browser):
+    """Workday javni CXS API (npr. Infobip). `site` = https://x.wdN.myworkdayjobs.com/{tenant}/{board}"""
+    base = src["site"].rstrip("/")
+    host = re.match(r"https://[^/]+", base).group(0)
+    tenant = src.get("tenant") or re.match(r"https://([^.]+)\.", base).group(1)
+    board = base.split("/")[-1]
+    api = f"{host}/wday/cxs/{tenant}/{board}/jobs"
+    out = {}
+    for search in src.get("searches", [""]):
+        data = post_json(api, {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": search})
+        for j in data.get("jobPostings", []):
+            url = f"{host}/en-US/{board}{j.get('externalPath', '')}"
+            out[url] = _job(url, j.get("title", ""), src.get("company", src["name"]),
+                            j.get("locationsText", ""))
+    return list(out.values())
+
+
 def handle_teamtailor(src, browser):
     r = get(f"https://{src['company_id']}.teamtailor.com/jobs.rss")
     feed = feedparser.parse(r.content)
@@ -495,6 +526,8 @@ HANDLERS = {
     "recruitee": handle_recruitee,
     "personio": handle_personio,
     "teamtailor": handle_teamtailor,
+    "breezy": handle_breezy,
+    "workday": handle_workday,
 }
 
 

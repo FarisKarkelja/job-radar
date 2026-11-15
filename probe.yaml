@@ -1,0 +1,75 @@
+# Kandidati koje radar/probe.py testira na GitHubu (bez notifikacija).
+# Ispravni se prebacuju u sources.yaml.
+
+sources:
+  # ---------------- STAR.study (MUNJA) - prakse i poslovi, i vani
+  - {id: star_praksa, name: STAR.study prakse, url: https://star.study/bs/novosti/praksa,
+     pattern: 'star\.study/bs/novost/.+/\d+', location: abroad, scope: program}
+  - {id: star_posao, name: STAR.study poslovi, url: https://star.study/bs/novosti/posao,
+     pattern: 'star\.study/bs/novost/.+/\d+', location: bih, scope: broad}
+  - {id: star_edukacija, name: STAR.study edukacije, url: https://star.study/bs/novosti/edukacija,
+     pattern: 'star\.study/bs/novost/.+/\d+', location: bih, scope: broad}
+
+  # ---------------- ATS (JSON) - Sarajevo IT firme
+  - {id: atlantbh_jobs, name: Atlantbh, type: workable, account: atlantbh, url: https://apply.workable.com/atlantbh/, location: sarajevo}
+  - {id: povio, name: Povio, type: workable, account: povio, url: https://apply.workable.com/povio/, location: bih}
+  - {id: symphony_lever, name: Symphony, type: lever, company_id: symphony, eu: true, url: https://jobs.eu.lever.co/symphony, location: bih}
+  - {id: symphony_breezy, name: Symphony (Elevate), type: breezy, company_id: symphony, url: https://symphony.breezy.hr, location: bih}
+  - {id: rubicon, name: Rubicon, type: breezy, company_id: rubicon-d-o-o, url: https://rubicon-d-o-o.breezy.hr, location: sarajevo}
+  - {id: klika_breezy, name: Klika, type: breezy, company_id: klika-doo-sarajevo, url: https://klika-doo-sarajevo.breezy.hr, location: bih}
+  - {id: infobip_workday, name: Infobip, type: workday, site: https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers,
+     searches: [Sarajevo, Bosnia, Remote], url: https://www.infobip.com/jobs-at-infobip, location: bih}
+
+  # ---------------- studentski programi vani
+  - {id: cern, name: CERN (studentski programi), type: smartrecruiters, company_id: CERN, url: https://careers.cern/students,
+     location: abroad, scope: program, include: '(student|intern|summer|openlab|graduate|trainee|doctoral)'}
+  - {id: iagora_ch, name: iAgora IT prakse Švicarska, url: https://www.iagora.com/work/en/internships/it/switzerland,
+     location: abroad, scope: program}
+  - {id: western_balkanship, name: Western-BALKANship (Italija), type: page_hash, url: https://www.uniadrion.net/western-balkanship-create-your-future/,
+     location: abroad, scope: program}
+  - {id: wise_wb, name: WISE Western Balkans Internship Scheme, type: page_hash, url: https://wise.ypn.al/, location: abroad, scope: program}
+  - {id: untalent, name: UN Talent (prakse), url: https://untalent.org/jobs, location: abroad, scope: broad,
+     include: '(intern|trainee)'}
+  - {id: impactpool, name: Impactpool (prakse), url: https://www.impactpool.org/jobs, js: true, location: abroad, scope: broad,
+     include: '(intern|trainee)'}
+  - {id: idemoo, name: idemoo prilike, url: https://www.idemoo.com, location: abroad, scope: program,
+     include: '(prak|intern|iaeste|traineeship|summer)'}
+  - {id: optiver, name: Optiver (prakse), type: greenhouse, board: optiver, url: https://optiver.com/working-at-optiver/career-opportunities/,
+     location: abroad, scope: program, include: '(intern|graduate|student)'}
+  - {id: imc, name: IMC (prakse), type: greenhouse, board: imc, url: https://www.imc.com/eu/careers, location: abroad, scope: program,
+     include: '(intern|graduate|student)'}
+
+  # ---------------- Sarajevo: organizacije i studentski portali
+  - {id: nato_sarajevo, name: NATO HQ Sarajevo (lokalne pozicije), type: page_hash,
+     url: https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx, location: sarajevo}
+  - {id: eestec_sa, name: EESTEC Sarajevo, url: https://www.eestec-sa.ba/posts, location: sarajevo, scope: company}
+  - {id: itkarijera_prakse, name: itkarijera prakse, url: https://itkarijera.ba/prakse, location: bih, scope: it}
+  - {id: itkarijera_poslovi, name: itkarijera poslovi, url: https://itkarijera.ba/poslovi, location: bih, scope: it}
+  - {id: rolify, name: Rolify prilike, type: rss, url: https://rolify.com/prilike/, feed: https://rolify.com/feed/,
+     location: bih, scope: company}
+  - {id: studentska_praksa, name: studentska.ba prakse, url: https://studentska.ba/praksa, location: bih, scope: company}
+  - {id: mreza_mira_intern, name: Mreža mira internships, type: rss, url: https://www.mreza-mira.net/vijesti/volonterski-angazman-i-internships/,
+     feed: https://www.mreza-mira.net/vijesti/volonterski-angazman-i-internships/feed/, location: bih, scope: company}
+  - {id: studomat, name: studomat, type: rss, url: https://studomat.ba/, feed: https://studomat.ba/feed/, location: bih, scope: company}
+  - {id: hocu, name: Hoću.ba, url: https://www.hocu.ba, location: bih, scope: company}
+  - {id: rcc, name: Regional Cooperation Council (Sarajevo), type: page_hash, url: https://www.rcc.int/vacancies, location: sarajevo}
+  - {id: osce_bih, name: OSCE Misija BiH (vacancies), type: page_hash, url: https://www.osce.org/mission-to-bosnia-and-herzegovina/vacancies, location: sarajevo}
+
+# Imena firmi (i varijante) za ATS sondu
+ats_slugs: [
+  atlantbh, povio, d-ploy, symphony, rubicon-d-o-o, klika-doo-sarajevo, klika, zira, ziragroup, zira-group,
+  authoritypartners, authority-partners, ministryofprogramming, ministry-of-programming, mop,
+  htec, htecgroup, endava, mistral, mistralbih, logosoft, antcolony, ant-colony, bloomteq, tech387,
+  prosoft, itineris, datapolis, maestral, maestralsolutions, evona, evonasoft, crossvallia, ergomed,
+  wundermobility, wunder-mobility, speechify, genomenon, skyline, skylinecommunications, avtera, zendev,
+  sportradar, hexis, adfinity, civitta, saga, sagadoo, waltercode, walter-code, galeyo, tacta, 2amtech, 2am,
+  bitalliance, codecta, visia, personifyhealth, personify-health, forsta, httpool, quantox, devoteam,
+  comtrade, nsoft, oradian, infinum, ankora, ankorasoftware, evolt, gradient, amplius, bidshore,
+  saasolutions, altinit, establish, kodecta, disti, eurobit, olivebh, balkon, isatis, singularity,
+  promotim, codepool, coreenigma, denelop, redbit, 3atlant, fabrika, amygdal, qss, appimpact, kondeva,
+  alemsistem, axessdigital, inmotion, digime, dash, cylo, osb, config, seeba, illuminos, ping,
+  helpjuice, omedia, systech, monri, mibo, atia, bosniasoftware, intellias, fortech, studiopresent,
+  serengeti, visium, tacta-io, printec, medrecord, a1team, inventry, deliveryhero, glovo, wolt,
+  bolt, toptal, turing, deel, remotecom, gitlab, automattic, canonical, jetbrains, optiver, imc,
+  janestreet, flowtraders, hrtrading, citadel, bloomberg, sonar, sonarsource, duckduckgo
+]

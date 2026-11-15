@@ -113,8 +113,10 @@ def classify(item, src, body_text=""):
         if match:
             snippet = snippet_around(body_text, match)
     scope = src.get("scope", "company")
-    is_it = bool(match) or scope in ("it", "program")
+    is_it = bool(match) or scope == "it"
     entry = is_entry_level(title_ctx) or (is_it and bool(body_text) and is_entry_level(body_text[:3000]))
+    if scope == "program" and not entry:
+        entry = True   # izvori studentskih programa: sve su prakse/programi
     item["it"] = is_it
     item["entry"] = entry
     item["match"] = match or ""
@@ -123,6 +125,8 @@ def classify(item, src, body_text=""):
         item["priority"] = 5
     elif is_it:
         item["priority"] = 4
+    elif scope == "program":
+        item["priority"] = 4      # praksa/program vani koji nije IT po naslovu
     else:
         item["priority"] = 3
     return item
