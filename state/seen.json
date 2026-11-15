@@ -79,7 +79,9 @@
    "8395fa6b-dcf2-11f1-a8c0-42010a9c001a",
    "293f4210-df70-11f1-8233-42010a9c001b",
    "dfa8e069-df70-11f1-8233-42010a9c001b",
-   "197b03e8-df72-11f1-8233-42010a9c001b"
+   "197b03e8-df72-11f1-8233-42010a9c001b",
+   "0d636d87-ddaa-11f1-a8c0-42010a9c001a",
+   "35dfe2ce-dcec-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -409,7 +411,14 @@
    "dfa8e069-df70-11f1-8233-42010a9c001b",
    "53332a1b-df75-11f1-8233-42010a9c001b",
    "df949902-df75-11f1-8233-42010a9c001b",
-   "d1710f98-df5f-11f1-8233-42010a9c001b"
+   "d1710f98-df5f-11f1-8233-42010a9c001b",
+   "8a15ce44-de72-11f1-8233-42010a9c001b",
+   "197b03e8-df72-11f1-8233-42010a9c001b",
+   "5bc3086b-d464-11f1-a8c0-42010a9c001a",
+   "9c268626-de88-11f1-8233-42010a9c001b",
+   "b4c2c261-df4e-11f1-8233-42010a9c001b",
+   "676442c7-dd13-11f1-a8c0-42010a9c001a",
+   "97800c56-dd12-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -2418,7 +2427,6 @@
  },
  "atos": {
   "keys": [
-   "hash:8b9ae5bf75658ce9",
    "hash:3a73761e60cd250d",
    "hash:c98fe7468cf4d281",
    "hash:21df775a17e126cb",
@@ -2467,7 +2475,8 @@
    "hash:8aecb3ced38eb4c0",
    "hash:4abfdbcb080983ce",
    "hash:294c6410a4ce5e5a",
-   "hash:8cf18e86b8060a96"
+   "hash:8cf18e86b8060a96",
+   "hash:859d552d0e9d726a"
   ],
   "lines": [
    "Poslovnice i bankomati",
@@ -2561,17 +2570,17 @@
    "Niste pronašli odgovarujuce radno mjesto, a zainteresovani ste za posao u našoj Banci?",
    "Konkurišite online",
    "Možda Vas interesuje",
-   "Western Union",
-   "Brz i siguran transfer novca",
-   "Detaljnije",
-   "Optimum paket",
-   "Plaćajte manje, koristite više!",
-   "Detaljnije",
    "Stambeni krediti",
    "Ostvarite san o vlastitom domu",
    "Detaljnije",
-   "Oročena štednja",
-   "Ulažite u budućnost",
+   "SMS i e-mail servis",
+   "Informacije o računu bilo gdje i bilo kad",
+   "Detaljnije",
+   "Western Union",
+   "Brz i siguran transfer novca",
+   "Detaljnije",
+   "KREDIT ZA SVE",
+   "Nenamjenski i zamjenski kredit",
    "Detaljnije",
    "Trebate pomoć?",
    "Kontaktirajte nas",
@@ -5221,7 +5230,8 @@
    "hash:0ebaf5fe0eed4a8e",
    "hash:c9c3f23899bca107",
    "hash:3a5e239875b1fb20",
-   "hash:d8e1796590c91556"
+   "hash:d8e1796590c91556",
+   "hash:790e2b91b5cdcfd0"
   ],
   "lines": [
    "O nama",
@@ -5338,7 +5348,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 14. 2026",
+   "novembar 15. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -5471,7 +5481,6 @@
  },
  "hemofarm": {
   "keys": [
-   "hash:daecff01bb4ed380",
    "hash:7a9af597781eb3ea",
    "hash:13675ba35bf84bc7",
    "hash:230d4988af420ef9",
@@ -5520,13 +5529,14 @@
    "hash:469325a1c3bfe889",
    "hash:70b7c91c78a85bc2",
    "hash:146e3368fda869a2",
-   "hash:e5a4397803379c7e"
+   "hash:e5a4397803379c7e",
+   "hash:5daa5d4f4ea3507c"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://www.hemofarm.ba/srb/karijera\" on this server.",
-   "Reference #18.a5f50f17.1794690585.1b72d356",
-   "https://errors.edgesuite.net/18.a5f50f17.1794690585.1b72d356"
+   "Reference #18.cb5ec817.1794704394.333b1ace",
+   "https://errors.edgesuite.net/18.cb5ec817.1794704394.333b1ace"
   ]
  },
  "asa_grupa": {

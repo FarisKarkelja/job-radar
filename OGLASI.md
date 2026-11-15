@@ -4,6 +4,15 @@
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 15.11. 01:58 | • [Radnik na dostavi i distribuciji (m/ž)](https://www.mojposao.ba/posao/0d636d87-ddaa-11f1-a8c0-42010a9c001a/radnik-na-dostavi-i-distribuciji-mz) | MojPosao IT |
+| 15.11. 01:58 | • [Komercijalista](https://www.mojposao.ba/posao/35dfe2ce-dcec-11f1-a8c0-42010a9c001a/komercijalista) | MojPosao IT |
+| 15.11. 01:58 | • [Reisekaufmann / Reisekauffrau (m/w/d)](https://www.mojposao.ba/posao/8a15ce44-de72-11f1-8233-42010a9c001b/reisekaufmann--reisekauffrau-mwd) | MojPosao Kanton Sarajevo |
+| 15.11. 01:58 | • [Blagajnik/ Referent Prodaje](https://www.mojposao.ba/posao/197b03e8-df72-11f1-8233-42010a9c001b/blagajnik-referent-prodaje) | MojPosao Kanton Sarajevo |
+| 15.11. 01:58 | • [Store visual merchandiser / Vizuelni aranžer (m/ž)](https://www.mojposao.ba/posao/5bc3086b-d464-11f1-a8c0-42010a9c001a/store-visual-merchandiser--vizuelni-aranzer-mz) | MojPosao Kanton Sarajevo |
+| 15.11. 01:58 | • [Prodavač](https://www.mojposao.ba/posao/9c268626-de88-11f1-8233-42010a9c001b/prodavac) | MojPosao Kanton Sarajevo |
+| 15.11. 01:58 | • [Frizer (m/ž)](https://www.mojposao.ba/posao/b4c2c261-df4e-11f1-8233-42010a9c001b/frizer-mz) | MojPosao Kanton Sarajevo |
+| 15.11. 01:58 | • [Viši referent knjigovođa stalnih sredstava](https://www.mojposao.ba/posao/676442c7-dd13-11f1-a8c0-42010a9c001a/visi-referent-knjigovodja-stalnih-sredstava) | MojPosao Kanton Sarajevo |
+| 15.11. 01:58 | • [Načelnik službe](https://www.mojposao.ba/posao/97800c56-dd12-11f1-a8c0-42010a9c001a/nacelnik-sluzbe) | MojPosao Kanton Sarajevo |
 | 14.11. 19:07 | • [Blagajnik/ Referent Prodaje](https://www.mojposao.ba/posao/197b03e8-df72-11f1-8233-42010a9c001b/blagajnik-referent-prodaje) | MojPosao IT |
 | 14.11. 19:07 | • [Kundenbetreuer in einem führenden Telekommunikationsunternehmen](https://www.linkedin.com/jobs/view/4446732942) · Concentrix | LinkedIn BiH |
 | 14.11. 16:07 | • [Prodavač (m/ž)](https://www.mojposao.ba/posao/dfa8e069-df70-11f1-8233-42010a9c001b/prodavac--mz) | MojPosao IT |
@@ -1495,12 +1504,3 @@
 | 02.11. 00:13 | •⏺ [Rezultati pismenog dijela ispita za JO1 – pozicije 1 i 2](https://judzks.ba/wp-content/uploads/2021/12/Rezultati-pismenog-dijela-ispita-za-JO-1-objavljenog-25.10.2021.godine.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Obavijest o izmjeni rasporeda polaganja pismenog dijela ispita za JO1](https://judzks.ba/wp-content/uploads/2021/12/Obavijest-o-izmjeni-termina-polaganja-pismenog-dijela-ispita-za-JO-1.pdf) | Dom zdravlja KS |
 | 02.11. 00:13 | •⏺ [Obavijest o polaganju pismenog dijela ispita JO1](https://judzks.ba/wp-content/uploads/2021/12/OBAVIJEST-POLAGANJE-PISMENOG.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Spisak kandidata čija dokumentacija nije ispravna JO1](https://judzks.ba/wp-content/uploads/2021/11/SPISAK-KANDIDATA-CIJA-DOKUMENTACIJA-NIJE-ISPRAVNA-JAVNI-OGLAS-1-OBJAVLJEN-25.10.2021.GODINE.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Spisak kandidata među kojima će se provoditi izborni postupak JO1](https://judzks.ba/wp-content/uploads/2021/11/SPISAK-KANDIDATA-MEDU-KOJIMA-CE-SE-PROVODITI-IZBORNI-POSTUPAK-JAVNI-OGLAS-1-OBJAVLJEN-25.10.2021.GODINE.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Poslovnik o radu Komisije za provođenje JO 1 za prijem u radni odnos na neodređeno vrijeme od 25.10.2021.(objavljeno 25.10.2021.)](https://judzks.ba/wp-content/uploads/2021/10/Poslovnik-Komisije-za-Javni-oglas-1.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [JAVNI OGLAS 1 ZA PRIJEM U RADNI ODNOS NA NEODREĐENO VRIJEME (objavljeno 25.10.2021.)](https://judzks.ba/wp-content/uploads/2021/10/04_01-JAVNI-OGLAS-DOKTORI-MEDICINE-10_2021.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Ispitna pitanja za poziciju broj 1 – MEDICINSKA SESTRA-TEHNIČAR – Služba porodične medicne (objavljeno 22.10 .2021.)](https://judzks.ba/wp-content/uploads/2021/10/08_03-MEDICINSKE-SESTRE-JO3-pitanja-propisi-i-literatura.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Ispitna pitanja za poziciju broj 1 – DOKTOR MEDICINE – Služba porodične medicine i za poziciju broj 2 – DOKTOR MEDICINE – Dispanzer za školsku djecu i omladinu (objavljeno 22.10 .2021.)](https://judzks.ba/wp-content/uploads/2021/10/DOKTORI-MEDICINE-JO1-pitanja-propisi-i-literatura.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Ispitna pitanja za poziciju broj 1 – DIPL. INŽINJER MEDICINSKE RADIOLOGIJE (objavljeno 22.10 .2021.)](https://judzks.ba/wp-content/uploads/2021/10/Ispitna-pitanja-INZINJER-MEDICINSKE-RADIOLOGIJE.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Ispitna pitanja za poziciju broj 2 – SPECIJALISTA PNEUMOFTIZIOLOG/PULMOLOG (objavljeno 22.10.2021.)](https://judzks.ba/wp-content/uploads/2021/10/Ispitna-pitanja-SPECIJALISTA-PNEUMOFTIZIOLO-PULMOLOG.pdf) | Dom zdravlja KS |
-| 02.11. 00:13 | •⏺ [Preuzmi](http://judzks.ba/wp-content/uploads/2021/07/javni-oglas-za-izbor-i-imenovanje-generalnog-direktora-judzks-juni-2021.pdf) | Dom zdravlja KS |
