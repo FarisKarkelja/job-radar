@@ -305,42 +305,153 @@ def handle_workable(src, browser):
         link = clean_url(j.get("url") or j.get("application_url") or
                          f"https://apply.workable.com/{acc}/j/{j.get('shortcode')}")
         loc = ", ".join(x for x in [j.get("city"), j.get("country")] if x)
+        if j.get("telecommuting"):
+            loc += " (remote)"
         items.append({"key": link, "title": _txt(j.get("title")), "url": link,
                       "company": data.get("name") or src["name"], "location": loc})
     return items
 
 
 def handle_linkedin(src, browser):
-    """LinkedIn javna (guest) pretraga, bez prijave. Oglasi iz zadnjih 7 dana."""
+    """LinkedIn javna (guest) pretraga, bez prijave. Oglasi iz zadnjih 7 dana.
+
+    `searches` je lista {location, remote}: remote: true dodaje filter
+    "Remote + Hybrid" (f_WT=2,3), pa takvi oglasi prolaze bez provjere lokacije.
+    """
     items = {}
-    location = src.get("location", "Bosnia and Herzegovina")
-    for kw in src["queries"]:
-        url = ("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-               f"?keywords={quote_plus(kw)}&location={quote_plus(location)}"
-               "&f_TPR=r604800&sortBy=DD&start=0")
-        try:
-            html = get(url, retries=1).text
-        except FetchError as e:
-            log.info("LinkedIn '%s' nije uspio: %s", kw, e)
-            continue
-        soup = BeautifulSoup(html, "lxml")
-        for card in soup.select("li"):
-            a = card.select_one("a.base-card__full-link, a[href*='/jobs/view/']")
-            if not a:
+    searches = src.get("searches") or [{"location": src.get("location_query", "Bosnia and Herzegovina")}]
+    for search in searches:
+        wt = "&f_WT=2%2C3" if search.get("remote") else ""
+        for kw in src["queries"]:
+            url = ("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+                   f"?keywords={quote_plus(kw)}&location={quote_plus(search['location'])}"
+                   f"&f_TPR=r604800&sortBy=DD&start=0{wt}")
+            try:
+                html = get(url, retries=1).text
+            except FetchError as e:
+                log.info("LinkedIn '%s' nije uspio: %s", kw, e)
                 continue
-            m = re.search(r"(\d{6,})", a["href"])
-            if not m:
-                continue
-            job_id = m.group(1)
-            title = _txt((card.select_one("h3") or a).get_text(" "))
-            company = _txt((card.select_one("h4") or card).get_text(" ")) if card.select_one("h4") else ""
-            loc_el = card.select_one(".job-search-card__location")
-            link = f"https://www.linkedin.com/jobs/view/{job_id}"
-            items[link] = {"key": link, "title": title, "url": link, "company": company,
-                           "location": _txt(loc_el.get_text(" ")) if loc_el else ""}
+            soup = BeautifulSoup(html, "lxml")
+            for card in soup.select("li"):
+                a = card.select_one("a.base-card__full-link, a[href*='/jobs/view/']")
+                if not a:
+                    continue
+                m = re.search(r"(\d{6,})", a["href"])
+                if not m:
+                    continue
+                job_id = m.group(1)
+                title = _txt((card.select_one("h3") or a).get_text(" "))
+                h4 = card.select_one("h4")
+                company = _txt(h4.get_text(" ")) if h4 else ""
+                loc_el = card.select_one(".job-search-card__location")
+                loc = _txt(loc_el.get_text(" ")) if loc_el else ""
+                link = f"https://www.linkedin.com/jobs/view/{job_id}"
+                prev = items.get(link)
+                item = {"key": link, "title": title, "url": link, "company": company,
+                        "location": loc + (" (remote/hybrid)" if search.get("remote") else "")}
+                if search.get("remote") or "sarajev" in search["location"].lower():
+                    item["loc_ok"] = True
+                if not prev or item.get("loc_ok"):
+                    items[link] = item
     if not items:
         raise FetchError("LinkedIn nije vratio nijedan oglas (moguća blokada)")
     return list(items.values())
+
+
+# ---------------------------------------------------------------- ATS sistemi (JSON API)
+
+def _job(link, title, company, location=""):
+    link = clean_url(link)
+    return {"key": link, "title": _txt(title)[:240], "url": link,
+            "company": _txt(company), "location": _txt(location)}
+
+
+def handle_greenhouse(src, browser):
+    b = src["board"]
+    data = get(f"https://boards-api.greenhouse.io/v1/boards/{b}/jobs", accept_json=True).json()
+    return [_job(j["absolute_url"], j["title"], src.get("company", src["name"]),
+                 (j.get("location") or {}).get("name", "")) for j in data.get("jobs", [])]
+
+
+def handle_lever(src, browser):
+    c = src["company_id"]
+    host = "api.eu.lever.co" if src.get("eu") else "api.lever.co"
+    data = get(f"https://{host}/v0/postings/{c}?mode=json", accept_json=True).json()
+    out = []
+    for j in data:
+        cat = j.get("categories") or {}
+        loc = ", ".join(x for x in [cat.get("location"), j.get("workplaceType")] if x)
+        out.append(_job(j["hostedUrl"], j["text"], src.get("company", src["name"]), loc))
+    return out
+
+
+def handle_ashby(src, browser):
+    b = src["board"]
+    data = get(f"https://api.ashbyhq.com/posting-api/job-board/{b}", accept_json=True).json()
+    out = []
+    for j in data.get("jobs", []):
+        loc = j.get("location") or ""
+        if j.get("isRemote"):
+            loc += " (remote)"
+        out.append(_job(j.get("jobUrl") or j.get("applyUrl"), j["title"],
+                        src.get("company", src["name"]), loc))
+    return out
+
+
+def handle_smartrecruiters(src, browser):
+    c = src["company_id"]
+    data = get(f"https://api.smartrecruiters.com/v1/companies/{c}/postings?limit=100",
+               accept_json=True).json()
+    out = []
+    for j in data.get("content", []):
+        loc = j.get("location") or {}
+        where = ", ".join(x for x in [loc.get("city"), loc.get("country")] if x)
+        if loc.get("remote"):
+            where += " (remote)"
+        url = f"https://jobs.smartrecruiters.com/{c}/{j['id']}"
+        out.append(_job(url, j["name"], (j.get("company") or {}).get("name") or src["name"], where))
+    return out
+
+
+def handle_recruitee(src, browser):
+    c = src["company_id"]
+    data = get(f"https://{c}.recruitee.com/api/offers/", accept_json=True).json()
+    out = []
+    for j in data.get("offers", []):
+        loc = j.get("location") or ""
+        if j.get("remote"):
+            loc += " (remote)"
+        out.append(_job(j.get("careers_url") or j.get("url"), j["title"],
+                        j.get("company_name") or src["name"], loc))
+    return out
+
+
+def handle_personio(src, browser):
+    c = src["company_id"]
+    dom = src.get("domain", "de")
+    r = get(f"https://{c}.jobs.personio.{dom}/xml")
+    soup = BeautifulSoup(r.content, "xml")
+    out = []
+    for p in soup.find_all("position"):
+        pid = p.find("id").get_text() if p.find("id") else ""
+        name = p.find("name").get_text() if p.find("name") else ""
+        office = p.find("office").get_text() if p.find("office") else ""
+        out.append(_job(f"https://{c}.jobs.personio.{dom}/job/{pid}", name, src["name"], office))
+    return out
+
+
+def handle_teamtailor(src, browser):
+    r = get(f"https://{src['company_id']}.teamtailor.com/jobs.rss")
+    feed = feedparser.parse(r.content)
+    out = []
+    for e in feed.entries:
+        loc = ""
+        for key in ("tt_location", "location", "tt_locations"):
+            if e.get(key):
+                loc = str(e.get(key))
+                break
+        out.append(_job(e.get("link", ""), e.get("title", ""), src["name"], loc))
+    return out
 
 
 def page_text(html: str, selector: str = None) -> list:
@@ -377,6 +488,13 @@ HANDLERS = {
     "workable": handle_workable,
     "linkedin": handle_linkedin,
     "page_hash": handle_page_hash,
+    "greenhouse": handle_greenhouse,
+    "lever": handle_lever,
+    "ashby": handle_ashby,
+    "smartrecruiters": handle_smartrecruiters,
+    "recruitee": handle_recruitee,
+    "personio": handle_personio,
+    "teamtailor": handle_teamtailor,
 }
 
 

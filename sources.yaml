@@ -27,6 +27,7 @@ sources:
   # ------------------------------------------------------------ portali
   - id: mojposao_it
     name: MojPosao IT
+    location: bih
     category: portal
     url: https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype
     js: true
@@ -37,6 +38,7 @@ sources:
 
   - id: mojposao_ks
     name: MojPosao Kanton Sarajevo
+    location: sarajevo
     category: portal
     url: https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype
     js: true
@@ -47,6 +49,7 @@ sources:
 
   - id: klix_it
     name: Klix Posao IT
+    location: bih
     category: portal
     type: jsonld
     url: https://posao.klix.ba/kat/it-telekomunikacije
@@ -55,6 +58,7 @@ sources:
 
   - id: itbase
     name: ITBase
+    location: bih
     category: portal
     url: https://itbase.ba/poslovi
     pattern: 'itbase\.ba/.*\d{3,}'
@@ -63,6 +67,7 @@ sources:
 
   - id: workable_bih
     name: Workable BiH
+    location: bih
     category: portal
     url: https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs
     js: true
@@ -73,38 +78,27 @@ sources:
 
   - id: linkedin_bih
     name: LinkedIn BiH
+    location: bih
     category: portal
     type: linkedin
     url: https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina
-    queries: [software, developer, IT, intern, junior, data, QA, engineer]
-    scope: broad
-
-  - id: mojkonkurs
-    enabled: false   # agregator nije ažuriran od januara 2026
-    name: MojKonkurs
-    category: portal
-    url: https://mojkonkurs.ba/
-    js: true
+    searches:
+      - {location: "Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina"}
+      - {location: "Bosnia and Herzegovina", remote: true}
+    queries: [software, developer, IT, intern, internship, junior, data, QA, engineer, praksa]
     scope: broad
 
   - id: poslovnioglasi
     name: Poslovni oglasi
+    location: bih
     category: portal
     url: https://poslovnioglasi.ba/
     js: true
     scope: broad
 
-  - id: glassrpske_konkursi
-    name: Glas Srpske konkursi
-    category: portal
-    url: https://www.glassrpske.com/lat/ekonomija/konkursi
-    pattern: 'glassrpske\.com/lat/ekonomija/konkursi/.+/\d+'
-    scope: broad
-    deep: true
-
-  # ------------------------------------------------------------ javni sektor i zavodi
   - id: ads_bih
     name: ADS BiH
+    location: bih
     category: javni
     url: https://www.ads.gov.ba/bs-latn-ba/open-vacancies
     js: true
@@ -116,6 +110,7 @@ sources:
 
   - id: ads_fbih
     name: ADS FBiH eKonkurs
+    location: bih
     category: javni
     url: https://ekonkurs.adsfbih.gov.ba
     js: true
@@ -124,17 +119,9 @@ sources:
     deep: true
     insecure: true
 
-  - id: adu_rs
-    name: ADU RS konkursi (preko javi.ba)
-    category: javni
-    url: https://javi.ba/izvor/agencija-za-drzavnu-upravu-rs-konkursi
-    any_domain: true
-    exclude: 'javi\.ba/(katalog|izvor|kategorij|o-nama|prijava|registr)'
-    scope: broad
-    deep: true
-
   - id: szks
     name: SZKS (Služba za zapošljavanje KS)
+    location: sarajevo
     category: javni
     type: rss
     url: https://szks.ba/oglasi/
@@ -145,22 +132,9 @@ sources:
       type: links
       pattern: 'szks\.ba/posao/'
 
-  - id: zzzrs
-    name: Zavod za zapošljavanje RS
-    category: javni
-    type: page_hash
-    url: https://zzzrs.net/lat/oglasi/search
-    js: true
-
-  - id: zdk_szz
-    name: Služba za zapošljavanje ZDK
-    category: javni
-    url: https://zdk-szz.ba/
-    scope: broad
-    deep: true
-
   - id: judzks
     name: Dom zdravlja KS
+    location: sarajevo
     category: javni
     url: https://judzks.ba/zaposljavanje/
     pattern: 'judzks\.ba/konkurs/'
@@ -169,6 +143,7 @@ sources:
 
   - id: bhtelecom
     name: BH Telecom
+    location: bih
     category: telekom
     type: rss
     url: https://www.bhtelecom.ba/category/javni-oglasi-za-posao/
@@ -181,6 +156,7 @@ sources:
 
   - id: epbih
     name: Elektroprivreda BiH
+    location: bih
     category: javni
     url: https://www.epbih.ba/stranica/ljudski-resursi
     pattern: '\.pdf'
@@ -191,6 +167,7 @@ sources:
   # ------------------------------------------------------------ banke
   - id: sparkasse
     name: Sparkasse Bank BiH (otvoreni konkursi)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://sparkasse.mojposao.ba/
@@ -198,112 +175,84 @@ sources:
 
   - id: unicredit_ba
     name: UniCredit Bank (karijere)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.unicredit.ba/en/banka/karijere/karijere.html
 
-  - id: unicredit_bl
-    name: UniCredit Bank Banja Luka (karijera)
-    category: banka
-    type: page_hash
-    url: https://www.unicreditbank-bl.ba/bhs/o-nama/karijera/zaposlenje.html
-
   - id: raiffeisen
     name: Raiffeisen Bank BiH (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.raiffeisenbank.ba/bs/o-nama/karijera/posao-raiffeisen/raiffeisen-hr.html
 
   - id: intesa_oglasi
     name: Intesa Sanpaolo Banka (oglasi)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html
 
   - id: intesa_zaposlenje
     name: Intesa Sanpaolo Banka (zaposlenje)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html
 
-  - id: nlb_bl
-    name: NLB Banka Banja Luka (karijera)
-    category: banka
-    type: page_hash
-    url: https://www.nlb-rs.ba/o-banci/karijera
-
   - id: procredit
     name: ProCredit Bank (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.procreditbank.ba/karijera
 
   - id: procredit_praksa
     name: ProCredit Bank (studentska praksa)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.procreditbank.ba/karijera/propraksa
 
-  - id: addiko_bl
-    name: Addiko Bank Banja Luka
-    category: banka
-    url: https://addiko-bank-bl.talentlyft.com/
-    js: true
-    any_domain: true
-    pattern: 'talentlyft\.com/(o/|jobs?/)'
-    min_items: 0
-
-  - id: addiko_bl_karijere
-    name: Addiko Bank Banja Luka (posao u banci)
-    category: banka
-    type: page_hash
-    url: https://www.addiko-rs.ba/o-nama/karijere/posao-u-banci
-
   - id: asabanka
     name: ASA Banka (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.asabanka.ba/karijera
 
   - id: bbi
     name: BBI Banka (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://bbi.ba/karijera
 
   - id: unionbank
     name: Union banka (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://unionbank.ba/karijera
 
   - id: unionbank_oglasi
     name: Union banka (tenderi i oglasi)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://unionbank.ba/tenderi
 
   - id: ziraat
     name: ZiraatBank BH (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://ziraatbank.ba/karijera
 
-  - id: mfbanka
-    name: MF banka
-    category: banka
-    url: https://mfbanka.com/index.php/category/karijera
-    pattern: 'mfbanka\.com/index\.php/karijera/.+'
-    min_items: 0
-
-  - id: atos
-    name: ATOS banka (karijera)
-    category: banka
-    type: page_hash
-    url: https://www.atosbank.ba/content/read/karijera
-
   - id: rbfbih
     name: Razvojna banka FBiH (oglasi)
+    location: sarajevo
     category: banka
     url: https://rbfbih.ba/category/sluzbene-objave/oglasi
     pattern: 'rbfbih\.ba/(javni-oglas|oglas|wp-content/uploads/.*oglas)'
@@ -311,6 +260,7 @@ sources:
 
   - id: cbbh
     name: Centralna banka BiH (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.cbbh.ba/career
@@ -318,69 +268,56 @@ sources:
 
   - id: monri
     name: Monri (careers)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://monri.com/careers
 
   - id: mikra
     name: Mikra (karijere)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://mikra.ba/karijere
 
-  - id: partner_mkf
-    name: Partner mikrokreditna
-    category: banka
-    url: https://www.partner.ba/oglasi
-    pattern: 'partner\.ba/oglas-'
-    deep: true
-
   - id: lok
     name: LOK mikrokreditna (karijere)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://lok.ba/karijere
 
   - id: sunrise
     name: Sunrise mikrokreditna (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.microsunrise.ba/karijera
 
-  - id: mibospo
-    name: Mi-Bospo (oglasi za posao)
-    category: banka
-    type: page_hash
-    url: https://www.mi-bospo.org/oglasi-za-posao
-
   - id: triglav
     name: Triglav osiguranje (zaposlenje)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.triglav.ba/karijera/triglav-zaposlenje
 
-  - id: wiener
-    name: Wiener osiguranje
-    category: banka
-    url: https://wiener.ba/karijera
-    pattern: 'wiener\.ba/wp-content/uploads/.*(oglas|konkurs)'
-    deep: true
-    min_items: 0
-
   - id: grawe
     name: Grawe osiguranje (posao)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.grawe.ba/grawe-posao
 
   - id: asa_osiguranje
     name: ASA osiguranje (karijera)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://asacentral.ba/karijera
 
   - id: raiffeisen_leasing
     name: Raiffeisen Leasing (posao)
+    location: sarajevo
     category: banka
     type: page_hash
     url: https://www.rlbh.ba/bs/o-nama/posao-u-raiffeisen-leasingu.html
@@ -388,18 +325,14 @@ sources:
   # ------------------------------------------------------------ telekomi
   - id: telemach
     name: Telemach BH (zaposlenje)
+    location: sarajevo
     category: telekom
     type: page_hash
     url: https://telemach.ba/zaposlenje
 
-  - id: mtel
-    name: m:tel karijera
-    category: telekom
-    url: https://mtel.ba/Karijera
-    pattern: 'mtel\.ba/Karijera/a\d+'
-
   - id: supernova
     name: Supernova (karijera)
+    location: sarajevo
     category: telekom
     type: page_hash
     url: https://www.supernovabih.ba/karijera
@@ -407,6 +340,7 @@ sources:
   # ------------------------------------------------------------ javna preduzeća i ustanove
   - id: bhposta
     name: BH Pošta (oglasi)
+    location: bih
     category: javni
     url: https://www.posta.ba/oglasi-i-obavjestenja
     pattern: 'posta\.ba/wp-content/uploads/.*\.pdf'
@@ -415,12 +349,14 @@ sources:
 
   - id: jpceste
     name: JP Ceste FBiH (oglasi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://jpcfbih.ba/bs/oglasi
 
   - id: bhgas
     name: BH Gas (javni oglasi)
+    location: sarajevo
     category: javni
     url: https://www.bh-gas.ba/javni-oglasi
     pattern: 'bh-gas\.ba/20\d\d/\d\d/\d\d/'
@@ -428,6 +364,7 @@ sources:
 
   - id: sarajevogas
     name: Sarajevogas (javni oglasi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos
@@ -435,6 +372,7 @@ sources:
 
   - id: energoinvest
     name: Energoinvest
+    location: sarajevo
     category: javni
     url: https://energoinvest.ba/karijere
     pattern: 'energoinvest\.ba/poslovi/'
@@ -443,6 +381,7 @@ sources:
 
   - id: aerodrom_sarajevo
     name: Aerodrom Sarajevo (oglasna ploča)
+    location: sarajevo
     category: javni
     url: https://sarajevo-airport.ba/List/Oglasna-ploca
     pattern: '/Oglasna-ploca/Read/\d+'
@@ -451,32 +390,28 @@ sources:
 
   - id: rtvfbih
     name: RTV FBiH (obavijesti i konkursi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://rtvfbih.ba/obavijesti
 
   - id: kcus
     name: KCUS (konkursi i oglasi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://kcus.ba/konkursi-i-oglasi
 
-  - id: ukc_tuzla
-    name: UKC Tuzla (konkursi)
-    category: javni
-    url: https://www.ukctuzla.ba/ukctuzla?page_id=7393&lang=bs
-    pattern: 'wp-content/uploads/.*\.pdf'
-    scope: broad
-    deep: true
-
   - id: obs
     name: Opća bolnica Sarajevo (oglasi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://www.obs.ba/index.php/oglasi.html
 
   - id: viksa
     name: KJKP Vodovod i kanalizacija
+    location: sarajevo
     category: javni
     url: https://www.viksa.ba/objave/javni_oglasi_i_konkursi
     pattern: 'viksa\.ba/clanak/\d+'
@@ -485,6 +420,7 @@ sources:
 
   - id: kjkp_rad
     name: KJKP Rad
+    location: sarajevo
     category: javni
     url: https://rad.com.ba/
     pattern: 'rad\.com\.ba/obavjestenja/\d+'
@@ -493,12 +429,14 @@ sources:
 
   - id: toplane
     name: KJKP Toplane (konkursi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://www.toplanesarajevo.ba/stranica/konkursi
 
   - id: kjkp_park
     name: KJKP Park
+    location: sarajevo
     category: javni
     url: https://www.park.ba/?page_id=9652
     pattern: 'park\.ba/wp-content/uploads/.*\.pdf'
@@ -507,6 +445,7 @@ sources:
 
   - id: kjkp_pokop
     name: KJKP Pokop
+    location: sarajevo
     category: javni
     url: https://pokop.ba/novosti
     pattern: 'pokop\.ba/novosti/.*(konkurs|oglas)'
@@ -515,6 +454,7 @@ sources:
 
   - id: vlada_ks
     name: Kanton Sarajevo (konkursi)
+    location: sarajevo
     category: javni
     url: https://vlada.ks.gov.ba/aktuelno/konkursi
     pattern: 'ks\.gov\.ba/.*(konkurs|oglas)'
@@ -522,41 +462,9 @@ sources:
     scope: broad
     deep: true
 
-  - id: szz_hnk
-    name: SZZ HNK (javni oglasi)
-    category: javni
-    url: https://www.szzhnz-k.ba/careers_.php
-    pattern: 'szzhnz-k\.ba/pdf/zaposlenje/'
-    exclude: '(obrazac|popis_clanova|popis članova)'
-    scope: broad
-    deep: true
-
-  - id: szz_zhk
-    name: SZZ ZHK (natječaji)
-    category: javni
-    url: https://szz-zzh.ba/natjecaji-za-posao
-    pattern: 'szz-zzh\.ba/20\d\d/\d\d/\d\d/'
-    scope: broad
-    deep: true
-
-  - id: szz_tk
-    name: SZZ Tuzlanski kanton (oglasi)
-    category: javni
-    url: https://szztk.ba/oglasi
-    pattern: 'szztk\.ba/posao/\d+'
-    scope: broad
-    deep: true
-
-  - id: szz_bpk
-    name: SZZ BPK Goražde (oglasi)
-    category: javni
-    url: https://szzbpk.ba/szzbpkoglasi/oglasikonkursi.php
-    pattern: 'szzbpkoglasi/uploads/.*\.pdf'
-    scope: broad
-    deep: true
-
   - id: arz_bih
     name: Agencija za rad i zapošljavanje BiH (oglasi)
+    location: sarajevo
     category: javni
     type: page_hash
     url: https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba
@@ -564,30 +472,16 @@ sources:
 
   - id: unsa_konkursi
     name: Univerzitet u Sarajevu (konkursi)
+    location: sarajevo
     category: javni
     url: https://www.unsa.ba/index.php/konkursi
     pattern: 'unsa\.ba/(index\.php/)?konkursi/.+'
     scope: broad
     deep: true
 
-  - id: untz_konkursi
-    name: Univerzitet u Tuzli (konkursi)
-    category: javni
-    url: https://untz.ba/konkursi
-    pattern: 'untz\.ba/blog/.*(konkurs|oglas)'
-    scope: broad
-    min_items: 0
-
-  - id: nezavisne_posao
-    name: Nezavisne novine (oglasi za posao)
-    category: portal
-    url: https://www.nezavisne.com/oglasi/posao
-    pattern: 'nezavisne\.com/oglasi/posao/.+/\d+'
-    scope: broad
-    deep: true
-
   - id: dzobs
     name: dzobs (IT poslovi)
+    location: bih
     category: portal
     url: https://dzobs.com/poslovi/1
     pattern: 'dzobs\.com/posao/[^/]+/.+'
@@ -595,6 +489,7 @@ sources:
 
   - id: dzobs_praksa
     name: dzobs (prakse)
+    location: bih
     category: portal
     url: https://dzobs.com/angazman/internship/1
     pattern: 'dzobs\.com/posao/[^/]+/.+'
@@ -602,16 +497,9 @@ sources:
     min_items: 0
 
   # ------------------------------------------------------------ međunarodne organizacije
-  - id: eeas_bih
-    enabled: false   # filter po BiH ne radi, javljao je oglase za cijeli svijet
-    name: EU Delegacija (vacancies BiH)
-    category: medjunarodne
-    type: page_hash
-    url: https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia+and+Herzegovina
-    selector: main
-
   - id: us_embassy
     name: US Ambasada Sarajevo (jobs)
+    location: sarajevo
     category: medjunarodne
     type: page_hash
     url: https://ba.usembassy.gov/jobs
@@ -619,20 +507,15 @@ sources:
 
   - id: ohr
     name: OHR (vacancies)
+    location: sarajevo
     category: medjunarodne
     type: page_hash
     url: https://www.ohr.int/vacancies
 
   # ------------------------------------------------------------ veliki ne-IT poslodavci
-  - id: bingo
-    name: Bingo (oglasi)
-    category: ostalo
-    url: https://www.bingotuzla.ba/bingooglasi
-    pattern: 'bingotuzla\.ba/20\d\d/\d\d/\d\d/.*(konkurs|oglas|zaposl|posao|pozicij)'
-    min_items: 0
-
   - id: robot
     name: Robot (aktivni konkursi)
+    location: bih
     category: ostalo
     url: https://robot.ba/aktivni-konkursi
     exclude: '(katalog|akcija|prijava-za-posao|odabir-grada|zaposljavanje$)'
@@ -640,6 +523,7 @@ sources:
 
   - id: amko
     name: Amko komerc (zaposlenje)
+    location: sarajevo
     category: ostalo
     type: page_hash
     url: https://amko.ba/zaposlenje
@@ -647,19 +531,14 @@ sources:
 
   - id: bosnalijek
     name: Bosnalijek (zapošljavanje)
+    location: sarajevo
     category: ostalo
     type: page_hash
     url: https://www.bosnalijek.ba/zaposljavanje
 
-  - id: hemofarm
-    name: Hemofarm BiH (karijera)
-    category: ostalo
-    type: page_hash
-    url: https://www.hemofarm.ba/srb/karijera
-    js: true
-
   - id: asa_grupa
     name: ASA Grupa (karijera)
+    location: sarajevo
     category: ostalo
     type: page_hash
     url: https://www.asa.ba/karijera
@@ -667,19 +546,15 @@ sources:
 
   - id: ina_bih
     name: INA / Energopetrol (karijera)
+    location: sarajevo
     category: ostalo
     type: page_hash
     url: https://karijera.ina.ba/bs
     js: true
 
-  - id: aluminij
-    name: Aluminij Mostar (careers)
-    category: ostalo
-    url: https://aluminij.com/careers
-    min_items: 0
-
   - id: kpmg_bih
     name: KPMG BiH (otvorene pozicije)
+    location: sarajevo
     category: ostalo
     type: page_hash
     url: https://kpmg-bh.oneassessment.com/
@@ -688,6 +563,7 @@ sources:
   # ------------------------------------------------------------ IT kompanije
   - id: atlantbh
     name: Atlantbh
+    location: sarajevo
     category: it
     type: page_hash
     url: https://atlantbh.com/jobs/
@@ -695,6 +571,7 @@ sources:
 
   - id: atlantbh_internship
     name: Atlantbh praksa
+    location: sarajevo
     category: it
     type: page_hash
     url: https://atlantbh.com/internship/
@@ -702,6 +579,7 @@ sources:
 
   - id: infobip_internship
     name: Infobip praksa
+    location: sarajevo
     category: it
     type: page_hash
     url: https://www.infobip.com/internship
@@ -709,6 +587,7 @@ sources:
 
   - id: ministry_of_programming
     name: Ministry of Programming
+    location: sarajevo
     category: it
     url: https://ministryofprogramming.com/careers
     js: true
@@ -717,6 +596,7 @@ sources:
 
   - id: htec_bih
     name: HTEC BiH
+    location: bih
     category: it
     url: https://htec.com/careers/locations/bosnia-herzegovina/
     js: true
@@ -727,6 +607,7 @@ sources:
 
   - id: symphony
     name: Symphony (careers)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://care.symphony.is/
@@ -734,6 +615,7 @@ sources:
 
   - id: dploy
     name: D-ploy
+    location: bih
     category: it
     type: workable
     account: d-ploy
@@ -743,6 +625,7 @@ sources:
 
   - id: authority_partners
     name: Authority Partners (careers)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://authoritypartners.com/careers
@@ -750,79 +633,71 @@ sources:
 
   - id: klika
     name: Klika (careers)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://www.klika.us/careers
     js: true
 
-  - id: lanaco
-    name: Lanaco (otvorene pozicije)
-    category: it
-    type: page_hash
-    url: https://www.lanaco.com/en/otvorene-pozicije
-
-  - id: lanaco_studenti
-    name: Lanaco (studenti i prakse)
-    category: it
-    type: page_hash
-    url: https://www.lanaco.com/en/studenti
-
   - id: zira
     name: Zira (open positions)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://ziragroup.com/careers/open-positions
 
   - id: zira_academy
     name: Zira Talent Academy
+    location: sarajevo
     category: it
     type: page_hash
     url: https://ziragroup.com/careers/zira-talent-academy
 
   - id: twoam
     name: 2am.tech (careers)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://www.2am.tech/careers
 
   - id: saga
     name: Saga (karijera)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://saga.ba/karijera
 
   - id: saga_praksa
     name: Saga (praksa)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://saga.ba/praksa
 
   - id: walter_code
     name: Walter Code / Galeyo
+    location: sarajevo
     category: it
     url: https://www.galeyo.com/open-positions
     pattern: 'galeyo\.com/open-positions/.+'
 
-  - id: rtrk
-    name: RT-RK (open positions)
-    category: it
-    type: page_hash
-    url: https://www.rt-rk.com/open-positions
-
   - id: tacta
     name: Tacta (careers)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://tacta.io/careers
 
   - id: mibo
     name: Mibo (karijera)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://mibo.ba/karijera
 
   - id: atia
     name: ATIA (open positions)
+    location: sarajevo
     category: it
     type: page_hash
     url: https://atia.ba/open-positions

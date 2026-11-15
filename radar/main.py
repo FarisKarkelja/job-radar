@@ -20,6 +20,7 @@ from . import notify
 from .extract import extract, page_text
 from .fetch import Browser, FetchError, get, pdf_text
 from .keywords import find_it_match, is_entry_level, normalize, snippet_around
+from .location import decide as location_decide
 
 JOBISH = re.compile(
     r"(oglas|konkurs|natjecaj|pozicij|radno mjesto|radna mjesta|izvrsil|prijem|zaposljava|"
@@ -36,6 +37,9 @@ FAIL_ALERT_AFTER = 2          # uzastopnih neuspjeha prije alarma
 MAX_INDIVIDUAL_PER_SOURCE = 5  # više od ovoga -> jedna grupna poruka
 MAX_MESSAGES_PER_RUN = 45      # zaštita od poplave ako se neki sajt promijeni
 DEEP_LIMIT = 25
+LOCATION_LOOKUPS = 40          # koliko oglasa po provjeri smije otvoriti radi lokacije
+DEDUPE_DAYS = 60               # isti naslov iste firme ne šalje se ponovo ovoliko dana
+GENERIC_TITLE = re.compile(r"^(javni |interni )?(oglas|konkurs|natjecaj|natjecaj|poziv)\w*\b.{0,25}$")
 
 log = logging.getLogger("radar")
 TZ = dt.timezone(dt.timedelta(hours=1))  # Sarajevo (zimsko vrijeme; za prikaz je dovoljno)
@@ -108,7 +112,8 @@ def classify(item, src, body_text=""):
         match = find_it_match(body_text)
         if match:
             snippet = snippet_around(body_text, match)
-    is_it = bool(match) or src.get("scope") == "it"
+    scope = src.get("scope", "company")
+    is_it = bool(match) or scope in ("it", "program")
     entry = is_entry_level(title_ctx) or (is_it and bool(body_text) and is_entry_level(body_text[:3000]))
     item["it"] = is_it
     item["entry"] = entry
@@ -118,11 +123,32 @@ def classify(item, src, body_text=""):
         item["priority"] = 5
     elif is_it:
         item["priority"] = 4
-    elif src.get("scope") == "broad":
-        item["priority"] = 2
     else:
         item["priority"] = 3
     return item
+
+
+def relevant(item, src) -> tuple:
+    """Da li oglas uopšte zaslužuje notifikaciju (prije provjere lokacije)."""
+    scope = src.get("scope", "company")
+    if scope in ("it", "program"):
+        return True, ""
+    if item["it"]:
+        return True, ""
+    # prakse/pripravnici kod poslodavaca koje pratiš (banke, telekomi, javna preduzeća)
+    if scope == "company" and item["entry"]:
+        return True, ""
+    return False, "nije IT"
+
+
+def fingerprint(item, src) -> str:
+    title = normalize(item.get("title", ""))
+    company = normalize(item.get("company", ""))
+    if company:
+        return f"{title}|{company}"
+    if GENERIC_TITLE.match(title) or len(title) < 12:
+        return f"{title}|{src['id']}|{item['key']}"   # "JAVNI OGLAS": svaki je drugačiji
+    return f"{title}|{src['id']}"
 
 
 # ---------------------------------------------------------------- poruke
@@ -133,6 +159,8 @@ def item_message(item, src):
         lines.append(f"🏢 {item['company']}")
     if item.get("location"):
         lines.append(f"📍 {item['location']}")
+    elif item.get("loc_reason") in ("sarajevo", "remote/hybrid"):
+        lines.append(f"📍 {'Sarajevo' if item['loc_reason'] == 'sarajevo' else 'remote/hybrid'}")
     if item.get("snippet"):
         lines.append(f"🔎 U oglasu: {item['snippet']}")
     elif item.get("match") and item["match"] != "IT":
@@ -144,7 +172,7 @@ def item_message(item, src):
     elif item["it"]:
         tags = ["computer"]
     else:
-        tags = ["briefcase"]
+        tags = ["mortar_board"]
     return {"title": item["title"], "message": "\n".join(lines), "priority": item["priority"],
             "tags": tags, "click": item["url"]}
 
@@ -154,7 +182,7 @@ def group_message(items, src, quiet=False):
     shown = items[:20]
     lines = []
     for i in shown:
-        mark = "🚨 " if i["priority"] == 5 else ("💻 " if i["it"] else "• ")
+        mark = "🚨 " if i["priority"] == 5 else ("💻 " if i["it"] else "🎓 ")
         extra = f" ({i['company']})" if i.get("company") else ""
         lines.append(f"{mark}{i['title']}{extra}")
     if len(items) > len(shown):
@@ -166,22 +194,12 @@ def group_message(items, src, quiet=False):
             "click": src.get("link") or src["url"]}
 
 
-def plan_messages(src, new_items):
-    if src.get("type") == "page_hash":
+def plan_messages(src, items):
+    if not items:
         return []
-    if src.get("scope") == "broad":
-        loud = [i for i in new_items if i["it"]]
-        quiet = [i for i in new_items if not i["it"]]
-    else:
-        loud, quiet = new_items, []
-    msgs = []
-    if len(loud) > MAX_INDIVIDUAL_PER_SOURCE:
-        msgs.append(group_message(loud, src))
-    else:
-        msgs.extend(item_message(i, src) for i in loud)
-    if quiet:
-        msgs.append(group_message(quiet, src, quiet=True))
-    return msgs
+    if len(items) > MAX_INDIVIDUAL_PER_SOURCE:
+        return [group_message(items, src)]
+    return [item_message(i, src) for i in items]
 
 
 # ---------------------------------------------------------------- izvještaji
@@ -224,13 +242,17 @@ def write_debug(results):
 
 
 def write_oglasi(history):
-    rows = sorted(history, key=lambda h: h["ts"], reverse=True)
+    rows = [h for h in history if h.get("sent") or (h.get("initial") and h.get("it"))]
+    rows = sorted(rows, key=lambda h: h["ts"], reverse=True)
     out = ["# Oglasi (zadnjih 30 dana)\n",
-           "🚨 IT + početnička pozicija · 💻 IT · • ostalo · ⏺ bio otvoren kad je radar pokrenut\n",
+           "Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, "
+           "plus studentski programi vani.\n",
+           "🚨 IT + početnička pozicija · 💻 IT · 🎓 praksa/program · "
+           "⏺ bio otvoren kad je izvor dodan\n",
            "| Vrijeme | Oglas | Izvor |", "|---|---|---|"]
     for h in rows[:1500]:
         t = dt.datetime.fromisoformat(h["ts"]).astimezone(TZ).strftime("%d.%m. %H:%M")
-        mark = "🚨" if h.get("priority") == 5 else ("💻" if h.get("it") else "•")
+        mark = "🚨" if h.get("priority") == 5 else ("💻" if h.get("it") else "🎓")
         if h.get("initial"):
             mark += "⏺"
         title = h["title"].replace("|", "/")
@@ -270,6 +292,17 @@ def main():
     history = load_json("history.json", [])
     meta = load_json("meta.json", {"runs": 0})
     first_run = meta.get("runs", 0) == 0
+    notified = load_json("notified.json", {})   # fingerprint -> kad je poslan
+    if not notified and not meta.get("v2"):
+        # prelazak na novu verziju: ranije poslani IT oglasi se ne šalju ponovo
+        for h in history:
+            if not h.get("initial") and h.get("it") and "sent" not in h:
+                h["sent"] = True
+                comp = normalize(h.get("company", ""))
+                fp = f"{normalize(h['title'])}|{comp}" if comp else f"{normalize(h['title'])}|{h['source']}"
+                notified.setdefault(fp, h["ts"])
+    meta["v2"] = True
+    lookups = {"n": 0}
 
     # --- dohvatanje: obične stranice paralelno, JS stranice redom u jednom browseru
     browser = Browser()
@@ -337,17 +370,20 @@ def main():
                     body = "\n".join(f"+ {l[:140]}" for l in added)
                     joined = " ".join(added)
                     match = find_it_match(joined, is_title=True)  # kratke linije sa stranice karijera
-                    # glasno samo ako nova linija liči na oglas; ostale promjene (banneri,
-                    # datumi, tekst) idu tiho da ne smetaju
                     jobish = JOBISH.search(normalize(joined))
-                    pr = 4 if match and jobish else (3 if jobish else 2)
-                    outgoing.append({"title": f"🔄 Promjena: {src['name']}",
-                                     "message": f"Novo na stranici:\n{body}", "priority": pr,
-                                     "tags": ["arrows_counterclockwise"], "click": src["url"]})
-                    if pr >= 3:
-                        history.append({"ts": ts, "source": sid, "source_name": src["name"],
-                                        "title": f"Promjena na stranici: {added[0][:100]}",
-                                        "url": src["url"], "it": bool(match), "priority": pr})
+                    entry_lvl = is_entry_level(joined)
+                    scope = src.get("scope", "company")
+                    send = bool(jobish) and (bool(match) or entry_lvl or scope in ("it", "program"))
+                    if send:
+                        pr = 5 if (match or scope in ("it", "program")) and entry_lvl else (4 if match or scope in ("it", "program") else 3)
+                        outgoing.append({"title": f"🔄 Promjena: {src['name']}",
+                                         "message": f"Novo na stranici:\n{body}", "priority": pr,
+                                         "tags": ["arrows_counterclockwise"], "click": src["url"]})
+                    history.append({"ts": ts, "source": sid, "source_name": src["name"],
+                                    "title": f"Promjena na stranici: {added[0][:100]}",
+                                    "url": src["url"], "it": bool(match) or scope in ("it", "program"),
+                                    "priority": 4 if match else 3, "sent": send,
+                                    "why": "" if send else "promjena ne liči na IT oglas/praksu"})
             continue
 
         # --- obični izvori: novi = ključ koji još nismo vidjeli
@@ -379,6 +415,7 @@ def main():
         if not new_items:
             continue
 
+        to_send = []
         for n, i in enumerate(new_items):
             body = ""
             if src.get("deep") and n < DEEP_LIMIT:
@@ -387,11 +424,37 @@ def main():
                 except FetchError as e:
                     log.info("%s: oglas %s se ne može otvoriti: %s", sid, i["url"], e)
             classify(i, src, body)
+            ok, why = relevant(i, src)
+            if ok:
+                ok_loc, loc_why = location_decide(src, i, body)
+                # lokacija nepoznata i oglas nije otvaran: otvori ga i pogledaj
+                if (ok_loc and loc_why == "nepoznato" and not body and src.get("type") != "linkedin"
+                        and src.get("lookup", True) and lookups["n"] < LOCATION_LOOKUPS):
+                    lookups["n"] += 1
+                    try:
+                        body = deep_text(i, src)
+                        ok_loc, loc_why = location_decide(src, i, body)
+                    except FetchError:
+                        pass
+                i["loc_reason"] = loc_why
+                if not ok_loc:
+                    ok, why = False, loc_why
+            if ok:
+                fp = fingerprint(i, src)
+                last = notified.get(fp)
+                if last and dt.datetime.fromisoformat(last) >= run_started - dt.timedelta(days=DEDUPE_DAYS):
+                    ok, why = False, "već poslano"
+                else:
+                    notified[fp] = ts
+            if ok:
+                to_send.append(i)
             history.append({"ts": ts, "source": sid, "source_name": src["name"],
                             "title": i["title"], "url": i["url"], "company": i.get("company", ""),
                             "it": i["it"], "priority": i["priority"], "match": i["match"],
-                            "snippet": i["snippet"]})
-        outgoing.extend(plan_messages(src, new_items))
+                            "snippet": i["snippet"], "sent": ok, "why": why,
+                            "loc": i.get("loc_reason", "")})
+        res["sent"] = len(to_send)
+        outgoing.extend(plan_messages(src, to_send))
         entry["keys"] = (entry["keys"] + [i["key"] for i in new_items])[-SEEN_CAP:]
 
     # --- slanje
@@ -428,10 +491,16 @@ def main():
         day_ago = run_started - dt.timedelta(hours=24)
         recent = [h for h in history if not h.get("initial")
                   and dt.datetime.fromisoformat(h["ts"]) >= day_ago]
-        it_recent = sum(1 for h in recent if h.get("it"))
+        sent_recent = sum(1 for h in recent if h.get("sent"))
+        why = {}
+        for h in recent:
+            if not h.get("sent") and h.get("why"):
+                why[h["why"]] = why.get(h["why"], 0) + 1
         broken = [s["name"] for s in sources if not results[s["id"]]["ok"]]
         msg = (f"Provjereno {len(sources)} izvora, ispravno {len(sources) - len(broken)}.\n"
-               f"Zadnja 24h: {len(recent)} novih oglasa, od toga {it_recent} IT.")
+               f"Zadnja 24h: poslano {sent_recent} oglasa.")
+        if why:
+            msg += "\nPreskočeno: " + ", ".join(f"{k} {v}" for k, v in sorted(why.items(), key=lambda x: -x[1]))
         if broken:
             msg += "\nNe rade: " + ", ".join(broken[:15]) + (" ..." if len(broken) > 15 else "")
         notify.send("☀️ Job Radar dnevni izvještaj", msg, priority=2, tags=["sunny"],
@@ -448,6 +517,8 @@ def main():
     save_json("health.json", health)
     save_json("history.json", history)
     save_json("meta.json", meta)
+    keep = (run_started - dt.timedelta(days=DEDUPE_DAYS)).isoformat()
+    save_json("notified.json", {k: v for k, v in notified.items() if v >= keep})
     write_status(results, sources, run_started)
     write_oglasi(history)
     write_debug(results)
