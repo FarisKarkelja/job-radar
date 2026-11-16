@@ -33901,5 +33901,57 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-16T15:33:13+00:00",
+  "source": "mojposao_ks",
+  "source_name": "MojPosao Kanton Sarajevo",
+  "title": "Kolateral oficir (m/ž)",
+  "url": "https://www.mojposao.ba/posao/53952910-e1d0-11f1-8233-42010a9c001b/kolateral-oficir-mz",
+  "company": "",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-16T15:33:13+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Solutions Architect",
+  "url": "https://www.linkedin.com/jobs/view/4489754346",
+  "company": "Huzzle.com",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-16T15:33:13+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: Kick Off Meeting – ESN-AIR🌏",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-16T15:33:13+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.5485d817.1794843378.4797cc1",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
