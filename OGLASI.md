@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 16.11. 13:07 | 💻 [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252) · Lean Technologies | LinkedIn BiH |
+| 16.11. 13:07 | 💻 [Hardware Engineer (m/f/d) Embedded System Design](https://www.linkedin.com/jobs/view/4487904293) · Siemens Energy | LinkedIn BiH |
 | 16.11. 10:07 | 💻 [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959) · Monri Payments | LinkedIn BiH |
 | 16.11. 10:07 | 🎓 [Promjena na stranici: Solution Engineering Intern](https://www.infobip.com/internship) | Infobip praksa |
 | 16.11. 07:07 | 🚨 [2027 Internship – Technology – Software Engineer – Zurich](https://www.iagora.com/work/en/offer/internship-switzerland-it/6589212) | iAgora IT prakse (Švicarska) |

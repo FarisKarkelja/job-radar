@@ -430,7 +430,12 @@
    "50444cfa-dd10-11f1-a8c0-42010a9c001a",
    "7d4cce9b-dc0f-11f1-a8c0-42010a9c001a",
    "bb114ecc-e196-11f1-8233-42010a9c001b",
-   "27e2780c-e19a-11f1-8233-42010a9c001b"
+   "27e2780c-e19a-11f1-8233-42010a9c001b",
+   "6a4342a9-e1a6-11f1-8233-42010a9c001b",
+   "4072d7fd-e1a9-11f1-8233-42010a9c001b",
+   "836e12cd-e1a8-11f1-8233-42010a9c001b",
+   "cc314910-e1a8-11f1-8233-42010a9c001b",
+   "0e3f8705-e1a1-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -722,7 +727,9 @@
    "https://www.linkedin.com/jobs/view/4491505239",
    "https://www.linkedin.com/jobs/view/4491508109",
    "https://www.linkedin.com/jobs/view/4491511060",
-   "https://www.linkedin.com/jobs/view/4456575989"
+   "https://www.linkedin.com/jobs/view/4456575989",
+   "https://www.linkedin.com/jobs/view/4480981252",
+   "https://www.linkedin.com/jobs/view/4487904293"
   ]
  },
  "glassrpske_konkursi": {
@@ -859,7 +866,13 @@
    "https://szks.ba/posao/javni-oglas-392",
    "https://szks.ba/posao/nastavnik-razredne-nastave-67",
    "https://szks.ba/posao/odluka-o-ponistenju-javnog-oglasa-15",
-   "https://szks.ba/posao/notar-nuvejra-sabic-110-radnik-za-unos-podataka-sss-ili-vss"
+   "https://szks.ba/posao/notar-nuvejra-sabic-110-radnik-za-unos-podataka-sss-ili-vss",
+   "https://szks.ba/posao/spremacica-18",
+   "https://szks.ba/posao/ppu-maslacak-166-kuharica",
+   "https://szks.ba/posao/nastavnik-matematike-50",
+   "https://szks.ba/posao/pedagog-38",
+   "https://szks.ba/posao/richmond-park-international-preschool-sarajevo-110-profesor-tjelesnog-odgoja",
+   "https://szks.ba/posao/richmond-park-international-preschool-sarajevo-110-medicniska-sestra-pedijatrijskog-smjera"
   ]
  },
  "zdk_szz": {
@@ -3246,7 +3259,8 @@
   "keys": [
    "hash:acb324fafa988727",
    "hash:37b25fc99df038ea",
-   "hash:5436c734e9b85295"
+   "hash:5436c734e9b85295",
+   "hash:a5aa82286764e24a"
   ],
   "lines": [
    "Naša snaga leži u ljudima",
@@ -3275,10 +3289,10 @@
    "Forma za prijavu",
    "Saznaj sve o nama i našem timu",
    "Pročitaj vijesti i priče o našim zaposlenima – od timbildinga, edukacija, događaja, pa sve do oglasa i poziva za praksu.",
+   "Supernova uz CampUp u Banjaluci: Mladi pokazali snagu kreativnosti i znanja",
    "Prijem za novu generaciju praktikanata u Banjaluci",
    "UIGRAN TIM: Dejan Novaković – Sa korisnicima gradi povjerenje, sa kolegama uspjehe",
    "Uigran tim: Dragan Bundalo, od podrške korisnicima i kolegama do ključnih IT sistema",
-   "Nova generacija praktikanata u Doboju",
    "Sve vijesti"
   ]
  },
@@ -3338,13 +3352,50 @@
  },
  "rtvfbih": {
   "keys": [
-   "hash:6be890af35d7a18c"
+   "hash:6be890af35d7a18c",
+   "hash:31dea37756c9bb10"
   ],
   "lines": [
    "Aktuelno",
    "Javni konkursi i obavijesti",
-   "Trenutno nema aktivnih konkursa",
-   "Nove objave pojavit će se na ovoj stranici.",
+   "16. novembra 2026.",
+   "Javni konkursi/oglasi za prijem radnika u radni odnos",
+   "Radio-televizija Federacije Bosne i Hercegovine objavljuje javne konkurse/oglase za prijem radnika u radni odnos na određeno i neodređeno vrijeme. Opis poslova, uslovi i potrebni dokumenti navedeni su u oglasu za svako radno mjesto.",
+   "Prijave sa potrebnom dokumentacijom dostavljaju se u roku od 10 dana od dana objavljivanja (za radno mjesto Organizator 2 u roku od 8 dana) na adresu: Radio-televizija Federacije Bosne i Hercegovine, Bulevar Meše Selimovića 12, 71000 Sarajevo, s naznakom „Prijava na Oglas – ne otvarati“. Na koverti obavezno navesti ime i prezime i naziv radnog mjesta na koje kandidat aplicira.",
+   "PDF",
+   "Lektor 2 – 2 izvršioca, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Montažer 1 – 3 izvršioca, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Novinar 1 – 5 izvršilaca u Sarajevu i 1 u Tuzli (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Novinar 2 – 2 izvršioca, Mostar (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Novinar 2 – 2 izvršioca, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Novinar saradnik – 1 izvršilac, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Operativni producent – 1 izvršilac, Sarajevo (neodređeno vrijeme)",
+   "PDF",
+   "Organizator 2 – 2 izvršioca, Sarajevo (određeno vrijeme, 12 mjeseci) – rok za prijave 8 dana",
+   "PDF",
+   "Referent naplate RTV takse – 1 izvršilac, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Reporter – 1 izvršilac, Sarajevo (neodređeno vrijeme)",
+   "PDF",
+   "Saradnik za ekonomske poslove u javnim nabavkama – 1 izvršilac, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Snimatelj 2 – po 1 izvršilac u Banjoj Luci, Bijeljini, Travniku i Srebrenici (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Tehnički urednik multimedije – 1 izvršilac, Sarajevo (neodređeno vrijeme)",
+   "PDF",
+   "Urednik 2 – 1 izvršilac, Mostar (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Urednik 2 – 1 izvršilac, Sarajevo (neodređeno vrijeme)",
+   "PDF",
+   "Vodeći spiker – 1 izvršilac, Sarajevo (određeno vrijeme, 12 mjeseci)",
+   "PDF",
+   "Voditelj 1 – 2 izvršioca u Sarajevu i 1 u Bijeljini (neodređeno vrijeme)",
    "Marinko Jozić",
    "Rukovodilac Odjela za ljudske resurse",
    "ljudski.potencijali@rtvfbih.ba",
@@ -7387,7 +7438,9 @@
    "https://poslovnioglasi.ba/company-ad-details/952",
    "https://poslovnioglasi.ba/company-ad-details/951",
    "https://poslovnioglasi.ba/company-ad-details/953",
-   "https://poslovnioglasi.ba/company-ad-details/954"
+   "https://poslovnioglasi.ba/company-ad-details/954",
+   "https://poslovnioglasi.ba/company-ad-details/956",
+   "https://poslovnioglasi.ba/company-ad-details/955"
   ]
  },
  "ads_bih": {
@@ -7406,7 +7459,8 @@
    "https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3525/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine",
-   "https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu"
+   "https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu",
+   "https://www.ads.gov.ba/vacancies/3526/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-sigurnosti-bosne-i-hercegovine"
   ]
  },
  "ads_fbih": {
@@ -7445,7 +7499,9 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7094",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7096",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8102",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8113"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8113",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7097",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8101"
   ]
  },
  "cbbh": {
@@ -7562,7 +7618,8 @@
    "https://jobs.eu.lever.co/symphony/c0c108d5-1bba-4d4b-a4c8-3655308c7fe9",
    "https://jobs.eu.lever.co/symphony/6483f9c9-38d8-4392-b367-54396c4a1e95",
    "https://jobs.eu.lever.co/symphony/d17aaed5-6038-44d9-9eca-3dd97b71d07b",
-   "https://jobs.eu.lever.co/symphony/b5ed55b0-b829-4263-aacb-c05aca736963"
+   "https://jobs.eu.lever.co/symphony/b5ed55b0-b829-4263-aacb-c05aca736963",
+   "https://jobs.eu.lever.co/symphony/5d4ed3a5-f412-4e0b-9922-bcf6a96991e3"
   ]
  },
  "zira_recruitee": {
@@ -8014,7 +8071,11 @@
    "https://untalent.org/jobs/intern-human-rights-108",
    "https://untalent.org/jobs/private-markets-risk-senior-research-intern",
    "https://untalent.org/jobs/consultoria-de-enlace-sectorial-en-cambio-climatico-y-desplazamiento-interno",
-   "https://untalent.org/jobs/consultant-international-vaccination"
+   "https://untalent.org/jobs/consultant-international-vaccination",
+   "https://untalent.org/jobs/communication-social-media-intern-1",
+   "https://untalent.org/jobs/communications-intern-151",
+   "https://untalent.org/jobs/intern-public-information-prague-4",
+   "https://untalent.org/jobs/finance-associate-treasury-operations-for-internal-and-external-candidates"
   ]
  },
  "impactpool": {
@@ -8293,7 +8354,8 @@
    "https://star.study/bs/novost/easy-bites-zaposljavaju-na-poziciji-konobar-sanker-mz/8343",
    "https://star.study/bs/novost/opstina-cajnice-dodjeljuje-stipendije-i-novcane-nagrade-studentima/8478",
    "https://star.study/bs/novost/fizioterapeut/8618",
-   "https://star.study/bs/novost/mozemo-li-programirati-zivot/8628"
+   "https://star.study/bs/novost/mozemo-li-programirati-zivot/8628",
+   "https://star.study/bs/novost/postani-dio-tignuma-otvorene-prijave-za-program-osnazivanja-i-liderstva-za-mlade-zene/8644"
   ]
  },
  "povio": {
@@ -8486,13 +8548,14 @@
    "hash:052b036b7fb1fa82",
    "hash:28a640f027c0c5e8",
    "hash:00719a26a40dbda6",
-   "hash:46c634181fcfcfc1"
+   "hash:46c634181fcfcfc1",
+   "hash:cb1dda2cbe691666"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.5a6bdc17.1794820306.333f397a",
-   "https://errors.edgesuite.net/18.5a6bdc17.1794820306.333f397a"
+   "Reference #18.9767cd17.1794831223.43d1a859",
+   "https://errors.edgesuite.net/18.9767cd17.1794831223.43d1a859"
   ]
  },
  "osce": {
