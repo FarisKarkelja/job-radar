@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 16.11. 07:07 | 🚨 [2027 Internship – Technology – Software Engineer – Zurich](https://www.iagora.com/work/en/offer/internship-switzerland-it/6589212) | iAgora IT prakse (Švicarska) |
+| 16.11. 07:07 | 🚨 [Internship - Software engineer - Cash Management Tool Redevelopment](https://www.iagora.com/work/en/offer/internship-switzerland-it/6439436) | iAgora IT prakse (Švicarska) |
 | 15.11. 21:17 | 💻 [Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 15.11. 19:07 | 🚨 [New job: Development Specialist IRC - International Rescue Committee Remote Junior - Junior level](https://www.impactpool.org/jobs/1248033) | Impactpool (prakse) |
 | 15.11. 17:59 | 🚨⏺ [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572) | STAR.study prakse |
