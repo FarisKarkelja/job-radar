@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 16.11. 10:07 | 💻 [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959) · Monri Payments | LinkedIn BiH |
+| 16.11. 10:07 | 🎓 [Promjena na stranici: Solution Engineering Intern](https://www.infobip.com/internship) | Infobip praksa |
 | 16.11. 07:07 | 🚨 [2027 Internship – Technology – Software Engineer – Zurich](https://www.iagora.com/work/en/offer/internship-switzerland-it/6589212) | iAgora IT prakse (Švicarska) |
 | 16.11. 07:07 | 🚨 [Internship - Software engineer - Cash Management Tool Redevelopment](https://www.iagora.com/work/en/offer/internship-switzerland-it/6439436) | iAgora IT prakse (Švicarska) |
 | 15.11. 21:17 | 💻 [Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
