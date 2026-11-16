@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 16.11. 16:08 | 💻 [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418) · Personify Health | LinkedIn BiH |
+| 16.11. 16:08 | 💻 [Data Analyst - Commercial](https://www.linkedin.com/jobs/view/4489750353) · ERGOMED | LinkedIn BiH |
 | 16.11. 13:07 | 💻 [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252) · Lean Technologies | LinkedIn BiH |
 | 16.11. 13:07 | 💻 [Hardware Engineer (m/f/d) Embedded System Design](https://www.linkedin.com/jobs/view/4487904293) · Siemens Energy | LinkedIn BiH |
 | 16.11. 10:07 | 💻 [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959) · Monri Payments | LinkedIn BiH |
