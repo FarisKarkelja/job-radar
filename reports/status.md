@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **16.11.2026 16:33** (Sarajevo)  
+Zadnje pokretanje: **16.11.2026 19:08** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -38,7 +38,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 45 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 19 | 0 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 9 | 7 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -57,13 +57,13 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 50 | 1 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 43 | 2 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 33 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 99 | 1 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 0 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 1 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
@@ -102,8 +102,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [UniCredit Bank (karijere)](https://www.unicredit.ba/en/banka/karijere/karijere.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
-| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 0 | 0 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
+| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 1 | 1 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
@@ -382,16 +382,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>impactpool (19)</summary>
+<details><summary>impactpool (9)</summary>
 
 - [Program Support Lead CI - Children International Remote | United States Mid/Senior - Mid/Senior level](https://www.impactpool.org/jobs/1246937)
-- [Director, UNRWA Representative Office, Washington, DC UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Washington D.C. D-1, Director - Internationally recruited position - Senior Executive level](https://www.impactpool.org/jobs/1246866)
 - [International Engagement Manager CFG - Centre for Future Generations Remote Senior - Senior level](https://www.impactpool.org/jobs/1245206)
-- [New job: Youth Champions - 16 Days of Activism UNV - United Nations Volunteers Fiji Internship](https://www.impactpool.org/jobs/1248067)
-- [New job: Consultant international/Vaccination WHO - World Health Organization Niamey No grade](https://www.impactpool.org/jobs/1248060)
-- [New job: Consultoría de Enlace Sectorial en Cambio Climático y Desplazamiento Interno IOM - International Organization for Migration Lima UG - Ungraded](https://www.impactpool.org/jobs/1248059)
-- [New job: Global Thematic Specialist (Data and Analysis) (P) IOM - International Organization for Migration Brussels P-4, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1248058)
-- [New job: Migrant Protection Officer (Assisted Voluntary Return (AVR)/ Case Management)) (P) IOM - International Organization for Migration Bangui P-2, International Professional - Internationally recruited position - Junior level](https://www.impactpool.org/jobs/1248057)
+- [New job: RESEARCH TEAM LEADER M&E UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Nairobi BG09](https://www.impactpool.org/jobs/1248228)
+- [New job: Principal, Technical Architect UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Sofia Senior](https://www.impactpool.org/jobs/1248218)
+- [New job: Payment Operations and Transformation Lead (P3) WFP - World Food Programme Budapest P-3, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1248214)
+- [New job: Intern (External relations team, WFP Brussels) WFP - World Food Programme Brussels Internship - Internship](https://www.impactpool.org/jobs/1248212)
+- [New job: Consultant Administration and Communication ILRI - International Livestock Research Institute Guwahati Junior - Junior level](https://www.impactpool.org/jobs/1248201)
+- [New job: Procurement Associate II ILRI - International Livestock Research Institute Nairobi HG11](https://www.impactpool.org/jobs/1248200)
 
 </details>
 
@@ -547,7 +547,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (50)</summary>
+<details><summary>linkedin_bih (43)</summary>
 
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959)
 - [.NET Developer - Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4490363092)
@@ -597,7 +597,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>mojposao_ks (99)</summary>
+<details><summary>mojposao_ks (197)</summary>
 
 - [Home Office Kundenberater/in (m/w/d)](https://www.mojposao.ba/posao/6a4342a9-e1a6-11f1-8233-42010a9c001b/home-office-kundenberaterin-mwd)
 - [Kundenberater in der Automobilindustrie](https://www.mojposao.ba/posao/6c7a694d-cc77-11f1-a8c0-42010a9c001a/kundenberater-in-der-automobilindustrie)
@@ -655,9 +655,9 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 - [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Lakirer (m/ž) - 2 izvršioca Preis Usora Usora Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/874)
 - [Kurir za dostavu u tržne centre Protekt d.o.o. Istočno Sarajevo, Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/863)
 - [Proizvodni operator (m/ž) Bosnalijek d.d. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/956)
@@ -909,15 +909,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Preliminarna rang-lista prijavljenih i primljenih kandidata i kandidatkinja za upis na III (treći) ciklus studija - doktorski studij na Univerzitetu u Sarajevu - Elektrotehničkom fakultetu u studijskoj 2026/2027. godini](https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii)
 - [Obavještenje o održavanju usmenog ispita za kandidate koji su aplicirali na Javni oglas | Univerzitet u Sarajevu - Muzička akademija](https://www.unsa.ba/index.php/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet sporta i tjelesnog odgoja](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10)
+- [Konkurs za izbor u zvanje | Univerzitet u Sarajevu - Institut za historiju](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet)
 - [Javni konkurs za izbor akademskog osoblja u akademsko naučno-nastavno zvanje na Univerzitetu u Sarajevu - Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Pravni fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-pravni-fakultet)
 
 </details>
 
-<details><summary>untalent (0)</summary>
+<details><summary>untalent (1)</summary>
 
+- [DTM Reporting Intern](https://untalent.org/jobs/dtm-reporting-intern)
 
 </details>
 
