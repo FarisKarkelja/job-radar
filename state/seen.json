@@ -82,7 +82,8 @@
    "197b03e8-df72-11f1-8233-42010a9c001b",
    "0d636d87-ddaa-11f1-a8c0-42010a9c001a",
    "35dfe2ce-dcec-11f1-a8c0-42010a9c001a",
-   "2cab2afd-dcde-11f1-a8c0-42010a9c001a"
+   "2cab2afd-dcde-11f1-a8c0-42010a9c001a",
+   "c45f5f9a-ddb5-11f1-a8c0-42010a9c001a"
   ]
  },
  "mojposao_ks": {
@@ -419,7 +420,14 @@
    "9c268626-de88-11f1-8233-42010a9c001b",
    "b4c2c261-df4e-11f1-8233-42010a9c001b",
    "676442c7-dd13-11f1-a8c0-42010a9c001a",
-   "97800c56-dd12-11f1-a8c0-42010a9c001a"
+   "97800c56-dd12-11f1-a8c0-42010a9c001a",
+   "584f3e4a-dc3e-11f1-a8c0-42010a9c001a",
+   "6a584957-dd12-11f1-a8c0-42010a9c001a",
+   "684c5019-dd12-11f1-a8c0-42010a9c001a",
+   "0dc3d2de-dd12-11f1-a8c0-42010a9c001a",
+   "0c14f078-dd12-11f1-a8c0-42010a9c001a",
+   "50444cfa-dd10-11f1-a8c0-42010a9c001a",
+   "7d4cce9b-dc0f-11f1-a8c0-42010a9c001a"
   ]
  },
  "klix_it": {
@@ -5245,7 +5253,8 @@
    "hash:c9c3f23899bca107",
    "hash:3a5e239875b1fb20",
    "hash:d8e1796590c91556",
-   "hash:790e2b91b5cdcfd0"
+   "hash:790e2b91b5cdcfd0",
+   "hash:e9abda4ddf11a828"
   ],
   "lines": [
    "O nama",
@@ -5362,7 +5371,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 15. 2026",
+   "novembar 16. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -7628,7 +7637,8 @@
    "hash:3d314246c3cc93e1",
    "hash:e46a80f80590faec",
    "hash:b894b244b3371145",
-   "hash:7f2644e329b88179"
+   "hash:7f2644e329b88179",
+   "hash:734468bffeae7125"
   ],
   "lines": [
    "Projects",
@@ -7667,16 +7677,16 @@
    "International Conference for Sharing Best Practices: Economic and Social Integration of Refugees and Asylum Seekers through Social Entrepreneurship",
    "March 10, 2022",
    "Related Posts",
-   "Projects",
-   "Western Balkanship: Create your Future",
-   "adm-uniadrion",
-   "February 18, 2022",
    "Communication",
    "Projects",
    "Reports",
    "FOODVALUE: Innovation and Research to Enhance Montenegro’s Traditional Fermented Foods",
    "alessio_uniadrion",
    "March 5, 2025",
+   "Projects",
+   "Projects from University of Primorska",
+   "adm-uniadrion",
+   "May 24, 2021",
    "Categories",
    "Administrative meetings",
    "Calls",
@@ -7978,7 +7988,8 @@
   "keys": [
    "https://untalent.org/jobs/protocol-intern-16",
    "https://untalent.org/jobs/intern-human-rights-108",
-   "https://untalent.org/jobs/private-markets-risk-senior-research-intern"
+   "https://untalent.org/jobs/private-markets-risk-senior-research-intern",
+   "https://untalent.org/jobs/consultoria-de-enlace-sectorial-en-cambio-climatico-y-desplazamiento-interno"
   ]
  },
  "impactpool": {
@@ -8430,13 +8441,14 @@
    "hash:51b9b793b2fccea3",
    "hash:5ca4615b22ee14b6",
    "hash:9b1a7674881ef599",
-   "hash:052b036b7fb1fa82"
+   "hash:052b036b7fb1fa82",
+   "hash:28a640f027c0c5e8"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.5a67cd17.1794777071.5db37dc",
-   "https://errors.edgesuite.net/18.5a67cd17.1794777071.5db37dc"
+   "Reference #18.ecd11102.1794790710.1a6d29dd",
+   "https://errors.edgesuite.net/18.ecd11102.1794790710.1a6d29dd"
   ]
  },
  "osce": {
