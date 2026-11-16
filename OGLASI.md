@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 16.11. 22:07 | 🚨 [Intern-Data Analyst/Economic Affairs](https://untalent.org/jobs/intern-data-analyst-economic-affairs) | UN Talent (prakse) |
 | 16.11. 16:08 | 💻 [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418) · Personify Health | LinkedIn BiH |
 | 16.11. 16:08 | 💻 [Data Analyst - Commercial](https://www.linkedin.com/jobs/view/4489750353) · ERGOMED | LinkedIn BiH |
 | 16.11. 13:07 | 💻 [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252) · Lean Technologies | LinkedIn BiH |

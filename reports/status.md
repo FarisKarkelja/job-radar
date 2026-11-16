@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **16.11.2026 19:08** (Sarajevo)  
+Zadnje pokretanje: **16.11.2026 22:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -38,7 +38,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 45 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 9 | 7 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 9 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -57,7 +57,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 43 | 2 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 53 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -103,7 +103,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
 | [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
-| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 1 | 1 |  |
+| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 5 | 5 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
@@ -547,7 +547,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (43)</summary>
+<details><summary>linkedin_bih (53)</summary>
 
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959)
 - [.NET Developer - Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4490363092)
@@ -653,10 +653,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Lakirer (m/ž) - 2 izvršioca Preis Usora Usora Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/874)
 - [Kurir za dostavu u tržne centre Protekt d.o.o. Istočno Sarajevo, Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/863)
@@ -909,16 +909,20 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Preliminarna rang-lista prijavljenih i primljenih kandidata i kandidatkinja za upis na III (treći) ciklus studija - doktorski studij na Univerzitetu u Sarajevu - Elektrotehničkom fakultetu u studijskoj 2026/2027. godini](https://www.unsa.ba/index.php/konkursi/preliminarna-rang-lista-prijavljenih-i-primljenih-kandidata-i-kandidatkinja-za-upis-na-iii)
 - [Obavještenje o održavanju usmenog ispita za kandidate koji su aplicirali na Javni oglas | Univerzitet u Sarajevu - Muzička akademija](https://www.unsa.ba/index.php/konkursi/obavjestenje-o-odrzavanju-usmenog-ispita-za-kandidate-koji-su-aplicirali-na-javni-oglas)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet sporta i tjelesnog odgoja](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-sporta-i-tjelesnog-10)
-- [Konkurs za izbor u zvanje | Univerzitet u Sarajevu - Institut za historiju](https://www.unsa.ba/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet)
+- [Konkurs za izbor u zvanje | Univerzitet u Sarajevu - Institut za historiju](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3)
+- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-masinski-fakultet)
 - [Javni konkurs za izbor akademskog osoblja u akademsko naučno-nastavno zvanje na Univerzitetu u Sarajevu - Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-konkurs-za-izbor-akademskog-osoblja-u-akademsko-naucno-nastavno-zvanje-na-17)
 - [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Fakultet za saobraćaj i komunikacije](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-fakultet-za-saobracaj-i-0)
 
 </details>
 
-<details><summary>untalent (1)</summary>
+<details><summary>untalent (5)</summary>
 
-- [DTM Reporting Intern](https://untalent.org/jobs/dtm-reporting-intern)
+- [Intern-Data Analyst/Economic Affairs](https://untalent.org/jobs/intern-data-analyst-economic-affairs)
+- [Intern-Economic Affairs](https://untalent.org/jobs/intern-economic-affairs-453)
+- [Environmental Affairs Intern](https://untalent.org/jobs/environmental-affairs-intern-27)
+- [Intern - Project Management](https://untalent.org/jobs/intern-project-management-16)
+- [Economic Affairs Intern](https://untalent.org/jobs/economic-affairs-intern-115)
 
 </details>
 
