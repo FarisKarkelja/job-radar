@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 17.11. 22:07 | 💻 [Promjena na stranici: AI-NURECC PLUS Initiative – Newsletter June 2023](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 17.11. 19:07 | 💻 [Senior Backend Engineer（Ruby on Rails / Go）](https://www.linkedin.com/jobs/view/4491588716) · Avenga | LinkedIn BiH |
 | 17.11. 19:07 | 🚨 [New job: Specialist-Land, Food, and Natural Resource Governance (Internationally recruited) IDLO - International Development Law Organization Rome Band B -Technical Functional Supervisory Management](https://www.impactpool.org/jobs/1248510) | Impactpool (prakse) |
 | 17.11. 19:07 | 🚨 [New job: Supply Data Analyst MSF International - Médecins Sans Frontières (Doctors Without Borders) Brussels Mid - Mid level](https://www.impactpool.org/jobs/1248492) | Impactpool (prakse) |
