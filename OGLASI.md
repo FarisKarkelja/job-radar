@@ -6,6 +6,9 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 17.11. 19:07 | 💻 [Senior Backend Engineer（Ruby on Rails / Go）](https://www.linkedin.com/jobs/view/4491588716) · Avenga | LinkedIn BiH |
+| 17.11. 19:07 | 🚨 [New job: Specialist-Land, Food, and Natural Resource Governance (Internationally recruited) IDLO - International Development Law Organization Rome Band B -Technical Functional Supervisory Management](https://www.impactpool.org/jobs/1248510) | Impactpool (prakse) |
+| 17.11. 19:07 | 🚨 [New job: Supply Data Analyst MSF International - Médecins Sans Frontières (Doctors Without Borders) Brussels Mid - Mid level](https://www.impactpool.org/jobs/1248492) | Impactpool (prakse) |
 | 17.11. 16:52 | 💻 [Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 17.11. 13:07 | 💻 [(fluent English) Cyber Threat Intelligence Analyst (remote)](https://www.linkedin.com/jobs/view/4490445012) · SupportYourApp | LinkedIn BiH |
 | 17.11. 13:07 | 🚨 [International Consultant – AI and Health Research & Development (R&D), WHO Western Pacific Regional Office, Manila, Phi…](https://untalent.org/jobs/international-consultant-ai-and-health-research-development-r-d-who-western-pacific-regional-office-manila-philippines) | UN Talent (prakse) |
