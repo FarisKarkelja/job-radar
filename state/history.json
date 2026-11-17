@@ -34394,5 +34394,57 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-17T06:07:47+00:00",
+  "source": "iagora_ch",
+  "source_name": "iAgora IT prakse (Švicarska)",
+  "title": "Intern-Economic Affairs",
+  "url": "https://www.iagora.com/work/en/offer/internship-switzerland-it/6590257",
+  "company": "",
+  "it": true,
+  "priority": 5,
+  "match": "",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "abroad"
+ },
+ {
+  "ts": "2026-11-17T06:07:47+00:00",
+  "source": "iagora_ch",
+  "source_name": "iAgora IT prakse (Švicarska)",
+  "title": "Intern - Digital and Technology Support Section",
+  "url": "https://www.iagora.com/work/en/offer/internship-switzerland-it/6590254",
+  "company": "",
+  "it": true,
+  "priority": 5,
+  "match": "",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "abroad"
+ },
+ {
+  "ts": "2026-11-17T06:07:47+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": true,
+  "why": ""
+ },
+ {
+  "ts": "2026-11-17T06:07:47+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.55951eb8.1794895878.41d74410",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]

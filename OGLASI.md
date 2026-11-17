@@ -6,6 +6,9 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 17.11. 07:07 | 🚨 [Intern-Economic Affairs](https://www.iagora.com/work/en/offer/internship-switzerland-it/6590257) | iAgora IT prakse (Švicarska) |
+| 17.11. 07:07 | 🚨 [Intern - Digital and Technology Support Section](https://www.iagora.com/work/en/offer/internship-switzerland-it/6590254) | iAgora IT prakse (Švicarska) |
+| 17.11. 07:07 | 💻 [Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 17.11. 02:50 | 🚨 [Information Technology Internal Auditor](https://untalent.org/jobs/information-technology-internal-auditor) | UN Talent (prakse) |
 | 17.11. 02:50 | 🚨 [New job: Technical Support Analyst CI - Children International Kansas City Junior - Junior level](https://www.impactpool.org/jobs/1248229) | Impactpool (prakse) |
 | 16.11. 22:07 | 🚨 [Intern-Data Analyst/Economic Affairs](https://untalent.org/jobs/intern-data-analyst-economic-affairs) | UN Talent (prakse) |
