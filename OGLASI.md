@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 17.11. 02:50 | 🚨 [Information Technology Internal Auditor](https://untalent.org/jobs/information-technology-internal-auditor) | UN Talent (prakse) |
+| 17.11. 02:50 | 🚨 [New job: Technical Support Analyst CI - Children International Kansas City Junior - Junior level](https://www.impactpool.org/jobs/1248229) | Impactpool (prakse) |
 | 16.11. 22:07 | 🚨 [Intern-Data Analyst/Economic Affairs](https://untalent.org/jobs/intern-data-analyst-economic-affairs) | UN Talent (prakse) |
 | 16.11. 16:08 | 💻 [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418) · Personify Health | LinkedIn BiH |
 | 16.11. 16:08 | 💻 [Data Analyst - Commercial](https://www.linkedin.com/jobs/view/4489750353) · ERGOMED | LinkedIn BiH |
