@@ -85,7 +85,9 @@
    "2cab2afd-dcde-11f1-a8c0-42010a9c001a",
    "c45f5f9a-ddb5-11f1-a8c0-42010a9c001a",
    "cb0318f1-ddd1-11f1-a8c0-42010a9c001a",
-   "c5958206-df57-11f1-8233-42010a9c001b"
+   "c5958206-df57-11f1-8233-42010a9c001b",
+   "e2dbb2e5-e1ac-11f1-8233-42010a9c001b",
+   "7cf09cf3-e1c5-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -446,7 +448,18 @@
    "e2dbb2e5-e1ac-11f1-8233-42010a9c001b",
    "235cc622-e1c3-11f1-8233-42010a9c001b",
    "a1127dac-e1a2-11f1-8233-42010a9c001b",
-   "53952910-e1d0-11f1-8233-42010a9c001b"
+   "53952910-e1d0-11f1-8233-42010a9c001b",
+   "ec6110b0-e28e-11f1-8233-42010a9c001b",
+   "6bc9066d-e28a-11f1-8233-42010a9c001b",
+   "e6cb7230-e28f-11f1-8233-42010a9c001b",
+   "ad047eba-e286-11f1-8233-42010a9c001b",
+   "10c22676-e298-11f1-8233-42010a9c001b",
+   "d39dc7dd-e284-11f1-8233-42010a9c001b",
+   "c07c699d-e291-11f1-8233-42010a9c001b",
+   "bd9edfa3-e290-11f1-8233-42010a9c001b",
+   "3f6cb3e2-e28c-11f1-8233-42010a9c001b",
+   "f78764fe-e28b-11f1-8233-42010a9c001b",
+   "14b8b60c-e287-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -488,7 +501,8 @@
    "https://posao.klix.ba/oglasi/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima-mz-telemach/11055",
    "https://posao.klix.ba/oglasi/ai-automation-specialist-mz-aurum-nova/11054",
    "https://posao.klix.ba/oglasi/marketing-manager-mf-forework/11084",
-   "https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094"
+   "https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094",
+   "https://posao.klix.ba/oglasi/home-office-kundenberater-mwd-fur-ein-renommiertes-schuhunternehmen-telus-digital/11124"
   ]
  },
  "itbase": {
@@ -3390,7 +3404,8 @@
   "keys": [
    "hash:6be890af35d7a18c",
    "hash:31dea37756c9bb10",
-   "hash:c8e77e5ccd321ea8"
+   "hash:c8e77e5ccd321ea8",
+   "hash:ed90c749c0c5c184"
   ],
   "lines": [
    "Aktuelno",
@@ -3431,10 +3446,6 @@
    "Vodeći spiker – 1 izvršilac, Sarajevo (određeno vrijeme, 12 mjeseci)",
    "PDF",
    "Voditelj 1 – 2 izvršioca u Sarajevu i 1 u Bijeljini (neodređeno vrijeme)",
-   "Marinko Jozić",
-   "Rukovodilac Odjela za ljudske resurse",
-   "ljudski.potencijali@rtvfbih.ba",
-   "Za pitanja o konkursima, prijavama i potrebnoj dokumentaciji obratite se Odjelu za ljudske resurse.",
    "Također",
    "Ostale objave javnog servisa",
    "Javne nabavke",
@@ -4732,7 +4743,9 @@
    "https://www.unsa.ba/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu",
    "https://www.unsa.ba/index.php/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3",
-   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3"
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3",
+   "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16",
+   "https://www.unsa.ba/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12"
   ]
  },
  "untz_konkursi": {
@@ -5950,7 +5963,8 @@
    "hash:4617198da2efd904",
    "hash:b2f3557b4fc4ed3d",
    "hash:d16fdc9b53eae02b",
-   "hash:c679c1df351b25f5"
+   "hash:c679c1df351b25f5",
+   "hash:3e9b2aaed0713e76"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -6018,97 +6032,97 @@
    "Manila (Philippines)",
    "Job type:",
    "Hybrid",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "AI Engineering Intern – Sarajevo",
    "Location:",
    "Sarajevo (BiH)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "AI Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "DevOps Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "AI Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Product Solution Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "Customer Support Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "System Infrastructure Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Data Science Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Software Engineering Intern – Rijeka",
    "Location:",
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 4 days ago",
+   "Posted 5 days ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -7451,7 +7465,10 @@
    "https://poslovnioglasi.ba/company-ad-details/959",
    "https://poslovnioglasi.ba/company-ad-details/958",
    "https://poslovnioglasi.ba/company-ad-details/378",
-   "https://poslovnioglasi.ba/company-ad-details/957"
+   "https://poslovnioglasi.ba/company-ad-details/957",
+   "https://poslovnioglasi.ba/company-ad-details/962",
+   "https://poslovnioglasi.ba/company-ad-details/961",
+   "https://poslovnioglasi.ba/company-ad-details/960"
   ]
  },
  "ads_bih": {
@@ -8106,7 +8123,9 @@
    "https://untalent.org/jobs/manager-internal-auditor",
    "https://untalent.org/jobs/international-consultant-ai-and-health-research-development-r-d-who-western-pacific-regional-office-manila-philippines",
    "https://untalent.org/jobs/international-consultant-clinical-trials-research-governance-and-responsible-ai-who-western-pacific-regional-office-manila-philippines",
-   "https://untalent.org/jobs/consultant-international-pour-les-test-dassurances-qualite-au-cnts-du-cameroun"
+   "https://untalent.org/jobs/consultant-international-pour-les-test-dassurances-qualite-au-cnts-du-cameroun",
+   "https://untalent.org/jobs/senior-conflict-resolution-officer-for-internal-candidates-only-syria-field-office-post",
+   "https://untalent.org/jobs/economic-affairs-intern-116"
   ]
  },
  "impactpool": {
@@ -8627,13 +8646,14 @@
    "hash:6b6303a52387b49d",
    "hash:f4af41539708a7d1",
    "hash:6f6f55420aa68918",
-   "hash:8f3c3ffdc483b77c"
+   "hash:8f3c3ffdc483b77c",
+   "hash:f10218a857d77d6e"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.7acfdb17.1794917493.20c3be6b",
-   "https://errors.edgesuite.net/18.7acfdb17.1794917493.20c3be6b"
+   "Reference #18.8b551702.1794928284.473f7f55",
+   "https://errors.edgesuite.net/18.8b551702.1794928284.473f7f55"
   ]
  },
  "osce": {
