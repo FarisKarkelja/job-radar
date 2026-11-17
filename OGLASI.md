@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 17.11. 16:52 | 💻 [Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 17.11. 13:07 | 💻 [(fluent English) Cyber Threat Intelligence Analyst (remote)](https://www.linkedin.com/jobs/view/4490445012) · SupportYourApp | LinkedIn BiH |
 | 17.11. 13:07 | 🚨 [International Consultant – AI and Health Research & Development (R&D), WHO Western Pacific Regional Office, Manila, Phi…](https://untalent.org/jobs/international-consultant-ai-and-health-research-development-r-d-who-western-pacific-regional-office-manila-philippines) | UN Talent (prakse) |
 | 17.11. 10:07 | 🚨 [New job: Spring 2027 Spring Career Development Intern - UNPAID IRC - International Rescue Committee Atlanta Internship - Internship](https://www.impactpool.org/jobs/1248328) | Impactpool (prakse) |
