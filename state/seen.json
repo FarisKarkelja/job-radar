@@ -463,7 +463,9 @@
    "f78764fe-e28b-11f1-8233-42010a9c001b",
    "14b8b60c-e287-11f1-8233-42010a9c001b",
    "f164c7b6-e29c-11f1-8233-42010a9c001b",
-   "330af35a-e29c-11f1-8233-42010a9c001b"
+   "330af35a-e29c-11f1-8233-42010a9c001b",
+   "cb432f9a-e32e-11f1-8233-42010a9c001b",
+   "d71c7a44-e326-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -506,7 +508,8 @@
    "https://posao.klix.ba/oglasi/ai-automation-specialist-mz-aurum-nova/11054",
    "https://posao.klix.ba/oglasi/marketing-manager-mf-forework/11084",
    "https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094",
-   "https://posao.klix.ba/oglasi/home-office-kundenberater-mwd-fur-ein-renommiertes-schuhunternehmen-telus-digital/11124"
+   "https://posao.klix.ba/oglasi/home-office-kundenberater-mwd-fur-ein-renommiertes-schuhunternehmen-telus-digital/11124",
+   "https://posao.klix.ba/oglasi/teamleiter-mwd-im-vertriebsprojekt-telus-digital/11123"
   ]
  },
  "itbase": {
@@ -932,7 +935,12 @@
    "https://szks.ba/posao/ppu-igmg-mravko-166-pedijatrijska-sestra-2",
    "https://szks.ba/posao/nastavnik-razredne-nastave-68",
    "https://szks.ba/posao/odgajatelj-88",
-   "https://szks.ba/posao/nastavnik-kulture-komuniciranja"
+   "https://szks.ba/posao/nastavnik-kulture-komuniciranja",
+   "https://szks.ba/posao/bosna-110-konobar",
+   "https://szks.ba/posao/hotel-bosna-1-110-spremacica",
+   "https://szks.ba/posao/hotel-bosna-1-110-pomocna-kuharica",
+   "https://szks.ba/posao/hotel-bosna-1-110-bastovan-vrtlar",
+   "https://szks.ba/posao/simpl-166-sivac-krojac"
   ]
  },
  "zdk_szz": {
@@ -4756,7 +4764,9 @@
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-u-zvanje-univerzitet-u-sarajevu-institut-za-historiju-3",
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16",
-   "https://www.unsa.ba/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12"
+   "https://www.unsa.ba/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16",
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12"
   ]
  },
  "untz_konkursi": {
@@ -7544,7 +7554,8 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7097",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8101",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8114",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8100"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8100",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8107"
   ]
  },
  "cbbh": {
@@ -8269,7 +8280,17 @@
    "https://www.impactpool.org/jobs/1248495",
    "https://www.impactpool.org/jobs/1248494",
    "https://www.impactpool.org/jobs/1248493",
-   "https://www.impactpool.org/jobs/1248492"
+   "https://www.impactpool.org/jobs/1248492",
+   "https://www.impactpool.org/jobs/1248600",
+   "https://www.impactpool.org/jobs/1248599",
+   "https://www.impactpool.org/jobs/1248596",
+   "https://www.impactpool.org/jobs/1248587",
+   "https://www.impactpool.org/jobs/1248585",
+   "https://www.impactpool.org/jobs/1248571",
+   "https://www.impactpool.org/jobs/1248570",
+   "https://www.impactpool.org/jobs/1248569",
+   "https://www.impactpool.org/jobs/1248568",
+   "https://www.impactpool.org/jobs/1248567"
   ]
  },
  "rcc": {
@@ -8704,13 +8725,14 @@
    "hash:5b71c5c7174f6af6",
    "hash:a33b154f2736a9f1",
    "hash:f15a54d13da3c356",
-   "hash:fc10a77742afe431"
+   "hash:fc10a77742afe431",
+   "hash:d3f2c78694e06d01"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.9767cd17.1794982290.557d718d",
-   "https://errors.edgesuite.net/18.9767cd17.1794982290.557d718d"
+   "Reference #18.68cfdb17.1794993080.2cd07b77",
+   "https://errors.edgesuite.net/18.68cfdb17.1794993080.2cd07b77"
   ]
  },
  "osce": {

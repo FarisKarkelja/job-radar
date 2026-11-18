@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 18.11. 10:07 | 🚨 [New job: International Consultant – AI and Health Research & Development (R&D), WHO Western Pacific Regional Office, Manila, Philippines WHO - World Health Organization Remote / Manila Senior](https://www.impactpool.org/jobs/1248599) | Impactpool (prakse) |
 | 18.11. 07:07 | 💻 [Head of Development](https://www.linkedin.com/jobs/view/4491136686) · NAGA | LinkedIn BiH |
 | 18.11. 07:07 | 💻 [RiSM Praktikum für Studierende der Pharmazie, Pharmazeutischen Wissenschaften...](https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424) | iAgora IT prakse (Švicarska) |
 | 17.11. 22:07 | 💻 [Promjena na stranici: AI-NURECC PLUS Initiative – Newsletter June 2023](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
