@@ -36325,5 +36325,68 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-18T00:59:03+00:00",
+  "source": "mojposao_it",
+  "source_name": "MojPosao IT",
+  "title": "Prodavač (m/ž)",
+  "url": "https://www.mojposao.ba/posao/25e09eb8-e264-11f1-8233-42010a9c001b/prodavac-mz",
+  "company": "",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-18T00:59:03+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Senior PV Associate",
+  "url": "https://www.linkedin.com/jobs/view/4491770410",
+  "company": "PrimeVigilance",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-18T00:59:03+00:00",
+  "source": "bosnalijek",
+  "source_name": "Bosnalijek (zapošljavanje)",
+  "title": "Promjena na stranici: novembar 18. 2026",
+  "url": "https://www.bosnalijek.ba/zaposljavanje",
+  "it": false,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-18T00:59:03+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: BYTE – Blockchain for Refugees Entrepreneurship",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-18T00:59:03+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.d337cb17.1794963770.4518200d",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
