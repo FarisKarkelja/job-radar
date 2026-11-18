@@ -89,7 +89,8 @@
    "e2dbb2e5-e1ac-11f1-8233-42010a9c001b",
    "7cf09cf3-e1c5-11f1-8233-42010a9c001b",
    "4072d7fd-e1a9-11f1-8233-42010a9c001b",
-   "25e09eb8-e264-11f1-8233-42010a9c001b"
+   "25e09eb8-e264-11f1-8233-42010a9c001b",
+   "621be283-e282-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -465,7 +466,9 @@
    "f164c7b6-e29c-11f1-8233-42010a9c001b",
    "330af35a-e29c-11f1-8233-42010a9c001b",
    "cb432f9a-e32e-11f1-8233-42010a9c001b",
-   "d71c7a44-e326-11f1-8233-42010a9c001b"
+   "d71c7a44-e326-11f1-8233-42010a9c001b",
+   "d0e1bc72-e347-11f1-8233-42010a9c001b",
+   "b13eb7c7-e331-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -782,7 +785,10 @@
    "https://www.linkedin.com/jobs/view/4490529940",
    "https://www.linkedin.com/jobs/view/4490801806",
    "https://www.linkedin.com/jobs/view/4491770410",
-   "https://www.linkedin.com/jobs/view/4491136686"
+   "https://www.linkedin.com/jobs/view/4491136686",
+   "https://www.linkedin.com/jobs/view/4491842341",
+   "https://www.linkedin.com/jobs/view/4483679413",
+   "https://www.linkedin.com/jobs/view/4491846159"
   ]
  },
  "glassrpske_konkursi": {
@@ -940,7 +946,9 @@
    "https://szks.ba/posao/hotel-bosna-1-110-spremacica",
    "https://szks.ba/posao/hotel-bosna-1-110-pomocna-kuharica",
    "https://szks.ba/posao/hotel-bosna-1-110-bastovan-vrtlar",
-   "https://szks.ba/posao/simpl-166-sivac-krojac"
+   "https://szks.ba/posao/simpl-166-sivac-krojac",
+   "https://szks.ba/posao/hotel-bosna-1-110-kuharica",
+   "https://szks.ba/posao/hydra-110-vozac-kamiona-s-prikolicom-ce"
   ]
  },
  "zdk_szz": {
@@ -3424,11 +3432,40 @@
    "hash:6be890af35d7a18c",
    "hash:31dea37756c9bb10",
    "hash:c8e77e5ccd321ea8",
-   "hash:ed90c749c0c5c184"
+   "hash:ed90c749c0c5c184",
+   "hash:9ccba94fcabe2130"
   ],
   "lines": [
    "Aktuelno",
    "Javni konkursi i obavijesti",
+   "18. novembra 2026.",
+   "Poslovnici o radu komisija za provođenje javnih oglasa za prijem radnika u radni odnos",
+   "PDF",
+   "Poslovnik – Lektor 2",
+   "PDF",
+   "Poslovnik – Montažer 1",
+   "PDF",
+   "Poslovnik – Novinar 1, Novinar 2 i Novinar saradnik",
+   "PDF",
+   "Poslovnik – Operativni producent",
+   "PDF",
+   "Poslovnik – Organizator 2",
+   "PDF",
+   "Poslovnik – Referent naplate RTV takse",
+   "PDF",
+   "Poslovnik – Reporter",
+   "PDF",
+   "Poslovnik – Saradnik za ekonomske poslove u javnim nabavkama",
+   "PDF",
+   "Poslovnik – Snimatelj 2",
+   "PDF",
+   "Poslovnik – Tehnički urednik multimedije",
+   "PDF",
+   "Poslovnik – Urednik 2",
+   "PDF",
+   "Poslovnik – Vodeći spiker",
+   "PDF",
+   "Poslovnik – Voditelj 1",
    "16. novembra 2026.",
    "Javni konkursi/oglasi za prijem radnika u radni odnos",
    "PDF",
@@ -4827,7 +4864,8 @@
    "https://dzobs.com/posao/bay42-370553/mlai-data-analyst-788422",
    "https://dzobs.com/posao/rollee-851986/senior-backend-engineer-351313",
    "https://dzobs.com/posao/more-screens-710818/devops-sysadmin-849359",
-   "https://dzobs.com/posao/elevatebits-125252/devops-engineer-815189"
+   "https://dzobs.com/posao/elevatebits-125252/devops-engineer-815189",
+   "https://dzobs.com/posao/logika-416559/multiple-escalation-engineers-l2l3-379181"
   ]
  },
  "dzobs_praksa": {
@@ -5245,7 +5283,8 @@
   "keys": [
    "hash:35de3d3a77ab37c7",
    "hash:5bd81332acd883f5",
-   "hash:d867ac36423691d4"
+   "hash:d867ac36423691d4",
+   "hash:174a4b0f34e8bff7"
   ],
   "lines": [
    "Help us improve",
@@ -5275,7 +5314,6 @@
    "The Family Liaison Office has a dedicated team of professionals working to expand employment options and information resources for family members, both at home and abroad. Learn more about our programs or begin your employment planning.",
    "Read More About Family Member Employment",
    "How to Apply User Guide Video",
-   "Click to accept marketing cookies and enable this content",
    "Department Career Paths",
    "Internships and Fellowships",
    "Whether you’re an undergraduate or postgraduate student seeking a substantive internship or fellowship supporting U.S. foreign policy, there’s no limit as to how far our opportunities can take you. You’ll have the opportunity to gain insight into U.S. foreign policy and diplomacy, explore new career avenues, and acquire lifelong skills as you represent America to the world.",
@@ -5297,11 +5335,11 @@
    "Details on the Foreign Service Officer Test",
    "You May Be Interested",
    "Education",
+   "TEA 27-28",
+   "Education",
    "Future Leaders Exchange (FLEX) Global Program",
    "October 6, 2026",
    "ONLINE PROFESSIONAL ENGLISH NETWORK (OPEN) PROGRAM – Winter 2027",
-   "September 3, 2026",
-   "Online Property Auction",
    "Cookie Settings",
    "Cookie Settings",
    "Emergency Assistance",
@@ -7511,7 +7549,9 @@
    "https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3525/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu",
-   "https://www.ads.gov.ba/vacancies/3526/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-sigurnosti-bosne-i-hercegovine"
+   "https://www.ads.gov.ba/vacancies/3526/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-sigurnosti-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3528/javni-oglas-za-popunjavanje-radnih-mjesta-rukovodecih-drzavnih-sluzbenika-u-sluzbi-za-zajednicke-poslove-institucija-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3527/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-uredu-za-zakonodavstvo-vijeca-ministara-bosne-i-hercegovine"
   ]
  },
  "ads_fbih": {
@@ -7555,7 +7595,8 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8101",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8114",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8100",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8107"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8107",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8104"
   ]
  },
  "cbbh": {
@@ -8444,7 +8485,8 @@
    "https://star.study/bs/novost/digitalni-putevi-osnazivanje-za-zaposljavanje-u-okviru-zelene-i-digitalne-tranzicije/8582",
    "https://star.study/bs/novost/opstina-cajnice-dodjeljuje-stipendije-i-novcane-nagrade-studentima/8478",
    "https://star.study/bs/novost/kako-od-ideje-doci-do-promjene/8592",
-   "https://star.study/bs/novost/toolbox-zaposljava-brand-ambassador/8675"
+   "https://star.study/bs/novost/toolbox-zaposljava-brand-ambassador/8675",
+   "https://star.study/bs/novost/hrvatski-telekom-zaposljava-u-sarajevu/8671"
   ]
  },
  "star_edukacija": {
@@ -8516,7 +8558,13 @@
    "https://star.study/bs/novost/erasmus-info-dani-u-bosni-i-hercegovini-2026-predstavljanje-mogucnosti-u-oblastima-obrazovanja/8646",
    "https://star.study/bs/novost/udruzenje-superbrke-i-ifmsa-banja-luka-pozivaju-vas-na-predavanje-na-medicinskom-fakultetu/8668",
    "https://star.study/bs/novost/otvorene-prijave-za-ucesce-u-projektu-idejalab-razvoj-ideja-i-kreativnosti-mladih/8651",
-   "https://star.study/bs/novost/tvoj-lik-tvoja-prica-tvoj-strip/8654"
+   "https://star.study/bs/novost/tvoj-lik-tvoja-prica-tvoj-strip/8654",
+   "https://star.study/bs/novost/razmisljas-o-ljetu-u-americi-saznaj-vise-o-programu-work-travel-usa/8693",
+   "https://star.study/bs/novost/from-zero-to-your-first-dj-set-get-behind-the-decks/8694",
+   "https://star.study/bs/novost/sta-je-nama-bosna-i-hercegovina/8695",
+   "https://star.study/bs/novost/edukativni-program-za-mlade-kriticare-u-okviru-mreze-festivala-jadranske-regije-2027/8663",
+   "https://star.study/bs/novost/predavanje-i-razgovor-intuicija-i-imaginacija-odakle-nam-dolaze-nove-ideje/8664",
+   "https://star.study/bs/novost/jedem-zdravo-zasto-to-nije-dovoljno/8681"
   ]
  },
  "povio": {
@@ -8619,7 +8667,8 @@
    "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
    "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101",
    "https://job-boards.eu.greenhouse.io/imc/jobs/4753890101",
-   "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101"
+   "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
+   "https://job-boards.eu.greenhouse.io/imc/jobs/4939821101"
   ]
  },
  "janestreet": {
@@ -8661,7 +8710,9 @@
    "https://rolify.com/prilike/caritas-bih-zaposljava-radi-na-projektima-koji-mijenjaju-zajednicu",
    "https://rolify.com/prilike/austrian-western-balkans-academy-mentorski-program-za-mlade-lidere-i-liderice-zapadnog-balkana",
    "https://rolify.com/prilike/fondacija-granoff-dodjeljuje-stipendije-studentima-i-studenticama-i-i-ii-ciklusa-studija",
-   "https://rolify.com/prilike/prijavi-se-na-omladinsku-razmjenu-u-pristini"
+   "https://rolify.com/prilike/prijavi-se-na-omladinsku-razmjenu-u-pristini",
+   "https://rolify.com/prilike/fondacija-boris-divkovic-zaposljava-koordinacija-projekata",
+   "https://rolify.com/prilike/mindtech-hackaton-2026"
   ]
  },
  "etf_sarajevo": {
@@ -8726,13 +8777,14 @@
    "hash:a33b154f2736a9f1",
    "hash:f15a54d13da3c356",
    "hash:fc10a77742afe431",
-   "hash:d3f2c78694e06d01"
+   "hash:d3f2c78694e06d01",
+   "hash:119faf018ed0daa7"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.68cfdb17.1794993080.2cd07b77",
-   "https://errors.edgesuite.net/18.68cfdb17.1794993080.2cd07b77"
+   "Reference #18.9e51c317.1795003848.7122bf42",
+   "https://errors.edgesuite.net/18.9e51c317.1795003848.7122bf42"
   ]
  },
  "osce": {
