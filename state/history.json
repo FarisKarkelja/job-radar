@@ -36388,5 +36388,68 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-18T06:07:50+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Head of Development",
+  "url": "https://www.linkedin.com/jobs/view/4491136686",
+  "company": "NAGA",
+  "it": true,
+  "priority": 4,
+  "match": "development",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "bih"
+ },
+ {
+  "ts": "2026-11-18T06:07:50+00:00",
+  "source": "infobip_internship",
+  "source_name": "Infobip praksa",
+  "title": "Promjena na stranici: Posted 1 week ago",
+  "url": "https://www.infobip.com/internship",
+  "it": false,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-18T06:07:50+00:00",
+  "source": "iagora_ch",
+  "source_name": "iAgora IT prakse (Švicarska)",
+  "title": "RiSM Praktikum für Studierende der Pharmazie, Pharmazeutischen Wissenschaften...",
+  "url": "https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424",
+  "company": "",
+  "it": true,
+  "priority": 4,
+  "match": "",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "abroad"
+ },
+ {
+  "ts": "2026-11-18T06:07:50+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: AI-NURECC PLUS Initiative – Newsletter June 2023",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-18T06:07:50+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.9767cd17.1794982290.557d718d",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
