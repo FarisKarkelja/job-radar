@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 18.11. 16:07 | 💻 [Pitanja, lista propisa i literature / Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet) | Univerzitet u Sarajevu (konkursi) |
 | 18.11. 13:07 | 💻 [Product Manager (m/w/d) Substation Digitalization Asset Health Analytics](https://www.linkedin.com/jobs/view/4483679413) · Siemens Energy | LinkedIn BiH |
 | 18.11. 13:07 | 💻 [premium Multiple Escalation Engineers (L2/L3) Logika Mostar Medior jo š 395 dana Remote](https://dzobs.com/posao/logika-416559/multiple-escalation-engineers-l2l3-379181) | dzobs (IT poslovi) |
 | 18.11. 13:07 | 🚨 [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4939821101) · IMC | IMC (prakse Evropa) |

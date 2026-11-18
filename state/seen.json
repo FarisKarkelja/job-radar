@@ -468,7 +468,12 @@
    "cb432f9a-e32e-11f1-8233-42010a9c001b",
    "d71c7a44-e326-11f1-8233-42010a9c001b",
    "d0e1bc72-e347-11f1-8233-42010a9c001b",
-   "b13eb7c7-e331-11f1-8233-42010a9c001b"
+   "b13eb7c7-e331-11f1-8233-42010a9c001b",
+   "22aaa72e-e33c-11f1-8233-42010a9c001b",
+   "2e742fba-e34f-11f1-8233-42010a9c001b",
+   "83a7c89c-e35c-11f1-8233-42010a9c001b",
+   "20c649d2-e350-11f1-8233-42010a9c001b",
+   "0baf8bca-e34d-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -1739,7 +1744,8 @@
  "raiffeisen": {
   "keys": [
    "hash:390390329297428b",
-   "hash:a4d7d9d0d9f0be56"
+   "hash:a4d7d9d0d9f0be56",
+   "hash:e429bcda02b055d2"
   ],
   "lines": [
    "Raiffeisen banka kao poslodavac",
@@ -1748,9 +1754,7 @@
    "Prijavite se za posao",
    "Aktuelni oglasi za posao",
    "Oglas za studente - Praksa u Raiffeisen banci",
-   "Pozicija: Rukovodilac za prodaju SME klijentima / Lokacija rada: Sarajevo / Oglas ostaje otvoren do: 08.11.2026.",
-   "Pozicija: Rukovodilac za prodaju / Lokacija rada: Bihać / Oglas ostaje otvoren do: 08.11.2026.",
-   "Pozicija: Stručni saradnik za kreditnu analizu i underwriting – klijenti fizička lica / Lokacija rada: Sarajevo / Oglas ostaje otvoren do: 13.11.2026.",
+   "Pozicija: Savjetnik za Premium klijente / Lokacija rada: Mostar / Oglas ostaje otvoren do: 27.1.2026.",
    "Raiffeisen banka kao poslodavac",
    "Dragi posjetitelji,",
    "Hvala što ste posjetili našu stranicu, poklonili nam vaše vrijeme. U videima u nastavku imate priliku zaviriti iza kulisa i upoznati nas malo bolje. Naša priča ne završava sa ovim videom, jer imamo još puno toga za podijeliti. Ponosni na naše kolegice i kolege, pozivamo vas da istražujete dalje, saznate šta radimo izvan radnog vremena, šta nas raduje, kako koristimo svoje znanje i umijeće u oblikovanju budućnosti naše banke i vašeg finansijskog iskustva. Želimo da osjetite snagu naše saradnje, proaktivan pristup, svjesnost naše odgovornosti za vlastite postupke i odluke, prepoznate našu posvećenost učenju i razvoju. Ove vrijednosti ne vode nas samo uspjehu, već su ključne u pružanju vrhunske usluge našim klijentima.",
@@ -4803,7 +4807,10 @@
    "https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16",
    "https://www.unsa.ba/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12",
    "https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16",
-   "https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12"
+   "https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12",
+   "https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet",
+   "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15",
+   "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-14"
   ]
  },
  "untz_konkursi": {
@@ -6025,7 +6032,8 @@
    "hash:d16fdc9b53eae02b",
    "hash:c679c1df351b25f5",
    "hash:3e9b2aaed0713e76",
-   "hash:e5e395b705972ed1"
+   "hash:e5e395b705972ed1",
+   "hash:7e8c59ca3f1d7232"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -6093,7 +6101,7 @@
    "Manila (Philippines)",
    "Job type:",
    "Hybrid",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "AI Engineering Intern – Sarajevo",
    "Location:",
    "Sarajevo (BiH)",
@@ -6105,19 +6113,19 @@
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "DevOps Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "DevOps Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "AI Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -6129,19 +6137,19 @@
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Customer Support Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "System Infrastructure Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -6159,31 +6167,31 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 2 days ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 2 days ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 2 days ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 5 days ago",
+   "Posted 6 days ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Finance Intern",
    "Location:",
    "Kuala Lumpur (Malaysia)",
@@ -7529,7 +7537,8 @@
    "https://poslovnioglasi.ba/company-ad-details/957",
    "https://poslovnioglasi.ba/company-ad-details/962",
    "https://poslovnioglasi.ba/company-ad-details/961",
-   "https://poslovnioglasi.ba/company-ad-details/960"
+   "https://poslovnioglasi.ba/company-ad-details/960",
+   "https://poslovnioglasi.ba/company-ad-details/963"
   ]
  },
  "ads_bih": {
@@ -7827,7 +7836,8 @@
    "hash:168464c38463a8c4",
    "hash:1da3bff82b999616",
    "hash:dd4a605e8735245f",
-   "hash:f5809fd5eeb4e37d"
+   "hash:f5809fd5eeb4e37d",
+   "hash:a8a984d9f6b40096"
   ],
   "lines": [
    "Projects",
@@ -7866,16 +7876,14 @@
    "International Conference for Sharing Best Practices: Economic and Social Integration of Refugees and Asylum Seekers through Social Entrepreneurship",
    "March 10, 2022",
    "Related Posts",
-   "Calls",
-   "Communication",
    "Projects",
-   "BYTE – Blockchain for Refugees Entrepreneurship",
+   "Projects from University of Primorska",
    "adm-uniadrion",
-   "February 6, 2024",
+   "May 24, 2021",
    "Projects",
-   "AI-NURECC PLUS Initiative – Newsletter June 2023",
+   "Western Balkanship: Create your Future",
    "adm-uniadrion",
-   "June 30, 2023",
+   "February 18, 2022",
    "Categories",
    "Administrative meetings",
    "Calls",
@@ -8778,13 +8786,14 @@
    "hash:f15a54d13da3c356",
    "hash:fc10a77742afe431",
    "hash:d3f2c78694e06d01",
-   "hash:119faf018ed0daa7"
+   "hash:119faf018ed0daa7",
+   "hash:b2b6a4486fcebd3f"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.9e51c317.1795003848.7122bf42",
-   "https://errors.edgesuite.net/18.9e51c317.1795003848.7122bf42"
+   "Reference #18.9489cc17.1795014668.d2ff6bbf",
+   "https://errors.edgesuite.net/18.9489cc17.1795014668.d2ff6bbf"
   ]
  },
  "osce": {
