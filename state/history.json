@@ -37966,5 +37966,42 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-19T06:08:38+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "Stručni saradnik IKT , Referent – portir, Spremačica",
+  "url": "https://szks.ba/posao/strucni-saradnik-ikt-referent-portir-spremacica",
+  "company": "Univerzitet u Sarajevu - Mašinski fakultet",
+  "it": true,
+  "priority": 4,
+  "match": "ikt",
+  "snippet": "",
+  "sent": true,
+  "why": "",
+  "loc": "sarajevo"
+ },
+ {
+  "ts": "2026-11-19T06:08:38+00:00",
+  "source": "infobip_internship",
+  "source_name": "Infobip praksa",
+  "title": "Promjena na stranici: Posted 1 month ago",
+  "url": "https://www.infobip.com/internship",
+  "it": false,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-19T06:08:38+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.1059c817.1795068768.3a92fa31",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
