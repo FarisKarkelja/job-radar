@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 19.11. 19:08 | 💻 [IT Systems Engineer](https://www.linkedin.com/jobs/view/4492472804) · CapsLock | LinkedIn BiH |
 | 19.11. 16:38 | 💻 [Promjena na stranici: Accreditation & Recognition of Prior Experience & Learning for Entrepreneurship (ARPEL4Entrep)](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 19.11. 16:09 | 💻 [Scientific Editor: Sustainable development](https://www.linkedin.com/jobs/view/4491622214) · Cactus Communications | LinkedIn BiH |
 | 19.11. 16:09 | 💻 [Mechanical Engineer / Product Development & Advanced Manufacturing](https://www.linkedin.com/jobs/view/4491625184) · FabLab Bosnia & Herzegovina | LinkedIn BiH |
