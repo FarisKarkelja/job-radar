@@ -2,38 +2,38 @@
  "mojposao_it": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 35
  },
  "mojposao_ks": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 196
  },
  "klix_it": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 20
  },
  "itbase": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 20
  },
  "workable_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 2
  },
  "linkedin_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
-  "last_count": 56
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 57
  },
  "mojkonkurs": {
   "fail_streak": 2,
@@ -41,11 +41,10 @@
   "last_error": "0 oglasa: stranica je možda promijenila dizajn ili je prazna"
  },
  "poslovnioglasi": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 13,
-  "last_error": "0 oglasa: stranica je možda promijenila dizajn ili je prazna"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 13
  },
  "glassrpske_konkursi": {
   "fail_streak": 0,
@@ -56,13 +55,13 @@
  "ads_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 9
  },
  "ads_fbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 15
  },
  "adu_rs": {
@@ -72,11 +71,10 @@
   "last_count": 18
  },
  "szks": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 10,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='szks.ba', port=443): Max retries exceeded with url: /oglasi/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='szks.ba', port=443) at 0x769570133620>, 'Connection to szks.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 10
  },
  "zzzrs": {
   "fail_streak": 0,
@@ -91,34 +89,33 @@
   "last_count": 8
  },
  "judzks": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 10,
-  "last_error": "HTTP 403"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 10
  },
  "bhtelecom": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 10
  },
  "epbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 4
  },
  "sparkasse": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "unicredit_ba": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "unicredit_bl": {
@@ -130,19 +127,19 @@
  "raiffeisen": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "intesa_oglasi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "intesa_zaposlenje": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "nlb_bl": {
@@ -154,13 +151,13 @@
  "procredit": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "procredit_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "addiko_bl": {
@@ -178,32 +175,31 @@
  "asabanka": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "bbi": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 1,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='bbi.ba', port=443): Max retries exceeded with url: /karijera (Caused by ConnectTimeoutError(<HTTPSConnection(host='bbi.ba', port=443) at 0x769560f439b0>, 'Connection to bbi.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  },
  "unionbank": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "unionbank_oglasi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "ziraat": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "mfbanka": {
@@ -219,28 +215,27 @@
   "last_count": 1
  },
  "rbfbih": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 3,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='rbfbih.ba', port=443): Max retries exceeded with url: /category/sluzbene-objave/oglasi (Caused by ConnectTimeoutError(<HTTPSConnection(host='rbfbih.ba', port=443) at 0x769560f647d0>, 'Connection to rbfbih.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 3
  },
  "cbbh": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "monri": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "mikra": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "partner_mkf": {
@@ -252,15 +247,14 @@
  "lok": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "sunrise": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 1,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.microsunrise.ba', port=443): Max retries exceeded with url: /karijera (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.microsunrise.ba', port=443) at 0x769570238c80>, 'Connection to www.microsunrise.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  },
  "mibospo": {
   "fail_streak": 0,
@@ -271,7 +265,7 @@
  "triglav": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "wiener": {
@@ -283,26 +277,25 @@
  "grawe": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "asa_osiguranje": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 1,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='asacentral.ba', port=443): Max retries exceeded with url: /karijera (Caused by ConnectTimeoutError(<HTTPSConnection(host='asacentral.ba', port=443) at 0x769574f3e8d0>, 'Connection to asacentral.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  },
  "raiffeisen_leasing": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "telemach": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "mtel": {
@@ -314,56 +307,55 @@
  "supernova": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "bhposta": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 3
  },
  "jpceste": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "bhgas": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 2,
-  "last_error": "HTTP 403"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 2
  },
  "sarajevogas": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "energoinvest": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 6
  },
  "aerodrom_sarajevo": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 4
  },
  "rtvfbih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "kcus": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "ukc_tuzla": {
@@ -375,44 +367,43 @@
  "obs": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "viksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 10
  },
  "kjkp_rad": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 4
  },
  "toplane": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "kjkp_park": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 266,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.park.ba', port=443): Max retries exceeded with url: /?page_id=9652 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.park.ba', port=443) at 0x769570485df0>, 'Connection to www.park.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 266
  },
  "kjkp_pokop": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "vlada_ks": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 20
  },
  "szz_hnk": {
@@ -442,13 +433,13 @@
  "arz_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "unsa_konkursi": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 10
  },
  "untz_konkursi": {
@@ -467,13 +458,13 @@
  "dzobs": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 12
  },
  "dzobs_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 0
  },
  "eeas_bih": {
@@ -485,15 +476,14 @@
  "us_embassy": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "ohr": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 1,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.ohr.int', port=443): Max retries exceeded with url: /vacancies (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ohr.int', port=443) at 0x769570641ac0>, 'Connection to www.ohr.int timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  },
  "bingo": {
   "fail_streak": 0,
@@ -502,22 +492,21 @@
   "last_count": 8
  },
  "robot": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 6,
-  "last_error": "HTTP 403"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 6
  },
  "amko": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "bosnalijek": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "hemofarm": {
@@ -529,13 +518,13 @@
  "asa_grupa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "ina_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "aluminij": {
@@ -547,61 +536,61 @@
  "kpmg_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "atlantbh": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "atlantbh_internship": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "infobip_internship": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "ministry_of_programming": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "htec_bih": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 3
  },
  "symphony": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "dploy": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "authority_partners": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "klika": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "lanaco": {
@@ -619,37 +608,37 @@
  "zira": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "zira_academy": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "twoam": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "saga": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "saga_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "walter_code": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 5
  },
  "rtrk": {
@@ -661,66 +650,65 @@
  "tacta": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "mibo": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 1,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='mibo.ba', port=443): Max retries exceeded with url: /karijera (Caused by ConnectTimeoutError(<HTTPSConnection(host='mibo.ba', port=443) at 0x7695701325a0>, 'Connection to mibo.ba timed out. (connect timeout=30)'))"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  },
  "atia": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "star_praksa": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 20
  },
  "star_posao": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 20
  },
  "star_edukacija": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 20
  },
  "atlantbh_workable": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "povio": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 5
  },
  "symphony_lever": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 10
  },
  "zira_recruitee": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 2
  },
  "infobip_workday": {
-  "fail_streak": 27,
+  "fail_streak": 28,
   "alerted": true,
   "last_ok": "2026-11-16T06:07:40+00:00",
   "last_count": 55,
@@ -729,91 +717,91 @@
  "infinum": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 3
  },
  "canonical": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 18
  },
  "cern": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 19
  },
  "iagora_ch": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 44
  },
  "imc": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 8
  },
  "janestreet": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 0
  },
  "flowtraders": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 2
  },
  "jetbrains": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 0
  },
  "western_balkanship": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "wise_wb": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "untalent": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
-  "last_count": 2
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  },
  "impactpool": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 18
  },
  "rcc": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "itkarijera_prakse": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 10
  },
  "rolify": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 11
  },
  "etf_sarajevo": {
@@ -825,32 +813,31 @@
  "optiver": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 7
  },
  "nato_sarajevo": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "osce": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 0
  },
  "ibu_career": {
   "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T15:09:55+00:00",
+  "last_ok": "2026-11-19T15:38:48+00:00",
   "last_count": 1
  },
  "ssst_career": {
-  "fail_streak": 1,
+  "fail_streak": 0,
   "alerted": false,
-  "last_ok": "2026-11-19T12:07:37+00:00",
-  "last_count": 1,
-  "last_error": "stranica je prazna"
+  "last_ok": "2026-11-19T15:38:48+00:00",
+  "last_count": 1
  }
 }

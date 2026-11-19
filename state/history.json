@@ -38988,5 +38988,83 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-19T15:38:48+00:00",
+  "source": "poslovnioglasi",
+  "source_name": "Poslovni oglasi",
+  "title": "Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas",
+  "url": "https://poslovnioglasi.ba/company-ad-details/966",
+  "company": "",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-19T15:38:48+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "Turistička agencija Mozaik group d.o.o. objavljuje oglas za posao na 2 pozicije",
+  "url": "https://szks.ba/posao/turisticka-agencija-mozaik-group-d-o-o-objavljuje-oglas-za-posao-na-2-pozicije",
+  "company": "Mozaik Group d.o.o.",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-19T15:38:48+00:00",
+  "source": "szks",
+  "source_name": "SZKS (Služba za zapošljavanje KS)",
+  "title": "Administartivni radnik",
+  "url": "https://szks.ba/posao/administartivni-radnik-2",
+  "company": "PU Kids Land",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-19T15:38:48+00:00",
+  "source": "us_embassy",
+  "source_name": "US Ambasada Sarajevo (jobs)",
+  "title": "Promjena na stranici: We use cookies to make our website work better and improve your experience. By continuing to use the",
+  "url": "https://ba.usembassy.gov/jobs",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-19T15:38:48+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: Accreditation & Recognition of Prior Experience & Learning for Entrepreneurship (ARPEL4Entrep)",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": true,
+  "why": ""
+ },
+ {
+  "ts": "2026-11-19T15:38:48+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.8c2b2117.1795102940.56dce76f",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
