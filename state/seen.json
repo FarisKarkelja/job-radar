@@ -91,7 +91,8 @@
    "4072d7fd-e1a9-11f1-8233-42010a9c001b",
    "25e09eb8-e264-11f1-8233-42010a9c001b",
    "621be283-e282-11f1-8233-42010a9c001b",
-   "9d66d1f9-e271-11f1-8233-42010a9c001b"
+   "9d66d1f9-e271-11f1-8233-42010a9c001b",
+   "aa312d07-e3f3-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -961,7 +962,11 @@
    "https://szks.ba/posao/simpl-166-sivac-krojac",
    "https://szks.ba/posao/hotel-bosna-1-110-kuharica",
    "https://szks.ba/posao/hydra-110-vozac-kamiona-s-prikolicom-ce",
-   "https://szks.ba/posao/strucni-saradnik-ikt-referent-portir-spremacica"
+   "https://szks.ba/posao/strucni-saradnik-ikt-referent-portir-spremacica",
+   "https://szks.ba/posao/pripravnici",
+   "https://szks.ba/posao/koordinator-za-odrzavanje-javne-higijene-i-zelenih-povrsina",
+   "https://szks.ba/posao/rukovodilac-sluzbe-za-medicinsko-farmaceutske-poslove",
+   "https://szks.ba/posao/bh-centar-za-obrazovanje-166-direktor-ica-podruznica-za-predskolsko-obrazovanje"
   ]
  },
  "zdk_szz": {
@@ -7622,7 +7627,9 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8114",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8100",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8107",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8104"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8104",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8122",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7095"
   ]
  },
  "cbbh": {
@@ -7856,7 +7863,8 @@
    "hash:f5809fd5eeb4e37d",
    "hash:a8a984d9f6b40096",
    "hash:3bf03ec823569d91",
-   "hash:6faf7c2807364513"
+   "hash:6faf7c2807364513",
+   "hash:b86bdcee3c00f17c"
   ],
   "lines": [
    "Projects",
@@ -7895,16 +7903,17 @@
    "International Conference for Sharing Best Practices: Economic and Social Integration of Refugees and Asylum Seekers through Social Entrepreneurship",
    "March 10, 2022",
    "Related Posts",
-   "Projects",
-   "AI-NURECC PLUS Initiative – Newsletter June 2023",
-   "adm-uniadrion",
-   "June 30, 2023",
+   "Calls",
    "Communication",
    "Projects",
-   "Reports",
-   "FOODVALUE: Innovation and Research to Enhance Montenegro’s Traditional Fermented Foods",
-   "alessio_uniadrion",
-   "March 5, 2025",
+   "BYTE – Blockchain for Refugees Entrepreneurship",
+   "adm-uniadrion",
+   "February 6, 2024",
+   "Events",
+   "Projects",
+   "Kick Off Meeting – ESN-AIR🌏",
+   "adm-uniadrion",
+   "March 28, 2024",
    "Categories",
    "Administrative meetings",
    "Calls",
@@ -8231,7 +8240,10 @@
    "https://untalent.org/jobs/specialiste-partenariats-subventions-et-reporting-recrutement-interne-et-externe",
    "https://untalent.org/jobs/charge-e-protection-et-cohesion-sociale-recrutement-interne-et-externe",
    "https://untalent.org/jobs/charge-e-gestion-de-linformation-recrutement-interne-et-externe",
-   "https://untalent.org/jobs/intern-human-resources-administration-2"
+   "https://untalent.org/jobs/intern-human-resources-administration-2",
+   "https://untalent.org/jobs/intern-public-information-communications-and-outreach-2",
+   "https://untalent.org/jobs/intern-in-the-sustainable-environmental-management-sem-group-2",
+   "https://untalent.org/jobs/governance-affaris-intern"
   ]
  },
  "impactpool": {
@@ -8385,7 +8397,23 @@
    "https://www.impactpool.org/jobs/1248770",
    "https://www.impactpool.org/jobs/1248769",
    "https://www.impactpool.org/jobs/1248768",
-   "https://www.impactpool.org/jobs/1248767"
+   "https://www.impactpool.org/jobs/1248767",
+   "https://www.impactpool.org/jobs/1248878",
+   "https://www.impactpool.org/jobs/1248877",
+   "https://www.impactpool.org/jobs/1248876",
+   "https://www.impactpool.org/jobs/1248875",
+   "https://www.impactpool.org/jobs/1248874",
+   "https://www.impactpool.org/jobs/1248873",
+   "https://www.impactpool.org/jobs/1248872",
+   "https://www.impactpool.org/jobs/1248871",
+   "https://www.impactpool.org/jobs/1248866",
+   "https://www.impactpool.org/jobs/1248864",
+   "https://www.impactpool.org/jobs/1248863",
+   "https://www.impactpool.org/jobs/1248862",
+   "https://www.impactpool.org/jobs/1248858",
+   "https://www.impactpool.org/jobs/1248857",
+   "https://www.impactpool.org/jobs/1248853",
+   "https://www.impactpool.org/jobs/1248851"
   ]
  },
  "rcc": {
@@ -8767,7 +8795,8 @@
    "https://rolify.com/prilike/prijavi-se-na-omladinsku-razmjenu-u-pristini",
    "https://rolify.com/prilike/fondacija-boris-divkovic-zaposljava-koordinacija-projekata",
    "https://rolify.com/prilike/mindtech-hackaton-2026",
-   "https://rolify.com/prilike/prijavi-se-na-program-aktivna-gradjanka"
+   "https://rolify.com/prilike/prijavi-se-na-program-aktivna-gradjanka",
+   "https://rolify.com/prilike/ai-engineering-internship-zapocni-karijeru-u-vjestackoj-inteligenciji"
   ]
  },
  "etf_sarajevo": {
@@ -8839,13 +8868,14 @@
    "hash:eca19d081b31b131",
    "hash:cc6c6ac50b39c9a3",
    "hash:f414452f772e558d",
-   "hash:2d6065f82a3bccc4"
+   "hash:2d6065f82a3bccc4",
+   "hash:c2dc69461704b847"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.1059c817.1795068768.3a92fa31",
-   "https://errors.edgesuite.net/18.1059c817.1795068768.3a92fa31"
+   "Reference #18.84951eb8.1795079508.48595422",
+   "https://errors.edgesuite.net/18.84951eb8.1795079508.48595422"
   ]
  },
  "osce": {
