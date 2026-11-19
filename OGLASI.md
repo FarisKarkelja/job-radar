@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 19.11. 01:12 | 💻 [Experimentation Developer (.NET, React & Dynamic Yield)](https://www.linkedin.com/jobs/view/4492228171) · Avenga | LinkedIn BiH |
 | 18.11. 22:07 | 🚨 [New job: Legal Analyst IDLO - International Development Law Organization Kyiv Junior](https://www.impactpool.org/jobs/1248794) | Impactpool (prakse) |
 | 18.11. 19:07 | 💻 [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988) · Deloitte | LinkedIn BiH |
 | 18.11. 19:07 | 💻 [Data Engineer](https://www.linkedin.com/jobs/view/4419967481) · Avenga | LinkedIn BiH |
