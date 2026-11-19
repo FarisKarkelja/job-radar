@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 19.11. 13:07 | 💻 [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271) · Deloitte | LinkedIn BiH |
+| 19.11. 13:07 | 🚨 [Internship / Master Thesis: Augmented reality, the next generation interface](https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769) | iAgora IT prakse (Švicarska) |
 | 19.11. 10:07 | 💻 [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar) | MojPosao IT |
 | 19.11. 10:07 | 🚨 [New job: Analista em Protocolo Preventivo de Ação de Segurança (1 vaga) (Home Based) - [Open to internal and external applicants] UNDP - United Nations Development Programme Remote / Home Based - May require travel NPSA-8, National Personne](https://www.impactpool.org/jobs/1248853) | Impactpool (prakse) |
 | 19.11. 10:07 | 🚨 [New job: Assistente de Projeto (Office based) [Open to internal and external applicants] UNDP - United Nations Development Programme Brasília NPSA-5, National Personnel Services Agreement - Administrative support](https://www.impactpool.org/jobs/1248851) | Impactpool (prakse) |

@@ -477,7 +477,13 @@
    "20c649d2-e350-11f1-8233-42010a9c001b",
    "0baf8bca-e34d-11f1-8233-42010a9c001b",
    "a019983d-e363-11f1-8233-42010a9c001b",
-   "d2703c34-e365-11f1-8233-42010a9c001b"
+   "d2703c34-e365-11f1-8233-42010a9c001b",
+   "0a70df11-e3fe-11f1-8233-42010a9c001b",
+   "faeea5d0-e40c-11f1-8233-42010a9c001b",
+   "b88c20d3-e40a-11f1-8233-42010a9c001b",
+   "d0800c21-e3fe-11f1-8233-42010a9c001b",
+   "feb3bc7d-e3fe-11f1-8233-42010a9c001b",
+   "36402f54-e3f9-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -801,7 +807,10 @@
    "https://www.linkedin.com/jobs/view/4491307988",
    "https://www.linkedin.com/jobs/view/4419967481",
    "https://www.linkedin.com/jobs/view/4489753151",
-   "https://www.linkedin.com/jobs/view/4492228171"
+   "https://www.linkedin.com/jobs/view/4492228171",
+   "https://www.linkedin.com/jobs/view/4491613271",
+   "https://www.linkedin.com/jobs/view/4491600674",
+   "https://www.linkedin.com/jobs/view/4491386811"
   ]
  },
  "glassrpske_konkursi": {
@@ -966,7 +975,9 @@
    "https://szks.ba/posao/pripravnici",
    "https://szks.ba/posao/koordinator-za-odrzavanje-javne-higijene-i-zelenih-povrsina",
    "https://szks.ba/posao/rukovodilac-sluzbe-za-medicinsko-farmaceutske-poslove",
-   "https://szks.ba/posao/bh-centar-za-obrazovanje-166-direktor-ica-podruznica-za-predskolsko-obrazovanje"
+   "https://szks.ba/posao/bh-centar-za-obrazovanje-166-direktor-ica-podruznica-za-predskolsko-obrazovanje",
+   "https://szks.ba/posao/odgajatelj-89",
+   "https://szks.ba/posao/nastavnik-razredne-nastave-69"
   ]
  },
  "zdk_szz": {
@@ -6054,7 +6065,8 @@
    "hash:3e9b2aaed0713e76",
    "hash:e5e395b705972ed1",
    "hash:7e8c59ca3f1d7232",
-   "hash:beaa87cbfead86c7"
+   "hash:beaa87cbfead86c7",
+   "hash:f10c3d915b99de24"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -6122,7 +6134,7 @@
    "Manila (Philippines)",
    "Job type:",
    "Hybrid",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "AI Engineering Intern – Sarajevo",
    "Location:",
    "Sarajevo (BiH)",
@@ -6140,13 +6152,13 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "DevOps Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "AI Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -6158,19 +6170,19 @@
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Customer Support Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "System Infrastructure Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -6188,25 +6200,25 @@
    "Rijeka (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 2 days ago",
+   "Posted 3 days ago",
    "Software Engineering Intern – Vodnjan",
    "Location:",
    "Vodnjan (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 2 days ago",
+   "Posted 3 days ago",
    "Software Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 2 days ago",
+   "Posted 3 days ago",
    "Solutions Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 6 days ago",
+   "Posted 7 days ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
@@ -7560,7 +7572,8 @@
    "https://poslovnioglasi.ba/company-ad-details/961",
    "https://poslovnioglasi.ba/company-ad-details/960",
    "https://poslovnioglasi.ba/company-ad-details/963",
-   "https://poslovnioglasi.ba/company-ad-details/964"
+   "https://poslovnioglasi.ba/company-ad-details/964",
+   "https://poslovnioglasi.ba/company-ad-details/965"
   ]
  },
  "ads_bih": {
@@ -7582,7 +7595,8 @@
    "https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu",
    "https://www.ads.gov.ba/vacancies/3526/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-sigurnosti-bosne-i-hercegovine",
    "https://www.ads.gov.ba/vacancies/3528/javni-oglas-za-popunjavanje-radnih-mjesta-rukovodecih-drzavnih-sluzbenika-u-sluzbi-za-zajednicke-poslove-institucija-bosne-i-hercegovine",
-   "https://www.ads.gov.ba/vacancies/3527/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-uredu-za-zakonodavstvo-vijeca-ministara-bosne-i-hercegovine"
+   "https://www.ads.gov.ba/vacancies/3527/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-uredu-za-zakonodavstvo-vijeca-ministara-bosne-i-hercegovine",
+   "https://www.ads.gov.ba/vacancies/3529/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-radni-odnos-u-pravobranilastvu-bosne-i-hercegovine"
   ]
  },
  "ads_fbih": {
@@ -7835,7 +7849,8 @@
    "https://www.iagora.com/work/en/offer/internship-switzerland-it/6439436",
    "https://www.iagora.com/work/en/offer/internship-switzerland-it/6590257",
    "https://www.iagora.com/work/en/offer/internship-switzerland-it/6590254",
-   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424"
+   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424",
+   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769"
   ]
  },
  "western_balkanship": {
@@ -8504,7 +8519,8 @@
    "https://star.study/bs/novost/easy-bites-zaposljavaju-na-poziciji-konobar-sanker-mz/8343",
    "https://star.study/bs/novost/opstina-cajnice-dodjeljuje-stipendije-i-novcane-nagrade-studentima/8478",
    "https://star.study/bs/novost/kako-od-ideje-doci-do-promjene/8592",
-   "https://star.study/bs/novost/fizioterapeut/8618"
+   "https://star.study/bs/novost/fizioterapeut/8618",
+   "https://star.study/bs/novost/praksa-u-oblasti-medunarodnog-biznisa-marketinga-i-komunikacija-u-kini/8740"
   ]
  },
  "star_posao": {
@@ -8568,7 +8584,8 @@
    "https://star.study/bs/novost/opstina-cajnice-dodjeljuje-stipendije-i-novcane-nagrade-studentima/8478",
    "https://star.study/bs/novost/kako-od-ideje-doci-do-promjene/8592",
    "https://star.study/bs/novost/toolbox-zaposljava-brand-ambassador/8675",
-   "https://star.study/bs/novost/hrvatski-telekom-zaposljava-u-sarajevu/8671"
+   "https://star.study/bs/novost/hrvatski-telekom-zaposljava-u-sarajevu/8671",
+   "https://star.study/bs/novost/zaposljavamo-postani-dio-tima-juice-bar-life/8683"
   ]
  },
  "star_edukacija": {
@@ -8646,7 +8663,10 @@
    "https://star.study/bs/novost/sta-je-nama-bosna-i-hercegovina/8695",
    "https://star.study/bs/novost/edukativni-program-za-mlade-kriticare-u-okviru-mreze-festivala-jadranske-regije-2027/8663",
    "https://star.study/bs/novost/predavanje-i-razgovor-intuicija-i-imaginacija-odakle-nam-dolaze-nove-ideje/8664",
-   "https://star.study/bs/novost/jedem-zdravo-zasto-to-nije-dovoljno/8681"
+   "https://star.study/bs/novost/jedem-zdravo-zasto-to-nije-dovoljno/8681",
+   "https://star.study/bs/novost/predavanje-strucnjaka-iz-prakse-na-pravnom-fakultetu-travnik/8685",
+   "https://star.study/bs/novost/radionica-prakticna-primjena-i-ucinkovita-zastita-prava-na-pristup-informacijama/8686",
+   "https://star.study/bs/novost/kako-do-novih-klijenata-za-novu-2027-godinu-10-prakticnih-savjeta-za-poduzetnike-i-freelancere/8738"
   ]
  },
  "povio": {
@@ -8869,13 +8889,14 @@
    "hash:cc6c6ac50b39c9a3",
    "hash:f414452f772e558d",
    "hash:2d6065f82a3bccc4",
-   "hash:c2dc69461704b847"
+   "hash:c2dc69461704b847",
+   "hash:d5bb602bf23fcee0"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.84951eb8.1795079508.48595422",
-   "https://errors.edgesuite.net/18.84951eb8.1795079508.48595422"
+   "Reference #18.9e51c317.1795090321.84b3ccc5",
+   "https://errors.edgesuite.net/18.9e51c317.1795090321.84b3ccc5"
   ]
  },
  "osce": {

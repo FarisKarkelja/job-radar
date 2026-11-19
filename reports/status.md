@@ -1,13 +1,13 @@
 # Status izvora
 
-Zadnje pokretanje: **19.11.2026 10:07** (Sarajevo)  
+Zadnje pokretanje: **19.11.2026 13:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
 | [Infobip](https://www.infobip.com/jobs-at-infobip) | ❌ | 0 | 0 | HTTP 429 |
-| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 0 |  |
-| [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 2 |  |
+| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 1 |  |
+| [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
 | [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [Agencija za rad i zapošljavanje BiH (oglasi)](https://www.arz.gov.ba/bs/meni/menu_cmnclncj400uxk03uy00mieba) | ✅ | 1 | 0 |  |
@@ -35,13 +35,13 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Flow Traders (prakse Evropa)](https://www.flowtraders.com/careers) | ✅ | 2 | 0 |  |
 | [Grawe osiguranje (posao)](https://www.grawe.ba/grawe-posao) | ✅ | 1 | 0 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 3 | 0 |  |
-| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
+| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 1 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 9 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 18 | 16 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 18 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -57,20 +57,20 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 56 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 53 | 3 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 1 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 197 | 6 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 1 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
 | [Optiver (prakse Evropa)](https://optiver.com/working-at-optiver/career-opportunities/) | ✅ | 7 | 0 |  |
 | [OSCE (BiH i prakse)](https://jobs.osce.org/vacancies) | ✅ | 0 | 0 |  |
-| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
+| [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 1 |  |
 | [Povio](https://apply.workable.com/povio/) | ✅ | 5 | 0 |  |
 | [ProCredit Bank (karijera)](https://www.procreditbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [ProCredit Bank (studentska praksa)](https://www.procreditbank.ba/karijera/propraksa) | ✅ | 1 | 0 |  |
@@ -79,21 +79,21 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Razvojna banka FBiH (oglasi)](https://rbfbih.ba/category/sluzbene-objave/oglasi) | ✅ | 3 | 0 |  |
 | [Regional Cooperation Council (Sarajevo)](https://www.rcc.int/vacancies) | ✅ | 1 | 0 |  |
 | [Robot (aktivni konkursi)](https://robot.ba/aktivni-konkursi) | ✅ | 6 | 0 |  |
-| [Rolify prilike](https://rolify.com/prilike/) | ✅ | 11 | 1 |  |
+| [Rolify prilike](https://rolify.com/prilike/) | ✅ | 11 | 0 |  |
 | [RTV FBiH (obavijesti i konkursi)](https://rtvfbih.ba/obavijesti) | ✅ | 1 | 0 |  |
 | [Saga (karijera)](https://saga.ba/karijera) | ✅ | 1 | 0 |  |
 | [Saga (praksa)](https://saga.ba/praksa) | ✅ | 1 | 0 |  |
 | [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
 | [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
 | [SSST karijere](https://ssst.edu.ba/careers) | ✅ | 1 | 0 |  |
-| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 0 |  |
-| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 0 |  |
-| [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 0 |  |
+| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 3 |  |
+| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 1 |  |
+| [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 1 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
 | [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
 | [Symphony (oglasi)](https://jobs.eu.lever.co/symphony) | ✅ | 10 | 0 |  |
-| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 4 |  |
+| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 2 |  |
 | [Tacta (careers)](https://tacta.io/careers) | ✅ | 1 | 0 |  |
 | [Telemach BH (zaposlenje)](https://telemach.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [KJKP Toplane (konkursi)](https://www.toplanesarajevo.ba/stranica/konkursi) | ✅ | 1 | 0 |  |
@@ -103,12 +103,12 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
 | [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
-| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 3 | 3 |  |
+| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
 | [Walter Code / Galeyo](https://www.galeyo.com/open-positions) | ✅ | 5 | 0 |  |
-| [Western-BALKANship (prakse u Italiji)](https://www.uniadrion.net/western-balkanship-create-your-future/) | ✅ | 1 | 1 |  |
+| [Western-BALKANship (prakse u Italiji)](https://www.uniadrion.net/western-balkanship-create-your-future/) | ✅ | 1 | 0 |  |
 | [WISE prakse Zapadni Balkan](https://wise.ypn.al/) | ✅ | 1 | 0 |  |
 | [Workable BiH](https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs) | ✅ | 2 | 0 |  |
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
@@ -120,6 +120,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>ads_bih (9)</summary>
 
+- [Javni oglas za prijem pripravnika visoke stručne spreme u radni odnos u Pravobranilaštvu Bosne i Hercegovine Datum objave: 19.11.2026. Krajnji rok za prijave: 26.11.2026. I PRIPRAVNIČKA MJESTA 1. Pripravnik pravne struke – dvanaest (12) izv](https://www.ads.gov.ba/vacancies/3529/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-radni-odnos-u-pravobranilastvu-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnih mjesta rukovodećih državnih službenika u Službi za zajedničke poslove institucija Bosne i Hercegovine Datum objave: 18.11.2026. Krajnji rok za prijave: 08.12.2026. 1/01 Direktor 1/02 Zamjenik direktora](https://www.ads.gov.ba/vacancies/3528/javni-oglas-za-popunjavanje-radnih-mjesta-rukovodecih-drzavnih-sluzbenika-u-sluzbi-za-zajednicke-poslove-institucija-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnog mjesta rukovodećeg državnog službenika u Uredu za zakonodavstvo Vijeća ministara Bosne i Hercegovine Datum objave: 18.11.2026. Krajnji rok za prijave: 08.12.2026. 1/01 Direktor Ureda za zakonodavstvo](https://www.ads.gov.ba/vacancies/3527/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-uredu-za-zakonodavstvo-vijeca-ministara-bosne-i-hercegovine)
 - [Interni oglas za popunjavanje radnog mjesta državnog službenika u Мinistarstvu sigurnosti Bosne i Hercegovine Datum objave: 16.11.2026. Krajnji rok za prijave: 23.11.2026. 1/01 Stručni savjetnik – Upravnik centra](https://www.ads.gov.ba/vacancies/3526/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-sigurnosti-bosne-i-hercegovine)
@@ -127,7 +128,6 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Javni oglas za popunjavanje radnog mjesta rukovodećeg državnog službenika u Državnoj agenciji za istrage i zaštitu Datum objave: 13.11.2026. Krajnji rok za prijave: 03.12.2026. 1/01 Načelnik Sektora za administraciju i unutrašnju podršku](https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu)
 - [Interni oglas za popunjavanje radnog mjesta državnog službenika u Sekretarijatu Parlamentarne skupštine Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za pripremu sjednica Predstavni](https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine)
 - [Interni oglas za popunjavanje radnog mjesta državnog službenika u Мinistarstvu vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za unapređenje i pr](https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine)
-- [Javni oglas za popunjavanje radnih mjesta državnih službenika u Ministarstvu za ljudska prava i izbjeglice Bosne i Hercegovine Datum objave: 11.11.2026. Krajnji rok za prijave: 01.12.2026. 1/01 Stručni savjetnik za pravne poslove 1/02 Struč](https://www.ads.gov.ba/vacancies/3521/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-ministarstvu-za-ljudska-prava-i-izbjeglice-bosne-i-hercegovine)
 
 </details>
 
@@ -352,6 +352,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>iagora_ch (44)</summary>
 
+- [Internship / Master Thesis: Augmented reality, the next generation interface](https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769)
 - [RiSM Praktikum für Studierende der Pharmazie, Pharmazeutischen Wissenschaften...](https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424)
 - [Intern-Economic Affairs](https://www.iagora.com/work/en/offer/internship-switzerland-it/6590257)
 - [Intern - Digital and Technology Support Section](https://www.iagora.com/work/en/offer/internship-switzerland-it/6590254)
@@ -359,7 +360,6 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Young Talent - Simulation (m/f/x)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6586467)
 - [Software Engineer Intern - Zurich (2027)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6109781)
 - [AI Internship: Self-Hosted LLMs for Data Migration](https://www.iagora.com/work/en/offer/internship-switzerland-it/6579858)
-- [Young Talent - Test Infrastructure Development (f/m/x)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6580954)
 
 </details>
 
@@ -546,16 +546,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (56)</summary>
+<details><summary>linkedin_bih (53)</summary>
 
 - [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
+- [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959)
 - [.NET Developer - Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4490363092)
 - [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418)
 - [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252)
 - [DevOps Engineer I](https://www.linkedin.com/jobs/view/4482711686)
 - [Product Owner for Substation Automation Software (f/m/d)](https://www.linkedin.com/jobs/view/4456019638)
-- [Solution Engineer Associate (German Speaker)](https://www.linkedin.com/jobs/view/4465763726)
 
 </details>
 
@@ -586,10 +586,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 <details><summary>mojposao_it (34)</summary>
 
 - [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
-- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 - [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
-- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
 - [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
+- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
+- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
 - [Embedded Software Test Engineer](https://www.mojposao.ba/posao/bc9d78e0-d84f-11f1-a8c0-42010a9c001a/embedded-software-test-engineer)
@@ -602,10 +602,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Home Office Kundenberater (m/w/d) für ein renommiertes Schuhunternehmen](https://www.mojposao.ba/posao/330af35a-e29c-11f1-8233-42010a9c001b/home-office-kundenberater-mwd-f%C3%BCr-ein-renommiertes-schuhunternehmen)
 - [Home Office Kundenberater/in (m/w/d)](https://www.mojposao.ba/posao/6a4342a9-e1a6-11f1-8233-42010a9c001b/home-office-kundenberaterin-mwd)
 - [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/5982d294-dd06-11f1-a8c0-42010a9c001a/kundenberater-mwd)
-- [Terenski predstavnik prodaje](https://www.mojposao.ba/posao/2e742fba-e34f-11f1-8233-42010a9c001b/terenski-predstavnik-prodaje)
-- [Saradnik za HR operacije (m/ž)](https://www.mojposao.ba/posao/e6cb7230-e28f-11f1-8233-42010a9c001b/saradnik-za-hr-operacije-mz)
-- [Senior Communication Specialist (m/f/d)](https://www.mojposao.ba/posao/ad047eba-e286-11f1-8233-42010a9c001b/senior-communication-specialist-mfd)
-- [Knjigovođa/Računovođa](https://www.mojposao.ba/posao/83b14a60-e1cc-11f1-8233-42010a9c001b/knjigovodjaracunovodja)
+- [Radnik/radnica na pakovanju](https://www.mojposao.ba/posao/22aaa72e-e33c-11f1-8233-42010a9c001b/radnikradnica-na-pakovanju)
+- [Product Marketing & Content Specialist (m/f)](https://www.mojposao.ba/posao/2af7cf9d-dcf2-11f1-a8c0-42010a9c001a/product-marketing--content-specialist-mf)
+- [Zamjenski poslovođa (m/ž)](https://www.mojposao.ba/posao/6bc9066d-e28a-11f1-8233-42010a9c001b/zamjenski-poslovodja-mz)
+- [Generalni direktor (m/ž)](https://www.mojposao.ba/posao/174f0e60-e1ce-11f1-8233-42010a9c001b/generalni-direktor-mz)
 
 </details>
 
@@ -640,8 +640,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002)
 - [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002)
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002)
-- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002)
 - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
+- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002)
 
 </details>
 
@@ -652,14 +652,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
+- [Radnik u proizvodnji Klas d.d. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/965)
 - [Saradnik/ca za ljudske resurse (m/ž) Prevent Sewing Zenica, Žepče Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/964)
 - [Referent u računovodstvu (m/ž) R.P.M Glob Trade d.o.o. Ljubuški Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/963)
-- [Vozač službenih vozila B kategorije (više izvršitelja) iFORM d.o.o. Široki Brijeg Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/962)
 
 </details>
 
@@ -773,19 +773,20 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>star_edukacija (20)</summary>
 
+- [PREDAVANJE STRUČNJAKA IZ PRAKSE NA PRAVNOM FAKULTETU TRAVNIK](https://star.study/bs/novost/predavanje-strucnjaka-iz-prakse-na-pravnom-fakultetu-travnik/8685)
+- [RADIONICA: PRAKTIČNA PRIMJENA I UČINKOVITA ZAŠTITA PRAVA NA PRISTUP INFORMACIJAMA](https://star.study/bs/novost/radionica-prakticna-primjena-i-ucinkovita-zastita-prava-na-pristup-informacijama/8686)
+- [Kako do novih klijenata za Novu 2027 godinu: 10 praktičnih savjeta za poduzetnike i freelancere](https://star.study/bs/novost/kako-do-novih-klijenata-za-novu-2027-godinu-10-prakticnih-savjeta-za-poduzetnike-i-freelancere/8738)
 - [Razmišljaš o ljetu u Americi? Saznaj više o programu Work & Travel USA!](https://star.study/bs/novost/razmisljas-o-ljetu-u-americi-saznaj-vise-o-programu-work-travel-usa/8693)
 - [FROM ZERO TO YOUR FIRST DJ SET / GET BEHIND THE DECKS!](https://star.study/bs/novost/from-zero-to-your-first-dj-set-get-behind-the-decks/8694)
 - [Šta je nama Bosna i Hercegovina?](https://star.study/bs/novost/sta-je-nama-bosna-i-hercegovina/8695)
 - [Edukativni program za mlade kritičare u okviru Mreže festivala jadranske regije 2027](https://star.study/bs/novost/edukativni-program-za-mlade-kriticare-u-okviru-mreze-festivala-jadranske-regije-2027/8663)
 - [Predavanje i razgovor: INTUICIJA I IMAGINACIJA - Odakle nam dolaze nove ideje?](https://star.study/bs/novost/predavanje-i-razgovor-intuicija-i-imaginacija-odakle-nam-dolaze-nove-ideje/8664)
-- [JEDEM ZDRAVO – ZAŠTO TO NIJE DOVOLJNO](https://star.study/bs/novost/jedem-zdravo-zasto-to-nije-dovoljno/8681)
-- [Udruženje Superbrke i IFMSA Banja Luka pozivaju vas na predavanje na Medicinskom fakultetu](https://star.study/bs/novost/udruzenje-superbrke-i-ifmsa-banja-luka-pozivaju-vas-na-predavanje-na-medicinskom-fakultetu/8668)
-- [Otvorene prijave za učešće u projektu „IdejaLAB – Razvoj ideja i kreativnosti mladih“](https://star.study/bs/novost/otvorene-prijave-za-ucesce-u-projektu-idejalab-razvoj-ideja-i-kreativnosti-mladih/8651)
 
 </details>
 
 <details><summary>star_posao (20)</summary>
 
+- [ZAPOŠLJAVAMO – POSTANI DIO TIMA JUICE BAR LIFE](https://star.study/bs/novost/zaposljavamo-postani-dio-tima-juice-bar-life/8683)
 - [HRVATSKI TELEKOM ZAPOŠLJAVA U SARAJEVU!](https://star.study/bs/novost/hrvatski-telekom-zaposljava-u-sarajevu/8671)
 - [TOOLBOX ZAPOŠLJAVA – BRAND AMBASSADOR](https://star.study/bs/novost/toolbox-zaposljava-brand-ambassador/8675)
 - [Saradnik u radu s djecom (M/Ž)](https://star.study/bs/novost/saradnik-u-radu-s-djecom-mz/8622)
@@ -793,12 +794,12 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [ZAPOŠLJAVAMO! PRIDRUŽI SE NAŠOJ REDAKCIJI!](https://star.study/bs/novost/zaposljavamo-pridruzi-se-nasoj-redakciji/8616)
 - [POZIV ZA KREATORE DIGITALNOG SADRŽAJA!](https://star.study/bs/novost/poziv-za-kreatore-digitalnog-sadrzaja/8609)
 - [Travel 4 Fun otvara konkurs za prijem 3 osobe za rad na promotivno-prodajnom mjestu za WAKE UP 2027](https://star.study/bs/novost/travel-4-fun-otvara-konkurs-za-prijem-3-osobe-za-rad-na-promotivno-prodajnom-mjestu-za-wake-up-2027/8613)
-- [Budi dio zimske čarolije na Vilsu!](https://star.study/bs/novost/budi-dio-zimske-carolije-na-vilsu/8593)
 
 </details>
 
 <details><summary>star_praksa (20)</summary>
 
+- [Praksa u oblasti međunarodnog biznisa, marketinga i komunikacija u Kini!](https://star.study/bs/novost/praksa-u-oblasti-medunarodnog-biznisa-marketinga-i-komunikacija-u-kini/8740)
 - [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572)
 - [Otvoren je poziv za asistentice i asistente u programu Mozaik Omladinske banke!](https://star.study/bs/novost/otvoren-je-poziv-za-asistentice-i-asistente-u-programu-mozaik-omladinske-banke/8454)
 - [Growth Marketing (Paid Channels) - Internship](https://star.study/bs/novost/growth-marketing-paid-channels-internship/8374)
@@ -806,7 +807,6 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [💼 Pripravništvo u Investicijskoj fondaciji Impakt](https://star.study/bs/novost/pripravnistvo-u-investicijskoj-fondaciji-impakt/8162)
 - [Poziv studentima ekonomije: studentska praksa u Istočnom Sarajevu!](https://star.study/bs/novost/poziv-studentima-ekonomije-studentska-praksa-u-istocnom-sarajevu/8049)
 - [Prijavite se za UNICEF praksu](https://star.study/bs/novost/prijavite-se-za-unicef-praksu/8014)
-- [QA ZIRA Talent Academy 2026](https://star.study/bs/novost/qa-zira-talent-academy-2026/7990)
 
 </details>
 
@@ -843,14 +843,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>szks (10)</summary>
 
+- [Odgajatelj](https://szks.ba/posao/odgajatelj-89)
+- [NASTAVNIK RAZREDNE NASTAVE](https://szks.ba/posao/nastavnik-razredne-nastave-69)
 - [Pripravnici](https://szks.ba/posao/pripravnici)
 - [Koordinator za održavanje javne higijene i zelenih površina](https://szks.ba/posao/koordinator-za-odrzavanje-javne-higijene-i-zelenih-povrsina)
 - [Stručni saradnik IKT , Referent – portir, Spremačica](https://szks.ba/posao/strucni-saradnik-ikt-referent-portir-spremacica)
 - [Rukovodilac službe za medicinsko farmaceutske poslove](https://szks.ba/posao/rukovodilac-sluzbe-za-medicinsko-farmaceutske-poslove)
 - [Direktor/ica podružnica za predškolsko obrazovanje](https://szks.ba/posao/bh-centar-za-obrazovanje-166-direktor-ica-podruznica-za-predskolsko-obrazovanje)
 - [Kuharica](https://szks.ba/posao/hotel-bosna-1-110-kuharica)
-- [Vozač kamiona s prikolicom (C+E)](https://szks.ba/posao/hydra-110-vozac-kamiona-s-prikolicom-ce)
-- [Spremačica](https://szks.ba/posao/hotel-bosna-1-110-spremacica)
 
 </details>
 
@@ -915,11 +915,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>untalent (3)</summary>
+<details><summary>untalent (0)</summary>
 
-- [Intern – Public Information: Communications and Outreach](https://untalent.org/jobs/intern-public-information-communications-and-outreach-2)
-- [Intern in the Sustainable Environmental Management (SEM) Group](https://untalent.org/jobs/intern-in-the-sustainable-environmental-management-sem-group-2)
-- [Governance Affaris Intern](https://untalent.org/jobs/governance-affaris-intern)
 
 </details>
 
