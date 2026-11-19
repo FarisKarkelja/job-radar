@@ -6,6 +6,12 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 19.11. 16:09 | 💻 [Scientific Editor: Sustainable development](https://www.linkedin.com/jobs/view/4491622214) · Cactus Communications | LinkedIn BiH |
+| 19.11. 16:09 | 💻 [Mechanical Engineer / Product Development & Advanced Manufacturing](https://www.linkedin.com/jobs/view/4491625184) · FabLab Bosnia & Herzegovina | LinkedIn BiH |
+| 19.11. 16:09 | 💻 [Javni oglas za prijem radnika u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu) | Univerzitet u Sarajevu (konkursi) |
+| 19.11. 16:09 | 🚨 [GPU Compiler Intern](https://www.iagora.com/work/en/offer/internship-switzerland-it/6574662) | iAgora IT prakse (Švicarska) |
+| 19.11. 16:09 | 🚨 [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://www.iagora.com/work/en/offer/internship-switzerland-it/6544931) | iAgora IT prakse (Švicarska) |
+| 19.11. 16:09 | 🚨 [Data analytics internship in the UPR Branch](https://www.iagora.com/work/en/offer/internship-switzerland-it/6543337) | iAgora IT prakse (Švicarska) |
 | 19.11. 13:07 | 💻 [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271) · Deloitte | LinkedIn BiH |
 | 19.11. 13:07 | 🚨 [Internship / Master Thesis: Augmented reality, the next generation interface](https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769) | iAgora IT prakse (Švicarska) |
 | 19.11. 10:07 | 💻 [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar) | MojPosao IT |

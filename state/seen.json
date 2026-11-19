@@ -92,7 +92,8 @@
    "25e09eb8-e264-11f1-8233-42010a9c001b",
    "621be283-e282-11f1-8233-42010a9c001b",
    "9d66d1f9-e271-11f1-8233-42010a9c001b",
-   "aa312d07-e3f3-11f1-8233-42010a9c001b"
+   "aa312d07-e3f3-11f1-8233-42010a9c001b",
+   "d140f834-e41e-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -483,7 +484,11 @@
    "b88c20d3-e40a-11f1-8233-42010a9c001b",
    "d0800c21-e3fe-11f1-8233-42010a9c001b",
    "feb3bc7d-e3fe-11f1-8233-42010a9c001b",
-   "36402f54-e3f9-11f1-8233-42010a9c001b"
+   "36402f54-e3f9-11f1-8233-42010a9c001b",
+   "c203881a-e41a-11f1-8233-42010a9c001b",
+   "908eef3a-e361-11f1-8233-42010a9c001b",
+   "a5d90ecb-e420-11f1-8233-42010a9c001b",
+   "d140f834-e41e-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -810,7 +815,10 @@
    "https://www.linkedin.com/jobs/view/4492228171",
    "https://www.linkedin.com/jobs/view/4491613271",
    "https://www.linkedin.com/jobs/view/4491600674",
-   "https://www.linkedin.com/jobs/view/4491386811"
+   "https://www.linkedin.com/jobs/view/4491386811",
+   "https://www.linkedin.com/jobs/view/4491140143",
+   "https://www.linkedin.com/jobs/view/4491622214",
+   "https://www.linkedin.com/jobs/view/4491625184"
   ]
  },
  "glassrpske_konkursi": {
@@ -4838,7 +4846,9 @@
    "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-14",
    "https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15",
    "https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-14",
-   "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet"
+   "https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet",
+   "https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu",
+   "https://www.unsa.ba/konkursi/ponovni-javni-oglas-za-prijem-u-radni-odnos-na-radna-mjesta-univerzitet-u-sarajevu"
   ]
  },
  "untz_konkursi": {
@@ -7643,7 +7653,8 @@
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8107",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8104",
    "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8122",
-   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7095"
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/7095",
+   "https://ekonkurs.adsfbih.gov.ba/BS/Home/Konkurs/8097"
   ]
  },
  "cbbh": {
@@ -7850,7 +7861,10 @@
    "https://www.iagora.com/work/en/offer/internship-switzerland-it/6590257",
    "https://www.iagora.com/work/en/offer/internship-switzerland-it/6590254",
    "https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424",
-   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769"
+   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769",
+   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6574662",
+   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6544931",
+   "https://www.iagora.com/work/en/offer/internship-switzerland-it/6543337"
   ]
  },
  "western_balkanship": {
@@ -8258,7 +8272,9 @@
    "https://untalent.org/jobs/intern-human-resources-administration-2",
    "https://untalent.org/jobs/intern-public-information-communications-and-outreach-2",
    "https://untalent.org/jobs/intern-in-the-sustainable-environmental-management-sem-group-2",
-   "https://untalent.org/jobs/governance-affaris-intern"
+   "https://untalent.org/jobs/governance-affaris-intern",
+   "https://untalent.org/jobs/intern-for-prml-unit-communications",
+   "https://untalent.org/jobs/finance-intern-hyderabad-2"
   ]
  },
  "impactpool": {
@@ -8890,13 +8906,14 @@
    "hash:f414452f772e558d",
    "hash:2d6065f82a3bccc4",
    "hash:c2dc69461704b847",
-   "hash:d5bb602bf23fcee0"
+   "hash:d5bb602bf23fcee0",
+   "hash:020bf6d0166936b5"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.9e51c317.1795090321.84b3ccc5",
-   "https://errors.edgesuite.net/18.9e51c317.1795090321.84b3ccc5"
+   "Reference #18.68951eb8.1795101487.7bcd271c",
+   "https://errors.edgesuite.net/18.68951eb8.1795101487.7bcd271c"
   ]
  },
  "osce": {
