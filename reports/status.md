@@ -1,12 +1,12 @@
 # Status izvora
 
-Zadnje pokretanje: **20.11.2026 07:07** (Sarajevo)  
+Zadnje pokretanje: **20.11.2026 10:08** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
 |---|---|---|---|---|
 | [Infobip](https://www.infobip.com/jobs-at-infobip) | ❌ | 0 | 0 | HTTP 429 |
-| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 0 |  |
+| [ADS BiH](https://www.ads.gov.ba/bs-latn-ba/open-vacancies) | ✅ | 9 | 1 |  |
 | [ADS FBiH eKonkurs](https://ekonkurs.adsfbih.gov.ba) | ✅ | 15 | 0 |  |
 | [Aerodrom Sarajevo (oglasna ploča)](https://sarajevo-airport.ba/List/Oglasna-ploca) | ✅ | 4 | 0 |  |
 | [Amko komerc (zaposlenje)](https://amko.ba/zaposlenje) | ✅ | 1 | 0 |  |
@@ -38,7 +38,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 5 | 0 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 11 | 8 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -55,15 +55,15 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [KJKP Pokop](https://pokop.ba/novosti) | ✅ | 1 | 0 |  |
 | [KJKP Rad](https://rad.com.ba/) | ✅ | 4 | 0 |  |
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
-| [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
+| [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 3 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 53 | 2 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 60 | 2 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
-| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 1 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 196 | 0 |  |
+| [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 34 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 196 | 1 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 1 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
@@ -86,14 +86,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
 | [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
 | [SSST karijere](https://ssst.edu.ba/careers) | ✅ | 1 | 0 |  |
-| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 0 |  |
+| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 3 |  |
 | [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 0 |  |
-| [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 0 |  |
+| [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 1 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
 | [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
 | [Symphony (oglasi)](https://jobs.eu.lever.co/symphony) | ✅ | 10 | 0 |  |
-| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 0 |  |
+| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 5 |  |
 | [Tacta (careers)](https://tacta.io/careers) | ✅ | 1 | 0 |  |
 | [Telemach BH (zaposlenje)](https://telemach.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [KJKP Toplane (konkursi)](https://www.toplanesarajevo.ba/stranica/konkursi) | ✅ | 1 | 0 |  |
@@ -102,13 +102,13 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [UniCredit Bank (karijere)](https://www.unicredit.ba/en/banka/karijere/karijere.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 1 |  |
 | [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
 | [Walter Code / Galeyo](https://www.galeyo.com/open-positions) | ✅ | 5 | 0 |  |
-| [Western-BALKANship (prakse u Italiji)](https://www.uniadrion.net/western-balkanship-create-your-future/) | ✅ | 1 | 1 |  |
+| [Western-BALKANship (prakse u Italiji)](https://www.uniadrion.net/western-balkanship-create-your-future/) | ✅ | 1 | 0 |  |
 | [WISE prakse Zapadni Balkan](https://wise.ypn.al/) | ✅ | 1 | 0 |  |
 | [Workable BiH](https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs) | ✅ | 2 | 0 |  |
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
@@ -120,6 +120,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>ads_bih (9)</summary>
 
+- [Javni oglas za popunjavanje radnih mjesta državnih službenika u Agenciji za forenzička ispitivanja i vještačenja Datum objave: 20.11.2026. Krajnji rok za prijave: 10.12.2026. 1/01 Stručni savjetnik za biološka vještačenja i analizu DNK 1/02](https://www.ads.gov.ba/vacancies/3530/javni-oglas-za-popunjavanje-radnih-mjesta-drzavnih-sluzbenika-u-agenciji-za-forenzicka-ispitivanja-i-vjestacenja)
 - [Javni oglas za prijem pripravnika visoke stručne spreme u radni odnos u Pravobranilaštvu Bosne i Hercegovine Datum objave: 19.11.2026. Krajnji rok za prijave: 26.11.2026. I PRIPRAVNIČKA MJESTA 1. Pripravnik pravne struke – dvanaest (12) izv](https://www.ads.gov.ba/vacancies/3529/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-radni-odnos-u-pravobranilastvu-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnih mjesta rukovodećih državnih službenika u Službi za zajedničke poslove institucija Bosne i Hercegovine Datum objave: 18.11.2026. Krajnji rok za prijave: 08.12.2026. 1/01 Direktor 1/02 Zamjenik direktora](https://www.ads.gov.ba/vacancies/3528/javni-oglas-za-popunjavanje-radnih-mjesta-rukovodecih-drzavnih-sluzbenika-u-sluzbi-za-zajednicke-poslove-institucija-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnog mjesta rukovodećeg državnog službenika u Uredu za zakonodavstvo Vijeća ministara Bosne i Hercegovine Datum objave: 18.11.2026. Krajnji rok za prijave: 08.12.2026. 1/01 Direktor Ureda za zakonodavstvo](https://www.ads.gov.ba/vacancies/3527/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-uredu-za-zakonodavstvo-vijeca-ministara-bosne-i-hercegovine)
@@ -127,7 +128,6 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Javni oglas za prijem pripravnika visoke stručne spreme u direkciji za civilno zrakoplovstvo Bosne i Hercegovine Datum objave: 13.11.2026. Krajnji rok za prijave: 22.11.2026. 1/01 Pripravnik – sa završenim saobraćajnim fakultetom ili fakult](https://www.ads.gov.ba/vacancies/3525/javni-oglas-za-prijem-pripravnika-visoke-strucne-spreme-u-direkciji-za-civilno-zrakoplovstvo-bosne-i-hercegovine)
 - [Javni oglas za popunjavanje radnog mjesta rukovodećeg državnog službenika u Državnoj agenciji za istrage i zaštitu Datum objave: 13.11.2026. Krajnji rok za prijave: 03.12.2026. 1/01 Načelnik Sektora za administraciju i unutrašnju podršku](https://www.ads.gov.ba/vacancies/3524/javni-oglas-za-popunjavanje-radnog-mjesta-rukovodeceg-drzavnog-sluzbenika-u-drzavnoj-agenciji-za-istrage-i-zastitu)
 - [Interni oglas za popunjavanje radnog mjesta državnog službenika u Sekretarijatu Parlamentarne skupštine Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za pripremu sjednica Predstavni](https://www.ads.gov.ba/vacancies/3523/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-sekretarijatu-parlamentarne-skupstine-bosne-i-hercegovine)
-- [Interni oglas za popunjavanje radnog mjesta državnog službenika u Мinistarstvu vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine Datum objave: 12.11.2026. Krajnji rok za prijave: 19.11.2026. 1/01 Stručni savjetnik za unapređenje i pr](https://www.ads.gov.ba/vacancies/3522/interni-oglas-za-popunjavanje-radnog-mjesta-drzavnog-sluzbenika-u-ministarstvu-vanjske-trgovine-i-ekonomskih-odnosa-bosne-i-hercegovine)
 
 </details>
 
@@ -381,13 +381,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>impactpool (5)</summary>
+<details><summary>impactpool (11)</summary>
 
 - [New job: Regional Strategy & Business Development Advisor, WCA2 CHAI - Clinton Health Access Initiative Remote | Ouagadougou Associate Level - Open for both International and National Professionals - Mid level](https://www.impactpool.org/jobs/1248987)
 - [International Engagement Manager CFG - Centre for Future Generations Remote Senior - Senior level](https://www.impactpool.org/jobs/1245206)
 - [Chief Fire Officer MFO - Multinational Force & Observers Egypt Grade 9 - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1235333)
-- [New job: Technical Officer, Chemicals Safety and Management WHO - World Health Organization Congo-Brazzaville P-3, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1249019)
-- [New job: Scientist (Assessment of Medical Devices) WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1249016)
+- [New job: Global Volunteer Program - Training & International Placement HPtP - Humana People to People Denmark Volunteer - Volunteer](https://www.impactpool.org/jobs/1249101)
+- [New job: Ayudante de invernaderos (Reclutada Localmente) CIMMYT - International Maize and Wheat Improvement Center Toluca Junior - Junior level](https://www.impactpool.org/jobs/1249099)
+- [New job: Director of International Law and Policy BRC - British Red Cross Remote | UK Executive](https://www.impactpool.org/jobs/1249098)
+- [New job: Chief of Section, Movement Control UN DOS - United Nations Department of Operational Support Brindisi P-5, International Professional - Internationally recruited position - Senior level](https://www.impactpool.org/jobs/1249097)
+- [New job: Data & Digital Innovation Analyst [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Seoul IPSA-8, International Personnel Services Agreement - Junior level](https://www.impactpool.org/jobs/1249082)
 
 </details>
 
@@ -525,14 +528,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>klix_it (20)</summary>
 
+- [Prodavac prodajni savjetnik mz haloo](https://posao.klix.ba/oglasi/prodavac-prodajni-savjetnik-mz-haloo/11126)
+- [Digital trust and safety specialist with french and english mf telus digital](https://posao.klix.ba/oglasi/digital-trust-and-safety-specialist-with-french-and-english-mf-telus-digital/11141)
+- [Back office gaming support specialist with german and english mf telus digital](https://posao.klix.ba/oglasi/back-office-gaming-support-specialist-with-german-and-english-mf-telus-digital/11142)
 - [Teamleiter mwd im vertriebsprojekt telus digital](https://posao.klix.ba/oglasi/teamleiter-mwd-im-vertriebsprojekt-telus-digital/11123)
 - [Home office kundenberater mwd fur ein renommiertes schuhunternehmen telus digital](https://posao.klix.ba/oglasi/home-office-kundenberater-mwd-fur-ein-renommiertes-schuhunternehmen-telus-digital/11124)
 - [Marketing manager mf forework](https://posao.klix.ba/oglasi/marketing-manager-mf-forework/11084)
 - [Internal finance and bookkeeping specialist fm forework](https://posao.klix.ba/oglasi/internal-finance-and-bookkeeping-specialist-fm-forework/11094)
 - [Ai automation specialist mz aurum nova](https://posao.klix.ba/oglasi/ai-automation-specialist-mz-aurum-nova/11054)
-- [Menadzer za biznis prodaju malim i srednjim preduzecima mz telemach](https://posao.klix.ba/oglasi/menadzer-za-biznis-prodaju-malim-i-srednjim-preduzecima-mz-telemach/11055)
-- [Home office kundenberaterin mwd fur ein fuhrendes unternehmen im bereich tee teemaschinen und zubehor telus digital](https://posao.klix.ba/oglasi/home-office-kundenberaterin-mwd-fur-ein-fuhrendes-unternehmen-im-bereich-tee-teemaschinen-und-zubehor-telus-digital/11053)
-- [Specijalist korisnicke podrske na danskom jeziku mz mplus bih](https://posao.klix.ba/oglasi/specijalist-korisnicke-podrske-na-danskom-jeziku-mz-mplus-bih/11046)
 
 </details>
 
@@ -542,7 +545,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (53)</summary>
+<details><summary>linkedin_bih (60)</summary>
 
 - [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
 - [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
@@ -551,7 +554,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252)
 - [Product Owner for Substation Automation Software (f/m/d)](https://www.linkedin.com/jobs/view/4456019638)
 - [Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4491140143)
-- [Pre-Sales Consultant - HPE Hybrid IT](https://www.linkedin.com/jobs/view/4488910471)
+- [Hardware Engineer (m/f/d) Embedded System Design](https://www.linkedin.com/jobs/view/4491842341)
 
 </details>
 
@@ -582,10 +585,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 <details><summary>mojposao_it (34)</summary>
 
 - [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
-- [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
-- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
-- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
 - [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
+- [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
+- [Oracle APEX developer (m/ž)](https://www.mojposao.ba/posao/d29df0c8-dd1a-11f1-a8c0-42010a9c001a/oracle-apex-developer-mz)
+- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
 - [Embedded Software Test Engineer](https://www.mojposao.ba/posao/bc9d78e0-d84f-11f1-a8c0-42010a9c001a/embedded-software-test-engineer)
@@ -597,11 +600,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Teamleiter (m/w/d) im Vertriebsprojekt](https://www.mojposao.ba/posao/f164c7b6-e29c-11f1-8233-42010a9c001b/teamleiter-mwd-im-vertriebsprojekt)
 - [Home Office Kundenberater (m/w/d) für ein renommiertes Schuhunternehmen](https://www.mojposao.ba/posao/330af35a-e29c-11f1-8233-42010a9c001b/home-office-kundenberater-mwd-f%C3%BCr-ein-renommiertes-schuhunternehmen)
 - [Home Office Kundenberater/in (m/w/d)](https://www.mojposao.ba/posao/6a4342a9-e1a6-11f1-8233-42010a9c001b/home-office-kundenberaterin-mwd)
-- [LFM Country Programme Coordinator](https://www.mojposao.ba/posao/cdac5db9-e33c-11f1-8233-42010a9c001b/lfm-country-programme-coordinator)
-- [Radnik/radnica na pakovanju](https://www.mojposao.ba/posao/22aaa72e-e33c-11f1-8233-42010a9c001b/radnikradnica-na-pakovanju)
-- [Product Marketing & Content Specialist (m/f)](https://www.mojposao.ba/posao/2af7cf9d-dcf2-11f1-a8c0-42010a9c001a/product-marketing--content-specialist-mf)
-- [Zamjenski poslovođa (m/ž)](https://www.mojposao.ba/posao/6bc9066d-e28a-11f1-8233-42010a9c001b/zamjenski-poslovodja-mz)
-- [Generalni direktor (m/ž)](https://www.mojposao.ba/posao/174f0e60-e1ce-11f1-8233-42010a9c001b/generalni-direktor-mz)
+- [Serviser](https://www.mojposao.ba/posao/54875edd-e4bd-11f1-8233-42010a9c001b/serviser)
+- [Prodajni savjetnik (m/ž)](https://www.mojposao.ba/posao/908eef3a-e361-11f1-8233-42010a9c001b/prodajni-savjetnik--mz)
+- [Prodavač](https://www.mojposao.ba/posao/a019983d-e363-11f1-8233-42010a9c001b/prodavac)
+- [Vozač - dostavljač](https://www.mojposao.ba/posao/b13eb7c7-e331-11f1-8233-42010a9c001b/vozac---dostavljac)
+- [Direktor poslovnice (m/ž)](https://www.mojposao.ba/posao/ec6110b0-e28e-11f1-8233-42010a9c001b/direktor-poslovnice-mz)
 
 </details>
 
@@ -636,8 +639,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002)
 - [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002)
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002)
-- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002)
+- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 
 </details>
 
@@ -648,11 +651,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Hifa Petrol](https://poslovnioglasi.ba/company/271/hifa-petrol)
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
 - [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/966)
 - [Radnik u proizvodnji Klas d.d. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/965)
 - [Saradnik/ca za ljudske resurse (m/ž) Prevent Sewing Zenica, Žepče Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/964)
@@ -769,14 +772,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>star_edukacija (20)</summary>
 
+- [Vještine danas. Zeleni poslovi sutra.](https://star.study/bs/novost/vjestine-danas-zeleni-poslovi-sutra/8751)
+- [Prijavi se na naš novi program “Aktivna građanka”](https://star.study/bs/novost/prijavi-se-na-nas-novi-program-aktivna-gradanka/8766)
+- [Korištenje umjetne inteligencije u učenju i obrazovanju](https://star.study/bs/novost/koristenje-umjetne-inteligencije-u-ucenju-i-obrazovanju/8758)
 - [PREDAVANJE STRUČNJAKA IZ PRAKSE NA PRAVNOM FAKULTETU TRAVNIK](https://star.study/bs/novost/predavanje-strucnjaka-iz-prakse-na-pravnom-fakultetu-travnik/8685)
 - [RADIONICA: PRAKTIČNA PRIMJENA I UČINKOVITA ZAŠTITA PRAVA NA PRISTUP INFORMACIJAMA](https://star.study/bs/novost/radionica-prakticna-primjena-i-ucinkovita-zastita-prava-na-pristup-informacijama/8686)
 - [Kako do novih klijenata za Novu 2027 godinu: 10 praktičnih savjeta za poduzetnike i freelancere](https://star.study/bs/novost/kako-do-novih-klijenata-za-novu-2027-godinu-10-prakticnih-savjeta-za-poduzetnike-i-freelancere/8738)
 - [Razmišljaš o ljetu u Americi? Saznaj više o programu Work & Travel USA!](https://star.study/bs/novost/razmisljas-o-ljetu-u-americi-saznaj-vise-o-programu-work-travel-usa/8693)
 - [FROM ZERO TO YOUR FIRST DJ SET / GET BEHIND THE DECKS!](https://star.study/bs/novost/from-zero-to-your-first-dj-set-get-behind-the-decks/8694)
-- [Šta je nama Bosna i Hercegovina?](https://star.study/bs/novost/sta-je-nama-bosna-i-hercegovina/8695)
-- [Edukativni program za mlade kritičare u okviru Mreže festivala jadranske regije 2027](https://star.study/bs/novost/edukativni-program-za-mlade-kriticare-u-okviru-mreze-festivala-jadranske-regije-2027/8663)
-- [Predavanje i razgovor: INTUICIJA I IMAGINACIJA - Odakle nam dolaze nove ideje?](https://star.study/bs/novost/predavanje-i-razgovor-intuicija-i-imaginacija-odakle-nam-dolaze-nove-ideje/8664)
 
 </details>
 
@@ -795,6 +798,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>star_praksa (20)</summary>
 
+- [Praksa u oblasti poljoprivrednih nauka u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-poljoprivrednih-nauka-u-svajcarskoj/8759)
 - [Praksa u oblasti međunarodnog biznisa, marketinga i komunikacija u Kini!](https://star.study/bs/novost/praksa-u-oblasti-medunarodnog-biznisa-marketinga-i-komunikacija-u-kini/8740)
 - [Praksa u oblasti medicinske tehnologije i softverskog inženjerstva u Švajcarskoj!](https://star.study/bs/novost/praksa-u-oblasti-medicinske-tehnologije-i-softverskog-inzenjerstva-u-svajcarskoj/8572)
 - [Otvoren je poziv za asistentice i asistente u programu Mozaik Omladinske banke!](https://star.study/bs/novost/otvoren-je-poziv-za-asistentice-i-asistente-u-programu-mozaik-omladinske-banke/8454)
@@ -802,7 +806,6 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Logistička i komercijalna praksa u Francuskoj!](https://star.study/bs/novost/logisticka-i-komercijalna-praksa-u-francuskoj/8238)
 - [💼 Pripravništvo u Investicijskoj fondaciji Impakt](https://star.study/bs/novost/pripravnistvo-u-investicijskoj-fondaciji-impakt/8162)
 - [Poziv studentima ekonomije: studentska praksa u Istočnom Sarajevu!](https://star.study/bs/novost/poziv-studentima-ekonomije-studentska-praksa-u-istocnom-sarajevu/8049)
-- [Prijavite se za UNICEF praksu](https://star.study/bs/novost/prijavite-se-za-unicef-praksu/8014)
 
 </details>
 
@@ -839,14 +842,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>szks (10)</summary>
 
+- [Veterinarski tehničar SSS i ostali radnici NK i KV](https://szks.ba/posao/veterinarski-tehnicar-sss-i-ostali-radnici-nk-i-kv)
+- [Nastavnik/ca razredne nastave](https://szks.ba/posao/nastavnik-ca-razredne-nastave-7)
+- [Nastavnik/ica matematike i nastavnik/ica razredne nastave – ispravka oglasa od 16.11.2026.g.](https://szks.ba/posao/nastavnik-ica-matematike-i-nastavnik-ica-razredne-nastave-ispravka-oglasa-od-16-11-2026-g)
+- [Direktor](https://szks.ba/posao/bags-energotenika-d-d-vogosca-166-direktor)
 - [Turistička agencija Mozaik group d.o.o. objavljuje oglas za posao na 2 pozicije](https://szks.ba/posao/turisticka-agencija-mozaik-group-d-o-o-objavljuje-oglas-za-posao-na-2-pozicije)
+- [Nastavnik razredne nastave](https://szks.ba/posao/nastavnik-razredne-nastave-70)
 - [Administartivni radnik](https://szks.ba/posao/administartivni-radnik-2)
 - [Odgajatelj](https://szks.ba/posao/odgajatelj-89)
-- [NASTAVNIK RAZREDNE NASTAVE](https://szks.ba/posao/nastavnik-razredne-nastave-69)
-- [Pripravnici](https://szks.ba/posao/pripravnici)
-- [Koordinator za održavanje javne higijene i zelenih površina](https://szks.ba/posao/koordinator-za-odrzavanje-javne-higijene-i-zelenih-povrsina)
-- [Stručni saradnik IKT , Referent – portir, Spremačica](https://szks.ba/posao/strucni-saradnik-ikt-referent-portir-spremacica)
-- [Rukovodilac službe za medicinsko farmaceutske poslove](https://szks.ba/posao/rukovodilac-sluzbe-za-medicinsko-farmaceutske-poslove)
 
 </details>
 
@@ -900,14 +903,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>unsa_konkursi (10)</summary>
 
-- [Javni oglas za prijem radnika u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu)
-- [Ponovni javni oglas za prijem u radni odnos na radna mjesta | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/ponovni-javni-oglas-za-prijem-u-radni-odnos-na-radna-mjesta-univerzitet-u-sarajevu)
-- [Pitanja, lista propisa i literature | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet)
-- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15)
-- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-14)
-- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Arhitektonski fakultet](https://www.unsa.ba/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16)
-- [KONKURS za upis studenata na treći ciklus studija (doktorski studij) na Univerzitetu u Sarajevu - Fakultetu zdravstvenih studija u akademskoj 2026/2027. godini](https://www.unsa.ba/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12)
-- [Ispravka Konkursa za izbor akademskog osoblja - saradnika | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu)
+- [Javni oglas za prijem radnika u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu)
+- [Ponovni javni oglas za prijem u radni odnos na radna mjesta | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/ponovni-javni-oglas-za-prijem-u-radni-odnos-na-radna-mjesta-univerzitet-u-sarajevu)
+- [Pitanja, lista propisa i literature | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet)
+- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15)
+- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-14)
+- [Konkurs za izbor akademskog osoblja | Univerzitet u Sarajevu - Arhitektonski fakultet](https://www.unsa.ba/index.php/konkursi/konkurs-za-izbor-akademskog-osoblja-univerzitet-u-sarajevu-arhitektonski-fakultet-16)
+- [KONKURS za upis studenata na treći ciklus studija (doktorski studij) na Univerzitetu u Sarajevu - Fakultetu zdravstvenih studija u akademskoj 2026/2027. godini](https://www.unsa.ba/index.php/konkursi/konkurs-za-upis-studenata-na-treci-ciklus-studija-doktorski-studij-na-univerzitetu-u-12)
+- [Ispravka Konkursa za izbor akademskog osoblja - saradnika | Univerzitet u Sarajevu - Farmaceutski fakultet](https://www.unsa.ba/index.php/konkursi/ispravka-konkursa-za-izbor-akademskog-osoblja-saradnika-univerzitet-u-sarajevu)
 
 </details>
 

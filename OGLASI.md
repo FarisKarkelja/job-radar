@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 20.11. 10:08 | 💻 [(English C1) Technical Support Consultant, VPS & Trading (remote)](https://www.linkedin.com/jobs/view/4491587521) · SupportYourApp | LinkedIn BiH |
+| 20.11. 10:08 | 🚨 [New job: Data & Digital Innovation Analyst [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Seoul IPSA-8, International Personnel Services Agreement - Junior level](https://www.impactpool.org/jobs/1249082) | Impactpool (prakse) |
 | 20.11. 07:07 | 💻 [Machine Learning Engineer - Computer Vision (Part-time)](https://www.linkedin.com/jobs/view/4492530682) · TekPiq | LinkedIn BiH |
 | 19.11. 22:08 | 🚨 [New job: Regional Strategy & Business Development Advisor, WCA2 CHAI - Clinton Health Access Initiative Remote / Ouagadougou Associate Level - Open for both International and National Professionals - Mid level](https://www.impactpool.org/jobs/1248987) | Impactpool (prakse) |
 | 19.11. 19:08 | 💻 [IT Systems Engineer](https://www.linkedin.com/jobs/view/4492472804) · CapsLock | LinkedIn BiH |
