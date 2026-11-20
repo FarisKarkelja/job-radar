@@ -40615,5 +40615,16 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-20T15:18:25+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.8aa5dc17.1795188186.42c2e55f",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
