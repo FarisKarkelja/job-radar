@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 21.11. 00:55 | 💻 [Promjena na stranici: Kickstart Your Tech Career](https://atlantbh.com/internship/) | Atlantbh praksa |
 | 20.11. 19:07 | 💻 [Global Cyber Security Specialist - Machine Automation (f/m/d)](https://www.linkedin.com/jobs/view/4492958107) · ABB | LinkedIn BiH |
 | 20.11. 19:07 | 💻 [RPA Developer](https://www.linkedin.com/jobs/view/4491956156) · Deloitte | LinkedIn BiH |
 | 20.11. 19:07 | 💻 [National Consultant - Technical Support Expert for the E-Platform for the Family-Friendly Workplace Model and for the E-Learning Course on Women, Peace and Security and Media](https://www.linkedin.com/jobs/view/4492956944) · International Civil Aviation Organization | LinkedIn BiH |
