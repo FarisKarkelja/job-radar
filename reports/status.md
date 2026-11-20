@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **20.11.2026 16:18** (Sarajevo)  
+Zadnje pokretanje: **20.11.2026 19:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -38,7 +38,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 11 | 0 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 15 | 13 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -57,18 +57,18 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 60 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 60 | 4 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
 | [Ministry of Programming](https://ministryofprogramming.com/careers) | ✅ | 1 | 0 |  |
 | [MojPosao IT](https://www.mojposao.ba/pretraga-poslova?positions=IT&sortBy=adtype) | ✅ | 35 | 0 |  |
-| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 196 | 0 |  |
+| [MojPosao Kanton Sarajevo](https://www.mojposao.ba/pretraga-poslova?locations=Kanton+Sarajevo&sortBy=adtype) | ✅ | 196 | 3 |  |
 | [Monri (careers)](https://monri.com/careers) | ✅ | 1 | 0 |  |
 | [NATO HQ Sarajevo (lokalne pozicije)](https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx) | ✅ | 1 | 1 |  |
 | [Opća bolnica Sarajevo (oglasi)](https://www.obs.ba/index.php/oglasi.html) | ✅ | 1 | 0 |  |
 | [OHR (vacancies)](https://www.ohr.int/vacancies) | ✅ | 1 | 0 |  |
-| [Optiver (prakse Evropa)](https://optiver.com/working-at-optiver/career-opportunities/) | ✅ | 7 | 0 |  |
+| [Optiver (prakse Evropa)](https://optiver.com/working-at-optiver/career-opportunities/) | ✅ | 6 | 0 |  |
 | [OSCE (BiH i prakse)](https://jobs.osce.org/vacancies) | ✅ | 0 | 0 |  |
 | [Poslovni oglasi](https://poslovnioglasi.ba/) | ✅ | 13 | 0 |  |
 | [Povio](https://apply.workable.com/povio/) | ✅ | 5 | 0 |  |
@@ -103,7 +103,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
 | [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
-| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 3 | 0 |  |
+| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 0 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
@@ -381,16 +381,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>impactpool (11)</summary>
+<details><summary>impactpool (15)</summary>
 
-- [New job: Regional Strategy & Business Development Advisor, WCA2 CHAI - Clinton Health Access Initiative Remote | Ouagadougou Associate Level - Open for both International and National Professionals - Mid level](https://www.impactpool.org/jobs/1248987)
 - [International Engagement Manager CFG - Centre for Future Generations Remote Senior - Senior level](https://www.impactpool.org/jobs/1245206)
 - [Chief Fire Officer MFO - Multinational Force & Observers Egypt Grade 9 - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1235333)
-- [New job: INDIVIDUAL CONSULTANTS - Monitoring and Evaluation of Clean Cooking Technologies under the ASCENT Program in Zambia OPEC Fund for International Development Remote | Zambia | Home Based - May require travel Consultant - Contractors](https://www.impactpool.org/jobs/1249102)
-- [New job: Global Volunteer Program - Training & International Placement HPtP - Humana People to People Denmark Volunteer - Volunteer](https://www.impactpool.org/jobs/1249101)
-- [New job: Ayudante de invernaderos (Reclutada Localmente) CIMMYT - International Maize and Wheat Improvement Center Toluca Junior - Junior level](https://www.impactpool.org/jobs/1249099)
-- [New job: Director of International Law and Policy BRC - British Red Cross Remote | UK Executive](https://www.impactpool.org/jobs/1249098)
-- [New job: Chief of Section, Movement Control UN DOS - United Nations Department of Operational Support Brindisi P-5, International Professional - Internationally recruited position - Senior level](https://www.impactpool.org/jobs/1249097)
+- [New job: Investigation Specialist (Investigator)-[Open to all applicants] UNDP - United Nations Development Programme Nairobi P-3, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1249229)
+- [New job: Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based UNDP - United Nations Development Programme Istanbul IN](https://www.impactpool.org/jobs/1249227)
+- [New job: Officière Psychosociale IRC - International Rescue Committee Birao 8B](https://www.impactpool.org/jobs/1249226)
+- [New job: Education Senior Officer IRC - International Rescue Committee Beirut Mid - Mid level](https://www.impactpool.org/jobs/1249225)
+- [New job: Manager, Principal Giving East IRC - International Rescue Committee Remote | New York City Mid - Mid level](https://www.impactpool.org/jobs/1249224)
+- [New job: Senior Communications Officer- Government and Multilateral Donors IRC - International Rescue Committee London Senior - Senior level](https://www.impactpool.org/jobs/1249223)
 
 </details>
 
@@ -585,26 +585,26 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 <details><summary>mojposao_it (35)</summary>
 
 - [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals)
+- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 - [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
 - [Embedded Software Test Engineer](https://www.mojposao.ba/posao/bc9d78e0-d84f-11f1-a8c0-42010a9c001a/embedded-software-test-engineer)
 - [Senior Embedded Security Engineer](https://www.mojposao.ba/posao/2ff980c4-d851-11f1-a8c0-42010a9c001a/senior-embedded-security-engineer)
 - [Senior Hardware Engineer](https://www.mojposao.ba/posao/e519174b-d851-11f1-a8c0-42010a9c001a/senior-hardware-engineer)
-- [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
 
 </details>
 
 <details><summary>mojposao_ks (196)</summary>
 
-- [Teamleiter (m/w/d) im Vertriebsprojekt](https://www.mojposao.ba/posao/f164c7b6-e29c-11f1-8233-42010a9c001b/teamleiter-mwd-im-vertriebsprojekt)
-- [Home Office Kundenberater (m/w/d) für ein renommiertes Schuhunternehmen](https://www.mojposao.ba/posao/330af35a-e29c-11f1-8233-42010a9c001b/home-office-kundenberater-mwd-f%C3%BCr-ein-renommiertes-schuhunternehmen)
-- [Home Office Kundenberater/in (m/w/d)](https://www.mojposao.ba/posao/6a4342a9-e1a6-11f1-8233-42010a9c001b/home-office-kundenberaterin-mwd)
-- [Inžinjer elektro održavanja (m/ž)](https://www.mojposao.ba/posao/212432ca-e4f2-11f1-8233-42010a9c001b/inzinjer-elektro-odrzavanja-mz)
-- [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals)
-- [Home Office Kundenberater (m/w/d) für Vattenfall](https://www.mojposao.ba/posao/adde6458-d6a7-11f1-a8c0-42010a9c001a/home-office-kundenberater-mwd-f%C3%BCr-vattenfall)
-- [Home Office Kundenberater (m/w/d) - Onlineversandhandel](https://www.mojposao.ba/posao/a4af6862-d6a7-11f1-a8c0-42010a9c001a/home-office-kundenberater-mwd---onlineversandhandel)
-- [Home Office Kundenberater/in im Vertrieb für SKY (m/w/d) - Outbound](https://www.mojposao.ba/posao/956a64c0-d6a7-11f1-a8c0-42010a9c001a/home-office-kundenberaterin-im-vertrieb-f%C3%BCr-sky-mwd---outbound)
+- [Kundenbetreuer](https://www.mojposao.ba/posao/72e16e32-e4f6-11f1-8233-42010a9c001b/kundenbetreuer)
+- [Sachbearbeiter im Kundenmanagement](https://www.mojposao.ba/posao/7d6a6c94-e4f7-11f1-8233-42010a9c001b/sachbearbeiter-im-kundenmanagement)
+- [Kundenberater (m/w/d)](https://www.mojposao.ba/posao/5982d294-dd06-11f1-a8c0-42010a9c001a/kundenberater-mwd)
+- [Komercijalist za prodaju profesionalnog higijenskog asortimana, sredstava za čIšćenje I HTZ opreme (m/ž)](https://www.mojposao.ba/posao/6fcd21af-e4e1-11f1-8233-42010a9c001b/komercijalist-za-prodaju--profesionalnog-higijenskog--asortimana-sredstava--za--ciscenje-i-htz-opreme-mz)
+- [Komercijalist za prodaju školskog i uredskog pribora, promotivnog materijala](https://www.mojposao.ba/posao/ac7962aa-e4e1-11f1-8233-42010a9c001b/komercijalist-za-prodaju-skolskog-i-uredskog-pribora-promotivnog-materijala)
+- [Komercijalist za prodaju artikala za pakiranje (food packaging) kao i rješenja za pakiranje industrijskih proizvoda (m/ž)](https://www.mojposao.ba/posao/def25794-e4e1-11f1-8233-42010a9c001b/komercijalist-za-prodaju--artikala--za--pakiranje-food-packaging-kao-i-rjesenja--za--pakiranje-industrijskih--proizvoda-mz)
+- [Voditelj prodaje grafičkih papira i repromaterijala (za offsetne, flexo i digitalne tiskare/štamparije)](https://www.mojposao.ba/posao/169b287b-e4e2-11f1-8233-42010a9c001b/voditelj-prodaje-grafickih-papira-i-repromaterijala-za-offsetne-flexo-i-digitalne-tiskarestamparije)
+- [Voditelj prodaje tenderskih kupaca](https://www.mojposao.ba/posao/6689ca76-e4e2-11f1-8233-42010a9c001b/voditelj-prodaje-tenderskih-kupaca)
 
 </details>
 
@@ -632,10 +632,9 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>optiver (7)</summary>
+<details><summary>optiver (6)</summary>
 
 - [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713775002?gh_jid=8713775002)
-- [Graduate Equity Analyst (2027 Start)](https://www.optiver.com/join-us/jobs/8700160002?gh_jid=8700160002)
 - [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002)
 - [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002)
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002)
@@ -651,11 +650,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
 - [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [Operater na automatima RSA Gaming d.o.o. - Admiral Trebinje Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/968)
 - [Stručni saradnik u knjigovodstvu (m/ž) "DOMOD" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/967)
 - [Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/966)
@@ -914,11 +913,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>untalent (3)</summary>
+<details><summary>untalent (0)</summary>
 
-- [Intern partnerships](https://untalent.org/jobs/intern-partnerships-6)
-- [Team Assistant - Protocol - Intern](https://untalent.org/jobs/team-assistant-protocol-intern)
-- [International Cooling Expert](https://untalent.org/jobs/international-cooling-expert-2)
 
 </details>
 

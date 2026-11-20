@@ -6,6 +6,12 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 20.11. 19:07 | 💻 [Global Cyber Security Specialist - Machine Automation (f/m/d)](https://www.linkedin.com/jobs/view/4492958107) · ABB | LinkedIn BiH |
+| 20.11. 19:07 | 💻 [RPA Developer](https://www.linkedin.com/jobs/view/4491956156) · Deloitte | LinkedIn BiH |
+| 20.11. 19:07 | 💻 [National Consultant - Technical Support Expert for the E-Platform for the Family-Friendly Workplace Model and for the E-Learning Course on Women, Peace and Security and Media](https://www.linkedin.com/jobs/view/4492956944) · International Civil Aviation Organization | LinkedIn BiH |
+| 20.11. 19:07 | 💻 [National Consultant - Technical Support Expert for the E-Platform for the Family-Friendly Workplace Model and for the E-Learning Course on Women, Peace and Security and Media](https://www.linkedin.com/jobs/view/4492803599) · United Nations Population Fund (UNFPA) | LinkedIn BiH |
+| 20.11. 19:07 | 🚨 [New job: Investigation Specialist (Investigator)-[Open to all applicants] UNDP - United Nations Development Programme Nairobi P-3, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1249229) | Impactpool (prakse) |
+| 20.11. 19:07 | 🚨 [New job: Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based UNDP - United Nations Development Programme Istanbul IN](https://www.impactpool.org/jobs/1249227) | Impactpool (prakse) |
 | 20.11. 16:07 | 💻 [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals) | MojPosao IT |
 | 20.11. 16:07 | 💻 [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals) | MojPosao Kanton Sarajevo |
 | 20.11. 16:07 | 💻 [Director, Business Development- Quality and Compliance](https://www.linkedin.com/jobs/view/4477139441) · ProPharma | LinkedIn BiH |
