@@ -93,7 +93,8 @@
    "621be283-e282-11f1-8233-42010a9c001b",
    "9d66d1f9-e271-11f1-8233-42010a9c001b",
    "aa312d07-e3f3-11f1-8233-42010a9c001b",
-   "d140f834-e41e-11f1-8233-42010a9c001b"
+   "d140f834-e41e-11f1-8233-42010a9c001b",
+   "413e13d8-e32c-11f1-8233-42010a9c001b"
   ]
  },
  "mojposao_ks": {
@@ -488,7 +489,9 @@
    "c203881a-e41a-11f1-8233-42010a9c001b",
    "908eef3a-e361-11f1-8233-42010a9c001b",
    "a5d90ecb-e420-11f1-8233-42010a9c001b",
-   "d140f834-e41e-11f1-8233-42010a9c001b"
+   "d140f834-e41e-11f1-8233-42010a9c001b",
+   "cdac5db9-e33c-11f1-8233-42010a9c001b",
+   "2ffea727-e41a-11f1-8233-42010a9c001b"
   ]
  },
  "klix_it": {
@@ -5548,7 +5551,8 @@
    "hash:e9abda4ddf11a828",
    "hash:6c167f90d3c40bea",
    "hash:4439fad0dadb4e94",
-   "hash:e083a0cee61a69ae"
+   "hash:e083a0cee61a69ae",
+   "hash:d93712b541f21d80"
   ],
   "lines": [
    "O nama",
@@ -5665,7 +5669,7 @@
    "Konkursi",
    "Kontakt informacije",
    "Za zapošljavanje",
-   "novembar 19. 2026",
+   "novembar 20. 2026",
    "SASE |",
    "BSNLR",
    "- Bosnalijek d.d. Sarajevo:",
@@ -6146,7 +6150,8 @@
    "hash:e5e395b705972ed1",
    "hash:7e8c59ca3f1d7232",
    "hash:beaa87cbfead86c7",
-   "hash:f10c3d915b99de24"
+   "hash:f10c3d915b99de24",
+   "hash:6fb27b24371a7ffd"
   ],
   "lines": [
    "Light up your potential. Ignite your success.",
@@ -6214,7 +6219,7 @@
    "Manila (Philippines)",
    "Job type:",
    "Hybrid",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "AI Engineering Intern – Sarajevo",
    "Location:",
    "Sarajevo (BiH)",
@@ -6232,13 +6237,13 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "DevOps Engineering Intern – Split",
    "Location:",
    "Split (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "AI Engineering Intern – Zagreb",
    "Location:",
    "Zagreb (Croatia)",
@@ -6250,19 +6255,19 @@
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "Customer Support Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "Business Analytics Intern",
    "Location:",
    "2 locations",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "System Infrastructure Engineering Intern",
    "Location:",
    "Zagreb (Croatia)",
@@ -6298,7 +6303,7 @@
    "Zagreb (Croatia)",
    "Job type:",
    "Onsite",
-   "Posted 7 days ago",
+   "Posted 1 week ago",
    "Business Internship Program – Product, Marketing & Telecom Partnerships",
    "Location:",
    "4 locations",
@@ -8345,7 +8350,10 @@
    "https://untalent.org/jobs/intern-in-the-sustainable-environmental-management-sem-group-2",
    "https://untalent.org/jobs/governance-affaris-intern",
    "https://untalent.org/jobs/intern-for-prml-unit-communications",
-   "https://untalent.org/jobs/finance-intern-hyderabad-2"
+   "https://untalent.org/jobs/finance-intern-hyderabad-2",
+   "https://untalent.org/jobs/digital-communications-intern-16",
+   "https://untalent.org/jobs/resource-management-intern-1",
+   "https://untalent.org/jobs/supply-chain-internship"
   ]
  },
  "impactpool": {
@@ -8984,13 +8992,14 @@
    "hash:020bf6d0166936b5",
    "hash:755471aac23d3116",
    "hash:5466d1fcd8840c4d",
-   "hash:ca39771c9c98d35f"
+   "hash:ca39771c9c98d35f",
+   "hash:4064761ae0e59f0c"
   ],
   "lines": [
    "Access Denied",
    "You don't have permission to access \"http://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx\" on this server.",
-   "Reference #18.2b0c3417.1795122895.80498a7",
-   "https://errors.edgesuite.net/18.2b0c3417.1795122895.80498a7"
+   "Reference #18.8a6d3e17.1795134996.262864cc",
+   "https://errors.edgesuite.net/18.8a6d3e17.1795134996.262864cc"
   ]
  },
  "osce": {
