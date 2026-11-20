@@ -6,6 +6,11 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 20.11. 16:07 | 💻 [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals) | MojPosao IT |
+| 20.11. 16:07 | 💻 [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals) | MojPosao Kanton Sarajevo |
+| 20.11. 16:07 | 💻 [Director, Business Development- Quality and Compliance](https://www.linkedin.com/jobs/view/4477139441) · ProPharma | LinkedIn BiH |
+| 20.11. 16:07 | 🚨 [Obavijest o drugom upisnom roku na treći ciklus studija - doktorski studij / Univerzitet u Sarajevu - Elektrotehnički fakultet](https://www.unsa.ba/konkursi/obavijest-o-drugom-upisnom-roku-na-treci-ciklus-studija-doktorski-studij-univerzitet-u-0) | Univerzitet u Sarajevu (konkursi) |
+| 20.11. 16:07 | 💻 [Poslovnici o radu komisija za prijem radnika/ca u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/konkursi/poslovnici-o-radu-komisija-za-prijem-radnikaca-u-radni-odnos-na-univerzitetu-u-sarajevu) | Univerzitet u Sarajevu (konkursi) |
 | 20.11. 13:07 | 💻 [Information Technology Support Specialist](https://www.linkedin.com/jobs/view/4491908228) · Zavod za zaposljavanje Republike Srpske | LinkedIn BiH |
 | 20.11. 13:07 | 🚨 [New job: INDIVIDUAL CONSULTANTS - Monitoring and Evaluation of Clean Cooking Technologies under the ASCENT Program in Zambia OPEC Fund for International Development Remote / Zambia / Home Based - May require travel Consultant - Contractors](https://www.impactpool.org/jobs/1249102) | Impactpool (prakse) |
 | 20.11. 10:08 | 💻 [(English C1) Technical Support Consultant, VPS & Trading (remote)](https://www.linkedin.com/jobs/view/4491587521) · SupportYourApp | LinkedIn BiH |
