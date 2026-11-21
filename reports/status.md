@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **21.11.2026 15:32** (Sarajevo)  
+Zadnje pokretanje: **21.11.2026 16:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -41,7 +41,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 14 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -57,7 +57,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 63 | 1 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 55 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -545,16 +545,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (63)</summary>
+<details><summary>linkedin_bih (55)</summary>
 
-- [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
 - [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
+- [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959)
-- [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418)
 - [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252)
+- [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418)
 - [Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4491140143)
 - [Hardware Engineer (m/f/d) Embedded System Design](https://www.linkedin.com/jobs/view/4491842341)
-- [Product Manager (m/w/d) Substation Digitalization Asset Health Analytics](https://www.linkedin.com/jobs/view/4483679413)
+- [RPA Developer](https://www.linkedin.com/jobs/view/4491956156)
 
 </details>
 
@@ -650,11 +650,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
 - [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
 - [Operater na automatima RSA Gaming d.o.o. - Admiral Trebinje Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/968)
 - [Stručni saradnik u knjigovodstvu (m/ž) "DOMOD" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/967)
 - [Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/966)

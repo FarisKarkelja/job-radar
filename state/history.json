@@ -41627,5 +41627,27 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T15:07:41+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: BYTE – Blockchain for Refugees Entrepreneurship",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T15:07:41+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.ecd11102.1795273892.75254c11",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]
