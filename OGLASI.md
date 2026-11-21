@@ -6,6 +6,9 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 21.11. 19:07 | 🚨 [New job: Spring 2027: IRC San Diego - Grants Intern Regional Network Hubs Family Support (RNHFS) Project Intern (Unpaid) IRC - International Rescue Committee Remote / Arizona / San Diego / New York City / California Internship - Internship](https://www.impactpool.org/jobs/1249319) | Impactpool (prakse) |
+| 21.11. 19:07 | 🚨 [New job: Spring 2027: IRC San Diego - Communications and Development Intern (Unpaid) IRC - International Rescue Committee San Diego Internship - Internship](https://www.impactpool.org/jobs/1249312) | Impactpool (prakse) |
+| 21.11. 19:07 | 🚨 [Job is closed: Team Assistant (LS1) ICMPD - International Centre for Migration Policy Development Ankara LS1, Local Support 1 - Locally recruited position - Administrative support](https://www.impactpool.org/jobs/1249308) | Impactpool (prakse) |
 | 21.11. 13:07 | 🚨 [Internship: AI-assisted diagnostic and solution recommendation engine](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613292) | iAgora IT prakse (Švicarska) |
 | 21.11. 13:07 | 🚨 [Internship: Exploring Real-Time Data Processing at Scale](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613295) | iAgora IT prakse (Švicarska) |
 | 21.11. 10:07 | 🚨 [New job: iCOAST Global Coordination Project Manager (Home-Based) (Open to Tier 0,1 & 2) UNDP - United Nations Development Programme Remote / New York City IPSA-10, International Personnel Services Agreement - Mid level](https://www.impactpool.org/jobs/1249288) | Impactpool (prakse) |
