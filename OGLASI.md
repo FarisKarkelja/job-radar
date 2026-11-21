@@ -6,6 +6,8 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 21.11. 13:07 | 🚨 [Internship: AI-assisted diagnostic and solution recommendation engine](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613292) | iAgora IT prakse (Švicarska) |
+| 21.11. 13:07 | 🚨 [Internship: Exploring Real-Time Data Processing at Scale](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613295) | iAgora IT prakse (Švicarska) |
 | 21.11. 10:07 | 🚨 [New job: iCOAST Global Coordination Project Manager (Home-Based) (Open to Tier 0,1 & 2) UNDP - United Nations Development Programme Remote / New York City IPSA-10, International Personnel Services Agreement - Mid level](https://www.impactpool.org/jobs/1249288) | Impactpool (prakse) |
 | 21.11. 07:08 | 💻 [Young Talent - CRS](https://www.iagora.com/work/en/offer/internship-switzerland-it/6609537) | iAgora IT prakse (Švicarska) |
 | 21.11. 00:55 | 💻 [Promjena na stranici: Kickstart Your Tech Career](https://atlantbh.com/internship/) | Atlantbh praksa |

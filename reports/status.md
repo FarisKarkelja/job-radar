@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **21.11.2026 10:07** (Sarajevo)  
+Zadnje pokretanje: **21.11.2026 13:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -35,10 +35,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Flow Traders (prakse Evropa)](https://www.flowtraders.com/careers) | ✅ | 2 | 0 |  |
 | [Grawe osiguranje (posao)](https://www.grawe.ba/grawe-posao) | ✅ | 1 | 0 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 3 | 0 |  |
-| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
+| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 2 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 14 | 12 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 14 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -57,7 +57,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 55 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 54 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -86,8 +86,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
 | [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
 | [SSST karijere](https://ssst.edu.ba/careers) | ✅ | 1 | 0 |  |
-| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 0 |  |
-| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 0 |  |
+| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 2 |  |
+| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 1 |  |
 | [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 0 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
@@ -103,12 +103,12 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
 | [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
-| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 1 | 1 |  |
+| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 1 | 0 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
 | [Walter Code / Galeyo](https://www.galeyo.com/open-positions) | ✅ | 5 | 0 |  |
-| [Western-BALKANship (prakse u Italiji)](https://www.uniadrion.net/western-balkanship-create-your-future/) | ✅ | 1 | 0 |  |
+| [Western-BALKANship (prakse u Italiji)](https://www.uniadrion.net/western-balkanship-create-your-future/) | ✅ | 1 | 1 |  |
 | [WISE prakse Zapadni Balkan](https://wise.ypn.al/) | ✅ | 1 | 0 |  |
 | [Workable BiH](https://jobs.workable.com/search/bosnia-and-herzegovina/software-engineer-jobs) | ✅ | 2 | 0 |  |
 | [Zira (open positions)](https://ziragroup.com/careers/open-positions) | ✅ | 1 | 0 |  |
@@ -351,14 +351,14 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>iagora_ch (44)</summary>
 
+- [Internship: AI-assisted diagnostic and solution recommendation engine](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613292)
+- [Internship: Exploring Real-Time Data Processing at Scale](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613295)
 - [Young Talent - CRS](https://www.iagora.com/work/en/offer/internship-switzerland-it/6609537)
 - [Internship / Master Thesis: Augmented reality, the next generation interface](https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769)
 - [RiSM Praktikum für Studierende der Pharmazie, Pharmazeutischen Wissenschaften...](https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424)
 - [2027 Internship – Technology – Software Engineer – Zurich](https://www.iagora.com/work/en/offer/internship-switzerland-it/6589212)
 - [Young Talent - Simulation (m/f/x)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6586467)
 - [Software Engineer Intern - Zurich (2027)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6109781)
-- [AI Internship: Self-Hosted LLMs for Data Migration](https://www.iagora.com/work/en/offer/internship-switzerland-it/6579858)
-- [Young Talent - Test Infrastructure Development (f/m/x)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6580954)
 
 </details>
 
@@ -545,16 +545,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (55)</summary>
+<details><summary>linkedin_bih (54)</summary>
 
 - [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
 - [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959)
 - [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418)
 - [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252)
-- [Product Owner for Substation Automation Software (f/m/d)](https://www.linkedin.com/jobs/view/4456019638)
 - [Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4491140143)
 - [Hardware Engineer (m/f/d) Embedded System Design](https://www.linkedin.com/jobs/view/4491842341)
+- [Product Manager (m/w/d) Substation Digitalization Asset Health Analytics](https://www.linkedin.com/jobs/view/4483679413)
 
 </details>
 
@@ -585,9 +585,9 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 <details><summary>mojposao_it (33)</summary>
 
 - [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals)
-- [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
-- [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
 - [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
+- [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
+- [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
 - [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
@@ -650,11 +650,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
+- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
 - [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Operater na automatima RSA Gaming d.o.o. - Admiral Trebinje Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/968)
 - [Stručni saradnik u knjigovodstvu (m/ž) "DOMOD" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/967)
 - [Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/966)
@@ -771,19 +771,20 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>star_edukacija (20)</summary>
 
+- [Klimatske promjene, ljudska prava i pravna odgovornost](https://star.study/bs/novost/klimatske-promjene-ljudska-prava-i-pravna-odgovornost/8794)
+- [Radionica "Prokrastinacija: kad znaš šta trebaš ali to ne radiš"](https://star.study/bs/novost/radionica-prokrastinacija-kad-znas-sta-trebas-ali-to-ne-radis/8789)
 - [Vještine danas. Zeleni poslovi sutra.](https://star.study/bs/novost/vjestine-danas-zeleni-poslovi-sutra/8751)
 - [Prijavi se na naš novi program “Aktivna građanka”](https://star.study/bs/novost/prijavi-se-na-nas-novi-program-aktivna-gradanka/8766)
 - [Korištenje umjetne inteligencije u učenju i obrazovanju](https://star.study/bs/novost/koristenje-umjetne-inteligencije-u-ucenju-i-obrazovanju/8758)
 - [PREDAVANJE STRUČNJAKA IZ PRAKSE NA PRAVNOM FAKULTETU TRAVNIK](https://star.study/bs/novost/predavanje-strucnjaka-iz-prakse-na-pravnom-fakultetu-travnik/8685)
 - [RADIONICA: PRAKTIČNA PRIMJENA I UČINKOVITA ZAŠTITA PRAVA NA PRISTUP INFORMACIJAMA](https://star.study/bs/novost/radionica-prakticna-primjena-i-ucinkovita-zastita-prava-na-pristup-informacijama/8686)
 - [Kako do novih klijenata za Novu 2027 godinu: 10 praktičnih savjeta za poduzetnike i freelancere](https://star.study/bs/novost/kako-do-novih-klijenata-za-novu-2027-godinu-10-prakticnih-savjeta-za-poduzetnike-i-freelancere/8738)
-- [Razmišljaš o ljetu u Americi? Saznaj više o programu Work & Travel USA!](https://star.study/bs/novost/razmisljas-o-ljetu-u-americi-saznaj-vise-o-programu-work-travel-usa/8693)
-- [FROM ZERO TO YOUR FIRST DJ SET / GET BEHIND THE DECKS!](https://star.study/bs/novost/from-zero-to-your-first-dj-set-get-behind-the-decks/8694)
 
 </details>
 
 <details><summary>star_posao (20)</summary>
 
+- [Agent za prodaju i marketing](https://star.study/bs/novost/agent-za-prodaju-i-marketing/8790)
 - [ZAPOŠLJAVAMO – POSTANI DIO TIMA JUICE BAR LIFE](https://star.study/bs/novost/zaposljavamo-postani-dio-tima-juice-bar-life/8683)
 - [HRVATSKI TELEKOM ZAPOŠLJAVA U SARAJEVU!](https://star.study/bs/novost/hrvatski-telekom-zaposljava-u-sarajevu/8671)
 - [TOOLBOX ZAPOŠLJAVA – BRAND AMBASSADOR](https://star.study/bs/novost/toolbox-zaposljava-brand-ambassador/8675)
@@ -791,7 +792,6 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Fizioterapeut](https://star.study/bs/novost/fizioterapeut/8618)
 - [ZAPOŠLJAVAMO! PRIDRUŽI SE NAŠOJ REDAKCIJI!](https://star.study/bs/novost/zaposljavamo-pridruzi-se-nasoj-redakciji/8616)
 - [POZIV ZA KREATORE DIGITALNOG SADRŽAJA!](https://star.study/bs/novost/poziv-za-kreatore-digitalnog-sadrzaja/8609)
-- [Travel 4 Fun otvara konkurs za prijem 3 osobe za rad na promotivno-prodajnom mjestu za WAKE UP 2027](https://star.study/bs/novost/travel-4-fun-otvara-konkurs-za-prijem-3-osobe-za-rad-na-promotivno-prodajnom-mjestu-za-wake-up-2027/8613)
 
 </details>
 
