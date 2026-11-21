@@ -41579,5 +41579,53 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T14:32:12+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Product specialist - Laboratory equipment",
+  "url": "https://www.linkedin.com/jobs/view/4490888003",
+  "company": "ELTA 90 Medical Science",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-21T14:32:12+00:00",
+  "source": "infobip_internship",
+  "source_name": "Infobip praksa",
+  "title": "Promjena na stranici: Posted 2 weeks ago",
+  "url": "https://www.infobip.com/internship",
+  "it": false,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T14:32:12+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: Accreditation & Recognition of Prior Experience & Learning for Entrepreneurship (ARPEL4Entrep)",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T14:32:12+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.c8f3da17.1795271769.ef0c2a5",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]

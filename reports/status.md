@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **21.11.2026 13:07** (Sarajevo)  
+Zadnje pokretanje: **21.11.2026 15:32** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -35,13 +35,13 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Flow Traders (prakse Evropa)](https://www.flowtraders.com/careers) | ✅ | 2 | 0 |  |
 | [Grawe osiguranje (posao)](https://www.grawe.ba/grawe-posao) | ✅ | 1 | 0 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 3 | 0 |  |
-| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 2 |  |
+| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
 | [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 14 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
-| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
+| [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 1 |  |
 | [Intesa Sanpaolo Banka (oglasi)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/oglasi.html) | ✅ | 1 | 0 |  |
 | [Intesa Sanpaolo Banka (zaposlenje)](https://www.intesasanpaolobanka.ba/stanovnistvo/ko-smo-mi/zaposlenje.html) | ✅ | 1 | 0 |  |
 | [ITBase](https://itbase.ba/poslovi) | ✅ | 20 | 0 |  |
@@ -57,7 +57,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 54 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 63 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -86,8 +86,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Sarajevogas (javni oglasi)](https://www.sarajevogas.ba/javni-konkurs-za-prijem-radnika-u-radni-odnos) | ✅ | 1 | 0 |  |
 | [Sparkasse Bank BiH (otvoreni konkursi)](https://sparkasse.mojposao.ba/) | ✅ | 1 | 0 |  |
 | [SSST karijere](https://ssst.edu.ba/careers) | ✅ | 1 | 0 |  |
-| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 2 |  |
-| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 1 |  |
+| [STAR.study edukacije i akademije](https://star.study/bs/novosti/edukacija) | ✅ | 20 | 0 |  |
+| [STAR.study poslovi](https://star.study/bs/novosti/posao) | ✅ | 20 | 0 |  |
 | [STAR.study prakse](https://star.study/bs/novosti/praksa) | ✅ | 20 | 0 |  |
 | [Sunrise mikrokreditna (karijera)](https://www.microsunrise.ba/karijera) | ✅ | 1 | 0 |  |
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
@@ -352,8 +352,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 <details><summary>iagora_ch (44)</summary>
 
 - [Internship: AI-assisted diagnostic and solution recommendation engine](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613292)
-- [Internship: Exploring Real-Time Data Processing at Scale](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613295)
 - [Young Talent - CRS](https://www.iagora.com/work/en/offer/internship-switzerland-it/6609537)
+- [Internship: Exploring Real-Time Data Processing at Scale](https://www.iagora.com/work/en/offer/internship-switzerland-it/6613295)
 - [Internship / Master Thesis: Augmented reality, the next generation interface](https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769)
 - [RiSM Praktikum für Studierende der Pharmazie, Pharmazeutischen Wissenschaften...](https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424)
 - [2027 Internship – Technology – Software Engineer – Zurich](https://www.iagora.com/work/en/offer/internship-switzerland-it/6589212)
@@ -545,7 +545,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (54)</summary>
+<details><summary>linkedin_bih (63)</summary>
 
 - [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
 - [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
@@ -585,9 +585,9 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 <details><summary>mojposao_it (33)</summary>
 
 - [Call for IT Professionals](https://www.mojposao.ba/posao/ba21907c-e4df-11f1-8233-42010a9c001b/call-for-it-professionals)
-- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
-- [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
 - [IT administrator s fokusom na ERP sistem (m/ž)](https://www.mojposao.ba/posao/b10299d7-dc13-11f1-a8c0-42010a9c001a/it-administrator-s-fokusom-na-erp-sistem-mz)
+- [IT Tehničar](https://www.mojposao.ba/posao/aa312d07-e3f3-11f1-8233-42010a9c001b/it-tehnicar)
+- [Manager za nabavku IT opreme i mobitela](https://www.mojposao.ba/posao/d494cb9d-d212-11f1-a8c0-42010a9c001a/manager-za-nabavku-it-opreme-i-mobitela)
 - [Stručni saradnik za upravljanje podacima (m/ž)](https://www.mojposao.ba/posao/293f4210-df70-11f1-8233-42010a9c001b/strucni-saradnik-za-upravljanje-podacima-mz)
 - [AI Engineer](https://www.mojposao.ba/posao/ecd499d2-d84e-11f1-a8c0-42010a9c001a/ai-engineer)
 - [Embedded Software Engineer](https://www.mojposao.ba/posao/7f4e3270-d84f-11f1-a8c0-42010a9c001a/embedded-software-engineer)
@@ -650,10 +650,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
+- [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
 - [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
-- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
 - [Operater na automatima RSA Gaming d.o.o. - Admiral Trebinje Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/968)
 - [Stručni saradnik u knjigovodstvu (m/ž) "DOMOD" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/967)
@@ -902,11 +902,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>unsa_konkursi (10)</summary>
 
-- [Obavijest o drugom upisnom roku na treći ciklus studija - doktorski studij | Univerzitet u Sarajevu - Elektrotehnički fakultet](https://www.unsa.ba/index.php/konkursi/obavijest-o-drugom-upisnom-roku-na-treci-ciklus-studija-doktorski-studij-univerzitet-u-0)
-- [Poslovnici o radu komisija za prijem radnika/ca u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/index.php/konkursi/poslovnici-o-radu-komisija-za-prijem-radnikaca-u-radni-odnos-na-univerzitetu-u-sarajevu)
-- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-filozofski-11)
-- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-filozofski-10)
-- [Javni oglas za prijem radnika u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu)
+- [Obavijest o drugom upisnom roku na treći ciklus studija - doktorski studij | Univerzitet u Sarajevu - Elektrotehnički fakultet](https://www.unsa.ba/konkursi/obavijest-o-drugom-upisnom-roku-na-treci-ciklus-studija-doktorski-studij-univerzitet-u-0)
+- [Poslovnici o radu komisija za prijem radnika/ca u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/konkursi/poslovnici-o-radu-komisija-za-prijem-radnikaca-u-radni-odnos-na-univerzitetu-u-sarajevu)
+- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-filozofski-11)
+- [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-filozofski-10)
+- [Javni oglas za prijem radnika u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu)
 - [Ponovni javni oglas za prijem u radni odnos na radna mjesta | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/ponovni-javni-oglas-za-prijem-u-radni-odnos-na-radna-mjesta-univerzitet-u-sarajevu)
 - [Pitanja, lista propisa i literature | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet)
 - [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15)
