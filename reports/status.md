@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **21.11.2026 07:08** (Sarajevo)  
+Zadnje pokretanje: **21.11.2026 10:07** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -35,10 +35,10 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Flow Traders (prakse Evropa)](https://www.flowtraders.com/careers) | ✅ | 2 | 0 |  |
 | [Grawe osiguranje (posao)](https://www.grawe.ba/grawe-posao) | ✅ | 1 | 0 |  |
 | [HTEC BiH](https://htec.com/careers/locations/bosnia-herzegovina/) | ✅ | 3 | 0 |  |
-| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 1 |  |
+| [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 15 | 0 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 14 | 12 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -57,7 +57,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 57 | 0 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 55 | 0 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -93,7 +93,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Supernova (karijera)](https://www.supernovabih.ba/karijera) | ✅ | 1 | 0 |  |
 | [Symphony (careers)](https://care.symphony.is/) | ✅ | 1 | 0 |  |
 | [Symphony (oglasi)](https://jobs.eu.lever.co/symphony) | ✅ | 10 | 0 |  |
-| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 1 |  |
+| [SZKS (Služba za zapošljavanje KS)](https://szks.ba/oglasi/) | ✅ | 10 | 0 |  |
 | [Tacta (careers)](https://tacta.io/careers) | ✅ | 1 | 0 |  |
 | [Telemach BH (zaposlenje)](https://telemach.ba/zaposlenje) | ✅ | 1 | 0 |  |
 | [KJKP Toplane (konkursi)](https://www.toplanesarajevo.ba/stranica/konkursi) | ✅ | 1 | 0 |  |
@@ -102,8 +102,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [UniCredit Bank (karijere)](https://www.unicredit.ba/en/banka/karijere/karijere.html) | ✅ | 1 | 0 |  |
 | [Union banka (karijera)](https://unionbank.ba/karijera) | ✅ | 1 | 0 |  |
 | [Union banka (tenderi i oglasi)](https://unionbank.ba/tenderi) | ✅ | 1 | 0 |  |
-| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 4 |  |
-| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 0 | 0 |  |
+| [Univerzitet u Sarajevu (konkursi)](https://www.unsa.ba/index.php/konkursi) | ✅ | 10 | 0 |  |
+| [UN Talent (prakse)](https://untalent.org/jobs) | ✅ | 1 | 1 |  |
 | [US Ambasada Sarajevo (jobs)](https://ba.usembassy.gov/jobs) | ✅ | 1 | 0 |  |
 | [KJKP Vodovod i kanalizacija](https://www.viksa.ba/objave/javni_oglasi_i_konkursi) | ✅ | 10 | 0 |  |
 | [Kanton Sarajevo (konkursi)](https://vlada.ks.gov.ba/aktuelno/konkursi) | ✅ | 20 | 0 |  |
@@ -354,11 +354,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Young Talent - CRS](https://www.iagora.com/work/en/offer/internship-switzerland-it/6609537)
 - [Internship / Master Thesis: Augmented reality, the next generation interface](https://www.iagora.com/work/en/offer/internship-switzerland-it/6604769)
 - [RiSM Praktikum für Studierende der Pharmazie, Pharmazeutischen Wissenschaften...](https://www.iagora.com/work/en/offer/internship-switzerland-it/6304424)
-- [Intern-Economic Affairs](https://www.iagora.com/work/en/offer/internship-switzerland-it/6590257)
-- [Intern - Digital and Technology Support Section](https://www.iagora.com/work/en/offer/internship-switzerland-it/6590254)
 - [2027 Internship – Technology – Software Engineer – Zurich](https://www.iagora.com/work/en/offer/internship-switzerland-it/6589212)
 - [Young Talent - Simulation (m/f/x)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6586467)
 - [Software Engineer Intern - Zurich (2027)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6109781)
+- [AI Internship: Self-Hosted LLMs for Data Migration](https://www.iagora.com/work/en/offer/internship-switzerland-it/6579858)
+- [Young Talent - Test Infrastructure Development (f/m/x)](https://www.iagora.com/work/en/offer/internship-switzerland-it/6580954)
 
 </details>
 
@@ -381,16 +381,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>impactpool (15)</summary>
+<details><summary>impactpool (14)</summary>
 
 - [International Engagement Manager CFG - Centre for Future Generations Remote Senior - Senior level](https://www.impactpool.org/jobs/1245206)
 - [Chief Fire Officer MFO - Multinational Force & Observers Egypt Grade 9 - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1235333)
-- [New job: Investigation Specialist (Investigator)-[Open to all applicants] UNDP - United Nations Development Programme Nairobi P-3, International Professional - Internationally recruited position - Mid level](https://www.impactpool.org/jobs/1249229)
-- [New job: Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based UNDP - United Nations Development Programme Istanbul IN](https://www.impactpool.org/jobs/1249227)
-- [New job: Officière Psychosociale IRC - International Rescue Committee Birao 8B](https://www.impactpool.org/jobs/1249226)
-- [New job: Education Senior Officer IRC - International Rescue Committee Beirut Mid - Mid level](https://www.impactpool.org/jobs/1249225)
-- [New job: Manager, Principal Giving East IRC - International Rescue Committee Remote | New York City Mid - Mid level](https://www.impactpool.org/jobs/1249224)
-- [New job: Senior Communications Officer- Government and Multilateral Donors IRC - International Rescue Committee London Senior - Senior level](https://www.impactpool.org/jobs/1249223)
+- [New job: Accounting Clerk UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Rome Junior](https://www.impactpool.org/jobs/1249301)
+- [New job: Coordinador I UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Palmira BG06](https://www.impactpool.org/jobs/1249300)
+- [New job: ANALYST---GRANTS-MANAGEMENT UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Nairobi BG06](https://www.impactpool.org/jobs/1249299)
+- [New job: Global Affairs Associate ICRC - International Committee of the Red Cross Geneva Internship - Internship](https://www.impactpool.org/jobs/1249296)
+- [New job: Associate in the Economic Security Unit ICRC - International Committee of the Red Cross Geneva Internship - Internship](https://www.impactpool.org/jobs/1249295)
+- [New job: Communication Associate ICRC - International Committee of the Red Cross Geneva Internship - Internship](https://www.impactpool.org/jobs/1249294)
 
 </details>
 
@@ -545,7 +545,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (57)</summary>
+<details><summary>linkedin_bih (55)</summary>
 
 - [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
 - [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
@@ -638,8 +638,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002)
 - [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002)
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002)
-- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002)
+- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 
 </details>
 
@@ -650,11 +650,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
-- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
-- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Hoše-komerc d.o.o.](https://poslovnioglasi.ba/company/191/hose-komerc-d-o-o)
+- [ADK d.o.o.](https://poslovnioglasi.ba/company/229/adk-d-o-o)
 - [Operater na automatima RSA Gaming d.o.o. - Admiral Trebinje Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/968)
 - [Stručni saradnik u knjigovodstvu (m/ž) "DOMOD" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/967)
 - [Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/966)
@@ -913,8 +913,9 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>untalent (0)</summary>
+<details><summary>untalent (1)</summary>
 
+- [Consultant on Public International Law](https://untalent.org/jobs/consultant-on-public-international-law)
 
 </details>
 
