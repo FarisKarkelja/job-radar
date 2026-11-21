@@ -42061,5 +42061,53 @@
   "priority": 4,
   "sent": false,
   "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T20:51:59+00:00",
+  "source": "linkedin_bih",
+  "source_name": "LinkedIn BiH",
+  "title": "Elementary School Teacher",
+  "url": "https://www.linkedin.com/jobs/view/4492314786",
+  "company": "Primary school in Sarajevo",
+  "it": false,
+  "priority": 3,
+  "match": "",
+  "snippet": "",
+  "sent": false,
+  "why": "nije IT",
+  "loc": ""
+ },
+ {
+  "ts": "2026-11-21T20:51:59+00:00",
+  "source": "authority_partners",
+  "source_name": "Authority Partners (careers)",
+  "title": "Promjena na stranici: Search roles",
+  "url": "https://authoritypartners.com/careers",
+  "it": false,
+  "priority": 3,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
+ },
+ {
+  "ts": "2026-11-21T20:51:59+00:00",
+  "source": "western_balkanship",
+  "source_name": "Western-BALKANship (prakse u Italiji)",
+  "title": "Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!",
+  "url": "https://www.uniadrion.net/western-balkanship-create-your-future/",
+  "it": true,
+  "priority": 3,
+  "sent": true,
+  "why": ""
+ },
+ {
+  "ts": "2026-11-21T20:51:59+00:00",
+  "source": "nato_sarajevo",
+  "source_name": "NATO HQ Sarajevo (lokalne pozicije)",
+  "title": "Promjena na stranici: Reference #18.ead11102.1795294561.18cbaf7",
+  "url": "https://jfcnaples.nato.int/hqsarajevo/about-sarajevo-/working-in-nhqsa/local-positions.aspx",
+  "it": true,
+  "priority": 4,
+  "sent": false,
+  "why": "promjena ne liči na IT oglas/praksu"
  }
 ]

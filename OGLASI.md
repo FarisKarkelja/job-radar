@@ -6,6 +6,7 @@ Samo IT/tech poslovi i prakse: Sarajevo bilo kako, ostatak BiH remote/hybrid, pl
 
 | Vrijeme | Oglas | Izvor |
 |---|---|---|
+| 21.11. 21:51 | 💻 [Promjena na stranici: INTERNATIONAL INTERNSHIP OPPORTUNITY!](https://www.uniadrion.net/western-balkanship-create-your-future/) | Western-BALKANship (prakse u Italiji) |
 | 21.11. 19:07 | 🚨 [New job: Spring 2027: IRC San Diego - Grants Intern Regional Network Hubs Family Support (RNHFS) Project Intern (Unpaid) IRC - International Rescue Committee Remote / Arizona / San Diego / New York City / California Internship - Internship](https://www.impactpool.org/jobs/1249319) | Impactpool (prakse) |
 | 21.11. 19:07 | 🚨 [New job: Spring 2027: IRC San Diego - Communications and Development Intern (Unpaid) IRC - International Rescue Committee San Diego Internship - Internship](https://www.impactpool.org/jobs/1249312) | Impactpool (prakse) |
 | 21.11. 19:07 | 🚨 [Job is closed: Team Assistant (LS1) ICMPD - International Centre for Migration Policy Development Ankara LS1, Local Support 1 - Locally recruited position - Administrative support](https://www.impactpool.org/jobs/1249308) | Impactpool (prakse) |

@@ -1,6 +1,6 @@
 # Status izvora
 
-Zadnje pokretanje: **21.11.2026 19:07** (Sarajevo)  
+Zadnje pokretanje: **21.11.2026 21:51** (Sarajevo)  
 Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 | Izvor | Status | Oglasa | Novih | Napomena |
@@ -18,7 +18,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Atlantbh](https://atlantbh.com/jobs/) | ✅ | 1 | 0 |  |
 | [Atlantbh praksa](https://atlantbh.com/internship/) | ✅ | 1 | 0 |  |
 | [Atlantbh (oglasi)](https://apply.workable.com/atlantbh/) | ✅ | 1 | 0 |  |
-| [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 0 |  |
+| [Authority Partners (careers)](https://authoritypartners.com/careers) | ✅ | 1 | 1 |  |
 | [BBI Banka (karijera)](https://bbi.ba/karijera) | ✅ | 1 | 0 |  |
 | [BH Gas (javni oglasi)](https://www.bh-gas.ba/javni-oglasi) | ✅ | 2 | 0 |  |
 | [BH Pošta (oglasi)](https://www.posta.ba/oglasi-i-obavjestenja) | ✅ | 2 | 0 |  |
@@ -38,7 +38,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [iAgora IT prakse (Švicarska)](https://www.iagora.com/work/en/internships/it/switzerland) | ✅ | 44 | 0 |  |
 | [IBU Career Center](https://www.ibu.edu.ba/career-center/) | ✅ | 1 | 0 |  |
 | [IMC (prakse Evropa)](https://www.imc.com/eu/careers) | ✅ | 8 | 0 |  |
-| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 32 | 24 |  |
+| [Impactpool (prakse)](https://www.impactpool.org/jobs) | ✅ | 32 | 0 |  |
 | [INA / Energopetrol (karijera)](https://karijera.ina.ba/bs) | ✅ | 1 | 0 |  |
 | [Infinum](https://apply.workable.com/infinum/) | ✅ | 3 | 0 |  |
 | [Infobip praksa](https://www.infobip.com/internship) | ✅ | 1 | 0 |  |
@@ -57,7 +57,7 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 | [Klika (careers)](https://www.klika.us/careers) | ✅ | 1 | 0 |  |
 | [Klix Posao IT](https://posao.klix.ba/kat/it-telekomunikacije) | ✅ | 20 | 0 |  |
 | [KPMG BiH (otvorene pozicije)](https://kpmg-bh.oneassessment.com/) | ✅ | 1 | 0 |  |
-| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 54 | 2 |  |
+| [LinkedIn BiH](https://www.linkedin.com/jobs/search?location=Bosnia%20and%20Herzegovina) | ✅ | 46 | 1 |  |
 | [LOK mikrokreditna (karijere)](https://lok.ba/karijere) | ✅ | 1 | 0 |  |
 | [Mibo (karijera)](https://mibo.ba/karijera) | ✅ | 1 | 0 |  |
 | [Mikra (karijere)](https://mikra.ba/karijere) | ✅ | 1 | 0 |  |
@@ -545,16 +545,16 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 </details>
 
-<details><summary>linkedin_bih (54)</summary>
+<details><summary>linkedin_bih (46)</summary>
 
 - [AI Agentic Developer](https://www.linkedin.com/jobs/view/4491307988)
-- [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4491284959)
+- [IT Systems Engineer](https://www.linkedin.com/jobs/view/4492472804)
+- [Backend Python Developer](https://www.linkedin.com/jobs/view/4491613271)
 - [Software Engineer, Tech Lead](https://www.linkedin.com/jobs/view/4483556418)
 - [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4480981252)
-- [Automation Engineer - Sarajevo](https://www.linkedin.com/jobs/view/4491140143)
 - [Director, Engineering](https://www.linkedin.com/jobs/view/4485394481)
-- [Hardware Engineer (m/f/d) Embedded System Design](https://www.linkedin.com/jobs/view/4491842341)
+- [Global Cyber Security Specialist - Machine Automation (f/m/d)](https://www.linkedin.com/jobs/view/4492958107)
 
 </details>
 
@@ -638,8 +638,8 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002?gh_jid=8713898002)
 - [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002?gh_jid=8585609002)
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002?gh_jid=8488699002)
-- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 - [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002?gh_jid=8713435002)
+- [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002?gh_jid=8713409002)
 
 </details>
 
@@ -650,11 +650,11 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 
 <details><summary>poslovnioglasi (13)</summary>
 
-- [ZEKA-COMERC d.o.o.](https://poslovnioglasi.ba/company/26/zeka-comerc-d-o-o)
-- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
-- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [Preis Usora](https://poslovnioglasi.ba/company/238/preis-usora)
+- [ALMY D.O.O.](https://poslovnioglasi.ba/company/39/almy-d-o-o)
+- [Centrotrans d.d.](https://poslovnioglasi.ba/company/16/centrotrans-d-d)
 - [X express d.o.o.](https://poslovnioglasi.ba/company/213/x-express-d-o-o)
+- [Hercegovinalijek d.o.o.](https://poslovnioglasi.ba/company/68/hercegovinalijek-d-o-o)
 - [Operater na automatima RSA Gaming d.o.o. - Admiral Trebinje Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/968)
 - [Stručni saradnik u knjigovodstvu (m/ž) "DOMOD" d.o.o. Sarajevo Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/967)
 - [Radnik na održavanju proizvodnih linija PAK CENTAR d.o.o. Sarajevo Pogledaj oglas](https://poslovnioglasi.ba/company-ad-details/966)
@@ -907,9 +907,9 @@ Izvora: **110**, ispravnih: **109**, s greškom: **1**
 - [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-filozofski-11)
 - [Poslovnik o radu Komisije za provođenje Javnog oglasa | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/poslovnik-o-radu-komisije-za-provodenje-javnog-oglasa-univerzitet-u-sarajevu-filozofski-10)
 - [Javni oglas za prijem radnika u radni odnos na Univerzitetu u Sarajevu – Mašinskom fakultetu](https://www.unsa.ba/index.php/konkursi/javni-oglas-za-prijem-radnika-u-radni-odnos-na-univerzitetu-u-sarajevu-masinskom-fakultetu)
-- [Ponovni javni oglas za prijem u radni odnos na radna mjesta | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/ponovni-javni-oglas-za-prijem-u-radni-odnos-na-radna-mjesta-univerzitet-u-sarajevu)
-- [Pitanja, lista propisa i literature | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet)
-- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/index.php/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15)
+- [Ponovni javni oglas za prijem u radni odnos na radna mjesta | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/ponovni-javni-oglas-za-prijem-u-radni-odnos-na-radna-mjesta-univerzitet-u-sarajevu)
+- [Pitanja, lista propisa i literature | Univerzitet u Sarajevu - Mašinski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-univerzitet-u-sarajevu-masinski-fakultet)
+- [Pitanja, lista propisa i literature iz oblasti iz kojih će kandidati polagati pismeni i usmeni ispit | Univerzitet u Sarajevu - Filozofski fakultet](https://www.unsa.ba/konkursi/pitanja-lista-propisa-i-literature-iz-oblasti-iz-kojih-ce-kandidati-polagati-pismeni-i-15)
 
 </details>
 
